@@ -1,0 +1,282 @@
+[
+  {
+    "term": "athletic trainer",
+    "aliases": ["ATC"],
+    "definitions": [
+      "A healthcare professional specializing in injury prevention and care.",
+      "A clinician responsible for on-field injury management.",
+      "A professional trained in injury evaluation and rehabilitation.",
+      "A provider who works with athletes to prevent and manage injuries.",
+      "A specialist in musculoskeletal injury care for active populations.",
+      "A licensed professional delivering emergency and rehabilitative care.",
+      "A healthcare role focused on athletic injury treatment.",
+      "A member of the sports medicine team overseeing athlete health."
+    ]
+  },
+  {
+    "term": "closed kinetic chain",
+    "aliases": ["CKC"],
+    "definitions": [
+      "A movement where the distal segment is fixed.",
+      "An exercise with the hand or foot planted.",
+      "A movement involving multiple joints simultaneously.",
+      "Exercises where force is transferred through the ground.",
+      "Movements emphasizing joint stability and coordination.",
+      "Tasks where the distal segment does not move freely.",
+      "Exercises like squats or push-ups.",
+      "Kinetic actions involving fixed distal contact."
+    ]
+  },
+  {
+    "term": "contraindication",
+    "aliases": [],
+    "definitions": [
+      "A reason to avoid a specific exercise or treatment.",
+      "A condition making an intervention unsafe.",
+      "A factor that prohibits certain training activities.",
+      "A medical or physical restriction.",
+      "A situation requiring exercise modification or removal.",
+      "A red flag against a specific intervention.",
+      "A reason to withhold exercise.",
+      "A safety-based exclusion criterion."
+    ]
+  },
+  {
+    "term": "contusion",
+    "aliases": ["bruise"],
+    "definitions": [
+      "An injury caused by direct blunt force.",
+      "Tissue damage with internal bleeding.",
+      "A bruise resulting from trauma.",
+      "Soft tissue injury without skin breakage.",
+      "Damage caused by impact.",
+      "Localized bleeding under the skin.",
+      "Muscle or tissue bruising.",
+      "A non-penetrating traumatic injury."
+    ]
+  },
+  {
+    "term": "daily adjustable progressive resistive exercise (DAPRE)",
+    "aliases": ["DAPRE"],
+    "definitions": [
+      "A resistance protocol adjusting load daily.",
+      "A progression system based on performance.",
+      "Training that auto-regulates intensity session to session.",
+      "A method modifying load based on repetitions achieved.",
+      "A strength program adapting to daily readiness.",
+      "A flexible progression model.",
+      "A performance-based resistance scheme.",
+      "An autoregulatory loading system."
+    ]
+  },
+  {
+    "term": "dislocation",
+    "aliases": [],
+    "definitions": [
+      "Complete loss of joint contact.",
+      "A joint injury involving full displacement.",
+      "Separation of articulating surfaces.",
+      "A severe joint injury.",
+      "Loss of normal joint alignment.",
+      "Joint displacement requiring medical care.",
+      "A traumatic joint separation.",
+      "Complete joint misalignment."
+    ]
+  },
+  {
+    "term": "edema",
+    "aliases": ["swelling"],
+    "definitions": [
+      "Fluid accumulation in tissues.",
+      "Swelling caused by injury or inflammation.",
+      "Excess interstitial fluid buildup.",
+      "A common response to trauma.",
+      "Tissue swelling following injury.",
+      "Inflammation-related fluid retention.",
+      "Localized swelling.",
+      "Fluid-based tissue expansion."
+    ]
+  },
+  {
+    "term": "exercise physiologist",
+    "aliases": [],
+    "definitions": [
+      "A specialist in exercise-related physiological responses.",
+      "A professional studying adaptations to training.",
+      "An expert in metabolic and cardiovascular exercise responses.",
+      "A practitioner applying exercise science principles.",
+      "A researcher or clinician in exercise physiology.",
+      "A professional analyzing training effects.",
+      "A specialist in performance physiology.",
+      "An applied exercise science professional."
+    ]
+  },
+  {
+    "term": "fibroblastic repair",
+    "aliases": ["repair phase"],
+    "definitions": [
+      "The healing phase involving collagen formation.",
+      "Tissue repair characterized by fibroblast activity.",
+      "The phase following inflammation.",
+      "Scar tissue formation stage.",
+      "A phase of structural tissue rebuilding.",
+      "Intermediate healing phase.",
+      "Collagen deposition period.",
+      "Repair-focused stage of healing."
+    ]
+  },
+  {
+    "term": "inflammation",
+    "aliases": ["inflammatory phase"],
+    "definitions": [
+      "The body’s initial response to injury.",
+      "A phase involving redness and swelling.",
+      "The acute healing response.",
+      "A protective response to tissue damage.",
+      "The first stage of tissue healing.",
+      "A response involving immune activation.",
+      "The acute injury phase.",
+      "Early-stage healing reaction."
+    ]
+  },
+  {
+    "term": "macrotrauma",
+    "aliases": [],
+    "definitions": [
+      "Injury caused by a single traumatic event.",
+      "Acute trauma resulting in tissue damage.",
+      "One-time high-force injury.",
+      "Sudden mechanical injury.",
+      "A single-incident trauma.",
+      "Acute structural damage.",
+      "Immediate injury from impact.",
+      "Non-repetitive traumatic injury."
+    ]
+  },
+  {
+    "term": "microtrauma",
+    "aliases": ["overuse injury"],
+    "definitions": [
+      "Repeated low-level tissue damage.",
+      "Cumulative injury from overuse.",
+      "Small injuries that build over time.",
+      "Chronic tissue stress damage.",
+      "Repetitive strain injury mechanism.",
+      "Gradual breakdown of tissue.",
+      "Accumulated minor trauma.",
+      "Overuse-related damage."
+    ]
+  },
+  {
+    "term": "neuromuscular control",
+    "aliases": [],
+    "definitions": [
+      "The coordination of muscle activation.",
+      "The ability to stabilize joints through muscle action.",
+      "Control of movement via neural input.",
+      "Integrated nervous and muscular function.",
+      "Joint stabilization through coordinated activation.",
+      "Motor control during movement.",
+      "Dynamic joint stability.",
+      "Control of posture and motion."
+    ]
+  },
+  {
+    "term": "open kinetic chain",
+    "aliases": ["OKC"],
+    "definitions": [
+      "A movement where the distal segment is free.",
+      "Exercises allowing limb movement in space.",
+      "Single-joint dominant movements.",
+      "Exercises emphasizing isolated muscle action.",
+      "Movements not fixed to the ground.",
+      "Distal segment moves freely.",
+      "Examples include leg extensions.",
+      "Non-grounded movement patterns."
+    ]
+  },
+  {
+    "term": "proprioception",
+    "aliases": ["joint position sense"],
+    "definitions": [
+      "The ability to sense joint position.",
+      "Awareness of body movement in space.",
+      "Internal feedback from mechanoreceptors.",
+      "Sensory input guiding movement.",
+      "Joint and limb position awareness.",
+      "Neuromuscular feedback for coordination.",
+      "Movement perception without vision.",
+      "Kinesthetic awareness."
+    ]
+  },
+  {
+    "term": "sprain",
+    "aliases": [],
+    "definitions": [
+      "Ligament injury.",
+      "Damage to connective tissue stabilizing joints.",
+      "Stretching or tearing of a ligament.",
+      "Joint ligament trauma.",
+      "Non-muscular soft tissue injury.",
+      "Ligamentous injury.",
+      "Joint stabilization tissue damage.",
+      "Ligament strain injury."
+    ]
+  },
+  {
+    "term": "strain",
+    "aliases": [],
+    "definitions": [
+      "Muscle or tendon injury.",
+      "Damage to contractile tissue.",
+      "Stretching or tearing of muscle fibers.",
+      "Soft tissue injury affecting muscle.",
+      "Tendon or muscle trauma.",
+      "Contractile tissue damage.",
+      "Muscle fiber disruption.",
+      "Musculotendinous injury."
+    ]
+  },
+  {
+    "term": "strength and conditioning professional",
+    "aliases": ["strength coach", "S&C coach"],
+    "definitions": [
+      "A specialist designing performance training programs.",
+      "A professional improving athletic performance.",
+      "A coach focused on strength, power, and conditioning.",
+      "A practitioner reducing injury risk through training.",
+      "A performance development specialist.",
+      "An applied training professional.",
+      "A coach managing physical preparation.",
+      "A performance enhancement specialist."
+    ]
+  },
+  {
+    "term": "subluxation",
+    "aliases": ["partial dislocation"],
+    "definitions": [
+      "A partial joint displacement.",
+      "Incomplete loss of joint contact.",
+      "Joint misalignment without full dislocation.",
+      "A mild joint displacement injury.",
+      "Partial separation of joint surfaces.",
+      "Subclinical joint displacement.",
+      "Incomplete dislocation.",
+      "Joint instability episode."
+    ]
+  },
+  {
+    "term": "tendinitis",
+    "aliases": ["tendonitis"],
+    "definitions": [
+      "Inflammation of a tendon.",
+      "Tendon overuse injury.",
+      "Painful tendon condition.",
+      "Repetitive stress tendon injury.",
+      "Inflammatory tendon disorder.",
+      "Tendon irritation from overuse.",
+      "Soft tissue inflammatory condition.",
+      "Tendon inflammation pathology."
+    ]
+  }
+]

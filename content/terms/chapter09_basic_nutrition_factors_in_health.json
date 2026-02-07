@@ -1,0 +1,226 @@
+[
+  {
+    "term": "Acceptable Macronutrient Distribution Range (AMDR)",
+    "aliases": ["AMDR"],
+    "definitions": [
+      "Recommended percentage ranges of total calories that should come from carbohydrate, fat, and protein.",
+      "Guidelines defining healthy macronutrient intake ranges as a percentage of total energy intake.",
+      "Ranges used to plan diets that reduce chronic disease risk while meeting nutrient needs.",
+      "Macronutrient percentage targets used for population-level diet planning.",
+      "A dietary framework specifying acceptable intake proportions of carbs, fat, and protein.",
+      "Percent-based macronutrient recommendations rather than gram-based targets.",
+      "Dietary reference ranges used to balance energy intake across macronutrients.",
+      "Nutrition guidelines defining safe and effective macronutrient calorie distributions."
+    ]
+  },
+  {
+    "term": "Adequate Intake (AI)",
+    "aliases": ["AI"],
+    "definitions": [
+      "A recommended intake level used when an RDA cannot be determined.",
+      "An intake estimate based on observed or experimentally determined approximations.",
+      "A nutrient guideline used in the absence of sufficient evidence for an RDA.",
+      "A reference intake assumed to ensure nutritional adequacy.",
+      "A recommended level derived from population intake data rather than requirement data.",
+      "A fallback intake standard when scientific evidence is incomplete.",
+      "A nutrient intake value intended to cover needs of most healthy individuals.",
+      "A dietary benchmark used when EAR/RDA calculations are not possible."
+    ]
+  },
+  {
+    "term": "amino acids",
+    "aliases": [],
+    "definitions": [
+      "The building blocks of proteins.",
+      "Organic compounds that combine to form proteins in the body.",
+      "Nitrogen-containing molecules required for tissue growth and repair.",
+      "Compounds linked by peptide bonds to form polypeptides and proteins.",
+      "Essential and nonessential units required for protein synthesis.",
+      "Substrates for muscle protein synthesis and enzyme production.",
+      "Molecules that serve structural, metabolic, and signaling roles.",
+      "Protein subunits obtained from dietary protein digestion."
+    ]
+  },
+  {
+    "term": "anemia",
+    "aliases": [],
+    "definitions": [
+      "A condition in which oxygen-carrying capacity of the blood is reduced.",
+      "A state often caused by low hemoglobin or iron deficiency.",
+      "A disorder characterized by decreased red blood cell function.",
+      "A condition that impairs oxygen delivery to working tissues.",
+      "A common nutrition-related disorder affecting endurance performance.",
+      "A reduction in blood oxygen transport capacity.",
+      "A hematological condition frequently linked to iron deficiency.",
+      "A disorder resulting in fatigue and reduced exercise tolerance."
+    ]
+  },
+  {
+    "term": "bioavailability",
+    "aliases": [],
+    "definitions": [
+      "The proportion of a nutrient that is absorbed and available for use.",
+      "The fraction of ingested nutrient that enters circulation and tissues.",
+      "A measure of how efficiently a nutrient is utilized by the body.",
+      "The extent to which a nutrient can be absorbed and metabolized.",
+      "A factor influenced by digestion, absorption, and food matrix.",
+      "The usable portion of a consumed nutrient.",
+      "The effectiveness of nutrient absorption from a food source.",
+      "A determinant of how much ingested nutrient becomes biologically active."
+    ]
+  },
+  {
+    "term": "carbohydrate",
+    "aliases": ["carbs"],
+    "definitions": [
+      "A macronutrient that provides energy and supports glycogen storage.",
+      "Sugars, starches, and fiber that supply glucose to the body.",
+      "The primary fuel source for moderate- to high-intensity exercise.",
+      "A macronutrient composed of carbon, hydrogen, and oxygen.",
+      "Dietary compounds that raise blood glucose and replenish glycogen.",
+      "An energy-yielding nutrient critical for athletic performance.",
+      "A fuel source stored as glycogen in muscle and liver.",
+      "Macronutrients broken down into monosaccharides for energy."
+    ]
+  },
+  {
+    "term": "cholesterol",
+    "aliases": [],
+    "definitions": [
+      "A lipid used for cell membrane structure and hormone synthesis.",
+      "A sterol transported in blood via lipoproteins.",
+      "A precursor molecule for steroid hormones and bile acids.",
+      "A structural component of cell membranes.",
+      "A lipid synthesized by the liver and obtained from the diet.",
+      "A compound essential for hormone and vitamin D production.",
+      "A fat-like substance carried by LDL and HDL.",
+      "A molecule necessary for normal physiological function despite health stigma."
+    ]
+  },
+  {
+    "term": "dehydration",
+    "aliases": [],
+    "definitions": [
+      "Excessive body water loss that impairs physiological function.",
+      "A state of fluid deficit that reduces performance capacity.",
+      "Loss of body water beyond normal homeostatic range.",
+      "A condition resulting from insufficient fluid intake or excess loss.",
+      "A hydration deficit affecting thermoregulation and cardiovascular strain.",
+      "Body water loss that negatively affects health and performance.",
+      "A state associated with increased heart rate and reduced endurance.",
+      "Insufficient total body water to maintain optimal function."
+    ]
+  },
+  {
+    "term": "Dietary Reference Intakes (DRIs)",
+    "aliases": ["DRIs"],
+    "definitions": [
+      "A set of reference values for planning and assessing nutrient intakes.",
+      "Nutrition standards including RDA, AI, UL, and EAR.",
+      "A comprehensive framework for evaluating dietary adequacy.",
+      "Population-based nutrient intake recommendations.",
+      "Guidelines used to assess and plan diets for healthy individuals.",
+      "Reference intake values developed by nutrition authorities.",
+      "A system of nutrient benchmarks for health maintenance.",
+      "Dietary standards used in nutrition policy and practice."
+    ]
+  },
+  {
+    "term": "fiber",
+    "aliases": ["dietary fiber"],
+    "definitions": [
+      "Non-digestible carbohydrate that supports digestive health.",
+      "Carbohydrate that resists digestion in the small intestine.",
+      "A nutrient that aids bowel function and glycemic control.",
+      "Plant-based carbohydrate that contributes to satiety.",
+      "A dietary component associated with cholesterol regulation.",
+      "Non-absorbed carbohydrate beneficial for gut health.",
+      "A carbohydrate that supports microbiome function.",
+      "A non-digestible carb linked to reduced chronic disease risk."
+    ]
+  },
+  {
+    "term": "glycogen",
+    "aliases": [],
+    "definitions": [
+      "The storage form of glucose in muscle and liver.",
+      "A polysaccharide used as a readily available energy reserve.",
+      "Stored carbohydrate that fuels moderate-to-high intensity exercise.",
+      "Glucose chains stored for rapid ATP production.",
+      "The primary carbohydrate reserve in humans.",
+      "A key determinant of endurance and performance capacity.",
+      "Stored glucose that can be rapidly mobilized.",
+      "A critical fuel source depleted during prolonged exercise."
+    ]
+  },
+  {
+    "term": "glycemic index (GI)",
+    "aliases": ["GI"],
+    "definitions": [
+      "A ranking of how quickly foods raise blood glucose.",
+      "A comparison of carbohydrate foods based on glucose response.",
+      "A scale describing blood sugar response to carbohydrates.",
+      "A measure of carbohydrate quality, not quantity.",
+      "An index comparing post-meal glucose rise to a reference food.",
+      "A classification system for carbohydrate digestion speed.",
+      "A tool for understanding blood glucose impact of foods.",
+      "A ranking of carbohydrate foods by glycemic response."
+    ]
+  },
+  {
+    "term": "protein",
+    "aliases": [],
+    "definitions": [
+      "A macronutrient made of amino acids.",
+      "A nutrient essential for tissue repair and enzyme production.",
+      "A dietary component critical for muscle protein synthesis.",
+      "Nitrogen-containing compounds forming body structures.",
+      "A macronutrient supporting immune and hormonal function.",
+      "A structural and functional nutrient in the body.",
+      "Dietary amino acid source required for growth and repair.",
+      "A macronutrient composed of polypeptide chains."
+    ]
+  },
+  {
+    "term": "Recommended Dietary Allowances (RDA)",
+    "aliases": ["RDA"],
+    "definitions": [
+      "Daily intake level meeting needs of nearly all healthy individuals.",
+      "A nutrient intake standard covering 97–98% of the population.",
+      "The most commonly used DRI value for adequacy.",
+      "A population-based intake recommendation for health.",
+      "A nutrient benchmark designed to prevent deficiency.",
+      "An intake level derived from EAR plus safety margin.",
+      "The daily amount sufficient for most healthy people.",
+      "A recommended intake value for individual planning."
+    ]
+  },
+  {
+    "term": "triglycerides",
+    "aliases": [],
+    "definitions": [
+      "The main form of fat stored in the body.",
+      "A lipid composed of glycerol and three fatty acids.",
+      "The primary storage form of dietary and body fat.",
+      "A major energy reserve in adipose tissue.",
+      "Fats transported in blood via lipoproteins.",
+      "The predominant lipid found in food fats.",
+      "Energy-dense molecules used for long-term storage.",
+      "Lipids serving as fuel and insulation."
+    ]
+  },
+  {
+    "term": "vitamins",
+    "aliases": [],
+    "definitions": [
+      "Organic micronutrients required in small amounts.",
+      "Compounds essential for metabolic regulation.",
+      "Nutrients that do not provide energy but enable energy metabolism.",
+      "Organic substances needed for normal physiological function.",
+      "Dietary compounds supporting enzyme and hormone activity.",
+      "Micronutrients essential for health and disease prevention.",
+      "Organic nutrients required in trace amounts.",
+      "Non-caloric nutrients vital for metabolic processes."
+    ]
+  }
+]

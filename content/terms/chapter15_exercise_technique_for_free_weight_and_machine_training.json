@@ -1,0 +1,240 @@
+[
+  {
+    "term": "alternated grip",
+    "aliases": ["mixed grip"],
+    "definitions": [
+      "A grip in which one hand is pronated and the other is supinated.",
+      "A deadlift grip used to reduce bar roll.",
+      "Grip configuration combining overhand and underhand positions.",
+      "A lifting grip increasing friction on the barbell.",
+      "Grip often used for maximal deadlifts.",
+      "A grip that can increase rotational forces on the spine.",
+      "One palm down, one palm up grip.",
+      "Asymmetrical grip for heavy pulling."
+    ]
+  },
+  {
+    "term": "clean grip",
+    "aliases": [],
+    "definitions": [
+      "A pronated grip slightly wider than shoulder width used in the clean.",
+      "Barbell grip optimized for racking the bar on the shoulders.",
+      "Closed grip used in Olympic weightlifting pulls.",
+      "Grip allowing fast elbow turnover in the clean.",
+      "Pronated grip narrower than snatch grip.",
+      "Grip facilitating vertical bar path in cleans.",
+      "Standard clean hand placement.",
+      "Olympic lifting pulling grip."
+    ]
+  },
+  {
+    "term": "closed grip",
+    "aliases": ["full grip"],
+    "definitions": [
+      "A grip where the thumb wraps around the bar.",
+      "Grip providing maximum bar security.",
+      "Standard grip recommended for safety.",
+      "Grip minimizing risk of bar slippage.",
+      "Thumb-wrapped barbell grip.",
+      "Grip used in most resistance exercises.",
+      "Closed-hand grip.",
+      "Secure bar hold."
+    ]
+  },
+  {
+    "term": "false grip",
+    "aliases": ["open grip", "suicide grip"],
+    "definitions": [
+      "A grip in which the thumb does not wrap around the bar.",
+      "Grip that increases risk of bar slippage.",
+      "Barbell grip lacking thumb enclosure.",
+      "Unsafe grip often discouraged in bench press.",
+      "Grip reducing grip security.",
+      "Open-hand bar position.",
+      "Grip associated with higher injury risk.",
+      "Thumb-less grip."
+    ]
+  },
+  {
+    "term": "five-point body contact position",
+    "aliases": [],
+    "definitions": [
+      "Bench press position requiring head, shoulders, buttocks, and feet contact.",
+      "Standardized body position for bench press execution.",
+      "Position ensuring stability and rule compliance.",
+      "Five contact points maintained during bench press.",
+      "Setup enhancing force transfer in bench press.",
+      "Competition-legal bench press posture.",
+      "Stable bench press positioning.",
+      "Five-point contact setup."
+    ]
+  },
+  {
+    "term": "forced repetitions",
+    "aliases": ["forced reps"],
+    "definitions": [
+      "Repetitions completed with spotter assistance past failure.",
+      "Technique extending a set beyond voluntary fatigue.",
+      "Assisted reps after concentric failure.",
+      "Advanced intensity technique.",
+      "Training method increasing metabolic stress.",
+      "Reps aided by external assistance.",
+      "Spotter-assisted continuation reps.",
+      "High-fatigue training method."
+    ]
+  },
+  {
+    "term": "free weight exercises",
+    "aliases": [],
+    "definitions": [
+      "Exercises using barbells or dumbbells.",
+      "Resistance exercises requiring stabilization in space.",
+      "Non-machine resistance training.",
+      "Exercises demanding balance and coordination.",
+      "Movements with unconstrained load paths.",
+      "Lifts requiring postural control.",
+      "Open-chain resistance exercises.",
+      "Externally stabilized lifting movements."
+    ]
+  },
+  {
+    "term": "grip width",
+    "aliases": [],
+    "definitions": [
+      "The distance between hands on an implement.",
+      "Hand spacing on a barbell.",
+      "Grip placement influencing muscle involvement.",
+      "Variable affecting ROM and force output.",
+      "Hand separation during lifting.",
+      "Barbell hand spacing.",
+      "Grip distance selection.",
+      "Hand-width configuration."
+    ]
+  },
+  {
+    "term": "hook grip",
+    "aliases": [],
+    "definitions": [
+      "A grip where the thumb is trapped under the fingers.",
+      "Olympic lifting grip enhancing bar security.",
+      "Grip preventing bar roll during heavy pulls.",
+      "Closed grip variation using thumb lock.",
+      "Grip used in snatch and clean.",
+      "High-friction lifting grip.",
+      "Thumb-locked grip.",
+      "Weightlifting competition grip."
+    ]
+  },
+  {
+    "term": "liftoff",
+    "aliases": [],
+    "definitions": [
+      "Assistance removing a bar from the rack.",
+      "Spotter aid prior to starting a lift.",
+      "Initial unracking assistance.",
+      "Barbell handoff before exercise.",
+      "Setup assistance for bench press.",
+      "Rack-to-start transition aid.",
+      "Pre-lift assistance.",
+      "Unrack support."
+    ]
+  },
+  {
+    "term": "neutral grip",
+    "aliases": [],
+    "definitions": [
+      "A grip with palms facing each other.",
+      "Hand position minimizing shoulder rotation.",
+      "Grip often used with dumbbells.",
+      "Joint-friendly grip orientation.",
+      "Palms-in grip.",
+      "Grip reducing joint stress.",
+      "Parallel hand position.",
+      "Neutral wrist alignment grip."
+    ]
+  },
+  {
+    "term": "neutral spine",
+    "aliases": [],
+    "definitions": [
+      "Natural spinal alignment preserving normal curves.",
+      "Spinal position minimizing injury risk.",
+      "Posture maintaining cervical, thoracic, and lumbar curves.",
+      "Optimal spinal alignment during lifting.",
+      "Non-flexed, non-extended spine.",
+      "Braced spinal posture.",
+      "Safe lifting spine position.",
+      "Anatomical spine alignment."
+    ]
+  },
+  {
+    "term": "overhand grip",
+    "aliases": ["pronated grip"],
+    "definitions": [
+      "Grip with palms facing downward.",
+      "Standard pulling grip orientation.",
+      "Double-pronated grip.",
+      "Grip reducing biceps involvement.",
+      "Palms-down grip.",
+      "Symmetrical pulling grip.",
+      "Grip limiting bar roll resistance.",
+      "Common deadlift grip variation."
+    ]
+  },
+  {
+    "term": "spotter",
+    "aliases": [],
+    "definitions": [
+      "A person assisting to ensure lifting safety.",
+      "Individual providing emergency or planned assistance.",
+      "Safety support during resistance training.",
+      "Partner monitoring lift execution.",
+      "Protective aid during heavy lifts.",
+      "Assisting observer during lifts.",
+      "Safety facilitator.",
+      "Training partner ensuring safety."
+    ]
+  },
+  {
+    "term": "sticking point",
+    "aliases": ["sticking region"],
+    "definitions": [
+      "The most difficult portion of a lift.",
+      "Range where bar velocity slows or stalls.",
+      "Mechanical disadvantage point.",
+      "Weakest ROM segment of a lift.",
+      "Phase limiting maximal load.",
+      "Momentary failure zone.",
+      "Velocity drop-off region.",
+      "Critical lift breakpoint."
+    ]
+  },
+  {
+    "term": "supinated grip",
+    "aliases": ["underhand grip"],
+    "definitions": [
+      "Grip with palms facing upward.",
+      "Hand position increasing biceps involvement.",
+      "Opposite of pronated grip.",
+      "Pulling grip with palm-up orientation.",
+      "Grip increasing elbow flexor contribution.",
+      "Underhand bar hold.",
+      "Supine hand orientation.",
+      "Palm-up grip."
+    ]
+  },
+  {
+    "term": "Valsalva maneuver",
+    "aliases": [],
+    "definitions": [
+      "Forceful exhalation against a closed glottis.",
+      "Breathing technique increasing intra-abdominal pressure.",
+      "Method enhancing trunk stability during heavy lifts.",
+      "Technique used to stiffen the torso.",
+      "Breath-holding maneuver for spinal support.",
+      "Pressure-building breathing strategy.",
+      "Core bracing breath technique.",
+      "Stability-enhancing respiratory maneuver."
+    ]
+  }
+]

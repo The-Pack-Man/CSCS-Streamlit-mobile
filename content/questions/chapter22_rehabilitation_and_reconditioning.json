@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ch23_q01",
+    "question": "All of the following individuals can provide medical supervision during a college soccer match EXCEPT the",
+    "choices": [
+      "athletic trainer",
+      "team physician",
+      "Certified Strength and Conditioning Specialist",
+      "Sports Certified Physical Therapist"
+    ],
+    "answer_index": 2,
+    "explanation": "A Certified Strength and Conditioning Specialist does not provide medical supervision during competition."
+  },
+  {
+    "id": "ch23_q02",
+    "question": "Which of the following is NOT typically the result of overuse?",
+    "choices": [
+      "stress fracture",
+      "grade III joint sprain",
+      "tendinitis",
+      "microtraumatic injury"
+    ],
+    "answer_index": 1,
+    "explanation": "Grade III sprains are severe acute injuries and are not typically caused by overuse."
+  },
+  {
+    "id": "ch23_q03",
+    "question": "Which of the following is NOT one of the phases of healing following an injury?",
+    "choices": [
+      "inflammatory response",
+      "reconditioning hypertrophy",
+      "maturation-remodeling",
+      "fibroblastic repair"
+    ],
+    "answer_index": 1,
+    "explanation": "Reconditioning hypertrophy is not a biological phase of tissue healing."
+  },
+  {
+    "id": "ch23_q04",
+    "question": "Which of the following types of activity is inappropriate during the inflammatory response phase of a medial collateral ligament sprain?",
+    "choices": [
+      "lower extremity plyometrics",
+      "submaximal isometric quadriceps strengthening",
+      "hip joint stretching",
+      "upper extremity ergometry"
+    ],
+    "answer_index": 0,
+    "explanation": "High-impact plyometrics are inappropriate during the inflammatory phase of ligament healing."
+  },
+  {
+    "id": "ch23_q05",
+    "question": "The rotator cuff muscles act as stabilizers to the shoulder joint. During the maturation-remodeling phase of rotator cuff (supraspinatus muscle) tendinitis rehabilitation of a basketball player, what exercise repetition range is MOST appropriate for improving the muscular endurance of the rotator cuff muscles?",
+    "choices": [
+      "3–5",
+      "5–8",
+      "8–12",
+      "12–20"
+    ],
+    "answer_index": 3,
+    "explanation": "Muscular endurance adaptations are best achieved using higher repetition ranges such as 12–20."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "term": "acceleration",
+    "aliases": [],
+    "definitions": [
+      "The rate at which velocity changes over time.",
+      "Change in speed and/or direction per unit time.",
+      "A vector quantity describing how quickly an object’s velocity increases or decreases.",
+      "In linear motion, how fast velocity (m/s) changes each second (m/s²)."
+    ]
+  },
+  {
+    "term": "agonist",
+    "aliases": ["prime mover"],
+    "definitions": [
+      "The muscle primarily responsible for producing a specific movement.",
+      "The main muscle generating force for a given joint action.",
+      "The prime mover that contributes the greatest torque for a movement.",
+      "The muscle whose contraction is the primary driver of the desired motion."
+    ]
+  },
+  {
+    "term": "anatomical position",
+    "aliases": [],
+    "definitions": [
+      "Standard reference posture: standing upright, facing forward, arms at sides, palms forward.",
+      "Baseline body orientation used to describe locations and movements consistently.",
+      "Reference position for anatomical terms (anterior/posterior, medial/lateral, etc.).",
+      "Body standing erect with feet forward and forearms supinated (palms forward)."
+    ]
+  },
+  {
+    "term": "angle of pennation",
+    "aliases": ["pennation angle"],
+    "definitions": [
+      "The angle formed between muscle fibers and the tendon/aponeurosis they attach to.",
+      "Fiber orientation angle relative to the line of pull of the tendon.",
+      "A muscle architecture feature influencing force and shortening velocity characteristics.",
+      "The oblique fiber-to-tendon angle common in pennate muscles."
+    ]
+  },
+  {
+    "term": "angular displacement",
+    "aliases": [],
+    "definitions": [
+      "The change in angular position of a joint or body segment.",
+      "How far something rotates, measured in degrees or radians.",
+      "Difference between initial and final angular position about an axis.",
+      "Rotational equivalent of linear displacement."
+    ]
+  },
+  {
+    "term": "angular velocity",
+    "aliases": [],
+    "definitions": [
+      "The rate of change of angular displacement over time.",
+      "How fast an object rotates about an axis (deg/s or rad/s).",
+      "Rotational speed: change in joint angle per unit time.",
+      "Derivative of angular position with respect to time."
+    ]
+  },
+  {
+    "term": "antagonist",
+    "aliases": [],
+    "definitions": [
+      "A muscle that opposes the action of the agonist.",
+      "A muscle that produces torque opposite the desired joint action.",
+      "The muscle group that lengthens or eccentrically controls a movement.",
+      "A muscle that can slow, stop, or reverse the agonist-driven motion."
+    ]
+  },
+  {
+    "term": "biomechanics",
+    "aliases": [],
+    "definitions": [
+      "The study of biological systems using principles of mechanics.",
+      "Application of physics to human movement and living structures.",
+      "Analysis of forces and motions acting on the body during movement.",
+      "Mechanical study of how tissues and joints respond to loads."
+    ]
+  },
+  {
+    "term": "bracketing technique",
+    "aliases": ["bracketing"],
+    "definitions": [
+      "Training a movement with slightly heavier and slightly lighter loads than the target load.",
+      "A method using overspeed/underspeed (or heavier/lighter) exposures to sharpen force–velocity qualities.",
+      "Practice with load variations around the competition implement/load to improve coordination and power.",
+      "A training approach that “brackets” the target stimulus to enhance performance at the target load."
+    ]
+  },
+  {
+    "term": "cartilaginous joint",
+    "aliases": ["cartilaginous joints"],
+    "definitions": [
+      "A joint in which bones are united by cartilage and allow limited movement.",
+      "Joint type connected by cartilage (e.g., discs or symphysis) rather than a synovial cavity.",
+      "A joint designed for stability with small degrees of motion and shock absorption.",
+      "Connection between bones via cartilage, permitting slight movement."
+    ]
+  },
+  {
+    "term": "classic formula",
+    "aliases": ["two-thirds power formula"],
+    "definitions": [
+      "Weightlifting comparison method: load lifted divided by body weight^(2/3).",
+      "A scaling approach to compare lifters of different sizes using body mass to the two-thirds power.",
+      "Normalization method intended to account for size-related strength differences.",
+      "Performance metric using lifted load relative to body weight raised to 0.67."
+    ]
+  },
+  {
+    "term": "concentric muscle action",
+    "aliases": ["concentric contraction"],
+    "definitions": [
+      "A muscle action where the muscle shortens while producing force.",
+      "Force production with a decrease in muscle length.",
+      "Positive work phase when the internal torque exceeds the external load.",
+      "The shortening phase of a movement (e.g., lifting phase of a curl)."
+    ]
+  },
+  {
+    "term": "distal",
+    "aliases": [],
+    "definitions": [
+      "Farther from the trunk or point of attachment.",
+      "Directional term meaning away from the body’s center along a limb.",
+      "Opposite of proximal.",
+      "Example: the wrist is distal to the elbow."
+    ]
+  },
+  {
+    "term": "dorsal",
+    "aliases": [],
+    "definitions": [
+      "Referring to the back side of the body or structure.",
+      "Posterior aspect; toward the back.",
+      "Opposite of ventral in many anatomical contexts.",
+      "Back-facing orientation (e.g., dorsal surface)."
+    ]
+  },
+  {
+    "term": "eccentric muscle action",
+    "aliases": ["eccentric contraction"],
+    "definitions": [
+      "A muscle action where the muscle lengthens while producing force.",
+      "Force production while the external load exceeds the muscle’s torque.",
+      "Negative work phase commonly used for braking or deceleration.",
+      "The controlled lowering phase of a lift (e.g., descent of a squat)."
+    ]
+  },
+  {
+    "term": "fibrous attachments",
+    "aliases": [],
+    "definitions": [
+      "Muscle attachments where collagen fibers extend into bone periosteum.",
+      "Indirect muscle attachment through connective tissue blending into periosteum.",
+      "Attachment type where tendon-like fibers anchor muscle to bone surface.",
+      "Connective-tissue-based attachment rather than direct fiber-to-bone insertion."
+    ]
+  },
+  {
+    "term": "first-class lever",
+    "aliases": ["class 1 lever"],
+    "definitions": [
+      "Lever arrangement with the fulcrum between effort and resistance.",
+      "Lever where force and load act on opposite sides of the axis.",
+      "Can favor force or speed depending on moment arms (e.g., seesaw).",
+      "Fulcrum-centered lever system (e.g., triceps at the elbow, classic example)."
+    ]
+  },
+  {
+    "term": "fleshy attachments",
+    "aliases": ["direct attachments"],
+    "definitions": [
+      "Muscle attachments where muscle fibers attach directly to bone.",
+      "Direct fiber-to-bone attachment without an intervening tendon.",
+      "Attachment type emphasizing close continuity of muscle tissue to the skeletal surface.",
+      "Muscle fiber insertion directly onto periosteum or bone."
+    ]
+  },
+  {
+    "term": "fluid resistance",
+    "aliases": ["drag"],
+    "definitions": [
+      "Resistance encountered by an object moving through a fluid (air or water).",
+      "Opposing force from air or water that increases with velocity.",
+      "A resistive force that depends on fluid density, speed, and surface/shape.",
+      "Drag forces acting on moving bodies in air or aquatic environments."
+    ]
+  },
+  {
+    "term": "form drag",
+    "aliases": ["pressure drag"],
+    "definitions": [
+      "Fluid resistance caused by an object’s shape moving through a fluid.",
+      "Drag due to pressure differences created by flow separation around the body.",
+      "Shape-dependent component of drag that increases with frontal area and turbulence.",
+      "Resistance due to the form/profile of the object in a fluid stream."
+    ]
+  },
+  {
+    "term": "friction",
+    "aliases": [],
+    "definitions": [
+      "A force that opposes motion between surfaces in contact.",
+      "Resistance created when two surfaces slide or attempt to slide.",
+      "Force acting parallel to contact surfaces that resists relative motion.",
+      "A resistive force whose magnitude relates to normal force and surface characteristics."
+    ]
+  },
+  {
+    "term": "frontal plane",
+    "aliases": ["coronal plane"],
+    "definitions": [
+      "Plane dividing the body into anterior (front) and posterior (back) portions.",
+      "Side-to-side movement plane (abduction/adduction occur here).",
+      "Anatomical plane separating front from back.",
+      "Plane perpendicular to sagittal plane and parallel to the face."
+    ]
+  },
+  {
+    "term": "fulcrum",
+    "aliases": ["axis of rotation", "pivot point"],
+    "definitions": [
+      "The pivot point about which a lever rotates.",
+      "Axis around which rotation occurs in a lever system.",
+      "Point in a lever where movement occurs and moment arms are measured from.",
+      "Rotation point that separates effort and resistance in a lever."
+    ]
+  },
+  {
+    "term": "inertial force",
+    "aliases": ["inertia (contextual)"],
+    "definitions": [
+      "The resistance of an object to changes in its state of motion.",
+      "Tendency of a mass to keep doing what it’s doing unless acted on by a net force.",
+      "Resistance to acceleration or deceleration due to mass.",
+      "Opposition to changes in velocity (speed or direction)."
+    ]
+  },
+  {
+    "term": "insertion",
+    "aliases": [],
+    "definitions": [
+      "The distal attachment of a muscle, typically the more movable attachment.",
+      "Muscle attachment site that usually moves toward the origin during contraction.",
+      "Distal anchor point of a muscle on bone or connective tissue.",
+      "The attachment that generally experiences greater movement during joint action."
+    ]
+  },
+  {
+    "term": "isometric muscle action",
+    "aliases": ["isometric contraction"],
+    "definitions": [
+      "A muscle action that produces force without changing muscle length.",
+      "Force generation at a constant joint angle with no visible movement.",
+      "Static contraction where internal torque equals external torque.",
+      "Muscle action that creates tension without shortening or lengthening."
+    ]
+  },
+  {
+    "term": "kyphotic",
+    "aliases": ["kyphosis (posture)"],
+    "definitions": [
+      "Characterized by excessive posterior curvature of the thoracic spine.",
+      "Posture featuring an exaggerated upper-back rounding.",
+      "Increased thoracic flexion curvature beyond typical alignment.",
+      "Thoracic spine curvature pattern associated with a rounded-back posture."
+    ]
+  },
+  {
+    "term": "lever",
+    "aliases": [],
+    "definitions": [
+      "A rigid bar that rotates about an axis (fulcrum).",
+      "Mechanical system that trades force and distance around a pivot.",
+      "Simple machine with effort and resistance applied at different distances from an axis.",
+      "Structure that transmits and transforms forces via moment arms."
+    ]
+  },
+  {
+    "term": "lordotic",
+    "aliases": ["lordosis (posture)"],
+    "definitions": [
+      "Characterized by excessive anterior curvature of the lumbar spine.",
+      "Posture featuring an exaggerated low-back arch.",
+      "Increased lumbar extension curvature beyond typical alignment.",
+      "Lumbar spine curvature pattern associated with anterior pelvic tilt (often)."
+    ]
+  },
+  {
+    "term": "mechanical advantage",
+    "aliases": ["MA"],
+    "definitions": [
+      "Ratio of the muscle moment arm to the resistance moment arm.",
+      "Lever efficiency measure: how favorable the lever is for producing torque.",
+      "A ratio indicating whether a system favors force or speed/range.",
+      "Mechanical leverage determined by relative moment arm lengths."
+    ]
+  },
+  {
+    "term": "moment arm",
+    "aliases": ["lever arm"],
+    "definitions": [
+      "Perpendicular distance from a force’s line of action to the axis of rotation.",
+      "Distance that determines the torque produced by a force about a joint.",
+      "Shortest distance from the axis to the force vector line.",
+      "Key geometric factor linking force magnitude to rotational effect."
+    ]
+  },
+  {
+    "term": "muscle force",
+    "aliases": [],
+    "definitions": [
+      "Force generated by a muscle during activation/contraction.",
+      "The tension produced by muscle fibers that can create joint torque.",
+      "Contractile output that depends on activation, length, and contraction velocity.",
+      "Internal force that can be transmitted to bones via tendons."
+    ]
+  },
+  {
+    "term": "origin",
+    "aliases": [],
+    "definitions": [
+      "The proximal attachment of a muscle, typically the less movable attachment.",
+      "Muscle attachment point that usually remains more fixed during contraction.",
+      "Proximal anchor site on bone or connective tissue.",
+      "Attachment opposite the insertion (often closer to the trunk)."
+    ]
+  },
+  {
+    "term": "pennate muscle",
+    "aliases": ["penniform muscle"],
+    "definitions": [
+      "A muscle whose fibers run obliquely to its tendon.",
+      "Muscle architecture featuring angled fibers relative to the line of pull.",
+      "Fiber arrangement that often increases physiological cross-sectional area.",
+      "Muscle type where fibers attach to a tendon like a feather pattern."
+    ]
+  },
+  {
+    "term": "power",
+    "aliases": [],
+    "definitions": [
+      "The rate of doing work.",
+      "Mechanical output per unit time.",
+      "Commonly expressed as force multiplied by velocity in linear motion.",
+      "How quickly force can be applied to move or accelerate a load."
+    ]
+  },
+  {
+    "term": "proximal",
+    "aliases": [],
+    "definitions": [
+      "Closer to the trunk or point of attachment.",
+      "Directional term meaning nearer the body’s center along a limb.",
+      "Opposite of distal.",
+      "Example: the shoulder is proximal to the elbow."
+    ]
+  },
+  {
+    "term": "rate coding",
+    "aliases": ["rate of firing", "motor unit firing rate"],
+    "definitions": [
+      "Increasing motor unit firing frequency to increase muscle force.",
+      "Neural strategy to raise force by sending faster action potentials to active units.",
+      "Force enhancement via higher discharge rate of recruited motor neurons.",
+      "Mechanism that increases summation and tension in muscle fibers."
+    ]
+  },
+  {
+    "term": "recruitment",
+    "aliases": ["motor unit recruitment"],
+    "definitions": [
+      "Activating additional motor units to increase muscle force.",
+      "Neural strategy to increase force by bringing more motor units online.",
+      "Progressive enlistment of motor units, typically from low-threshold to high-threshold.",
+      "Force scaling method based on how many motor units are active."
+    ]
+  },
+  {
+    "term": "resistive force",
+    "aliases": ["resistance"],
+    "definitions": [
+      "Any force that opposes motion.",
+      "Opposing force such as gravity, friction, or fluid resistance.",
+      "External or internal force that slows, stops, or redirects movement.",
+      "Force acting opposite the direction of motion or attempted motion."
+    ]
+  },
+  {
+    "term": "rotational power",
+    "aliases": ["angular power"],
+    "definitions": [
+      "The rate of performing rotational work.",
+      "How quickly torque can produce angular displacement.",
+      "Power in rotational motion; relates to torque and angular velocity.",
+      "Rotational analog of power, often expressed as torque × angular velocity."
+    ]
+  },
+  {
+    "term": "rotational work",
+    "aliases": ["angular work"],
+    "definitions": [
+      "The product of torque and angular displacement.",
+      "Work done when a torque causes rotation through an angle.",
+      "Rotational analog of linear work (force × displacement).",
+      "Energy transferred when torque produces angular movement."
+    ]
+  },
+  {
+    "term": "sagittal plane",
+    "aliases": [],
+    "definitions": [
+      "Plane dividing the body into left and right portions.",
+      "Forward-backward movement plane (flexion/extension occur here).",
+      "Anatomical plane separating left from right.",
+      "Plane that runs front-to-back through the body."
+    ]
+  },
+  {
+    "term": "second-class lever",
+    "aliases": ["class 2 lever"],
+    "definitions": [
+      "Lever arrangement with the resistance between the fulcrum and the effort.",
+      "Typically provides a mechanical advantage favoring force.",
+      "Load is closer to the axis than the effort, increasing output force.",
+      "Lever type exemplified by a calf raise/toe raise (classic example)."
+    ]
+  },
+  {
+    "term": "strength",
+    "aliases": [],
+    "definitions": [
+      "The maximal force a muscle or muscle group can generate.",
+      "Capacity to produce high force against resistance.",
+      "Maximum voluntary force output under given conditions.",
+      "Ability to generate force regardless of movement speed (general)."
+    ]
+  },
+  {
+    "term": "surface drag",
+    "aliases": ["skin friction drag"],
+    "definitions": [
+      "Fluid resistance due to friction between the fluid and an object’s surface.",
+      "Drag component caused by shear forces along the surface of a moving body.",
+      "Resistance influenced by surface area, texture, and fluid viscosity.",
+      "Frictional drag from fluid flowing across an object’s exterior."
+    ]
+  },
+  {
+    "term": "synergist",
+    "aliases": [],
+    "definitions": [
+      "A muscle that assists the agonist in performing a movement.",
+      "Helper muscle that adds force or reduces unwanted motion during an action.",
+      "Muscle that stabilizes or guides a joint while the prime mover acts.",
+      "Assistant muscle contributing to the desired movement pattern."
+    ]
+  },
+  {
+    "term": "tendons",
+    "aliases": ["tendon"],
+    "definitions": [
+      "Dense connective tissue that attaches muscle to bone.",
+      "Collagen-rich structure that transmits muscle force to the skeleton.",
+      "Connective tissue that stores and releases elastic energy in movement.",
+      "Force-transfer tissue linking contractile muscle to bony lever systems."
+    ]
+  },
+  {
+    "term": "third-class lever",
+    "aliases": ["class 3 lever"],
+    "definitions": [
+      "Lever arrangement with the effort between the fulcrum and the resistance.",
+      "Most common lever type in the human body.",
+      "Typically favors speed and range of motion over force output.",
+      "Lever where the muscle applies force closer to the axis than the load."
+    ]
+  },
+  {
+    "term": "torque",
+    "aliases": ["moment of force"],
+    "definitions": [
+      "Rotational effect of a force equal to force multiplied by its moment arm.",
+      "Tendency of a force to rotate an object about an axis.",
+      "Joint rotation influence determined by force magnitude and perpendicular distance to the axis.",
+      "Rotational analog of force, often expressed in N·m."
+    ]
+  },
+  {
+    "term": "transverse plane",
+    "aliases": ["horizontal plane"],
+    "definitions": [
+      "Plane dividing the body into superior (upper) and inferior (lower) portions.",
+      "Plane in which rotational movements commonly occur.",
+      "Anatomical plane separating top and bottom.",
+      "Horizontal slice through the body; perpendicular to the vertical axis."
+    ]
+  },
+  {
+    "term": "Valsalva maneuver",
+    "aliases": ["Valsalva"],
+    "definitions": [
+      "Forceful exhalation against a closed airway.",
+      "Technique used to increase intra-abdominal pressure and trunk stiffness.",
+      "Breathing strategy that can enhance spinal stability during heavy lifts.",
+      "Maneuver that transiently increases intrathoracic pressure and can affect blood pressure."
+    ]
+  },
+  {
+    "term": "ventral",
+    "aliases": [],
+    "definitions": [
+      "Referring to the front side of the body or structure.",
+      "Anterior aspect; toward the belly/front.",
+      "Opposite of dorsal in many anatomical contexts.",
+      "Front-facing orientation (e.g., ventral surface)."
+    ]
+  },
+  {
+    "term": "vertebral column",
+    "aliases": ["spine"],
+    "definitions": [
+      "The spine; series of vertebrae extending from skull to pelvis.",
+      "Axial structure that supports the trunk and protects the spinal cord.",
+      "Column of vertebrae enabling posture, load transfer, and movement.",
+      "Skeletal stack forming the central support of the body."
+    ]
+  },
+  {
+    "term": "weight",
+    "aliases": [],
+    "definitions": [
+      "The force exerted by gravity on a mass.",
+      "Gravitational force; equals mass times gravitational acceleration (W = m·g).",
+      "Force (not mass) measured in newtons; often expressed as pounds-force in the U.S.",
+      "Downward force on an object due to gravity."
+    ]
+  },
+  {
+    "term": "work",
+    "aliases": [],
+    "definitions": [
+      "The product of force and displacement in the direction of the force.",
+      "Energy transferred when a force moves an object through a distance.",
+      "W = F·d·cos(θ) (component of force along displacement).",
+      "No work is done if there is no displacement, even if force is applied."
+    ]
+  }
+]

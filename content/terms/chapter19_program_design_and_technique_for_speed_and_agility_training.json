@@ -1,0 +1,254 @@
+[
+  {
+    "term": "acceleration",
+    "aliases": ["linear acceleration", "rate of change in velocity"],
+    "definitions": [
+      "The rate at which velocity increases over time (change in velocity divided by time).",
+      "How quickly an athlete can increase speed from a standstill or slower speed.",
+      "The ability to gain speed rapidly by producing high horizontal force early in a sprint.",
+      "A performance quality most apparent in the first steps of sprinting (start and early drive phase).",
+      "A change in velocity per unit time, involving both magnitude and direction when applicable.",
+      "The phase of sprinting where propulsion and forward lean are emphasized to build speed.",
+      "In sport, the capacity to beat an opponent to space by reaching higher speeds sooner.",
+      "A kinematic variable describing increasing motion speed; influenced by force application and technique."
+    ]
+  },
+  {
+    "term": "agility",
+    "aliases": ["reactive agility", "perceptual-cognitive agility"],
+    "definitions": [
+      "The ability to rapidly change direction and/or speed in response to an external stimulus.",
+      "Change-of-direction skill plus decision-making (reacting to an opponent, ball, or cue).",
+      "A sport-specific capacity combining physical deceleration and reacceleration with perception and reaction.",
+      "The ability to execute rapid movement changes while maintaining balance, control, and speed under uncertainty.",
+      "A quality requiring both physical capacities (strength, power) and cognitive components (anticipation).",
+      "A reactive movement skill where the athlete must select and execute the correct movement pattern quickly.",
+      "Fast, controlled repositioning of the body in response to information from the environment.",
+      "A hallmark of many field/court sports: quick reorientation driven by stimulus recognition and response."
+    ]
+  },
+  {
+    "term": "change of direction",
+    "aliases": ["COD", "planned change of direction"],
+    "definitions": [
+      "The ability to decelerate, change direction, and reaccelerate in a pre-planned manner.",
+      "Directional change performed without a reactive stimulus (the movement is known in advance).",
+      "A physical skill emphasizing braking control, body reorientation, and propulsion into a new direction.",
+      "A planned maneuver where technique and force production determine how efficiently direction is changed.",
+      "The capacity to redirect momentum under control when the target direction is predetermined.",
+      "A movement task where deceleration strength and mechanics strongly influence performance and injury risk.",
+      "Planned cutting ability: stop/plant/turn/go executed as instructed, not in reaction to an opponent.",
+      "A deterministic movement quality focused on mechanics, strength, and power rather than decision-making."
+    ]
+  },
+  {
+    "term": "complex training",
+    "aliases": ["complex method", "strength–power complex"],
+    "definitions": [
+      "Pairing a heavy resistance exercise with a biomechanically similar high-velocity movement to enhance performance.",
+      "A training method that sequences strength work and an explosive counterpart (e.g., squat then jump).",
+      "A strength-to-power bridging approach often used to improve rate of force development and power expression.",
+      "A pairing strategy designed to leverage post-activation effects to improve the next explosive effort.",
+      "A method combining high-load and high-velocity stimuli within the same session for enhanced transfer.",
+      "A contrast-style approach linking force capacity (heavy lift) and rapid force application (plyo/ballistic).",
+      "A sequencing method where a heavy exercise primes the nervous system for a similar explosive movement.",
+      "A way to train strength and explosiveness together using matched movement patterns."
+    ]
+  },
+  {
+    "term": "force",
+    "aliases": ["net force", "applied force"],
+    "definitions": [
+      "A push or pull that can change an object’s motion (cause acceleration).",
+      "An interaction that can alter velocity, direction, or shape of an object.",
+      "A vector quantity with magnitude and direction that influences movement dynamics.",
+      "In human movement, the mechanical output produced by muscles and transmitted through the skeleton.",
+      "The cause of acceleration according to Newton’s second law (F = m·a).",
+      "A mechanical input that can speed up, slow down, or redirect the body or an implement.",
+      "In sport, the ability to apply force effectively against the ground or an external object.",
+      "A foundational mechanical variable underlying strength, braking, and propulsion."
+    ]
+  },
+  {
+    "term": "ground preparation",
+    "aliases": ["pre-activation", "pre-tension", "ground contact preparation"],
+    "definitions": [
+      "Pre-activation strategies used to prepare the body to apply force efficiently during ground contact.",
+      "Muscle activation and stiffness set before impact to improve force transfer and reduce collapse at contact.",
+      "The anticipatory “bracing” of the lower limb and trunk to handle landing/stance forces effectively.",
+      "A preparatory neuromuscular action that improves reactive stiffness and shortens coupling time.",
+      "The act of getting the foot/ankle/knee/hip positioned and activated before touchdown for efficient mechanics.",
+      "Pre-contact tension that supports better SSC performance and reduces energy loss at ground contact.",
+      "A technique concept in sprinting/jumping: arrive “ready” to strike, stabilize, and rebound quickly.",
+      "An anticipatory control strategy that enhances performance by optimizing stiffness and alignment at contact."
+    ]
+  },
+  {
+    "term": "impulse",
+    "aliases": ["net impulse", "impulse-momentum relationship"],
+    "definitions": [
+      "The product of force and the time interval over which the force acts (F × t, or integral of force over time).",
+      "A measure of how much force is applied over time to change momentum.",
+      "The area under the force–time curve during a contact, push, or collision.",
+      "A mechanical quantity that determines the change in momentum of the body or an implement.",
+      "In sprint/jump, how force magnitude and contact duration combine to influence takeoff or acceleration.",
+      "The cumulative “push” delivered during ground contact that affects velocity change.",
+      "A concept linking contact strategy to outcome: more effective impulse generally yields greater momentum change.",
+      "Force applied over time that produces a change in motion (Δmomentum)."
+    ]
+  },
+  {
+    "term": "momentum",
+    "aliases": ["linear momentum", "p = m·v"],
+    "definitions": [
+      "The product of mass and velocity (p = m·v).",
+      "A measure of how difficult it is to stop or change the motion of a moving object.",
+      "The quantity of motion of the body or an implement, dependent on both size and speed.",
+      "A vector describing motion that increases with either greater mass or greater velocity.",
+      "A mechanical property that must be redirected during cutting, tackling, or landing maneuvers.",
+      "In sport collisions, a key determinant of movement outcome along with impulse and momentum change.",
+      "The motion “carry” of an athlete that affects braking demands and direction-change requirements.",
+      "A kinematic-mechanical variable that is altered by applying impulse."
+    ]
+  },
+  {
+    "term": "periodization",
+    "aliases": ["training periodization", "planned variation"],
+    "definitions": [
+      "The systematic planning of training variables over time to optimize performance and manage fatigue.",
+      "A structured approach to varying volume, intensity, and exercise focus across weeks/months.",
+      "Organizing training into phases (cycles) that target specific adaptations at the right time.",
+      "Planned manipulation of training stress to improve performance peaks and reduce overtraining risk.",
+      "A long-term strategy that sequences goals (e.g., hypertrophy → strength → power → taper).",
+      "A method of training organization that balances overload and recovery across time.",
+      "A framework for progressing training by adjusting load and volume across macro/meso/microcycles.",
+      "A planning system used to build fitness while timing readiness for competition."
+    ]
+  },
+  {
+    "term": "postactivation potentiation",
+    "aliases": ["PAP", "post-activation potentiation", "post-activation performance enhancement (PAPE)"],
+    "definitions": [
+      "An acute enhancement of muscle performance following a conditioning contraction.",
+      "A short-term boost in force or power output after heavy or explosive activation work.",
+      "A phenomenon where prior contractions temporarily increase subsequent contractile responsiveness.",
+      "A priming effect used in contrast/complex training to improve jump, sprint, or throw performance.",
+      "A transient state where neuromuscular readiness is elevated following a heavy stimulus.",
+      "An acute performance enhancement driven by activation, often balanced against fatigue.",
+      "A mechanism exploited when a heavy lift precedes a similar explosive movement to improve output.",
+      "A temporary improvement in explosive performance after high-intensity muscular activity."
+    ]
+  },
+  {
+    "term": "rate of force development (RFD)",
+    "aliases": ["RFD", "force development rate", "dF/dt"],
+    "definitions": [
+      "The speed at which force is produced (change in force divided by change in time).",
+      "How rapidly an athlete can generate force in the early portion of contraction or ground contact.",
+      "A critical quality for explosive actions where there is limited time to apply force (sprinting, jumping).",
+      "The slope of the force–time curve during force production.",
+      "A measure of explosive strength reflecting neural drive and muscle-tendon characteristics.",
+      "A performance capacity describing fast force expression rather than maximum force capacity alone.",
+      "The ability to reach high force levels quickly under time constraints.",
+      "A key determinant of explosive performance when contact times are short."
+    ]
+  },
+  {
+    "term": "recovery",
+    "aliases": ["regeneration (training context)", "restoration"],
+    "definitions": [
+      "The restoration of physiological systems following training stress.",
+      "The process of returning to readiness by restoring energy stores and repairing tissue.",
+      "A period where fatigue dissipates and adaptation can occur after overload.",
+      "The return of performance capacity after training via sleep, nutrition, and reduced stress.",
+      "Rebuilding of homeostasis after exercise through replenishment and repair mechanisms.",
+      "A training variable involving time and strategies that restore function between sessions.",
+      "The reduction of accumulated fatigue to regain or improve performance.",
+      "The time and processes required for the body to recover from imposed training demands."
+    ]
+  },
+  {
+    "term": "speed",
+    "aliases": ["movement speed", "sprint speed (context)"],
+    "definitions": [
+      "The ability to move the body or a body part quickly.",
+      "The rate of motion, typically describing how fast displacement occurs over time.",
+      "In sport, the capacity to reach and maintain high running velocity.",
+      "A performance quality influenced by technique, force application, and neuromuscular properties.",
+      "How fast an athlete can move through space, often measured as distance per unit time.",
+      "A general term that can refer to sprinting velocity or limb movement velocity depending on context.",
+      "A kinematic descriptor of fast movement execution (linear or segmental).",
+      "The capability to produce rapid movement, often requiring both strength and coordination."
+    ]
+  },
+  {
+    "term": "spring–mass model (SMM)",
+    "aliases": ["spring-mass model", "SMM", "spring–mass behavior"],
+    "definitions": [
+      "A biomechanical model describing the body as a spring-supported mass during running and jumping.",
+      "A framework where the leg behaves like a spring that compresses and recoils to propel the body.",
+      "A model explaining how stiffness and elastic return influence gait and jump mechanics.",
+      "A representation of locomotion emphasizing elastic energy storage and release in the lower limb.",
+      "A simplified running/jumping model: body mass supported by a spring-like leg during ground contact.",
+      "A conceptual tool used to describe how changes in leg stiffness affect performance and efficiency.",
+      "A model linking ground contact dynamics (compression/rebound) to speed and reactive qualities.",
+      "A biomechanical analogy where the body’s COM is the mass and the leg/tendon system acts as the spring."
+    ]
+  },
+  {
+    "term": "sprinting",
+    "aliases": ["maximal sprinting", "near-maximal sprinting"],
+    "definitions": [
+      "Maximal or near-maximal running velocity.",
+      "High-intensity running where the athlete attempts to run as fast as possible.",
+      "A locomotor skill involving rapid force application and efficient mechanics to achieve top speed.",
+      "Running performed at very high velocities, typically requiring high neural and muscular output.",
+      "A performance action characterized by short ground contact times and high horizontal force demands.",
+      "Max-velocity or acceleration-based fast running depending on distance and phase.",
+      "An explosive running task relying on technique, reactive stiffness, and high force production.",
+      "The act of running at the upper end of one’s velocity capacity."
+    ]
+  },
+  {
+    "term": "strength",
+    "aliases": ["maximal strength (context)", "force-producing capacity"],
+    "definitions": [
+      "The ability to produce force.",
+      "The capacity of a muscle or muscle group to exert force against resistance.",
+      "A foundational quality that supports power, speed, and resilience when applied effectively.",
+      "The ability to generate high levels of force, often assessed with heavy lifting performance.",
+      "Force production capability that can be expressed isometrically or dynamically.",
+      "A physical trait reflecting neural and muscular factors that allow high force output.",
+      "The ability to overcome or resist external resistance through muscular contraction.",
+      "A performance quality underpinning braking, pushing, and load-handling tasks."
+    ]
+  },
+  {
+    "term": "stretch-shortening cycle (SSC)",
+    "aliases": ["SSC", "stretch–shortening cycle"],
+    "definitions": [
+      "A rapid sequence of eccentric, amortization, and concentric muscle actions used to enhance force and power.",
+      "A mechanism where a quick pre-stretch improves subsequent shortening action and performance.",
+      "Eccentric loading followed by a fast reversal that allows elastic recoil and reflex contribution.",
+      "A neuromechanical cycle that can increase force output compared with concentric-only actions.",
+      "A process where elastic energy is stored during braking and released during propulsion.",
+      "A performance mechanism requiring short coupling time to preserve stored energy and maximize output.",
+      "A foundational concept in plyometrics explaining why rapid stretch can enhance explosive movements.",
+      "An eccentric-to-concentric transition that boosts performance via elastic and neural contributions."
+    ]
+  },
+  {
+    "term": "velocity",
+    "aliases": ["vector speed", "rate of displacement"],
+    "definitions": [
+      "The rate of movement in a given direction (displacement per unit time).",
+      "A vector quantity describing both how fast something moves and the direction it moves.",
+      "Speed with direction included, distinguishing it from speed alone.",
+      "A kinematic variable that changes when acceleration occurs.",
+      "The directional rate of position change; can be linear or angular depending on context.",
+      "A motion descriptor that can increase, decrease, or change direction based on applied forces.",
+      "A fundamental movement variable used to describe sprinting, throwing, or lifting speed.",
+      "The time-based change in displacement that characterizes how motion progresses through space."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ch10_q01",
+    "question": "The primary macronutrient that is addressed in the precompetition meal is",
+    "choices": ["fat", "carbohydrate", "protein", "vitamin"],
+    "answer_index": 1,
+    "explanation": "Precompetition meals emphasize carbohydrates to top off glycogen and support high-intensity performance."
+  },
+  {
+    "id": "ch10_q02",
+    "question": "Which of the following makes the GREATEST contribution to total energy expenditure?",
+    "choices": [
+      "resting metabolic rate",
+      "physical activity energy expenditure",
+      "thermic effect of food",
+      "resting blood sugar levels"
+    ],
+    "answer_index": 0,
+    "explanation": "Resting metabolic rate is typically the largest component of daily total energy expenditure for most people."
+  },
+  {
+    "id": "ch10_q03",
+    "question": "Which of the following is characteristic of anorexia nervosa?",
+    "choices": [
+      "normal body weight",
+      "very low dietary fat intake",
+      "preoccupation with food",
+      "secretive eating"
+    ],
+    "answer_index": 2,
+    "explanation": "A common feature is an intense preoccupation with food, body weight, and control of eating; normal body weight is not typical."
+  },
+  {
+    "id": "ch10_q04",
+    "question": "When an eating disorder is suspected, the strength and conditioning professional should",
+    "choices": [
+      "monitor the athlete’s daily food intake",
+      "require frequent weigh-ins",
+      "encourage further assessment by an eating disorder specialist",
+      "provide nutritional information"
+    ],
+    "answer_index": 2,
+    "explanation": "The appropriate step is referral/encouraging assessment by a qualified specialist; monitoring intake or weigh-ins can worsen the situation."
+  }
+]

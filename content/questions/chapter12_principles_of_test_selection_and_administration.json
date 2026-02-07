@@ -1,0 +1,161 @@
+[
+  {
+    "id": "ch12_q01",
+    "question": "A college basketball coach would like to know which one of her players has the most muscular power. Which of the following is the MOST valid test for measuring muscular power?",
+    "choices": [
+      "vertical jump",
+      "1RM bench press",
+      "5RM squat",
+      "100 m (109-yard) sprint"
+    ],
+    "answer_index": 0,
+    "explanation": "The vertical jump directly measures explosive lower-body power, making it the most valid test of muscular power."
+  },
+  {
+    "id": "ch12_q02",
+    "question": "When measuring maximal strength of a soccer player, which of the following could potentially adversely affect the test–retest reliability of the results?\n\nI. using multiple testers\nII. retesting at a different time of day\nIII. an athlete’s inexperience with the tested exercise\nIV. using an established testing protocol",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiple testers, different testing times, and athlete inexperience can all reduce test–retest reliability; established protocols improve reliability."
+  },
+  {
+    "id": "ch12_q03",
+    "question": "All of the following procedures should be followed when testing an athlete’s cardiovascular fitness in the heat EXCEPT",
+    "choices": [
+      "performing the test in an indoor facility",
+      "using salt tablets to retain water",
+      "scheduling the test in the morning",
+      "drinking fluids during the test"
+    ],
+    "answer_index": 1,
+    "explanation": "Salt tablets are not recommended during testing due to the risk of electrolyte imbalance."
+  },
+  {
+    "id": "ch12_q04",
+    "question": "The bench press, vertical jump, and 10 m (11-yard) sprint are the MOST valid tests for which of the following American football positions?",
+    "choices": [
+      "quarterback",
+      "defensive back",
+      "wide receiver",
+      "defensive lineman"
+    ],
+    "answer_index": 3,
+    "explanation": "These tests assess strength, power, and short-distance acceleration—key performance qualities for defensive linemen."
+  },
+  {
+    "id": "ch12_q05",
+    "question": "Which of the following sequences will produce the MOST reliable results?",
+    "choices": [
+      "1RM power clean, T-test, 1.5 mile (2.4 km) run, 1RM bench press",
+      "T-test, 1RM power clean, 1RM bench press, 1.5 mile (2.4 km) run",
+      "1.5 mile (2.4 km) run, 1RM bench press, T-test, 1RM power clean",
+      "1RM bench press, 1RM power clean, T-test, 1.5 mile (2.4 km) run"
+    ],
+    "answer_index": 1,
+    "explanation": "Testing should proceed from least fatiguing to most fatiguing to maximize reliability."
+  },
+
+  {
+    "id": "ch12_q06",
+    "question": "Which of the following tests is MOST appropriate for assessing lower-body power in a large group setting with limited equipment?",
+    "choices": [
+      "countermovement vertical jump",
+      "1RM squat",
+      "Wingate anaerobic test",
+      "30-second Bosco jump test"
+    ],
+    "answer_index": 0,
+    "explanation": "The vertical jump is valid, time-efficient, and requires minimal equipment, making it ideal for large groups."
+  },
+  {
+    "id": "ch12_q07",
+    "question": "A strength coach wants to ensure high objectivity during testing. Which of the following practices BEST supports this goal?",
+    "choices": [
+      "using the same tester for all athletes",
+      "using multiple testers for efficiency",
+      "allowing athletes to self-report scores",
+      "adjusting protocols based on athlete preference"
+    ],
+    "answer_index": 0,
+    "explanation": "Objectivity is maximized when the same tester administers and scores all tests using standardized procedures."
+  },
+  {
+    "id": "ch12_q08",
+    "question": "Which of the following factors MOST directly affects the validity of a test?",
+    "choices": [
+      "whether the test measures the intended physical quality",
+      "the consistency of test administration",
+      "the number of trials performed",
+      "the familiarity of the athlete with the test"
+    ],
+    "answer_index": 0,
+    "explanation": "Validity refers to how well a test measures what it is intended to measure."
+  },
+
+  {
+    "id": "ch12_q09",
+    "type": "wrapper",
+    "question": "For each testing goal below, select the MOST appropriate test.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "1RM squat",
+      "vertical jump",
+      "Yo-Yo intermittent recovery test",
+      "T-test"
+    ],
+    "contexts": [
+      {
+        "prompt": "Assessing maximal lower-body strength",
+        "answer_index": 0
+      },
+      {
+        "prompt": "Assessing lower-body explosive power",
+        "answer_index": 1
+      },
+      {
+        "prompt": "Assessing change-of-direction ability",
+        "answer_index": 3
+      },
+      {
+        "prompt": "Assessing intermittent aerobic capacity",
+        "answer_index": 2
+      }
+    ],
+    "explanation": "Test selection must align with the specific physical quality being assessed; the same test battery is not valid for all goals."
+  },
+
+  {
+    "id": "ch12_q10",
+    "type": "wrapper",
+    "question": "For each population below, select the MOST appropriate testing approach.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "1RM testing",
+      "submaximal prediction testing",
+      "field-based aerobic testing",
+      "laboratory-based aerobic testing"
+    ],
+    "contexts": [
+      {
+        "prompt": "Untrained adolescent athletes",
+        "answer_index": 1
+      },
+      {
+        "prompt": "Elite powerlifters",
+        "answer_index": 0
+      },
+      {
+        "prompt": "Large team with limited time and equipment",
+        "answer_index": 2
+      },
+      {
+        "prompt": "Research setting requiring high precision",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Appropriate test selection depends on training status, safety, resources, and required measurement precision."
+  }
+]

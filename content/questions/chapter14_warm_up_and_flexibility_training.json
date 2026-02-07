@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ch14_q01",
+    "question": "Which of the following is a nontemperature-related effect of a warm-up?",
+    "choices": [
+      "enhanced neural function",
+      "disruption of transient connective tissue bonds",
+      "elevation of baseline oxygen consumption",
+      "increase in muscle temperature"
+    ],
+    "answer_index": 0,
+    "explanation": "Enhanced neural function is a non-temperature-related benefit of warm-up; the other options are temperature-dependent."
+  },
+  {
+    "id": "ch14_q02",
+    "question": "When stimulated during contract-relax PNF stretching, Golgi tendon organs allow the relaxation of the",
+    "choices": [
+      "stretched muscle by contracting the reciprocal muscle",
+      "reciprocal muscle by contracting the stretched muscle",
+      "reciprocal muscle by its own contraction",
+      "stretched muscle by its own contraction"
+    ],
+    "answer_index": 3,
+    "explanation": "Autogenic inhibition occurs when contraction of the stretched muscle activates GTOs, causing that same muscle to relax."
+  },
+  {
+    "id": "ch14_q03",
+    "question": "Which of the following stretching techniques decreases muscle spindle stimulation?",
+    "choices": [
+      "dynamic",
+      "ballistic",
+      "static",
+      "passive"
+    ],
+    "answer_index": 2,
+    "explanation": "Static stretching minimizes rapid changes in muscle length, reducing muscle spindle activation."
+  },
+  {
+    "id": "ch14_q04",
+    "question": "Stimulation of muscle spindles induces a",
+    "choices": [
+      "relaxation of GTOs",
+      "relaxation of the stretched muscle",
+      "contraction of the stretched muscle",
+      "contraction of the reciprocal muscle"
+    ],
+    "answer_index": 2,
+    "explanation": "Muscle spindle activation triggers the stretch reflex, causing contraction of the stretched muscle."
+  },
+  {
+    "id": "ch14_q05",
+    "question": "After performing the hold-relax with agonist contraction PNF stretch for the hamstrings, which of the following explains the resulting increase in flexibility?\n\nI. autogenic inhibition\nII. stretch inhibition\nIII. reciprocal inhibition\nIV. crossed-extensor inhibition",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 0,
+    "explanation": "Hold-relax with agonist contraction improves flexibility through autogenic inhibition and reciprocal inhibition."
+  },
+
+  {
+    "id": "ch14_q06",
+    "question": "Which of the following stretching methods is MOST appropriate immediately prior to a power-based activity?",
+    "choices": [
+      "static stretching",
+      "ballistic stretching",
+      "dynamic stretching",
+      "PNF stretching"
+    ],
+    "answer_index": 2,
+    "explanation": "Dynamic stretching prepares the neuromuscular system without reducing force or power output."
+  },
+  {
+    "id": "ch14_q07",
+    "question": "Performing prolonged static stretching immediately before maximal strength or power performance may result in",
+    "choices": [
+      "increased rate of force development",
+      "decreased muscle-tendon stiffness",
+      "improved neuromuscular activation",
+      "increased motor unit synchronization"
+    ],
+    "answer_index": 1,
+    "explanation": "Static stretching reduces musculotendinous stiffness, which can impair force and power production."
+  },
+  {
+    "id": "ch14_q08",
+    "question": "Which of the following warm-up sequences is MOST appropriate for a collegiate sprinter?",
+    "choices": [
+      "general aerobic activity → static stretching → sprint drills",
+      "general aerobic activity → dynamic stretching → sprint drills",
+      "static stretching → dynamic stretching → sprint drills",
+      "dynamic stretching → static stretching → sprint drills"
+    ],
+    "answer_index": 1,
+    "explanation": "A proper warm-up progresses from general activity to dynamic movement before sport-specific drills."
+  },
+  {
+    "id": "ch14_q09",
+    "question": "Which of the following best describes reciprocal inhibition?",
+    "choices": [
+      "relaxation of a muscle following its own contraction",
+      "contraction of the agonist causing relaxation of the antagonist",
+      "simultaneous contraction of agonist and antagonist",
+      "inhibition of muscle spindle activity"
+    ],
+    "answer_index": 1,
+    "explanation": "Reciprocal inhibition occurs when activation of the agonist causes relaxation of the antagonist muscle."
+  },
+  {
+    "id": "ch14_q10",
+    "question": "Which stretching method is MOST effective for increasing range of motion but should be performed only with qualified supervision?",
+    "choices": [
+      "static stretching",
+      "dynamic stretching",
+      "ballistic stretching",
+      "PNF stretching"
+    ],
+    "answer_index": 3,
+    "explanation": "PNF stretching is highly effective but requires proper technique and supervision to ensure safety."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "term": "allosteric binding site",
+    "aliases": ["allosteric site"],
+    "definitions": [
+      "A binding site on an enzyme or receptor that is distinct from the active site.",
+      "A region where binding alters protein shape and changes activity or affinity.",
+      "A non-active site whose occupancy modulates enzyme or receptor function.",
+      "A regulatory site that influences how strongly a ligand binds at the active site.",
+      "A location where activators or inhibitors exert indirect control.",
+      "A site involved in allosteric regulation rather than substrate binding.",
+      "A binding region that does not directly catalyze reactions.",
+      "A control site whose binding changes molecular behavior without competing at the active site."
+    ]
+  },
+  {
+    "term": "anabolic hormone",
+    "aliases": [],
+    "definitions": [
+      "A hormone that promotes tissue growth and synthesis.",
+      "A hormone that stimulates protein synthesis and fuel storage.",
+      "A signaling molecule that supports building processes in the body.",
+      "A hormone favoring net tissue gain rather than breakdown.",
+      "A regulator associated with muscle growth and recovery.",
+      "A hormone that shifts metabolism toward construction.",
+      "A chemical messenger promoting positive nitrogen balance.",
+      "A hormone whose effects oppose catabolic activity."
+    ]
+  },
+  {
+    "term": "catabolic hormone",
+    "aliases": [],
+    "definitions": [
+      "A hormone that promotes the breakdown of tissues or energy stores.",
+      "A hormone that mobilizes substrates for energy production.",
+      "A signaling molecule favoring fuel release rather than storage.",
+      "A hormone associated with stress or energy demand.",
+      "A regulator that increases availability of glucose or fatty acids.",
+      "A hormone that shifts metabolism toward degradation.",
+      "A chemical messenger promoting negative energy balance.",
+      "A hormone whose effects oppose anabolic processes."
+    ]
+  },
+  {
+    "term": "cross-reactivity",
+    "aliases": [],
+    "definitions": [
+      "The ability of a hormone to bind to a receptor meant for a similar hormone.",
+      "A phenomenon where structurally related hormones activate the same receptor.",
+      "Receptor activation by a non-primary ligand.",
+      "Binding that occurs due to molecular similarity rather than specificity.",
+      "An effect seen when hormones share common structural features.",
+      "A cause of overlapping hormonal effects.",
+      "A property explaining partial receptor activation by related hormones.",
+      "A receptor response to multiple ligands with similar structure."
+    ]
+  },
+  {
+    "term": "diurnal variation",
+    "aliases": ["circadian variation"],
+    "definitions": [
+      "Predictable daily fluctuations in physiological variables.",
+      "A rhythmic pattern that repeats approximately every 24 hours.",
+      "Daily changes driven by circadian timing mechanisms.",
+      "A time-of-day dependent variation in hormone levels.",
+      "A cycle influenced by light–dark exposure.",
+      "Regular daily oscillations in biological function.",
+      "A pattern explaining morning–evening hormonal differences.",
+      "A circadian-driven physiological rhythm."
+    ]
+  },
+  {
+    "term": "downregulation",
+    "aliases": [],
+    "definitions": [
+      "A reduction in receptor number following prolonged stimulation.",
+      "Decreased cellular sensitivity to a hormone.",
+      "An adaptive response to chronic hormone exposure.",
+      "A mechanism that limits excessive signaling.",
+      "Reduced receptor availability at the cell surface.",
+      "A protective response against overstimulation.",
+      "A process decreasing responsiveness to ligands.",
+      "Loss of receptor effectiveness due to sustained activation."
+    ]
+  },
+  {
+    "term": "endocrine gland",
+    "aliases": [],
+    "definitions": [
+      "A ductless gland that secretes hormones into the bloodstream.",
+      "A hormone-producing organ with systemic effects.",
+      "A gland that releases chemical messengers directly into circulation.",
+      "A structure involved in long-distance chemical signaling.",
+      "A gland whose secretions act on distant target tissues.",
+      "An organ of the endocrine system.",
+      "A hormone source without excretory ducts.",
+      "A gland coordinating body-wide regulation via hormones."
+    ]
+  },
+  {
+    "term": "General Adaptation Syndrome",
+    "aliases": ["GAS"],
+    "definitions": [
+      "A model describing physiological responses to stress.",
+      "A framework consisting of alarm, resistance, and exhaustion phases.",
+      "A theory explaining adaptation to repeated stressors.",
+      "A model linking stress exposure to performance and recovery.",
+      "A concept used to explain training adaptation.",
+      "A progression of responses to sustained stress.",
+      "A stress-response framework proposed by Hans Selye.",
+      "A model describing how organisms cope with chronic stress."
+    ]
+  },
+  {
+    "term": "hormone",
+    "aliases": [],
+    "definitions": [
+      "A chemical messenger released into the bloodstream.",
+      "A signaling molecule that affects distant target cells.",
+      "A regulator secreted by endocrine glands.",
+      "A substance coordinating physiological processes.",
+      "A molecule that binds specific receptors to exert effects.",
+      "A systemic signaling agent.",
+      "A blood-borne chemical communicator.",
+      "A substance enabling long-range biological regulation."
+    ]
+  },
+  {
+    "term": "hormone–receptor complex (H-RC)",
+    "aliases": ["H-RC"],
+    "definitions": [
+      "The bound unit of a hormone and its receptor.",
+      "The signaling complex formed upon hormone binding.",
+      "The structure initiating cellular response to hormones.",
+      "A hormone–receptor pairing that triggers signal transduction.",
+      "The active signaling form after receptor activation.",
+      "The functional unit responsible for hormonal effects.",
+      "A ligand–receptor complex driving intracellular signaling.",
+      "The molecular starting point of hormone action."
+    ]
+  },
+  {
+    "term": "lock-and-key theory",
+    "aliases": [],
+    "definitions": [
+      "A model describing specific hormone–receptor binding.",
+      "A theory stating receptors accept only complementary ligands.",
+      "A specificity model based on molecular shape.",
+      "A concept explaining selective receptor activation.",
+      "A framework for hormone–receptor matching.",
+      "A model emphasizing binding precision.",
+      "An analogy for receptor specificity.",
+      "A theory highlighting structural compatibility in signaling."
+    ]
+  },
+  {
+    "term": "neuroendocrine immunology",
+    "aliases": [],
+    "definitions": [
+      "The study of interactions among nervous, endocrine, and immune systems.",
+      "A field examining cross-system communication.",
+      "Research into hormonal and neural control of immunity.",
+      "A discipline linking stress, hormones, and immune response.",
+      "An integrative biological science.",
+      "A study of system-level physiological coordination.",
+      "An area focusing on signaling between body systems.",
+      "A field explaining how stress affects immunity."
+    ]
+  },
+  {
+    "term": "neuroendocrinology",
+    "aliases": [],
+    "definitions": [
+      "The study of nervous system regulation of hormones.",
+      "A field examining neural control of endocrine glands.",
+      "Research into hormone effects on brain function.",
+      "An area connecting neural signaling and hormonal release.",
+      "The interface of neuroscience and endocrinology.",
+      "A discipline studying brain–hormone interaction.",
+      "The study of hormonal influence on neural activity.",
+      "A science linking nervous and endocrine systems."
+    ]
+  },
+  {
+    "term": "polypeptide hormone",
+    "aliases": [],
+    "definitions": [
+      "A hormone composed of amino acid chains.",
+      "A water-soluble hormone acting via membrane receptors.",
+      "A hormone using second messengers for signaling.",
+      "A peptide-based endocrine messenger.",
+      "A hormone unable to cross cell membranes directly.",
+      "A protein-derived hormone.",
+      "A hormone triggering intracellular cascades.",
+      "A non-lipid hormone relying on surface receptors."
+    ]
+  },
+  {
+    "term": "proteolytic enzyme",
+    "aliases": ["protease"],
+    "definitions": [
+      "An enzyme that breaks proteins into smaller units.",
+      "A catalyst for peptide bond cleavage.",
+      "An enzyme involved in protein digestion or processing.",
+      "A protein-degrading enzyme.",
+      "A molecule that hydrolyzes peptide bonds.",
+      "An enzyme reducing proteins to amino acids.",
+      "A catalyst of protein catabolism.",
+      "An enzyme breaking polypeptides into peptides."
+    ]
+  },
+  {
+    "term": "secondary messenger",
+    "aliases": [],
+    "definitions": [
+      "An intracellular molecule that relays receptor signals.",
+      "A signaling molecule activated inside the cell.",
+      "A compound amplifying hormone signals.",
+      "A messenger produced after receptor activation.",
+      "An intracellular signal transducer.",
+      "A molecule like cAMP or Ca2+ transmitting signals.",
+      "A mediator between receptor and response.",
+      "A chemical that carries signals within the cell."
+    ]
+  },
+  {
+    "term": "steroid hormone",
+    "aliases": [],
+    "definitions": [
+      "A lipid-soluble hormone derived from cholesterol.",
+      "A hormone that crosses cell membranes.",
+      "A hormone binding intracellular receptors.",
+      "A gene-regulating endocrine messenger.",
+      "A hormone affecting transcription directly.",
+      "A cholesterol-based signaling molecule.",
+      "A hormone with slow but prolonged effects.",
+      "A lipid hormone acting at the nuclear level."
+    ]
+  },
+  {
+    "term": "target tissue cell",
+    "aliases": ["target cell"],
+    "definitions": [
+      "A cell containing receptors for a specific hormone.",
+      "A hormone-responsive cell.",
+      "A cell affected by endocrine signaling.",
+      "A cell capable of responding to a hormone.",
+      "A receptor-expressing tissue cell.",
+      "A cell influenced by circulating hormones.",
+      "A hormone-sensitive cell.",
+      "A cell whose function changes upon hormone binding."
+    ]
+  },
+  {
+    "term": "thyroid hormone",
+    "aliases": ["T3", "T4"],
+    "definitions": [
+      "Hormones regulating metabolic rate.",
+      "Endocrine messengers produced by the thyroid gland.",
+      "Hormones influencing growth and development.",
+      "Metabolism-regulating iodinated hormones.",
+      "Hormones affecting oxygen consumption.",
+      "Key regulators of basal metabolic rate.",
+      "Endocrine factors controlling energy turnover.",
+      "Hormones essential for normal physiological development."
+    ]
+  },
+  {
+    "term": "upregulation",
+    "aliases": [],
+    "definitions": [
+      "An increase in receptor number in response to low hormone levels.",
+      "Enhanced cellular sensitivity due to increased receptor availability.",
+      "An adaptive response that amplifies hormonal signaling.",
+      "A mechanism increasing responsiveness to circulating hormones.",
+      "Increased receptor expression on the cell surface.",
+      "A compensatory response to reduced stimulation.",
+      "A process opposite of downregulation.",
+      "A means of improving hormone effectiveness."
+    ]
+  },
+  {
+    "term": "receptor sensitivity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a receptor responds to a hormone.",
+      "A measure of how effectively hormone binding triggers a response.",
+      "Cellular responsiveness to hormonal signaling.",
+      "A factor influencing magnitude of hormone action.",
+      "Sensitivity determined by receptor number and affinity.",
+      "A property affecting signal strength at target cells.",
+      "Responsiveness influenced by prior hormone exposure.",
+      "A determinant of hormonal effectiveness."
+    ]
+  },
+  {
+    "term": "hormone specificity",
+    "aliases": [],
+    "definitions": [
+      "The selective binding of a hormone to its receptor.",
+      "A principle stating only target cells respond to a hormone.",
+      "Specificity determined by receptor presence.",
+      "The basis of selective endocrine signaling.",
+      "A concept explaining why hormones affect only certain tissues.",
+      "Receptor-mediated selectivity of hormone action.",
+      "A feature ensuring precise physiological effects.",
+      "Selective responsiveness of tissues to hormones."
+    ]
+  },
+  {
+    "term": "negative feedback",
+    "aliases": [],
+    "definitions": [
+      "A regulatory mechanism that reduces hormone secretion.",
+      "A process where output inhibits further production.",
+      "A control loop maintaining hormonal balance.",
+      "A mechanism preventing excessive hormone levels.",
+      "Feedback inhibition of endocrine signaling.",
+      "A self-regulating hormonal control system.",
+      "A stabilizing process in endocrine regulation.",
+      "A loop reducing stimulus once effect is achieved."
+    ]
+  },
+  {
+    "term": "second-messenger system",
+    "aliases": ["secondary messenger system"],
+    "definitions": [
+      "An intracellular signaling pathway activated by hormone binding.",
+      "A system transmitting signals from membrane receptors to the cell interior.",
+      "A cascade involving molecules such as cAMP or calcium.",
+      "A mechanism amplifying hormone signals inside the cell.",
+      "A signaling pathway used by peptide and protein hormones.",
+      "An indirect signaling process initiated at the cell membrane.",
+      "A method of intracellular communication following receptor activation.",
+      "A pathway converting extracellular signals into cellular responses."
+    ]
+  }
+]

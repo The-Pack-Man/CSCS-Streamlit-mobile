@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ch04_q01",
+    "question": "After a bout of resistance training, acute hormonal secretions provide all of the following information to the body EXCEPT",
+    "choices": [
+      "amount of physiological stress",
+      "metabolic demands of exercise",
+      "type of physiological stress",
+      "energy expended"
+    ],
+    "answer_index": 3,
+    "explanation": "Acute hormonal responses reflect stress magnitude, stress type, and metabolic demands, but they do not directly quantify total energy expended."
+  },
+  {
+    "id": "ch04_q02",
+    "question": "Which of the following hormones enhance(s) muscle tissue growth?\n\nI. growth hormone\nII. cortisol\nIII. IGF-I\nIV. progesterone",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 0,
+    "explanation": "Growth hormone and IGF-I support anabolic processes related to muscle growth. Cortisol is catabolic, and progesterone is not a primary driver of hypertrophy."
+  },
+  {
+    "id": "ch04_q03",
+    "question": "Which of the following is NOT a function of growth hormone?",
+    "choices": [
+      "increase lipolysis",
+      "decrease collagen synthesis",
+      "increase amino acid transport",
+      "decrease glucose utilization"
+    ],
+    "answer_index": 1,
+    "explanation": "Growth hormone increases collagen synthesis, supporting connective tissue integrity. It also increases lipolysis, increases amino acid transport, and decreases glucose utilization."
+  },
+  {
+    "id": "ch04_q04",
+    "question": "Which of the following hormones has the greatest influence on neural changes?",
+    "choices": [
+      "growth hormone",
+      "testosterone",
+      "cortisol",
+      "IGF"
+    ],
+    "answer_index": 1,
+    "explanation": "Testosterone has the strongest association with neural adaptations related to strength, such as motor unit recruitment and neuromuscular efficiency."
+  },
+  {
+    "id": "ch04_q05",
+    "question": "What type of resistance training workout promotes the highest growth hormone increases following the exercise session?",
+    "choices": [
+      "Rest: 30 seconds; Volume: High; Sets: 3",
+      "Rest: 30 seconds; Volume: Low; Sets: 1",
+      "Rest: 3 minutes; Volume: High; Sets: 1",
+      "Rest: 3 minutes; Volume: Low; Sets: 3"
+    ],
+    "answer_index": 0,
+    "explanation": "Growth hormone responses are greatest with short rest intervals, high training volume, and high metabolic stress."
+  },
+  {
+    "id": "ch04_q06",
+    "question": "Prolonged exposure to elevated hormone concentrations most commonly results in which cellular adaptation?",
+    "choices": [
+      "upregulation of receptors",
+      "downregulation of receptors",
+      "increased hormone specificity",
+      "enhanced second-messenger activity"
+    ],
+    "answer_index": 1,
+    "explanation": "Chronic exposure to high hormone levels leads to downregulation, reducing receptor number and cellular sensitivity."
+  },
+  {
+    "id": "ch04_q07",
+    "question": "Which hormone type exerts its effects primarily by binding to intracellular receptors and directly influencing gene transcription?",
+    "choices": [
+      "polypeptide hormones",
+      "catecholamines",
+      "steroid hormones",
+      "protein hormones"
+    ],
+    "answer_index": 2,
+    "explanation": "Steroid hormones are lipid-soluble, cross the cell membrane, and bind intracellular receptors to directly affect gene transcription."
+  },
+  {
+    "id": "ch04_q08",
+    "question": "Which of the following hormones relies on a second-messenger system to exert its effects?",
+    "choices": [
+      "testosterone",
+      "cortisol",
+      "growth hormone",
+      "aldosterone"
+    ],
+    "answer_index": 2,
+    "explanation": "Growth hormone is a peptide hormone that binds membrane receptors and signals via second-messenger pathways."
+  },
+  {
+    "id": "ch04_q09",
+    "question": "Which regulatory mechanism helps maintain hormonal homeostasis by reducing hormone secretion once adequate levels are reached?",
+    "choices": [
+      "positive feedback",
+      "hormone specificity",
+      "negative feedback",
+      "receptor upregulation"
+    ],
+    "answer_index": 2,
+    "explanation": "Negative feedback loops inhibit further hormone secretion once sufficient physiological effects have been achieved."
+  },
+  {
+    "id": "ch04_q10",
+    "question": "An athlete experiencing chronically elevated cortisol levels is MOST likely to experience which outcome?",
+    "choices": [
+      "increased protein synthesis",
+      "enhanced immune function",
+      "increased protein breakdown",
+      "greater insulin sensitivity"
+    ],
+    "answer_index": 2,
+    "explanation": "Cortisol is a catabolic hormone that promotes protein breakdown and suppresses immune function during prolonged stress."
+  },
+  {
+    "id": "ch04_q11",
+    "question": "Which training variable manipulation is MOST associated with an acute anabolic hormonal environment?",
+    "choices": [
+      "long rest intervals with low volume",
+      "short rest intervals with high volume",
+      "maximal loads with extended rest",
+      "low-volume technique-focused training"
+    ],
+    "answer_index": 1,
+    "explanation": "Short rest intervals combined with high volume increase metabolic stress and are associated with acute anabolic hormonal responses."
+  }
+]

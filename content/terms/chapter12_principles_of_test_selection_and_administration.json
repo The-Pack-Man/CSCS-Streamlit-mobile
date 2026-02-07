@@ -1,0 +1,366 @@
+[
+  {
+    "term": "concurrent validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test correlates with an established test measuring the same variable at the same time.",
+      "How well a new test agrees with a previously validated test administered concurrently.",
+      "Validity demonstrated when a test produces results similar to a gold-standard test taken simultaneously.",
+      "A measure of agreement between a new test and an accepted criterion measured at the same point in time.",
+      "Evidence that a test is valid because it aligns with another trusted test of the same construct.",
+      "A form of criterion validity assessed using simultaneous comparison.",
+      "How accurately a test matches an existing benchmark test administered concurrently.",
+      "Validity shown when test scores strongly correlate with scores from a recognized test given at the same time."
+    ]
+  },
+  {
+    "term": "construct validity",
+    "aliases": [],
+    "definitions": [
+      "The extent to which a test truly measures the theoretical construct it claims to measure.",
+      "How well a test captures an abstract concept such as strength, power, or motivation.",
+      "Validity based on whether a test behaves as expected according to theory.",
+      "Evidence that a test reflects the underlying concept rather than unrelated variables.",
+      "The degree to which test results align with theoretical expectations of the construct.",
+      "A broad form of validity supported by convergent and discriminant evidence.",
+      "Whether a test actually measures the idea or trait it was designed to assess.",
+      "Validation that a test represents the intended concept, not just surface performance."
+    ]
+  },
+  {
+    "term": "content validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test covers all relevant aspects of the variable being measured.",
+      "How well a test samples the full domain of knowledge or skills it intends to assess.",
+      "Validity based on expert judgment that test items adequately represent the construct.",
+      "Whether a test includes all necessary components of the performance domain.",
+      "The extent to which test content reflects the breadth of the measured variable.",
+      "A qualitative form of validity focused on completeness rather than statistics.",
+      "Validity established by ensuring test items match the intended content areas.",
+      "How well test questions represent all important facets of the construct."
+    ]
+  },
+  {
+    "term": "convergent validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test correlates with other tests measuring similar constructs.",
+      "Evidence of validity when different tests of the same concept agree.",
+      "How strongly a test aligns with other measures intended to assess the same trait.",
+      "Support for construct validity through positive correlations with related tests.",
+      "The extent to which similar constructs produce similar test outcomes.",
+      "Validity demonstrated by agreement among tests designed to measure the same ability.",
+      "Confirmation that a test measures what it should by matching similar measures.",
+      "Correlation-based evidence showing alignment with theoretically related tests."
+    ]
+  },
+  {
+    "term": "criterion-referenced validity",
+    "aliases": [],
+    "definitions": [
+      "Validity assessed by comparing test results to a criterion or standard.",
+      "How accurately a test reflects performance relative to a known benchmark.",
+      "The degree to which test scores correspond to an external criterion.",
+      "Validation based on agreement with a recognized performance standard.",
+      "A form of validity determined by comparing test outcomes to objective criteria.",
+      "Evidence that a test measures what it intends by matching criterion performance.",
+      "The usefulness of a test for predicting or matching a real-world outcome.",
+      "Validity demonstrated through alignment with a reference or gold standard."
+    ]
+  },
+  {
+    "term": "discriminant validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test does not correlate with tests measuring different constructs.",
+      "Evidence that a test measures something distinct rather than overlapping traits.",
+      "Validity shown when unrelated constructs remain uncorrelated.",
+      "The ability of a test to differentiate between separate theoretical concepts.",
+      "Support for construct validity by demonstrating low correlations with unrelated tests.",
+      "Confirmation that a test is not measuring unintended variables.",
+      "How well a test avoids overlap with measures of different constructs.",
+      "Validity based on separation rather than similarity."
+    ]
+  },
+  {
+    "term": "evaluation",
+    "aliases": [],
+    "definitions": [
+      "The process of making decisions based on assessment data.",
+      "Interpreting test results to guide training or programming decisions.",
+      "Judgment applied to measurement outcomes.",
+      "Using assessment data to determine effectiveness or progress.",
+      "Decision-making informed by testing and measurement.",
+      "Analysis of data to support conclusions or actions.",
+      "The interpretive step following measurement.",
+      "Applying meaning to collected test data."
+    ]
+  },
+  {
+    "term": "face validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test appears to measure what it claims to measure.",
+      "Validity based on surface-level impression rather than statistics.",
+      "How reasonable a test looks to athletes, coaches, or observers.",
+      "Whether a test seems appropriate at first glance.",
+      "A subjective form of validity based on appearance.",
+      "Perceived relevance of a test to its stated purpose.",
+      "Validity judged by intuition rather than data.",
+      "Whether a test \"looks right\" to users."
+    ]
+  },
+  {
+    "term": "field test",
+    "aliases": [],
+    "definitions": [
+      "A test conducted outside of a laboratory setting.",
+      "Performance assessment performed in a sport or training environment.",
+      "Testing done in practical, real-world conditions.",
+      "A test emphasizing feasibility and ecological validity.",
+      "Non-laboratory assessment of physical or performance qualities.",
+      "A practical test designed for coaches and athletes.",
+      "Testing performed in gyms, fields, or sport settings.",
+      "An applied performance assessment conducted on-site."
+    ]
+  },
+  {
+    "term": "formative evaluation",
+    "aliases": [],
+    "definitions": [
+      "Ongoing assessment used to guide training adjustments.",
+      "Evaluation conducted during a program rather than after completion.",
+      "Monitoring progress to inform decision-making.",
+      "Assessment aimed at improvement rather than final judgment.",
+      "Feedback-driven evaluation during a training phase.",
+      "Evaluation used to refine and adapt a program.",
+      "Process-focused assessment supporting development.",
+      "Mid-course evaluation used to guide modifications."
+    ]
+  },
+  {
+    "term": "interrater agreement",
+    "aliases": [],
+    "definitions": [
+      "The degree to which different testers assign the same score.",
+      "How often raters give identical ratings.",
+      "Agreement level among multiple evaluators.",
+      "Consistency of scores between different testers.",
+      "Extent of score matching across raters.",
+      "Exact score concordance among evaluators.",
+      "Similarity of ratings assigned by different testers.",
+      "Rater consensus on performance scoring."
+    ]
+  },
+  {
+    "term": "interrater reliability",
+    "aliases": [],
+    "definitions": [
+      "The consistency of measurements between different testers.",
+      "Reliability based on agreement across multiple raters.",
+      "The extent to which different evaluators produce similar results.",
+      "Stability of scores regardless of who administers the test.",
+      "Reliability reflecting tester independence.",
+      "Measurement consistency across observers.",
+      "How repeatable results are between testers.",
+      "Reliability determined by rater consistency."
+    ]
+  },
+  {
+    "term": "intrarater variability",
+    "aliases": [],
+    "definitions": [
+      "Variation in measurements taken by the same tester across trials.",
+      "Inconsistency of scores from a single rater over time.",
+      "How much a tester’s ratings fluctuate.",
+      "Measurement error attributable to one evaluator.",
+      "Within-rater inconsistency across repeated measures.",
+      "Variability caused by the same tester.",
+      "Degree of score change from one rater across tests.",
+      "Stability of a tester’s own measurements."
+    ]
+  },
+  {
+    "term": "intrasubject variability",
+    "aliases": [],
+    "definitions": [
+      "Variation in performance by the same subject across repeated tests.",
+      "Natural fluctuation in an individual’s test results.",
+      "Within-subject performance inconsistency.",
+      "Day-to-day variation in test outcomes for the same person.",
+      "Changes in repeated measures from a single subject.",
+      "Biological or performance variability within an individual.",
+      "Normal performance swings across trials.",
+      "Individual performance variability over time."
+    ]
+  },
+  {
+    "term": "measurement",
+    "aliases": [],
+    "definitions": [
+      "The process of collecting quantitative data.",
+      "Assigning numbers to performance or attributes.",
+      "Objective data collection using standardized procedures.",
+      "The numerical assessment of physical variables.",
+      "Quantification of performance outcomes.",
+      "Data collection prior to evaluation.",
+      "The foundation of testing and assessment.",
+      "Objective recording of test results."
+    ]
+  },
+  {
+    "term": "midtest",
+    "aliases": [],
+    "definitions": [
+      "A test administered during a training program.",
+      "Assessment used to evaluate progress mid-program.",
+      "An intermediate test between pretest and posttest.",
+      "Progress check conducted partway through training.",
+      "Testing performed to monitor adaptation.",
+      "A checkpoint assessment during training.",
+      "Evaluation used to guide adjustments.",
+      "A performance snapshot during the program."
+    ]
+  },
+  {
+    "term": "objectivity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which test results are independent of tester judgment.",
+      "Freedom from subjective bias in measurement.",
+      "Consistency of results regardless of who administers the test.",
+      "The extent to which a test minimizes personal interpretation.",
+      "Impartiality in scoring and measurement.",
+      "Measurement accuracy unaffected by evaluator opinion.",
+      "Standardization that limits subjective influence.",
+      "Tester-neutral assessment quality."
+    ]
+  },
+  {
+    "term": "posttest",
+    "aliases": [],
+    "definitions": [
+      "A test administered after a training program.",
+      "Assessment used to evaluate training outcomes.",
+      "Final testing following an intervention.",
+      "Measurement of results after program completion.",
+      "End-point assessment for comparison with baseline.",
+      "Outcome-focused evaluation.",
+      "Testing to determine effectiveness.",
+      "Final performance assessment."
+    ]
+  },
+  {
+    "term": "predictive validity",
+    "aliases": [],
+    "definitions": [
+      "The ability of a test to predict future performance.",
+      "Validity based on forecasting outcomes.",
+      "How well a test anticipates later success or results.",
+      "Accuracy of a test in predicting future criteria.",
+      "Validity demonstrated through future performance correlation.",
+      "A forward-looking form of criterion validity.",
+      "The usefulness of a test for prediction.",
+      "How well early measures forecast later outcomes."
+    ]
+  },
+  {
+    "term": "pretest",
+    "aliases": [],
+    "definitions": [
+      "A test administered before a training program begins.",
+      "Baseline assessment prior to intervention.",
+      "Initial measurement used for comparison.",
+      "Starting-point test to establish status.",
+      "Assessment conducted before training exposure.",
+      "Baseline data collection.",
+      "Initial performance measurement.",
+      "Pre-intervention evaluation."
+    ]
+  },
+  {
+    "term": "reliability",
+    "aliases": [],
+    "definitions": [
+      "The consistency and repeatability of a test.",
+      "The ability of a test to produce stable results.",
+      "Freedom from random measurement error.",
+      "Consistency of scores across repeated trials.",
+      "Reproducibility of test outcomes.",
+      "Stability of measurement over time.",
+      "Dependability of test results.",
+      "The degree to which a test yields consistent scores."
+    ]
+  },
+  {
+    "term": "test",
+    "aliases": [],
+    "definitions": [
+      "A procedure used to measure a specific attribute.",
+      "A standardized method for assessing performance.",
+      "A formal assessment tool.",
+      "A structured way to collect measurement data.",
+      "A protocol designed to quantify performance.",
+      "An organized measurement procedure.",
+      "A tool for evaluating physical qualities.",
+      "A standardized performance assessment."
+    ]
+  },
+  {
+    "term": "test battery",
+    "aliases": [],
+    "definitions": [
+      "A group of tests used together to assess multiple variables.",
+      "A collection of assessments administered as a unit.",
+      "Multiple tests combined for comprehensive evaluation.",
+      "A suite of tests targeting different attributes.",
+      "An assessment package covering several qualities.",
+      "A multi-test evaluation strategy.",
+      "A coordinated set of measurements.",
+      "An integrated testing system."
+    ]
+  },
+  {
+    "term": "test–retest reliability",
+    "aliases": [],
+    "definitions": [
+      "The consistency of results when the same test is repeated.",
+      "Stability of scores across repeated administrations.",
+      "Reliability assessed by repeating identical tests.",
+      "Consistency over time under the same conditions.",
+      "Measurement repeatability across trials.",
+      "Temporal stability of test outcomes.",
+      "Reproducibility of test scores.",
+      "Reliability across repeated testing sessions."
+    ]
+  },
+  {
+    "term": "typical error of measurement",
+    "aliases": ["TEM"],
+    "definitions": [
+      "The standard error representing normal variation in repeated measurements.",
+      "Expected random fluctuation in test results.",
+      "An estimate of measurement noise.",
+      "The amount of error expected between trials.",
+      "Normal variation unrelated to true change.",
+      "Random measurement error magnitude.",
+      "Typical within-test variability.",
+      "The standard deviation of repeated-measure differences."
+    ]
+  },
+  {
+    "term": "validity",
+    "aliases": [],
+    "definitions": [
+      "The degree to which a test measures what it is intended to measure.",
+      "Accuracy of a test in assessing the target variable.",
+      "Truthfulness of test results.",
+      "How well a test reflects the construct of interest.",
+      "The meaningfulness of test outcomes.",
+      "The correctness of what a test claims to measure.",
+      "Evidence that a test assesses the intended attribute.",
+      "Measurement accuracy relative to purpose."
+    ]
+  }
+]

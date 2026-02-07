@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ch23_fac_q01",
+    "question": "What is the order of the four phases involved in designing a new strength and conditioning facility?",
+    "choices": [
+      "construction, predesign, design, preparation",
+      "preparation, design, construction, predesign",
+      "predesign, construction, design, preparation",
+      "predesign, design, construction, preparation"
+    ],
+    "answer_index": 3,
+    "explanation": "The correct sequence is predesign, design, construction, and preparation."
+  },
+  {
+    "id": "ch23_fac_q02",
+    "question": "A master plan should be created in which of the following phases?",
+    "choices": [
+      "predesign phase",
+      "design phase",
+      "construction phase",
+      "preparation phase"
+    ],
+    "answer_index": 0,
+    "explanation": "The master plan is developed during the predesign phase."
+  },
+  {
+    "id": "ch23_fac_q03",
+    "question": "What is the recommended minimum distance between the floor and the bottom of mirrors on the walls?",
+    "choices": [
+      "16 inches (41 cm)",
+      "18 inches (46 cm)",
+      "20 inches (51 cm)",
+      "22 inches (56 cm)"
+    ],
+    "answer_index": 2,
+    "explanation": "Mirrors should be placed at least 20 inches above the floor for safety."
+  },
+  {
+    "id": "ch23_fac_q04",
+    "question": "Which of the following is NOT a key consideration when determining the space requirements of a college strength and conditioning facility?",
+    "choices": [
+      "accessibility for the athletes",
+      "amount and type of equipment",
+      "number of athletes using the facility",
+      "number of athletic teams desiring to use the facility"
+    ],
+    "answer_index": 3,
+    "explanation": "Facility design is based on athlete numbers and usage, not the number of teams requesting access."
+  },
+  {
+    "id": "ch23_fac_q05",
+    "question": "What is the minimum recommended space between the ends of racks to provide room for spotters?",
+    "choices": [
+      "1 foot (30 cm)",
+      "2 feet (61 cm)",
+      "3 feet (91 cm)",
+      "4 feet (123 cm)"
+    ],
+    "answer_index": 2,
+    "explanation": "A minimum of 3 feet is recommended to allow adequate space for spotters."
+  }
+]

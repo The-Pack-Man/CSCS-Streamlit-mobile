@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ch05_q07",
+    "question": "Which of the following adaptations occurs FIRST during the initial weeks of a resistance training program?",
+    "choices": [
+      "muscle fiber hypertrophy",
+      "increased cross-sectional area",
+      "enhanced motor unit recruitment",
+      "increased pennation angle"
+    ],
+    "answer_index": 2,
+    "explanation": "Early strength gains are primarily due to neural adaptations such as increased motor unit recruitment and firing frequency rather than hypertrophy."
+  },
+  {
+    "id": "ch05_q08",
+    "question": "Which resistance training adaptation is MOST responsible for improvements in rate of force development?",
+    "choices": [
+      "increased muscle cross-sectional area",
+      "increased tendon stiffness",
+      "enhanced motor unit firing frequency",
+      "fiber type hypertrophy"
+    ],
+    "answer_index": 2,
+    "explanation": "Rate of force development is largely influenced by neural factors, particularly the speed and frequency of motor unit activation."
+  },
+  {
+    "id": "ch05_q09",
+    "question": "Which of the following training variables is MOST critical for maximizing neural adaptations in anaerobic resistance training?",
+    "choices": [
+      "high volume with short rest intervals",
+      "moderate load with slow tempos",
+      "heavy loads with long rest intervals",
+      "low load with high repetitions"
+    ],
+    "answer_index": 2,
+    "explanation": "Neural adaptations are maximized by high-intensity loads (≥85% 1RM) with sufficient rest to maintain force output."
+  },
+  {
+    "id": "ch05_q10",
+    "question": "Which adaptation contributes MOST to increased force transmission following chronic resistance training?",
+    "choices": [
+      "muscle fiber hypertrophy",
+      "improved neuromuscular coordination",
+      "increased tendon stiffness",
+      "enhanced capillary density"
+    ],
+    "answer_index": 2,
+    "explanation": "Increased tendon stiffness improves the transmission of muscular force to the skeletal system, enhancing strength and power output."
+  },
+  {
+    "id": "ch05_q11",
+    "question": "Which of the following changes is MOST characteristic of functional overreaching (FOR)?",
+    "choices": [
+      "long-term performance decrement",
+      "persistent mood disturbances",
+      "short-term performance decrease followed by supercompensation",
+      "chronic hormonal suppression"
+    ],
+    "answer_index": 2,
+    "explanation": "Functional overreaching involves a temporary decrease in performance that is followed by improvement after adequate recovery."
+  },
+  {
+    "id": "ch05_q12",
+    "question": "Which resistance training adaptation is MOST reversible during periods of detraining?",
+    "choices": [
+      "neural efficiency",
+      "bone mineral density",
+      "muscle fiber cross-sectional area",
+      "tendon stiffness"
+    ],
+    "answer_index": 2,
+    "explanation": "Muscle hypertrophy is lost more rapidly during detraining compared to neural or skeletal adaptations."
+  }
+]

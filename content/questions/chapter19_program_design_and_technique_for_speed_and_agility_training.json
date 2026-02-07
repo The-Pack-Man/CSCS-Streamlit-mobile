@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ch19_q01",
+    "question": "What does the term impulse refer to?",
+    "choices": [
+      "the relationship between power and velocity",
+      "the relationship between acceleration and velocity",
+      "the relationship between force and velocity",
+      "the relationship between force and time"
+    ],
+    "answer_index": 3,
+    "explanation": "Impulse is defined as the product of force and the time over which it is applied."
+  },
+  {
+    "id": "ch19_q02",
+    "question": "Elite sprinters produce __________ forces in a __________ ground contact time as compared to their novice counterparts.",
+    "choices": [
+      "larger, longer",
+      "similar, shorter",
+      "larger, shorter",
+      "smaller, longer"
+    ],
+    "answer_index": 2,
+    "explanation": "Elite sprinters apply larger forces in shorter ground contact times."
+  },
+  {
+    "id": "ch19_q03",
+    "question": "In upright sprinting, an athlete’s stride length is largely dependent on __________.",
+    "choices": [
+      "the amount of vertical force produced during the stance phase",
+      "the athlete’s flexibility",
+      "the athlete’s stride rate",
+      "the amount of horizontal force produced during the toe-off of the stance phase"
+    ],
+    "answer_index": 0,
+    "explanation": "Stride length during upright sprinting is primarily influenced by vertical force production during stance."
+  },
+  {
+    "id": "ch19_q04",
+    "question": "Drills or tests that require the athlete to move rapidly in response to a stimulus such as a whistle, arrow, or opponent are best for measuring which of the following?",
+    "choices": [
+      "change of direction",
+      "maneuverability",
+      "agility",
+      "acceleration"
+    ],
+    "answer_index": 2,
+    "explanation": "Agility involves reacting and changing movement in response to an external stimulus."
+  },
+  {
+    "id": "ch19_q05",
+    "question": "Select the aspect of training that requires additional emphasis when the aim is to improve change-of-direction ability.",
+    "choices": [
+      "strength",
+      "eccentric strength",
+      "reactive strength",
+      "rate of force development"
+    ],
+    "answer_index": 1,
+    "explanation": "Change-of-direction performance relies heavily on eccentric strength to decelerate the body effectively."
+  },
+
+  {
+    "id": "ch19_q06",
+    "question": "Which of the following sprint phases places the greatest emphasis on horizontal force production?",
+    "choices": [
+      "acceleration phase",
+      "maximum velocity phase",
+      "deceleration phase",
+      "recovery phase"
+    ],
+    "answer_index": 0,
+    "explanation": "Acceleration performance depends primarily on horizontal force application into the ground."
+  },
+  {
+    "id": "ch19_q07",
+    "question": "Which of the following BEST distinguishes change-of-direction ability from agility?",
+    "choices": [
+      "the presence of fatigue",
+      "the need for maximal speed",
+      "the requirement to react to an external stimulus",
+      "the number of direction changes"
+    ],
+    "answer_index": 2,
+    "explanation": "Agility requires reacting to an external stimulus, whereas change-of-direction ability does not."
+  },
+  {
+    "id": "ch19_q08",
+    "question": "Which of the following drills would be MOST appropriate for improving maximum velocity sprinting?",
+    "choices": [
+      "sled sprints with heavy load",
+      "short hill sprints",
+      "flying 30 m sprints",
+      "zigzag cone drills"
+    ],
+    "answer_index": 2,
+    "explanation": "Flying sprints allow athletes to train at or near maximal velocity with minimal acceleration demands."
+  },
+
+  {
+    "id": "ch19_q09",
+    "type": "wrapper",
+    "question": "For each sprint quality below, select the MOST appropriate training emphasis.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "horizontal force production",
+      "vertical force production",
+      "eccentric braking ability",
+      "reactive decision-making"
+    ],
+    "contexts": [
+      {
+        "prompt": "initial acceleration",
+        "answer_index": 0
+      },
+      {
+        "prompt": "maximum velocity sprinting",
+        "answer_index": 1
+      },
+      {
+        "prompt": "change-of-direction performance",
+        "answer_index": 2
+      },
+      {
+        "prompt": "agility performance",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Speed and agility qualities are differentiated by force direction, braking demands, and perceptual requirements."
+  },
+
+  {
+    "id": "ch19_q10",
+    "type": "wrapper",
+    "question": "For each drill below, select the MOST appropriate primary training outcome.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "acceleration",
+      "maximum velocity",
+      "change-of-direction",
+      "agility"
+    ],
+    "contexts": [
+      {
+        "prompt": "sled sprint with moderate load",
+        "answer_index": 0
+      },
+      {
+        "prompt": "flying sprint",
+        "answer_index": 1
+      },
+      {
+        "prompt": "5-10-5 shuttle run",
+        "answer_index": 2
+      },
+      {
+        "prompt": "mirror drill with a partner",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Each drill emphasizes a distinct speed or movement quality based on force direction and stimulus involvement."
+  },
+
+  {
+    "id": "ch19_q11",
+    "type": "wrapper",
+    "question": "For each training goal below, select the MOST important physical quality to emphasize.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "rate of force development",
+      "eccentric strength",
+      "maximum force production",
+      "movement reactivity"
+    ],
+    "contexts": [
+      {
+        "prompt": "improving first-step quickness",
+        "answer_index": 0
+      },
+      {
+        "prompt": "improving rapid deceleration",
+        "answer_index": 1
+      },
+      {
+        "prompt": "improving sprint acceleration against resistance",
+        "answer_index": 2
+      },
+      {
+        "prompt": "improving sport-specific agility",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Different speed and agility outcomes depend on distinct neuromuscular qualities."
+  }
+]

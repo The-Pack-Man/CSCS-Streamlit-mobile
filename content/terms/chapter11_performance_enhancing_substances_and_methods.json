@@ -1,0 +1,254 @@
+[
+  {
+    "term": "acromegaly",
+    "aliases": [],
+    "definitions": [
+      "A disorder caused by excessive growth hormone secretion in adults leading to tissue and bone enlargement.",
+      "Pathologic overproduction of growth hormone after epiphyseal closure, producing enlargement of extremities and soft tissues.",
+      "A condition typically driven by a pituitary tumor that elevates GH (and often IGF-1) in adulthood.",
+      "Excess adult GH resulting in progressive enlargement of hands, feet, jaw, and other tissues.",
+      "A chronic endocrine disorder where growth hormone is high in adults, causing abnormal growth of bones and organs.",
+      "Adult-onset GH excess that enlarges connective tissue and bones rather than increasing height.",
+      "A hormonal disorder characterized by adult GH hypersecretion with systemic effects (metabolic, cardiovascular, structural).",
+      "The clinical syndrome of adult growth hormone excess, commonly associated with pituitary adenoma and elevated IGF-1."
+    ]
+  },
+  {
+    "term": "anabolic steroid",
+    "aliases": ["anabolic-androgenic steroid", "AAS"],
+    "definitions": [
+      "Synthetic derivatives of testosterone that promote muscle growth and strength but carry major health risks.",
+      "Testosterone-like compounds designed to increase anabolic (tissue-building) effects and androgenic effects.",
+      "Performance-enhancing drugs that can increase muscle mass via androgen receptor–mediated effects on protein synthesis.",
+      "Exogenous steroid hormones used illicitly to enhance hypertrophy, strength, and recovery.",
+      "Synthetic androgens that may boost lean mass while increasing risk of cardiovascular, hepatic, and endocrine complications.",
+      "Hormone-like drugs that mimic testosterone and can alter physiology and behavior when abused.",
+      "Compounds that enhance muscle-building processes but may suppress endogenous hormone production.",
+      "A class of banned substances used to increase performance through anabolic signaling and accelerated recovery."
+    ]
+  },
+  {
+    "term": "β-agonists",
+    "aliases": ["beta-agonists", "beta-adrenergic agonists"],
+    "definitions": [
+      "Drugs that stimulate beta-adrenergic receptors; some are abused to increase lean mass and reduce fat mass.",
+      "Agents that activate β-receptors, producing effects such as bronchodilation and altered metabolism.",
+      "Substances that mimic sympathetic stimulation at beta receptors, sometimes used illicitly for body composition changes.",
+      "Pharmacologic compounds that bind beta-adrenergic receptors and can influence muscle and fat tissue.",
+      "Drugs that stimulate the sympathetic system via β-receptors and may have performance-related effects in some contexts.",
+      "Receptor agonists that can increase metabolic rate and, in some cases, promote anabolic-like changes.",
+      "Medications (often for asthma) that may be banned or restricted in sport depending on type/dose/route.",
+      "Beta-receptor stimulants whose misuse can carry cardiovascular risk and violate anti-doping rules."
+    ]
+  },
+  {
+    "term": "branched-chain amino acids",
+    "aliases": ["BCAAs", "branched-chain AAs"],
+    "definitions": [
+      "Essential amino acids leucine, isoleucine, and valine involved in muscle metabolism.",
+      "Three essential amino acids with branched side chains that can be oxidized in skeletal muscle.",
+      "Amino acids commonly associated with stimulation of muscle protein synthesis, especially via leucine signaling.",
+      "Leucine, isoleucine, and valine—essential amino acids important for recovery and training adaptation.",
+      "A subset of EAAs often supplemented for perceived recovery benefits and reduced muscle breakdown.",
+      "Essential amino acids that may serve as fuel during exercise and support post-exercise repair.",
+      "Amino acids with branched structures that are metabolized largely in muscle rather than liver.",
+      "The trio of essential amino acids (leucine, isoleucine, valine) central to muscle protein turnover."
+    ]
+  },
+  {
+    "term": "dietary supplement",
+    "aliases": ["supplement"],
+    "definitions": [
+      "A product taken orally to supplement the diet with nutrients or other substances.",
+      "An ingested product intended to add to dietary intake (e.g., vitamins, minerals, herbs, amino acids).",
+      "Oral products marketed to support health or performance beyond normal food intake.",
+      "A non-food product consumed to increase nutrient intake or deliver bioactive compounds.",
+      "Products such as powders, pills, capsules, or liquids used to augment the diet.",
+      "A category including nutrients and performance products with variable evidence and quality control.",
+      "Oral compounds used to fill nutritional gaps or attempt to enhance performance or recovery.",
+      "In sport context, a product intended to support nutrition/performance but requiring risk screening for contamination."
+    ]
+  },
+  {
+    "term": "ergogenic aid",
+    "aliases": ["ergogenic"],
+    "definitions": [
+      "Any substance, device, or practice that enhances energy production, use, or recovery to improve performance.",
+      "An intervention designed to improve physical performance capacity or output.",
+      "A method or agent that improves performance by increasing work capacity or reducing fatigue.",
+      "Any performance-enhancing strategy (nutritional, mechanical, psychological, pharmacological, or training-based).",
+      "A tool or substance used to boost performance, endurance, strength, or recovery.",
+      "A performance aid that improves efficiency, power output, or readiness for competition.",
+      "Anything that increases performance by improving physiological, biomechanical, or psychological factors.",
+      "A broad category of performance enhancers, ranging from legal nutrition strategies to banned drugs."
+    ]
+  },
+  {
+    "term": "ergolytic",
+    "aliases": ["ergolytic factor"],
+    "definitions": [
+      "A substance or factor that reduces athletic performance.",
+      "Any intervention or condition that impairs performance output or capacity.",
+      "An agent that decreases power, endurance, or recovery and worsens performance.",
+      "A performance-degrading factor, opposite of an ergogenic aid.",
+      "A substance or behavior that reduces work capacity or increases fatigue.",
+      "Anything that diminishes performance efficiency or physical output.",
+      "A factor that negatively affects performance via physiological, psychological, or biomechanical mechanisms.",
+      "A performance inhibitor that interferes with energy production, neuromuscular function, or recovery."
+    ]
+  },
+  {
+    "term": "erythropoietin (EPO)",
+    "aliases": ["EPO"],
+    "definitions": [
+      "A hormone that stimulates red blood cell production in the bone marrow.",
+      "A renal-derived hormone that increases erythropoiesis, raising oxygen-carrying capacity.",
+      "A hormone used clinically for anemia but abused in sport to enhance endurance via increased RBC mass.",
+      "A blood-forming hormone that can improve oxygen delivery when RBC count rises.",
+      "A physiological signal (mainly from kidneys) that responds to low oxygen by increasing red blood cell production.",
+      "A hormone that increases hematocrit/hemoglobin when elevated, affecting aerobic performance potential.",
+      "A banned/regulated performance-enhancing drug when used illicitly to increase oxygen transport.",
+      "A hormone that boosts RBC synthesis but whose misuse increases blood viscosity and cardiovascular risk."
+    ]
+  },
+  {
+    "term": "essential amino acids",
+    "aliases": ["EAAs", "indispensable amino acids"],
+    "definitions": [
+      "Amino acids the body cannot synthesize and must obtain from the diet.",
+      "Diet-required amino acids necessary for protein synthesis and normal function.",
+      "Indispensable amino acids that must be consumed because endogenous production is insufficient.",
+      "The amino acids that must come from food to support growth, repair, and muscle protein synthesis.",
+      "Amino acids that are required in the diet to prevent deficiency and maintain protein balance.",
+      "Dietary amino acids that the body cannot make in adequate amounts for metabolic needs.",
+      "Amino acids that must be ingested to fully support tissue repair and adaptation.",
+      "The subset of amino acids that are nutritionally required because humans cannot synthesize them."
+    ]
+  },
+  {
+    "term": "human growth hormone (HGH)",
+    "aliases": ["growth hormone", "GH", "somatotropin"],
+    "definitions": [
+      "A hormone that stimulates growth, cell reproduction, and regeneration; misuse can cause serious health problems.",
+      "A pituitary hormone that promotes growth and influences metabolism directly and via IGF-1.",
+      "Somatotropin—an endocrine hormone that affects tissue growth, nutrient partitioning, and recovery processes.",
+      "A hormone sometimes abused for performance or physique goals despite limited benefits and significant risks.",
+      "A pituitary-derived hormone that increases IGF-1 signaling and influences protein and fat metabolism.",
+      "A growth-regulating hormone whose excess in adults can contribute to acromegaly-like effects.",
+      "A hormone that supports growth and repair but is banned/misused in sport with potential adverse outcomes.",
+      "An anabolic-associated hormone that affects metabolism and growth pathways, with misuse linked to edema, insulin resistance, and tissue overgrowth."
+    ]
+  },
+  {
+    "term": "lipolysis",
+    "aliases": [],
+    "definitions": [
+      "The breakdown of triglycerides into free fatty acids and glycerol for energy use.",
+      "Hydrolysis of stored fat into fatty acids that can be oxidized and glycerol that can enter metabolism.",
+      "A metabolic process that mobilizes fat stores by splitting triglycerides.",
+      "Fat breakdown that increases circulating free fatty acids for use as fuel.",
+      "The catabolic pathway that releases fatty acids from adipose tissue triglycerides.",
+      "The process of mobilizing stored fat for energy, especially during fasting or endurance exercise.",
+      "Triglyceride breakdown into components used for oxidation or gluconeogenesis (via glycerol).",
+      "A fuel-mobilization process where stored fat is converted into usable substrates for metabolism."
+    ]
+  },
+  {
+    "term": "muscle buffering capacity (MBC)",
+    "aliases": ["buffering capacity"],
+    "definitions": [
+      "The ability of muscle to resist changes in pH during high-intensity exercise by buffering hydrogen ions.",
+      "A muscle’s capacity to neutralize or tolerate acid-base disturbances during intense glycolytic work.",
+      "Physiological ability to limit intramuscular pH drop when H+ accumulates during hard efforts.",
+      "The capability of muscle to maintain pH stability during fatiguing, high-intensity exercise.",
+      "A performance-related trait affecting tolerance to metabolic acidosis during repeated sprints or intervals.",
+      "The muscle-level defense against excessive acidity, helping sustain force and power output.",
+      "Capacity to buffer H+ produced during ATP hydrolysis and intense glycolysis, delaying fatigue.",
+      "A factor contributing to high-intensity performance by resisting pH decline in working muscle."
+    ]
+  },
+  {
+    "term": "muscle dysmorphia",
+    "aliases": ["bigorexia"],
+    "definitions": [
+      "A psychological disorder characterized by obsessive belief that one’s muscles are insufficiently developed.",
+      "A body image disturbance where a person perceives themselves as not muscular enough despite adequate size.",
+      "A condition involving compulsive concerns about muscularity leading to distress and impaired functioning.",
+      "An obsessive focus on being leaner/more muscular that can drive harmful training or dietary behaviors.",
+      "A subtype of body dysmorphic disorder centered on perceived lack of muscularity.",
+      "A body image disorder associated with excessive exercise, rigid diet rules, and sometimes substance misuse.",
+      "Persistent preoccupation with muscular inadequacy that affects behavior and self-esteem.",
+      "A psychological pattern where perceived “smallness” persists regardless of actual muscular development."
+    ]
+  },
+  {
+    "term": "random drug tests",
+    "aliases": ["unannounced testing", "random testing"],
+    "definitions": [
+      "Unannounced testing procedures used to detect banned performance-enhancing substances.",
+      "Drug tests conducted without prior notice to reduce evasion and deter doping.",
+      "No-advance-warning anti-doping tests intended to identify prohibited substances or methods.",
+      "Testing scheduled unpredictably to improve detection probability of banned agents.",
+      "A deterrence strategy where athletes can be tested at any time without warning.",
+      "Anti-doping tests performed on a random/unannounced basis to increase compliance.",
+      "A monitoring system using surprise tests to reduce timing strategies for drug use.",
+      "Unpredictable substance testing designed to detect prohibited performance-enhancing drug use."
+    ]
+  },
+  {
+    "term": "stacking",
+    "aliases": [],
+    "definitions": [
+      "The practice of using multiple performance-enhancing substances simultaneously to amplify effects.",
+      "Combining several drugs or supplements at the same time in an attempt to increase performance outcomes.",
+      "Using multiple agents concurrently to target different mechanisms or increase total dosing impact.",
+      "A doping strategy involving more than one substance to enhance anabolic or recovery effects.",
+      "Simultaneous use of multiple performance-enhancing compounds to attempt synergistic results.",
+      "Combining different substances (often anabolic agents) to maximize perceived gains.",
+      "The concurrent administration of multiple ergogenic drugs, increasing complexity and risk.",
+      "A high-risk practice of mixing multiple performance-enhancing substances to intensify effects."
+    ]
+  },
+  {
+    "term": "testosterone",
+    "aliases": ["T"],
+    "definitions": [
+      "A primary male sex hormone that plays a key role in muscle growth, strength, and recovery.",
+      "An androgen hormone involved in development of male characteristics and regulation of protein metabolism.",
+      "A steroid hormone that binds androgen receptors influencing muscle protein synthesis and neuromuscular function.",
+      "A hormone important for libido, red blood cell production, and muscle and bone maintenance.",
+      "The primary androgen that supports anabolic processes and recovery when within healthy physiological ranges.",
+      "A sex hormone that affects body composition, strength potential, and training adaptation.",
+      "A steroid hormone that can be administered exogenously as an anabolic-androgenic drug (banned in sport).",
+      "An androgen influencing muscle mass and performance potential, with deficiency or excess impacting health."
+    ]
+  },
+  {
+    "term": "thermogenesis",
+    "aliases": [],
+    "definitions": [
+      "The production of heat through metabolic processes.",
+      "Heat generation resulting from energy expenditure in the body.",
+      "Metabolic heat production that contributes to total energy expenditure.",
+      "The physiological process of producing heat, often increased by activity, diet, or stimulants.",
+      "Heat generation via metabolism, including basal metabolism and diet-induced thermogenesis.",
+      "The conversion of chemical energy into heat during metabolic reactions.",
+      "A component of energy balance describing heat output from metabolism and activity.",
+      "Body heat production that can rise with sympathetic stimulation, feeding, or environmental demands."
+    ]
+  },
+  {
+    "term": "vasodilation",
+    "aliases": [],
+    "definitions": [
+      "The widening of blood vessels, increasing blood flow to tissues.",
+      "An increase in vessel diameter due to relaxation of smooth muscle in the vessel wall.",
+      "A cardiovascular response that decreases vascular resistance and enhances tissue perfusion.",
+      "Expansion of arterioles/arteries that increases blood delivery and can lower blood pressure.",
+      "A process that improves blood flow by reducing constriction in the vasculature.",
+      "Relaxation-driven enlargement of blood vessels that raises local or systemic blood flow.",
+      "A mechanism that increases perfusion to working muscle during exercise.",
+      "Widening of vessels that reduces resistance and increases blood flow, often mediated by nitric oxide and local metabolites."
+    ]
+  }
+]

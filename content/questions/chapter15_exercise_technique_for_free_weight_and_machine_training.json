@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ch15_q01",
+    "question": "Which of the following exercises requires a spotter?",
+    "choices": [
+      "lat pulldown",
+      "wrist curl",
+      "barbell bench press",
+      "step-up"
+    ],
+    "answer_index": 2,
+    "explanation": "Barbell bench press requires a spotter due to the risk of being trapped under the load at failure."
+  },
+  {
+    "id": "ch15_q02",
+    "question": "During which of the following exercises should a spotter’s hands be placed on the athlete’s forearms near the wrists?",
+    "choices": [
+      "bench press",
+      "incline dumbbell bench press",
+      "upright row",
+      "lying barbell triceps extension"
+    ],
+    "answer_index": 1,
+    "explanation": "For incline dumbbell bench press, the spotter assists by supporting the athlete’s forearms near the wrists."
+  },
+  {
+    "id": "ch15_q03",
+    "question": "Which of the following grips should be used during the deadlift exercise?\n\nI. overhand\nII. closed\nIII. open\nIV. alternated",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and IV only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 2,
+    "explanation": "The deadlift requires a closed grip, which may be overhand or alternated; open grips are unsafe."
+  },
+  {
+    "id": "ch15_q04",
+    "question": "Which of the following is the correct foot pattern in the step-up exercise?",
+    "choices": [
+      "step up left foot, step up right foot, step down left foot, step down right foot",
+      "step up right foot, step up left foot, step down left foot, step down right foot",
+      "step up left foot, step down left foot, step up right foot, step down right foot",
+      "step up right foot, step up left foot, step down right foot, step down left foot"
+    ],
+    "answer_index": 3,
+    "explanation": "The athlete should step up and step down with the same lead foot before switching sides."
+  },
+  {
+    "id": "ch15_q05",
+    "question": "The primary movement during the second pull phase of the power clean exercise is",
+    "choices": [
+      "hip flexion",
+      "hip extension",
+      "knee flexion",
+      "dorsiflexion"
+    ],
+    "answer_index": 1,
+    "explanation": "The second pull of the power clean is characterized by explosive hip extension."
+  },
+
+  {
+    "id": "ch15_q06",
+    "question": "Which of the following exercises should NOT be spotted?",
+    "choices": [
+      "back squat",
+      "bench press",
+      "power clean",
+      "incline barbell press"
+    ],
+    "answer_index": 2,
+    "explanation": "Olympic lifts such as the power clean should not be spotted; failed lifts should be dropped safely."
+  },
+  {
+    "id": "ch15_q07",
+    "question": "When spotting a barbell back squat, where should the spotter be positioned?",
+    "choices": [
+      "behind the lifter with hands under the rib cage",
+      "in front of the lifter with hands on the bar",
+      "to the side of the lifter near the hips",
+      "behind the lifter with hands near the torso"
+    ],
+    "answer_index": 3,
+    "explanation": "For the back squat, the spotter stands behind the lifter with hands near the torso to assist upward movement if needed."
+  },
+  {
+    "id": "ch15_q08",
+    "question": "Which of the following exercises typically requires two spotters, one on each side of the bar?",
+    "choices": [
+      "bench press",
+      "overhead press",
+      "back squat with heavy loads",
+      "lat pulldown"
+    ],
+    "answer_index": 2,
+    "explanation": "Heavy back squats often require two side spotters (and sometimes a rear spotter) for maximal safety."
+  },
+  {
+    "id": "ch15_q09",
+    "question": "Which of the following cues BEST ensures proper bar path during the bench press?",
+    "choices": [
+      "lower the bar to the neck",
+      "keep elbows flared throughout the lift",
+      "lower the bar to mid-chest",
+      "press the bar in a straight vertical line"
+    ],
+    "answer_index": 2,
+    "explanation": "Lowering the bar to the mid-chest promotes a safe and efficient bar path during the bench press."
+  },
+  {
+    "id": "ch15_q10",
+    "question": "Which of the following techniques is MOST important for ensuring safety during resistance training?",
+    "choices": [
+      "training to failure on all sets",
+      "maintaining proper lifting technique",
+      "using advanced overload methods",
+      "minimizing rest intervals"
+    ],
+    "answer_index": 1,
+    "explanation": "Proper lifting technique is the most critical factor in preventing injury during resistance training."
+  }
+]

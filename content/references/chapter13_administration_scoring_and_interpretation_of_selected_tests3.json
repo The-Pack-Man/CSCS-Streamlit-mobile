@@ -1,0 +1,572 @@
+[
+  {
+    "id": "ch13_13_22_straight_line_sprint_tests",
+    "chapter": "13",
+    "section": "13.22",
+    "title": "Straight-Line Sprint Tests",
+    "kind": "protocol",
+    "tags": ["speed", "testing", "sprint"],
+    "equipment": [
+      "Stopwatch or timing lights",
+      "Flat running surface with start/finish lines at set distances (e.g., 10 m, 20 m, 40 m or 40 yd/37 m) with sufficient run-out for deceleration"
+    ],
+    "personnel": [
+      "One timer/recorder"
+    ],
+    "procedure": [
+      "Warm up and dynamic stretching for several minutes",
+      "At least two practice runs at submaximal speed",
+      "Start position uses a three- or four-point stance",
+      "On an auditory signal, sprint the specified distance at maximal speed",
+      "Record best split time from two trials (nearest 0.1 s)",
+      "Allow at least ~2 minutes recovery (active or rest) between trials"
+    ],
+    "notes": [
+      "Normative data referenced in a chapter table (10 m, 20 m, 40 m, and 40-yard/37 m)."
+    ]
+  },
+  {
+    "id": "ch13_13_20_pro_agility_test",
+    "chapter": "13",
+    "section": "13.20",
+    "title": "Pro Agility Test (20-yard shuttle)",
+    "kind": "protocol",
+    "tags": ["agility", "testing", "change_of_direction"],
+    "equipment": [
+      "Field marked with three parallel lines 5 yards (4.6 m) apart",
+      "Stopwatch"
+    ],
+    "personnel": [
+      "One timer/recorder",
+      "One line judge"
+    ],
+    "procedure": [
+      "Athlete straddles center line in a three-point stance",
+      "On signal: sprint 5 yd to one side line, touch with hand (keep consistent hand/contact rules across trials)",
+      "Change direction and sprint 10 yd to far line, touch",
+      "Change direction and sprint 5 yd back through center line",
+      "Record best of two trials (nearest 0.01 s)"
+    ],
+    "notes": [
+      "Normative data referenced in a chapter table near the end."
+    ]
+  },
+  {
+    "id": "ch13_13_21_505_agility_test",
+    "chapter": "13",
+    "section": "13.21",
+    "title": "505 Agility Test",
+    "kind": "protocol",
+    "tags": ["agility", "testing", "change_of_direction"],
+    "equipment": [
+      "Cones (layout per figure)",
+      "Stopwatch or timing lights"
+    ],
+    "personnel": [
+      "One timer/recorder",
+      "One line judge"
+    ],
+    "procedure": [
+      "Set up cones and timing per layout",
+      "Warm up; allow practice at submax effort",
+      "Start at start line",
+      "On signal: sprint 10 m to timing gate, then continue ~5 m to turning line",
+      "At turning line: one foot must be on/over the line, turn and accelerate back",
+      "Time recorded when passing back through timing system",
+      "Best of two trials recorded (nearest 0.1 s)",
+      "Trials can be done turning off preferred leg; can also test both legs"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_19_hexagon_test",
+    "chapter": "13",
+    "section": "13.19",
+    "title": "Hexagon Test",
+    "kind": "protocol",
+    "tags": ["agility", "testing", "jumping", "coordination"],
+    "equipment": [
+      "Adhesive tape (contrasting color)",
+      "Measuring tape or stick",
+      "Stopwatch",
+      "Flat floor with good traction"
+    ],
+    "personnel": [
+      "One timer/recorder",
+      "One line judge"
+    ],
+    "procedure": [
+      "Tape a hexagon on the floor (commonly 24-inch / 61 cm sides, 120° angles per figure)",
+      "Warm up and practice at submax effort",
+      "Start standing in the center",
+      "On signal: double-leg hop out and back to center, moving around the hexagon in a clockwise sequence until completing the prescribed number of revolutions/jumps",
+      "If athlete lands on a side, loses balance, adds steps, or changes facing direction: stop and restart after recovery",
+      "Record best time of three trials (nearest 0.1 s)"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_18_t_test",
+    "chapter": "13",
+    "section": "13.18",
+    "title": "T-Test",
+    "kind": "protocol",
+    "tags": ["agility", "testing", "change_of_direction"],
+    "equipment": [
+      "Four cones",
+      "Measuring tape (>= 5 yards / 4.6 m)",
+      "Stopwatch",
+      "Flat floor with good traction"
+    ],
+    "personnel": [
+      "One tester/recorder",
+      "One spotter"
+    ],
+    "procedure": [
+      "Arrange cones in T layout (per figure)",
+      "Warm up and stretch; allow practice run",
+      "Start at point A",
+      "On signal: sprint forward to B and touch cone base with right hand",
+      "Shuffle left to C and touch with left hand (no crossing feet, stay facing forward)",
+      "Shuffle right across to D and touch with right hand",
+      "Shuffle left back to B and touch with left hand, then run backward past A to finish (timer stops)",
+      "Record best of two trials (nearest 0.1 s)",
+      "Disqualify if athlete fails to touch base, crosses feet during shuffle, or fails to face forward for the test"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_17_maximal_aerobic_speed_test",
+    "chapter": "13",
+    "section": "13.17",
+    "title": "Maximal Aerobic Speed (MAS) Test",
+    "kind": "protocol",
+    "tags": ["aerobic_capacity", "testing", "vo2max"],
+    "equipment": [
+      "Cones",
+      "Tape measure (>= 30 m)",
+      "Audio software for MAS test and a way to broadcast audio (e.g., speakers)",
+      "Recording sheet",
+      "Indoor/outdoor running track (>= 200 m)"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Place marker cones at fixed intervals around track (e.g., 25 m)",
+      "Set initial speed based on fitness (commonly 8–12 km/h; often start at ~10 km/h)",
+      "Increase speed by 1 km/h every 2 minutes until athlete cannot maintain pace",
+      "Speed maintained for at least ~2 minutes is treated as MAS (associated with VO2max)",
+      "Terminate when athlete fails to reach the next cone on two consecutive occasions",
+      "If athlete completes half-stage: final speed can be adjusted by +0.5 km/h",
+      "Estimate VO2max as 3.5 × MAS (km/h)"
+    ],
+    "notes": [
+      "Norms referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_16_yoyo_irt",
+    "chapter": "13",
+    "section": "13.16",
+    "title": "Yo-Yo Intermittent Recovery Test (IRT1/IRT2)",
+    "kind": "protocol",
+    "tags": ["aerobic_capacity", "testing", "intermittent"],
+    "equipment": [
+      "Cones",
+      "Tape measure (>= 30 m)",
+      "Yo-Yo IRT audio and playback method (e.g., speakers)",
+      "Recording sheet",
+      "Flat floor/surface with good traction"
+    ],
+    "personnel": [
+      "One tester/recorder",
+      "One spotter"
+    ],
+    "procedure": [
+      "Set up a 20 m shuttle with markers (and a recovery/jog zone as specified by the protocol)",
+      "Warm up; allow practice at submax effort",
+      "Begin at start line",
+      "On audio signal: run to turning line and back in time with beeps; jog recovery during designated recovery intervals",
+      "Athlete must place one foot on/over lines at each beep",
+      "Continue while maintaining required pace indicated by audio",
+      "Terminate after failing to reach the line on time for two trials (with a warning after first miss)",
+      "Record last level and number of shuttles completed; use final score to compute total distance covered (per protocol)"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_14_15_1_5mile_and_12min_run",
+    "chapter": "13",
+    "section": "13.14-13.15",
+    "title": "1.5-Mile Run and 12-Minute Run",
+    "kind": "protocol",
+    "tags": ["aerobic_capacity", "testing"],
+    "equipment": [
+      "Stopwatch",
+      "Measured running course or track (1.5-mile / 2.4 km; alternate course acceptable)",
+      "For 12-min run: track or loop with distance markers"
+    ],
+    "personnel": [
+      "For 1.5-mile: one tester calling out each athlete’s time + one recorder",
+      "For 12-min: one tester calling out positions + one recorder"
+    ],
+    "procedure": [
+      "1.5-mile: warm up; start on signal; complete as fast as possible; record finishing time (mm:ss)",
+      "12-min: warm up; start on signal; cover as much distance as possible in 12 minutes; record total distance"
+    ],
+    "notes": [
+      "Normative data referenced in chapter tables; tables may also estimate VO2max or related metrics."
+    ]
+  },
+  {
+    "id": "ch13_13_13_ymca_bench_press_test",
+    "chapter": "13",
+    "section": "13.13",
+    "title": "YMCA Bench Press Test",
+    "kind": "protocol",
+    "tags": ["local_muscular_endurance", "testing"],
+    "equipment": [
+      "Barbell, plates, locks sufficient to load 80 lb (36 kg) for males or 35 lb (16 kg) for females (including locks)",
+      "Flat bench press station with rack (preferably upright rack)",
+      "Metronome"
+    ],
+    "personnel": [
+      "One spotter/recorder"
+    ],
+    "procedure": [
+      "Teach proper bench press technique",
+      "Spotter/recorder stands at head of bench to assist on failed reps and record reps",
+      "Set resistance: 80 lb males / 35 lb females",
+      "Set metronome cadence at 60 bpm (≈30 reps/min; one beat up, one beat down)",
+      "Grip shoulder-width; lift off rack; extend elbows",
+      "Perform repetitions in time with metronome until cadence cannot be maintained",
+      "Movement should be smooth/controlled; full ROM consistent with protocol"
+    ],
+    "notes": [
+      "Normative data referenced in chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_12_push_up_test",
+    "chapter": "13",
+    "section": "13.12",
+    "title": "Push-Up Test (Army / ACSM variants)",
+    "kind": "protocol",
+    "tags": ["local_muscular_endurance", "testing"],
+    "equipment": [
+      "Foam roller (4-inch diameter) used as a depth marker for some female protocols"
+    ],
+    "personnel": [
+      "One recorder/technique judge"
+    ],
+    "procedure": [
+      "Protocol differs by standard (Army vs ACSM) and by sex (ACSM female uses knees/ankles crossed)",
+      "For Army: standard push-up position; low position typically defined by upper arms parallel to floor",
+      "For ACSM males: low position when chest contacts judge’s fist held vertically; females may use foam roller torso contact as depth marker",
+      "Reps not meeting depth are not counted",
+      "Army: as many reps as possible in timed ~2-minute period; pausing allowed only in up position",
+      "ACSM: as many reps as possible continuously until fatigue"
+    ],
+    "notes": [
+      "Normative data referenced in chapter tables; Army scoring points referenced in a separate table."
+    ]
+  },
+  {
+    "id": "ch13_13_11_partial_curl_up_test",
+    "chapter": "13",
+    "section": "13.11",
+    "title": "Partial Curl-Up Test",
+    "kind": "protocol",
+    "tags": ["local_muscular_endurance", "testing"],
+    "equipment": [
+      "Metronome",
+      "Ruler",
+      "Masking tape",
+      "Mat"
+    ],
+    "personnel": [
+      "One recorder/technique judge"
+    ],
+    "procedure": [
+      "Supine on mat with knees bent (~90°); arms at sides with fingers touching a tape marker",
+      "Set a second tape marker perpendicular/parallel based on age-related distance guideline",
+      "Set metronome to 40 bpm; perform controlled curl-ups at set cadence (commonly 20 curl-ups/min)",
+      "Upper back touches floor before each rep; avoid neck flexion",
+      "Continue without pausing up to a maximum cap (e.g., 75) depending on protocol"
+    ],
+    "notes": [
+      "Normative data referenced in chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_10_300yd_shuttle",
+    "chapter": "13",
+    "section": "13.10",
+    "title": "300-Yard (274 m) Shuttle",
+    "kind": "protocol",
+    "tags": ["anaerobic_capacity", "testing"],
+    "equipment": [
+      "Stopwatch with at least 0.1-second resolution",
+      "Two parallel lines 25 yards (22.86 m) apart on a flat surface"
+    ],
+    "personnel": [
+      "One timer",
+      "Two line judges"
+    ],
+    "procedure": [
+      "Pair athletes of similar ability",
+      "Start behind one line facing the opposite line",
+      "On signal: sprint to opposite line (touch with foot contact), turn and sprint back; complete six round trips (6 × 50 yd = 300 yd)",
+      "Record trial time to nearest 0.1 s",
+      "Rest interval ~5 minutes between trials; keep athletes alert for second trial start",
+      "Average of two trials recorded to nearest 0.1 s"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_9_margaria_kalamen_test",
+    "chapter": "13",
+    "section": "13.9",
+    "title": "Margaría–Kalamen Stair Sprint Test",
+    "kind": "protocol",
+    "tags": ["power", "testing"],
+    "equipment": [
+      "Staircase with ~9+ steps (~7 in / 18 cm each) and straight approach area (~20 ft / 6 m)",
+      "Measuring tape or stick",
+      "Electronic timing with start/stop switch mechanisms",
+      "Scale"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Measure step height and compute vertical rise from third to ninth step (6 × step height)",
+      "Place start switch on third step and stop switch on ninth step",
+      "Weigh athlete; warm up; practice running stairs three steps at a time",
+      "Sprint from a standing start ~20 ft from stairs; run up three steps at a time",
+      "Record time from third to ninth step contact (nearest 0.01 s)",
+      "Compute power using body weight (in newtons) × vertical rise (m) ÷ time (s)",
+      "Repeat 2–3 trials with ~2–3 minutes recovery"
+    ],
+    "notes": [
+      "Normative data referenced in chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_8_reactive_strength_index",
+    "chapter": "13",
+    "section": "13.8",
+    "title": "Reactive Strength Index (RSI) / Drop Jump Test",
+    "kind": "protocol",
+    "tags": ["power", "testing", "plyometrics"],
+    "equipment": [
+      "Boxes of varying heights (example: 20 cm, 30 cm, 40 cm)",
+      "Device to measure contact time and jump height (e.g., jump/contact mat system)"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Stand on box with contact mat placed in front",
+      "Hands on hips; step forward off box (do not jump up or down)",
+      "On ground contact: jump as high as possible while minimizing contact time",
+      "Keep strategy consistent across trials",
+      "Record jump height and contact time; take best of three trials",
+      "Compute RSI as jump height ÷ contact time",
+      "Repeat using multiple box heights to profile stretch tolerance"
+    ]
+  },
+  {
+    "id": "ch13_13_7_static_vertical_jump",
+    "chapter": "13",
+    "section": "13.7",
+    "title": "Static Vertical Jump (Squat Jump) using Contact Mat",
+    "kind": "protocol",
+    "tags": ["power", "testing", "jump"],
+    "equipment": [
+      "Contact mat system or force plate system"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Begin standing on mat (countermovement removed)",
+      "Descend to squat position (~110° knee angle) and hold 2–3 seconds",
+      "Jump vertically",
+      "Record jump height; best of three trials",
+      "Optional: compute eccentric utilization ratio vs countermovement jump"
+    ],
+    "notes": [
+      "Descriptive data referenced in a chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_6_vertical_jump",
+    "chapter": "13",
+    "section": "13.6",
+    "title": "Vertical Jump (Wall/Chalk or Vertec device)",
+    "kind": "protocol",
+    "tags": ["power", "testing", "jump"],
+    "equipment": [
+      "Smooth wall taller than jump reach",
+      "Flat floor with good traction",
+      "Chalk (different color)",
+      "Measuring tape or stick",
+      "Alternative: commercial vertical jump device (e.g., Vertec)"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Wall/chalk: mark standing reach height with dominant hand",
+      "Perform countermovement jump and mark highest touch; score is difference between marks",
+      "Record best of three trials (typical precision: ~0.5 in / 1 cm)",
+      "Vertec: set vane stack to standing reach; adjust height; jump and tap highest possible vane; score is difference between reach height and highest vane"
+    ],
+    "notes": [
+      "Descriptive data referenced in chapter table."
+    ]
+  },
+  {
+    "id": "ch13_13_4_1rm_power_clean",
+    "chapter": "13",
+    "section": "13.4",
+    "title": "1RM Power Clean",
+    "kind": "protocol",
+    "tags": ["max_strength", "power", "testing", "olympic_lift"],
+    "equipment": [
+      "Olympic-style barbell with revolving sleeves + plates + safety locks",
+      "Lifting platform or designated safe lifting area"
+    ],
+    "personnel": [
+      "One tester/recorder"
+    ],
+    "procedure": [
+      "Teach proper power clean technique",
+      "Perform warm-up sets and incremental loading similar to 1RM testing procedures (e.g., bench)",
+      "Refer to standard 1RM testing protocol for attempt structure"
+    ],
+    "notes": [
+      "Acknowledges that technical demand can cause athletes with similar power capacity to test differently; interpret accordingly.",
+      "Normative/descriptive data referenced in chapter tables."
+    ]
+  },
+  {
+    "id": "ch13_13_5_standing_long_jump",
+    "chapter": "13",
+    "section": "13.5",
+    "title": "Standing Long Jump",
+    "kind": "protocol",
+    "tags": ["power", "testing", "jump"],
+    "equipment": [
+      "Flat jumping area (~20 ft / 6 m)",
+      "Tape measure (>= 10 ft / 3 m)",
+      "Duct tape or masking tape",
+      "Alternative: commercial jump mat with marked increments"
+    ],
+    "personnel": [
+      "One distance judge",
+      "One recorder"
+    ],
+    "procedure": [
+      "Mark a starting line (tape)",
+      "Athlete stands with toes behind line",
+      "Countermovement and jump forward as far as possible",
+      "Must land on both feet; otherwise repeat trial",
+      "Measure from start line to back edge of rearmost heel",
+      "Record best of three trials (nearest 0.5 in / 1 cm)"
+    ],
+    "notes": [
+      "Normative/descriptive data referenced in chapter tables."
+    ]
+  },
+  {
+    "id": "ch13_13_3_1rm_back_squat",
+    "chapter": "13",
+    "section": "13.3",
+    "title": "1RM Back Squat",
+    "kind": "protocol",
+    "tags": ["max_strength", "testing"],
+    "equipment": [
+      "Barbell, plates, safety locks",
+      "Sturdy squat rack with adjustable spotting bars (or spotters)",
+      "Flat/solid surface"
+    ],
+    "personnel": [
+      "Two spotters",
+      "One recorder"
+    ],
+    "procedure": [
+      "Teach proper back squat technique",
+      "Warm-up sets and loading increments similar to 1RM bench, but generally heavier attempts/increments",
+      "Use standard 1RM testing protocol structure"
+    ],
+    "notes": [
+      "Normative/descriptive data referenced in chapter tables."
+    ]
+  },
+  {
+    "id": "ch13_13_1_1rm_bench_press",
+    "chapter": "13",
+    "section": "13.1",
+    "title": "1RM Bench Press",
+    "kind": "protocol",
+    "tags": ["max_strength", "testing"],
+    "equipment": [
+      "Barbell, plates, safety locks",
+      "Sturdy bench press bench with integral bar rack (preferably adjustable height)"
+    ],
+    "personnel": [
+      "One spotter",
+      "One recorder"
+    ],
+    "procedure": [
+      "Teach proper flat bench technique",
+      "Spotter stays at head of bench to assist if needed",
+      "Use specific warm-up and progressive load attempts",
+      "Typically complete a couple heavier warm-up sets of a few reps before first true 1RM attempt",
+      "Aim to find 1RM within ~3–5 heavy attempts after warm-up to limit fatigue"
+    ],
+    "notes": [
+      "Detailed step-by-step 1RM protocol referenced elsewhere in the book (figure).",
+      "Normative/descriptive data referenced in chapter tables."
+    ]
+  },
+  {
+    "id": "ch13_13_2_1rm_bench_pull",
+    "chapter": "13",
+    "section": "13.2",
+    "title": "1RM Bench Pull",
+    "kind": "protocol",
+    "tags": ["max_strength", "testing", "upper_back"],
+    "equipment": [
+      "Barbell, plates, safety locks",
+      "Sturdy bench"
+    ],
+    "personnel": [
+      "One spotter",
+      "One recorder"
+    ],
+    "procedure": [
+      "Teach proper bench pull setup and technique (per figure)",
+      "Closed pronated grip wider than shoulder width",
+      "Bench height allows comfortable hang position without plates touching ground",
+      "Start from hang position; maintain consistent grip and setup",
+      "Follow standard 1RM protocol attempt structure"
+    ],
+    "notes": [
+      "Normative/descriptive data referenced in chapter table."
+    ]
+  }
+]

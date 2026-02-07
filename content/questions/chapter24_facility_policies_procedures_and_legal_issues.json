@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ch24_q01",
+    "question": "What is the recommended coach-to-participant ratio during peak weight room usage time in a collegiate setting?",
+    "choices": [
+      "1:10",
+      "1:15",
+      "1:20",
+      "1:25"
+    ],
+    "answer_index": 2,
+    "explanation": "A 1:20 coach-to-participant ratio is recommended during peak collegiate weight room usage."
+  },
+  {
+    "id": "ch24_q02",
+    "question": "Which of the following individuals is responsible for allowing an athlete to begin formal involvement in a strength and conditioning program?",
+    "choices": [
+      "athletic director",
+      "athlete’s parent or guardian",
+      "team’s certified athletic trainer",
+      "strength and conditioning professional"
+    ],
+    "answer_index": 2,
+    "explanation": "Medical clearance to participate is provided by the certified athletic trainer."
+  },
+  {
+    "id": "ch24_q03",
+    "question": "Proper documentation is essential to the strength and conditioning facility. Which of the following is NOT part of the records that should be kept on file?",
+    "choices": [
+      "manufacturer’s user’s manual",
+      "participant training logs",
+      "written emergency plan",
+      "medical health history"
+    ],
+    "answer_index": 3,
+    "explanation": "Participant training logs are not a required administrative document for facility liability management."
+  },
+  {
+    "id": "ch24_q04",
+    "question": "The strength and conditioning professional’s knowledge and skill development includes competencies in all of the following EXCEPT",
+    "choices": [
+      "exercise and sport science",
+      "administration and management",
+      "finance and appraisal",
+      "teaching and coaching"
+    ],
+    "answer_index": 2,
+    "explanation": "Finance and appraisal are not core competency domains for strength and conditioning professionals."
+  },
+  {
+    "id": "ch24_q05",
+    "question": "Which of the following is NOT a component of an emergency plan?",
+    "choices": [
+      "emergency medicine",
+      "emergency communication",
+      "emergency equipment",
+      "emergency personnel"
+    ],
+    "answer_index": 0,
+    "explanation": "Emergency plans include communication, equipment, and personnel, but not emergency medicine."
+  }
+]

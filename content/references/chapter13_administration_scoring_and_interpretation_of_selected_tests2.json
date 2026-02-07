@@ -1,0 +1,361 @@
+[
+  {
+    "id": "ch13:13.11:partial_curl_up",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.11",
+    "title": "Partial Curl-Up",
+    "category": "Local Muscular Endurance",
+    "tags": ["protocol", "test", "endurance", "core"],
+    "equipment": ["Metronome", "Ruler", "Masking tape", "Mat"],
+    "personnel": ["One recorder/technique judge"],
+    "procedure": [
+      "Assume supine position on a mat with knees at 90°. Arms at sides, resting on floor; fingertips touch a 4-in (10 cm) piece of masking tape.",
+      "Place a second tape strip perpendicular to fingers. Place a third strip parallel to the first at a distance determined by age: 4.7 in (12 cm) if <45 years, 3.1 in (8 cm) if ≥45 years.",
+      "Set metronome to 40 beats/min; perform slow controlled curl-ups to lift shoulder blades off mat (trunk makes ~30° angle). Time with metronome (20 curl-ups/min). Upper back must touch floor before each rep. Avoid neck flexion (don’t tuck chin to chest).",
+      "Perform as many curl-ups as possible without pausing, up to a maximum of 75."
+    ],
+    "scoring": {
+      "outcome": "Repetitions completed",
+      "units": ["reps"],
+      "rules": ["Max = 75"]
+    },
+    "notes": [
+      "Normative data referenced in Table 13.10 near end of chapter."
+    ],
+    "figures": [{"label": "Figure 13.7", "caption": "Curl-up: beginning and end position"}]
+  },
+  {
+    "id": "ch13:13.12:push_up",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.12",
+    "title": "Push-Up",
+    "category": "Local Muscular Endurance",
+    "tags": ["protocol", "test", "endurance", "upper-body"],
+    "equipment": ["A 4-in (10 cm) diameter foam roller (for female athletes)"],
+    "personnel": ["One recorder/technique judge"],
+    "procedure": [
+      "ACSM & Army standards: males start hands shoulder-width apart, elbows extended, body straight.",
+      "Army standard: women use same position as men.",
+      "ACSM standard: women start similarly except knees contact ground, knees flexed ~90°, ankles crossed.",
+      "Army: low position for males is when upper arms are parallel to ground (Figure 13.8b).",
+      "ACSM: low position for males is chest contacts the recorder’s fist held vertically against the ground.",
+      "ACSM: for females, no standard low position, but suggested torso contact with a foam roller on ground rather than a fist (Figure 13.9b). Reps not achieving required low position are not counted.",
+      "Army: perform as many reps as possible in a timed 2-minute period; may pause only in the up position.",
+      "ACSM: perform as many reps as possible continuously until failure."
+    ],
+    "scoring": {
+      "outcome": "Repetitions completed",
+      "units": ["reps"],
+      "rules": ["Army: 2-min timed", "ACSM: to failure"]
+    },
+    "notes": [
+      "ACSM normative data referenced in Table 13.11 near end of chapter.",
+      "Army push-up point scores referenced in Table 13.12."
+    ],
+    "figures": [
+      {"label": "Figure 13.8", "caption": "Army push-up: beginning and end position"},
+      {"label": "Figure 13.9", "caption": "ACSM push-up for females: beginning and end position"}
+    ]
+  },
+  {
+    "id": "ch13:13.13:ymca_bench_press",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.13",
+    "title": "YMCA Bench Press Test",
+    "category": "Local Muscular Endurance",
+    "tags": ["protocol", "test", "endurance", "bench-press"],
+    "equipment": [
+      "Barbell, weight plates, two safety locks; enough total weight to assemble 80 lb (36 kg) or 35 lb (16 kg) including locks",
+      "Flat bench press bench (preferably with upright rack)",
+      "Metronome"
+    ],
+    "personnel": ["One spotter/recorder"],
+    "procedure": [
+      "Instruct the athlete in proper technique for flat barbell bench press (as described in the book’s bench press chapter).",
+      "Spotter/recorder stands at head end throughout test to help in raising bar on failed attempt and to help place bar back on rack.",
+      "Set resistance: 80 lb (36 kg) males; 35 lb (16 kg) females.",
+      "Set metronome cadence at 60 beats/min to establish 30 reps/min (one beat up, one beat down).",
+      "Grip bar at shoulder width, lift off rack, extend elbows. In time with metronome, lower to chest and raise until elbows extended, continuing until athlete can no longer keep cadence. Movement should be smooth/controlled; bar reaches highest and lowest position with each beat."
+    ],
+    "scoring": {
+      "outcome": "Repetitions completed at cadence",
+      "units": ["reps"]
+    },
+    "notes": ["Normative data referenced in Table 13.13 near end of chapter."]
+  },
+  {
+    "id": "ch13:13.14:one_point_five_mile_run",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.14",
+    "title": "1.5-Mile (2.4 km) Run",
+    "category": "Aerobic Capacity",
+    "tags": ["protocol", "test", "aerobic"],
+    "equipment": [
+      "Stopwatch",
+      "Quarter-mile track OR measured/marked 1.5-mile (2.4 km) flat course; 1.86-mile (3 km) course can be used as alternative"
+    ],
+    "personnel": ["One tester to call off each athlete’s time", "One recorder"],
+    "procedure": [
+      "Warm up and stretch before test.",
+      "Ensure each athlete is recognizable to scorer at finish line; if not, pin numbers to shirts.",
+      "At the start, runners line up behind starting line.",
+      "Instruct athletes to complete run as quickly as possible at a steady pace they can barely maintain over distance (some may need pacing familiarization).",
+      "On signal, athletes start and cover course as quickly as possible.",
+      "Record each runner’s finish time in minutes and seconds (00:00) as they cross the finish line."
+    ],
+    "scoring": {
+      "outcome": "Time",
+      "units": ["mm:ss"]
+    },
+    "notes": [
+      "Normative data referenced in Tables 13.14–13.17 near end of chapter.",
+      "These tables also estimate max oxygen consumption; additional norms by sport referenced in Table 13.18."
+    ]
+  },
+  {
+    "id": "ch13:13.15:twelve_minute_run",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.15",
+    "title": "12-Minute Run",
+    "category": "Aerobic Capacity",
+    "tags": ["protocol", "test", "aerobic"],
+    "equipment": [
+      "400 m (437 yd) track OR flat looped course with marker at each 100 m",
+      "Stopwatch"
+    ],
+    "personnel": ["One tester to call out each athlete’s position", "One recorder"],
+    "procedure": [
+      "Athletes line up at starting line.",
+      "On signal, athletes travel by foot as far as possible in 12 minutes, preferably running; walking part/all is allowed if necessary.",
+      "At 12 minutes, on signal, all athletes stop in place.",
+      "Calculate and record distance run by each athlete (e.g., 5.25 laps × 400 m = 2,100 m)."
+    ],
+    "scoring": {
+      "outcome": "Distance covered",
+      "units": ["m"]
+    },
+    "notes": ["Normative data referenced in Table 13.19 near end of chapter."]
+  },
+  {
+    "id": "ch13:13.16:yo_yo_irt",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.16",
+    "title": "Yo-Yo Intermittent Recovery Test (IRT1 / IRT2)",
+    "category": "Aerobic Capacity",
+    "tags": ["protocol", "test", "aerobic", "intermittent"],
+    "equipment": [
+      "Cones",
+      "Tape measure at least 30 m long",
+      "Audio software for Yo-Yo intermittent recovery test (IRT1 available commercially)",
+      "Method of broadcasting audio (e.g., wireless speakers)",
+      "Recording sheet",
+      "Flat floor with good traction"
+    ],
+    "personnel": ["One tester/recorder", "One spotter"],
+    "procedure": [
+      "Measure out a 20 m test course and arrange cones as shown in the figure. Place markers 2 m past both ends of the course at the start and turning lines. Measure 5 m behind the start line.",
+      "Warm up and stretch. Athlete may run course at submax effort for practice.",
+      "Test begins with athletes standing at start line.",
+      "On auditory signal, athletes run forward to turning line. At sound of second signal, athletes reach turning line then run back to start line, arriving in time with next sound.",
+      "When start marker is passed, athletes jog toward 5 m mark then turn back to start line. At this point athletes stop and wait for next sound.",
+      "Athletes must place one foot on or over the start/turning line at each beep.",
+      "Continue as long as athlete can maintain increasing speed indicated by auditory signals.",
+      "Test termination: inability to maintain required pace for two trials. First miss = warning.",
+      "At end, record last level and number of 2 × 20 m intervals performed at that level.",
+      "Final Yo-Yo intermittent recovery speed and interval score can be used to calculate total distance covered."
+    ],
+    "scoring": {
+      "outcome": "Level + intervals; total distance",
+      "units": ["level", "intervals", "m"]
+    },
+    "notes": [
+      "IRT1 and IRT2 are common; recommended to use IRT1.",
+      "Descriptive data referenced in Table 13.20 near end of chapter."
+    },
+    "figures": [{"label": "Figure 13.10", "caption": "Setup for the Yo-Yo intermittent recovery test"}]
+  },
+  {
+    "id": "ch13:13.17:mas_test",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.17",
+    "title": "Maximal Aerobic Speed (MAS) Test",
+    "category": "Aerobic Capacity",
+    "tags": ["protocol", "test", "aerobic"],
+    "equipment": [
+      "Cones",
+      "Tape measure at least 30 m long",
+      "Audio software specifically for MAS test",
+      "Method of broadcasting audio (e.g., wireless speakers)",
+      "Recording sheet",
+      "Indoor or outdoor running track (at least 200 m)"
+    ],
+    "personnel": ["One tester/recorder"],
+    "procedure": [
+      "Place marker cones at 25 m intervals around track.",
+      "Set initial speed between 8–12 km/h depending on fitness; generally recommend starting at 10 km/h.",
+      "Increase speed by 1 km/h every 2 minutes until athlete cannot maintain speed.",
+      "Last speed maintained for at least 2 minutes is considered speed associated with VO2max (MAS).",
+      "Terminate test if athlete fails to reach next cone on two consecutive occasions in required time.",
+      "If athlete completes a stage but cannot complete the next, speed at last completed stage is increased by 0.5 km/h if athlete runs a half stage.",
+      "Calculate VO2max by multiplying 3.5 × MAS (km/h).",
+      "If no audio, can use whistle timing based on set speed and cone spacing (example: 25 m cones at 10 km/h => whistle every 9 seconds)."
+    ],
+    "scoring": {
+      "outcome": "MAS and estimated VO2max",
+      "units": ["km/h", "mL/kg/min"]
+    },
+    "notes": ["VO2max norms by sport referenced in Table 13.18 near end of chapter."]
+  },
+  {
+    "id": "ch13:13.18:t_test",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.18",
+    "title": "T-Test",
+    "category": "Agility",
+    "tags": ["protocol", "test", "agility"],
+    "equipment": ["Four cones", "Tape measure at least 5 yd (4.6 m)", "Stopwatch", "Flat floor with good traction"],
+    "personnel": ["One tester/recorder", "One spotter"],
+    "procedure": [
+      "Arrange four cones as shown in the figure (points A, B, C, D).",
+      "Warm up and stretch; athlete may run course at submax effort for practice.",
+      "Athlete starts standing at point A.",
+      "On signal, sprint forward to point B and touch base of cone with right hand.",
+      "While facing forward and without crossing feet, shuffle left 5 yd (4.6 m) and touch base of cone at point C with left hand.",
+      "Shuffle right 10 yd (9.1 m) to point D and touch base with right hand.",
+      "Shuffle left 5 yd and touch base at point B with left hand, then run backward past point A; stop watch when crosses A.",
+      "Safety: spotter and gym mat positioned several feet behind point A to catch a fall while running backward.",
+      "Record best time of two trials to nearest 0.1 s.",
+      "Disqualification: fails to touch base of any cone; crosses one foot in front of the other instead of shuffling; fails to face forward for entire test."
+    ],
+    "scoring": { "outcome": "Time", "units": ["s"], "rules": ["Best of 2 trials"] },
+    "notes": ["Descriptive data referenced in Table 13.21 near end of chapter."],
+    "figures": [{"label": "Figure 13.11", "caption": "Floor layout for the T-test"}]
+  },
+  {
+    "id": "ch13:13.19:hexagon_test",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.19",
+    "title": "Hexagon Test",
+    "category": "Agility",
+    "tags": ["protocol", "test", "agility"],
+    "equipment": ["Adhesive tape (contrasting color)", "Measuring tape or stick", "Stopwatch", "Flat floor with good traction"],
+    "personnel": ["One timer/recorder", "One line judge"],
+    "procedure": [
+      "Create a hexagon on the floor using tape: 24-in (61 cm) sides meeting to form 120° angles (see figure).",
+      "Warm up and practice the test at submaximal speed.",
+      "Begin standing in the middle of the hexagon.",
+      "On signal, begin double-leg hopping from center over each side and back to center, starting with the side directly in front, in a continuous clockwise sequence until all six sides are covered three times (three revolutions = 18 jumps). Finish standing at center facing same direction throughout test.",
+      "If athlete lands on a side (not over it), loses balance and takes an extra step, or changes facing direction: stop trial, restart after full recovery time.",
+      "Record best time of three trials to nearest 0.1 s."
+    ],
+    "scoring": { "outcome": "Time", "units": ["s"], "rules": ["Best of 3 trials"] },
+    "notes": ["Descriptive data referenced in Table 13.21 near end of chapter."],
+    "figures": [{"label": "Figure 13.12", "caption": "Layout for the hexagon test"}]
+  },
+  {
+    "id": "ch13:13.20:pro_agility_test",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.20",
+    "title": "Pro Agility Test (20-yard / 18.3 m shuttle)",
+    "category": "Agility",
+    "tags": ["protocol", "test", "agility"],
+    "equipment": [
+      "American football field or field marked with three parallel lines 5 yd (4.6 m) apart (see figure)",
+      "Stopwatch"
+    ],
+    "personnel": ["One timer/recorder", "One line judge"],
+    "procedure": [
+      "Athlete straddles the centermost of the three parallel lines using a three-point stance.",
+      "On signal, sprint 5 yd (4.6 m) to the line on the left, touch line, then change direction and sprint 10 yd (9.1 m) to line on right, touch line, then change direction and sprint 5 yd (4.6 m) back to center line. Hand contact must be made with all indicated lines. Keep consistent across both trials.",
+      "Record best time of two trials to nearest 0.01 s."
+    ],
+    "scoring": { "outcome": "Time", "units": ["s"], "rules": ["Best of 2 trials"] },
+    "notes": ["Normative data referenced in Table 13.22 near end of chapter."],
+    "figures": [{"label": "Figure 13.13", "caption": "Layout for the pro agility test"}]
+  },
+  {
+    "id": "ch13:13.21:five_zero_five_agility",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.21",
+    "title": "505 Agility Test",
+    "category": "Agility",
+    "tags": ["protocol", "test", "agility"],
+    "equipment": ["7 cones", "Stopwatch or timing lights"],
+    "personnel": ["One timer/recorder", "One line judge"],
+    "procedure": [
+      "Arrange cones as shown in the figure. If timing lights are available, set up as shown.",
+      "Warm up and stretch. Athlete may run course at submax effort for practice.",
+      "Athlete begins standing at the start line.",
+      "On signal, sprint forward 10 m to first set of timing lights, then sprint a further 5 m to the turning line (one foot must be on or over the line) and turn/accelerate off the line.",
+      "Athlete may slow down only after passing timing lights for the second time.",
+      "Record best time of two trials to nearest 0.1 s.",
+      "Complete trials turning off preferred leg; alternatively, do trials turning off either leg (at least two)."
+    ],
+    "scoring": { "outcome": "Time", "units": ["s"], "rules": ["Best of 2 trials"] },
+    "notes": ["Descriptive data referenced in Table 13.21 near end of chapter."],
+    "figures": [{"label": "Figure 13.14", "caption": "Layout for the 505 agility test"}]
+  },
+  {
+    "id": "ch13:13.22:straight_line_sprint_tests",
+    "type": "reference",
+    "chapter": 13,
+    "section": "13.22",
+    "title": "Straight-Line Sprint Tests",
+    "category": "Speed",
+    "tags": ["protocol", "test", "speed"],
+    "equipment": [
+      "Stopwatch or timing lights",
+      "Flat running surface with start and finish lines a specified distance apart (e.g., 40 yd or 37 m; 10 m, 20 m, 40 m), with at least 20 yd (18 m) after finish for deceleration"
+    ],
+    "personnel": ["One timer/recorder"],
+    "procedure": [
+      "Warm up and dynamically stretch for several minutes.",
+      "Allow at least two practice runs at submaximal speed.",
+      "Assume starting position using three- or four-point stance.",
+      "On signal, sprint the specified distance at maximal speed.",
+      "Record best split time of two trials to nearest 0.1 s.",
+      "Allow at least 2 minutes of active recovery or rest between trials."
+    ],
+    "scoring": { "outcome": "Time", "units": ["s"], "rules": ["Best of 2 trials"] },
+    "notes": ["Normative data for 10 m, 20 m, 40 m, and 40-yd (37 m) sprint referenced in Table 13.23 near end of chapter."]
+  },
+  {
+    "id": "ch13:table_13.1:percentiles_strength_female_ncaa_d1",
+    "type": "table",
+    "chapter": 13,
+    "section": "Table 13.1",
+    "title": "Percentile Values of the 1RM Bench Press, Squat, and Power Clean in NCAA Division I Female Collegiate Athletes",
+    "category": "Normative Data",
+    "tags": ["table", "norms", "percentiles", "1RM"],
+    "structure": {
+      "index": "percent_rank",
+      "sports": [
+        "Basketball",
+        "Swimming",
+        "Softball",
+        "Volleyball"
+      ],
+      "measures": [
+        {"name": "1RM_bench_press", "units": ["lb", "kg"]},
+        {"name": "1RM_squat", "units": ["lb", "kg"]},
+        {"name": "1RM_power_clean", "units": ["lb", "kg"]}
+      ],
+      "rows_expected": ["90", "80", "70", "60", "50", "40", "30", "20", "10", "Mean", "SD", "n"]
+    },
+    "data": [],
+    "notes": [
+      "Data not yet transcribed into JSON. We can populate this later (either manual entry or structured transcription)."
+    ]
+  }
+]

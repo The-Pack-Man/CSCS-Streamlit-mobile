@@ -1,0 +1,604 @@
+[
+  {
+    "term": "alveoli",
+    "aliases": ["alveolus (singular)", "air sacs"],
+    "definitions": [
+      "Tiny air sacs in the lungs where gas exchange occurs between air and blood.",
+      "Microscopic lung structures that provide a large surface area for O2–CO2 diffusion.",
+      "Terminal lung sacs where oxygen enters pulmonary capillaries and CO2 leaves blood.",
+      "The primary site of external respiration, exchanging gases between ventilation and perfusion.",
+      "Air-filled sacs whose thin walls enable rapid diffusion of respiratory gases.",
+      "Lung units at the end of alveolar ducts where gas transfer to blood occurs.",
+      "Structures lined by a thin respiratory membrane to facilitate gas exchange.",
+      "The functional gas-exchange spaces where alveolar PO2/PCO2 gradients drive diffusion."
+    ]
+  },
+  {
+    "term": "anatomical dead space",
+    "aliases": ["conducting zone dead space"],
+    "definitions": [
+      "Portion of the respiratory system where air does not participate in gas exchange.",
+      "The volume of air in conducting airways (nose → bronchi) that never reaches alveoli.",
+      "Non-exchanging airway space where ventilation moves air but diffusion with blood does not occur.",
+      "Airway volume that is ventilated but lacks alveoli, so no O2/CO2 transfer happens there.",
+      "The dead space of the conducting passages, excluding gas-exchange regions.",
+      "Respiratory tract volume that fills first during inspiration and empties first during expiration.",
+      "The part of each breath that stays in the conducting airways and does not oxygenate blood.",
+      "Conducting airway volume that contributes to ventilation but not to alveolar gas exchange."
+    ]
+  },
+  {
+    "term": "arteriovenous oxygen difference",
+    "aliases": ["a–vO2 difference", "a-v O2 diff"],
+    "definitions": [
+      "The difference in oxygen content between arterial and venous blood (a–vO₂ difference).",
+      "A measure of how much O2 is extracted by tissues from the blood.",
+      "The arterial O2 content minus venous O2 content, reflecting peripheral oxygen utilization.",
+      "An indicator of oxygen extraction: how much oxygen disappears from blood as it passes tissues.",
+      "A variable that widens when working muscles take more O2 from each unit of blood.",
+      "The O2 content drop from arteries to veins, representing tissue uptake of oxygen.",
+      "A measure of peripheral (muscle) oxygen extraction used in the Fick relationship.",
+      "Difference between CaO2 and CvO2 that reflects how much oxygen tissues remove."
+    ]
+  },
+  {
+    "term": "blood doping",
+    "aliases": ["RBC boosting", "erythrocyte augmentation"],
+    "definitions": [
+      "Methods used to increase red blood cell mass to enhance oxygen delivery.",
+      "Practices that raise hemoglobin/RBC concentration to improve aerobic performance capacity.",
+      "Artificially increasing oxygen-carrying capacity through added RBCs or similar interventions.",
+      "Increasing total red cell volume to boost VO2max potential and endurance performance.",
+      "Strategies that elevate hematocrit to improve oxygen transport (often prohibited).",
+      "Performance enhancement by augmenting red blood cell count to deliver more O2 to muscles.",
+      "Manipulations that increase blood’s oxygen-carrying capacity by raising RBC mass.",
+      "Methods (e.g., transfusion-based) intended to improve endurance by elevating hemoglobin."
+    ]
+  },
+  {
+    "term": "bradycardia",
+    "aliases": ["athletic bradycardia (contextual)"],
+    "definitions": [
+      "An abnormally slow resting heart rate, common in endurance-trained athletes.",
+      "A low resting HR often reflecting high parasympathetic tone and/or increased stroke volume.",
+      "A resting heart rate below typical norms (often <60 bpm) depending on context and symptoms.",
+      "Slow heart rhythm at rest; may be normal in well-trained individuals.",
+      "A reduced resting pulse rate that can occur with aerobic training adaptations.",
+      "A slower-than-average heart rate, sometimes indicating cardiovascular efficiency in athletes.",
+      "A low resting HR caused by pacemaker rate reduction and increased vagal influence.",
+      "A resting HR reduction often seen after endurance training due to autonomic adaptations."
+    ]
+  },
+  {
+    "term": "cardiac output",
+    "aliases": ["Q", "CO"],
+    "definitions": [
+      "The volume of blood pumped by the heart per minute (heart rate × stroke volume).",
+      "A measure of total blood flow from the heart each minute, equal to HR times SV.",
+      "The heart’s pumping rate expressed as liters per minute of blood ejected.",
+      "Total circulatory flow per minute produced by ventricular ejection.",
+      "A key determinant of oxygen delivery that rises with increased heart rate and stroke volume.",
+      "Blood flow generated by the heart per unit time, typically reported in L/min.",
+      "The product of beats per minute and blood ejected per beat.",
+      "Minute-by-minute blood volume output from the heart (CO = HR × SV)."
+    ]
+  },
+  {
+    "term": "detraining",
+    "aliases": ["deconditioning"],
+    "definitions": [
+      "The partial or complete loss of training-induced physiological adaptations.",
+      "A decline in fitness and performance when training volume/intensity is reduced or stopped.",
+      "Reversal or reduction of training gains due to insufficient stimulus.",
+      "Loss of cardiovascular, metabolic, and neuromuscular adaptations after inactivity.",
+      "A regression of performance capacities when overload is removed.",
+      "The decay of conditioning effects following decreased training frequency or load.",
+      "A reduction in exercise-induced improvements caused by reduced training exposure.",
+      "Adaptation loss that occurs when training stress drops below maintenance thresholds."
+    ]
+  },
+  {
+    "term": "diastole",
+    "aliases": ["ventricular relaxation phase"],
+    "definitions": [
+      "The relaxation phase of the cardiac cycle during ventricular filling.",
+      "The period when ventricles relax and fill with blood before contraction.",
+      "Cardiac cycle phase characterized by low ventricular pressure and chamber filling.",
+      "The heart’s filling phase, occurring between systolic contractions.",
+      "Relaxation of the myocardium allowing blood to enter the ventricles.",
+      "The phase after systole when the ventricles refill from venous return.",
+      "Ventricular filling period when AV valves are open (most of the time).",
+      "The cardiac relaxation interval during which end-diastolic volume is established."
+    ]
+  },
+  {
+    "term": "diastolic blood pressure",
+    "aliases": ["DBP"],
+    "definitions": [
+      "Arterial pressure during ventricular relaxation.",
+      "The lower blood pressure value, reflecting arterial pressure between heartbeats.",
+      "Pressure in arteries when the ventricles are in diastole and not ejecting blood.",
+      "Minimum arterial pressure during the cardiac cycle, influenced by vascular resistance.",
+      "Arterial pressure during ventricular filling and relaxation phase.",
+      "The pressure maintained in arteries when the heart is resting between contractions.",
+      "Blood pressure measurement representing arterial recoil/resistance when the heart relaxes.",
+      "The baseline arterial pressure when the ventricle is not actively pumping."
+    ]
+  },
+  {
+    "term": "diffusion",
+    "aliases": [],
+    "definitions": [
+      "Passive movement of molecules from areas of higher to lower concentration.",
+      "Net movement down a concentration or partial pressure gradient due to random motion.",
+      "Molecular movement from high to low concentration without energy input.",
+      "Gas transfer across membranes driven by pressure gradients (e.g., O2/CO2 in lungs).",
+      "A passive transport process determined by gradient magnitude and membrane properties.",
+      "Spontaneous spread of molecules from regions of greater to lesser concentration.",
+      "Movement of gases in respiration driven by differences in partial pressure.",
+      "Passive transport mechanism underlying O2 and CO2 exchange in alveoli and tissues."
+    ]
+  },
+  {
+    "term": "double product",
+    "aliases": ["rate-pressure product", "RPP", "double product (DP)"],
+    "definitions": [
+      "Heart rate multiplied by systolic blood pressure; an index of myocardial workload.",
+      "A cardiac work estimate calculated as HR × systolic BP.",
+      "A proxy for myocardial oxygen demand based on heart rate and systolic pressure.",
+      "An index of how hard the heart is working during exercise: HR times SBP.",
+      "A workload marker often used in clinical/exercise settings to estimate cardiac strain.",
+      "A measure reflecting cardiac effort combining pumping frequency and arterial pressure.",
+      "A calculated indicator of myocardial stress: the product of HR and SBP.",
+      "An approximate indicator of cardiac oxygen consumption derived from HR and systolic BP."
+    ]
+  },
+  {
+    "term": "ejection fraction",
+    "aliases": ["EF"],
+    "definitions": [
+      "The percentage of end-diastolic volume ejected from the ventricle per beat.",
+      "Fraction of ventricular filling volume pumped out during systole (SV/EDV).",
+      "A measure of pumping effectiveness: how much of EDV is expelled each contraction.",
+      "The proportion of blood in the ventricle that is ejected with each heartbeat.",
+      "A functional index of ventricular systolic performance.",
+      "Percent of ventricular volume expelled per beat, commonly used clinically for heart function.",
+      "A ratio describing how completely the ventricle empties relative to its filled volume.",
+      "The percentage of EDV expelled during systole, reflecting systolic function."
+    ]
+  },
+  {
+    "term": "end-diastolic volume",
+    "aliases": ["EDV"],
+    "definitions": [
+      "The volume of blood in the ventricle at the end of diastole.",
+      "The filled ventricular volume just before systole begins.",
+      "The amount of blood in a ventricle after it finishes filling.",
+      "Ventricular preload volume immediately prior to contraction.",
+      "The maximum ventricular volume in the cardiac cycle, established during diastole.",
+      "Blood volume in the ventricle right before the heart ejects blood.",
+      "The ventricular filling volume that contributes to stroke volume via Frank-Starling effects.",
+      "Ventricular volume at the end of filling, serving as the starting point for ejection."
+    ]
+  },
+  {
+    "term": "erythropoietin (EPO)",
+    "aliases": ["EPO"],
+    "definitions": [
+      "A hormone that stimulates red blood cell production.",
+      "A hormone (primarily from kidneys) that promotes erythropoiesis in bone marrow.",
+      "The key regulator hormone that increases RBC formation in response to hypoxia.",
+      "A signaling hormone that boosts hemoglobin-carrying capacity by increasing RBC synthesis.",
+      "A hormone that stimulates maturation and production of erythrocytes.",
+      "The endocrine signal that raises red cell mass when oxygen availability is low.",
+      "A hormone that increases oxygen-carrying capacity by promoting RBC generation.",
+      "A hypoxia-responsive hormone driving bone marrow to make more red blood cells."
+    ]
+  },
+  {
+    "term": "Fick equation",
+    "aliases": ["Fick principle", "VO2 = Q × (a–vO2 diff)"],
+    "definitions": [
+      "An equation describing oxygen consumption as cardiac output multiplied by a–vO₂ difference.",
+      "A relationship stating VO2 depends on blood flow (Q) and tissue oxygen extraction.",
+      "VO2 equals cardiac output times the arteriovenous O2 difference.",
+      "A principle linking oxygen uptake to central delivery and peripheral extraction factors.",
+      "A formula showing VO2 rises with increased CO and/or increased a–vO2 difference.",
+      "A model for oxygen consumption based on circulation and O2 content differences.",
+      "The equation that partitions VO2 into central (Q) and peripheral (extraction) components.",
+      "A foundational exercise physiology relationship: VO2 = HR×SV × (CaO2−CvO2)."
+    ]
+  },
+  {
+    "term": "Frank-Starling mechanism",
+    "aliases": ["Frank-Starling law of the heart"],
+    "definitions": [
+      "The relationship between ventricular filling and force of contraction.",
+      "Greater end-diastolic filling leads to stronger contraction and increased stroke volume.",
+      "A mechanism where increased preload increases myocardial stretch and enhances force output.",
+      "The heart’s intrinsic ability to pump more when it fills more.",
+      "The preload–stroke volume relationship mediated by myocardial fiber stretch.",
+      "A principle stating SV increases when EDV increases (within physiological limits).",
+      "Increased venous return raises EDV and thus increases contractile force and SV.",
+      "The rule that stretching cardiac muscle fibers more (via filling) increases contraction strength."
+    ]
+  },
+  {
+    "term": "functional overreaching",
+    "aliases": ["FOR"],
+    "definitions": [
+      "Short-term training overload followed by performance supercompensation.",
+      "A planned overload phase causing temporary fatigue and then improved performance after recovery.",
+      "Brief overreaching that resolves with rest and leads to rebound gains.",
+      "A productive training strategy: short performance dip, then higher peak after taper.",
+      "A short-term stress > recovery state that results in positive adaptation after restoration.",
+      "A purposeful overload block that yields improved fitness once fatigue dissipates.",
+      "Short-duration overreaching that improves performance after sufficient recovery.",
+      "An overload period intended to generate supercompensation rather than long-term decline."
+    ]
+  },
+  {
+    "term": "heart rate",
+    "aliases": ["HR"],
+    "definitions": [
+      "The number of heart beats per minute.",
+      "A measure of cardiac cycle frequency expressed in beats per minute (bpm).",
+      "The rate of cardiac contractions per minute.",
+      "How many times the heart beats each minute at rest or during exercise.",
+      "A central cardiovascular variable influencing cardiac output (CO = HR × SV).",
+      "The heartbeat frequency, commonly used to gauge exercise intensity.",
+      "The number of ventricular contractions per minute (typically inferred from pulse).",
+      "A time-based measure of cardiac rhythm frequency (bpm)."
+    ]
+  },
+  {
+    "term": "hyperoxic breathing",
+    "aliases": ["oxygen-enriched breathing"],
+    "definitions": [
+      "Breathing oxygen-enriched air.",
+      "Inhaling air with a higher-than-normal fraction of oxygen (FiO2).",
+      "Ventilating with elevated oxygen concentration to increase arterial oxygenation.",
+      "Breathing supplemental oxygen above ambient levels.",
+      "Use of enriched O2 inhalation to raise inspired oxygen partial pressure.",
+      "Breathing with increased oxygen content to enhance oxygen availability to the body.",
+      "Inspiration of air with a greater oxygen percentage than room air (~21%).",
+      "Oxygen-supplemented breathing intended to elevate oxygen delivery or saturation."
+    ]
+  },
+  {
+    "term": "hyperventilation",
+    "aliases": [],
+    "definitions": [
+      "Ventilation exceeding metabolic demand.",
+      "Breathing more than necessary for CO2 production, often lowering arterial CO2.",
+      "Excessive alveolar ventilation relative to metabolic requirements.",
+      "A ventilation state that can reduce CO2 and raise blood pH (respiratory alkalosis).",
+      "Increased breathing rate/depth beyond what is required to match metabolism.",
+      "Over-breathing that expels CO2 faster than it is produced.",
+      "Ventilatory output that surpasses what is needed to maintain CO2 balance.",
+      "Breathing disproportionately high relative to oxygen uptake and CO2 production."
+    ]
+  },
+  {
+    "term": "maximal heart rate",
+    "aliases": ["HRmax"],
+    "definitions": [
+      "The highest heart rate attainable during maximal exercise.",
+      "An individual’s peak heart rate reached under maximal effort conditions.",
+      "Maximum beats per minute achievable during all-out exercise.",
+      "The upper limit of heart rate response to increasing exercise intensity.",
+      "Peak heart rate reached during maximal graded exercise testing.",
+      "The highest HR produced when effort is maximal and fatigue stops further increase.",
+      "An upper bound heart rate value used to scale intensity zones (imperfectly).",
+      "The maximum cardiac frequency the body can achieve during maximal exertion."
+    ]
+  },
+  {
+    "term": "maximal oxygen uptake",
+    "aliases": ["VO2max", "max VO2"],
+    "definitions": [
+      "The highest rate at which oxygen can be consumed during exercise (VO₂max).",
+      "Maximal aerobic power: peak oxygen consumption during exhaustive exercise.",
+      "The maximal capacity to take in, transport, and use oxygen during intense activity.",
+      "A key marker of cardiorespiratory fitness measured as peak VO2.",
+      "The upper limit of aerobic ATP production capacity expressed via oxygen consumption.",
+      "Peak rate of oxygen utilization during maximal effort, often in ml·kg⁻¹·min⁻¹.",
+      "Maximum oxygen uptake reflecting central delivery and peripheral extraction limits.",
+      "The highest measurable VO2 during maximal graded exercise."
+    ]
+  },
+  {
+    "term": "mean arterial pressure",
+    "aliases": ["MAP"],
+    "definitions": [
+      "The average arterial pressure throughout the cardiac cycle.",
+      "A weighted average blood pressure reflecting overall perfusion pressure.",
+      "An estimate of average driving pressure for blood flow to tissues.",
+      "Average arterial pressure accounting for longer diastole than systole.",
+      "A pressure value used to approximate tissue perfusion status.",
+      "A summary measure of arterial pressure across one heartbeat.",
+      "The average effective pressure pushing blood through systemic circulation.",
+      "An average BP measure often estimated from SBP and DBP (approximation)."
+    ]
+  },
+  {
+    "term": "metabolic equivalent (MET)",
+    "aliases": ["MET"],
+    "definitions": [
+      "A unit representing resting metabolic rate (~3.5 ml O₂·kg⁻¹·min⁻¹).",
+      "A standard unit for estimating energy cost of activities relative to rest.",
+      "A multiple of resting oxygen consumption used to describe exercise intensity.",
+      "A unit where 1 MET approximates resting VO2 and higher METs reflect greater demand.",
+      "A practical intensity unit expressing activity cost as times-resting metabolism.",
+      "A measure of energy expenditure scaling activity demand to resting oxygen uptake.",
+      "A standardized intensity unit used in exercise prescription and compendiums.",
+      "A resting-metabolism reference unit for comparing workloads and activity energy cost."
+    ]
+  },
+  {
+    "term": "minute ventilation",
+    "aliases": ["VE"],
+    "definitions": [
+      "The volume of air breathed per minute (tidal volume × breathing frequency).",
+      "Total air moved in or out of the lungs each minute.",
+      "Ventilatory flow per minute calculated as VT times breathing rate.",
+      "The amount of ventilation per minute used to support gas exchange.",
+      "A respiratory variable representing total ventilation output each minute.",
+      "Total inhaled/exhaled air volume per minute, rising with exercise intensity.",
+      "The combined effect of breath size and breath frequency on ventilation per minute.",
+      "Ventilation per minute, determined by tidal volume and respiratory rate."
+    ]
+  },
+  {
+    "term": "mitochondria",
+    "aliases": ["mitochondrion (singular)"],
+    "definitions": [
+      "Cell organelles responsible for aerobic energy production.",
+      "The primary site of oxidative phosphorylation and aerobic ATP synthesis.",
+      "Organelles where the Krebs cycle and electron transport chain operate.",
+      "Cellular structures that generate ATP using oxygen-dependent pathways.",
+      "The ‘powerhouses’ where aerobic metabolism converts fuels into ATP.",
+      "Organelles that house enzymes for fat oxidation and aerobic carbohydrate metabolism.",
+      "Structures that produce ATP via electron transport and chemiosmosis.",
+      "Subcellular sites where oxygen is used to generate ATP efficiently."
+    ]
+  },
+  {
+    "term": "myoglobin",
+    "aliases": [],
+    "definitions": [
+      "An oxygen-binding protein in muscle that facilitates oxygen transport within fibers.",
+      "A muscle protein that stores and shuttles oxygen to mitochondria.",
+      "An intracellular oxygen carrier that helps buffer and deliver O2 in muscle cells.",
+      "A heme-containing protein in muscle that binds O2 more readily than hemoglobin.",
+      "A protein that assists oxygen diffusion inside muscle fibers during exercise.",
+      "A muscle oxygen reservoir that supports aerobic metabolism, especially at onset or high demand.",
+      "An O2-binding molecule that improves oxygen availability near mitochondria.",
+      "A muscle-cell oxygen carrier aiding intramuscular oxygen transfer and storage."
+    ]
+  },
+  {
+    "term": "nonfunctional overreaching",
+    "aliases": ["NFOR"],
+    "definitions": [
+      "Overreaching leading to prolonged performance decrements without supercompensation.",
+      "A maladaptive overreaching state where performance does not rebound quickly with rest.",
+      "Excess training stress causing longer-lasting underperformance without a positive rebound.",
+      "An overload condition requiring extended recovery, without subsequent performance gain.",
+      "A training-stress imbalance that produces sustained fatigue and reduced performance.",
+      "Overreaching that lasts too long or is too severe to produce beneficial supercompensation.",
+      "A negative overreaching state that persists for weeks rather than days.",
+      "A state between functional overreaching and overtraining syndrome marked by prolonged decline."
+    ]
+  },
+  {
+    "term": "overreaching",
+    "aliases": [],
+    "definitions": [
+      "A short-term imbalance between training stress and recovery.",
+      "A temporary overload state that suppresses performance due to accumulated fatigue.",
+      "A period of training stress exceeding recovery capacity, often intentionally.",
+      "Short-term fatigue accumulation that may be functional or nonfunctional.",
+      "A spike in training load that transiently reduces performance until recovery occurs.",
+      "An overload phase that can lead to adaptation if followed by adequate rest.",
+      "A short-duration excess of training stress over recovery resources.",
+      "A training load imbalance producing temporary underperformance."
+    ]
+  },
+  {
+    "term": "overtraining",
+    "aliases": [],
+    "definitions": [
+      "Chronic maladaptive training state with prolonged performance decline.",
+      "A long-term condition where excessive training with insufficient recovery impairs performance.",
+      "Sustained underperformance due to training stress exceeding adaptive capacity over time.",
+      "A maladaptation characterized by persistent fatigue and reduced performance beyond normal recovery.",
+      "A chronic training-related decline often accompanied by mood and physiological disturbances.",
+      "A long-duration breakdown in recovery-adaptation balance due to repeated overload.",
+      "Persistent performance decrement caused by cumulative training stress and inadequate restoration.",
+      "A chronic maladaptive outcome of excessive training load without sufficient recovery."
+    ]
+  },
+  {
+    "term": "overtraining syndrome (OTS)",
+    "aliases": ["OTS"],
+    "definitions": [
+      "A severe form of overtraining characterized by long-term performance decrements.",
+      "A chronic syndrome of persistent fatigue and underperformance requiring weeks to months to recover.",
+      "A long-lasting maladaptive training condition affecting multiple physiological systems.",
+      "A syndrome involving sustained performance decline not resolved by short rest periods.",
+      "A chronic training-related disorder with prolonged recovery needs and systemic dysregulation.",
+      "The most serious maladaptation on the overtraining continuum, beyond NFOR.",
+      "A long-term underperformance state often paired with mood/sleep/immune disruptions.",
+      "A chronic syndrome of performance decline due to prolonged training stress and inadequate recovery."
+    ]
+  },
+  {
+    "term": "oxygen uptake",
+    "aliases": ["VO2", "O2 consumption"],
+    "definitions": [
+      "The amount of oxygen consumed by the body (VO₂).",
+      "Rate of oxygen utilization by the body during rest or exercise.",
+      "Oxygen consumption reflecting aerobic metabolic rate.",
+      "The volume of O2 used per unit time, often expressed in L/min or ml·kg⁻¹·min⁻¹.",
+      "A measure of aerobic energy turnover based on oxygen usage.",
+      "The amount of oxygen extracted and used by tissues from inspired air.",
+      "An index of metabolic demand and aerobic ATP production.",
+      "The body’s oxygen consumption rate during activity."
+    ]
+  },
+  {
+    "term": "physiological dead space",
+    "aliases": [],
+    "definitions": [
+      "Ventilated lung areas that are not perfused with blood.",
+      "Air spaces where ventilation occurs but effective gas exchange does not due to poor perfusion.",
+      "The sum of anatomical dead space plus alveoli that are ventilated but underperfused.",
+      "Non-exchanging ventilated volume caused by ventilation–perfusion mismatch.",
+      "Dead space that includes conducting airways and nonperfused (or poorly perfused) alveoli.",
+      "Ventilation that does not contribute to gas exchange because blood flow is absent or inadequate.",
+      "Portion of each breath that fails to exchange gases due to lack of perfusion.",
+      "Ventilated but non-exchanging lung volume arising from inadequate pulmonary capillary blood flow."
+    ]
+  },
+  {
+    "term": "rate-pressure product",
+    "aliases": ["double product", "RPP"],
+    "definitions": [
+      "Heart rate multiplied by systolic blood pressure; indicator of cardiac work.",
+      "An index of myocardial workload calculated as HR × SBP.",
+      "A proxy measure for myocardial oxygen demand based on HR and systolic pressure.",
+      "A cardiac strain estimate combining how often the heart beats and the pressure it pumps against.",
+      "A workload metric frequently used to gauge cardiac effort during exercise testing.",
+      "An indicator of heart work and oxygen demand derived from HR and SBP.",
+      "A calculated cardiac load index reflecting both rate and pressure demands.",
+      "A simple estimate of myocardial stress: heart rate times systolic blood pressure."
+    ]
+  },
+  {
+    "term": "stroke volume",
+    "aliases": ["SV"],
+    "definitions": [
+      "The volume of blood ejected by the ventricle with each beat.",
+      "Blood pumped per heartbeat from one ventricle.",
+      "Amount of blood expelled during systole per contraction.",
+      "The difference between end-diastolic volume and end-systolic volume (SV = EDV − ESV).",
+      "A key contributor to cardiac output alongside heart rate.",
+      "Volume ejected per beat, influenced by preload, contractility, and afterload.",
+      "The per-beat output of the heart’s ventricle.",
+      "Blood volume pumped out of the ventricle during each contraction."
+    ]
+  },
+  {
+    "term": "systole",
+    "aliases": ["ventricular contraction phase"],
+    "definitions": [
+      "The contraction phase of the cardiac cycle.",
+      "The period when ventricles generate pressure and eject blood.",
+      "Cardiac phase in which the heart pumps blood into the arteries.",
+      "Ventricular contraction interval producing stroke volume.",
+      "The ejection phase of the heartbeat when ventricular pressure rises.",
+      "The cardiac contraction period that drives blood flow out of the ventricles.",
+      "Phase of the cardiac cycle associated with ventricular depolarization and ejection.",
+      "The portion of the cycle when the ventricles contract to propel blood forward."
+    ]
+  },
+  {
+    "term": "systolic blood pressure",
+    "aliases": ["SBP"],
+    "definitions": [
+      "Arterial pressure during ventricular contraction.",
+      "The higher blood pressure value reflecting peak pressure during ejection.",
+      "Maximum arterial pressure reached during systole.",
+      "Pressure in arteries when the ventricle is actively pumping blood.",
+      "Peak pressure generated as blood is forced into the aorta and arteries.",
+      "The top number in a BP reading, representing pressure during ventricular ejection.",
+      "Arterial pressure at the moment of greatest ventricular force output.",
+      "Peak arterial pressure occurring during the contraction phase of the heartbeat."
+    ]
+  },
+  {
+    "term": "tapering",
+    "aliases": ["taper"],
+    "definitions": [
+      "A reduction in training volume prior to competition to enhance performance.",
+      "Planned training reduction to decrease fatigue while maintaining fitness.",
+      "A pre-competition strategy that lowers training load to peak performance.",
+      "A short phase where workload drops to allow supercompensation and readiness.",
+      "Reducing volume (and sometimes intensity) to improve performance and recovery status.",
+      "Training load reduction intended to sharpen performance and restore freshness.",
+      "A period of decreased training stress leading into competition for peak output.",
+      "A strategy to reduce accumulated fatigue and maximize performance capacity."
+    ]
+  },
+  {
+    "term": "tidal volume",
+    "aliases": ["VT"],
+    "definitions": [
+      "The volume of air inspired or expired with each breath.",
+      "Air volume moved per breath at rest or during exercise.",
+      "The amount of air entering/leaving the lungs with a single respiratory cycle.",
+      "Breath size: the per-breath air volume.",
+      "Volume exchanged in one normal inspiration/expiration.",
+      "A component of minute ventilation (VE = VT × breathing frequency).",
+      "The per-breath air volume that can increase with exercise intensity.",
+      "Air volume inhaled or exhaled during a single breath."
+    ]
+  },
+  {
+    "term": "vasoconstriction",
+    "aliases": [],
+    "definitions": [
+      "Narrowing of blood vessels to reduce blood flow.",
+      "Decreased vessel diameter caused by smooth muscle contraction in vessel walls.",
+      "A vascular response that increases resistance and reduces downstream blood flow.",
+      "Constriction of arterioles that raises peripheral resistance and alters distribution of blood.",
+      "Reduction in lumen size that can increase blood pressure and limit perfusion.",
+      "A response that decreases local blood supply by tightening vascular smooth muscle.",
+      "Decreased vessel radius leading to increased resistance to blood flow.",
+      "Vessel narrowing that reduces flow and can elevate arterial pressure."
+    ]
+  },
+  {
+    "term": "vasodilation",
+    "aliases": [],
+    "definitions": [
+      "Widening of blood vessels to increase blood flow.",
+      "Increased vessel diameter due to relaxation of vascular smooth muscle.",
+      "A vascular response that lowers resistance and increases downstream perfusion.",
+      "Expansion of arterioles that improves blood delivery to tissues.",
+      "Increased lumen size that reduces peripheral resistance and can lower blood pressure.",
+      "A response that increases local blood supply by relaxing vascular smooth muscle.",
+      "An increase in vessel radius that decreases resistance to blood flow.",
+      "Vessel widening that enhances flow and supports oxygen/nutrient delivery."
+    ]
+  },
+  {
+    "term": "venous return",
+    "aliases": ["VR"],
+    "definitions": [
+      "The flow of blood back to the heart.",
+      "The volume of blood returning to the right atrium per unit time.",
+      "Blood return from systemic circulation to the heart.",
+      "A key determinant of end-diastolic volume and thus stroke volume.",
+      "The amount of blood that returns via veins, influenced by muscle pump and respiration.",
+      "Return flow of blood to the heart that supports ventricular filling.",
+      "The venous blood flow back to the heart that affects preload.",
+      "Blood returning through the venous system to fill the heart before ejection."
+    ]
+  },
+  {
+    "term": "ventilatory equivalent",
+    "aliases": ["VE/VO2", "VE/VCO2"],
+    "definitions": [
+      "The ratio of ventilation to oxygen uptake or carbon dioxide output.",
+      "A measure of how much ventilation is required per unit of O2 consumed (VE/VO2) or CO2 produced (VE/VCO2).",
+      "An index of ventilatory efficiency during exercise testing.",
+      "A respiratory efficiency metric expressing ventilation relative to metabolic gas exchange.",
+      "A ratio used to evaluate ventilatory response and detect ventilatory thresholds.",
+      "The amount of air ventilated for a given level of oxygen uptake or carbon dioxide production.",
+      "A measure where higher values can indicate less efficient ventilation.",
+      "Ventilation divided by VO2 or VCO2, reflecting how hard you must breathe for metabolic demand."
+    ]
+  }
+]

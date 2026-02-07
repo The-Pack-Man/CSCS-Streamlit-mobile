@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ch03_q01",
+    "question": "Which of the following substances can be metabolized anaerobically?",
+    "choices": [
+      "glycerol",
+      "glucose",
+      "amino acids",
+      "free fatty acids"
+    ],
+    "answer_index": 1,
+    "explanation": "Only glucose can be metabolized anaerobically via glycolysis."
+  },
+  {
+    "id": "ch03_q02",
+    "question": "Which of the following reactions is the primary cause of metabolic acidosis (i.e., the decrease in intramuscular pH during high-intensity, fatiguing exercise)?",
+    "choices": [
+      "ATP → ADP + Pi + H+",
+      "pyruvate + NADH → lactate + NAD+",
+      "ADP + creatine phosphate → ATP + creatine",
+      "fructose-6-phosphate → fructose-1,6-bisphosphate"
+    ],
+    "answer_index": 0,
+    "explanation": "ATP hydrolysis releases hydrogen ions, which directly lower muscle pH."
+  },
+  {
+    "id": "ch03_q03",
+    "question": "Which of the following energy systems produces ATP at the quickest rate?",
+    "choices": [
+      "phosphagen",
+      "aerobic glycolysis",
+      "fat oxidation",
+      "fast glycolysis"
+    ],
+    "answer_index": 0,
+    "explanation": "The phosphagen system produces ATP at the fastest rate but has very limited capacity."
+  },
+  {
+    "id": "ch03_q04",
+    "question": "Approximately how many net ATP are produced via the oxidative energy system from the metabolism of one glucose molecule?",
+    "choices": [
+      "27",
+      "34",
+      "38",
+      "41"
+    ],
+    "answer_index": 0,
+    "explanation": "Modern estimates place ATP yield from one glucose molecule at approximately 30–34 ATP."
+  },
+  {
+    "id": "ch03_q05",
+    "question": "Which of the following energy substrates cannot be depleted during extreme exercise intensities or durations?",
+    "choices": [
+      "creatine phosphate",
+      "glycogen",
+      "water",
+      "ATP"
+    ],
+    "answer_index": 3,
+    "explanation": "ATP concentration is tightly regulated and cannot be fully depleted without cell death."
+  }
+]

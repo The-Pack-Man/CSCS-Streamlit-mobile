@@ -1,0 +1,268 @@
+[
+  {
+    "term": "aerobic capacity",
+    "aliases": ["VO2max capacity"],
+    "definitions": [
+      "The maximal ability to take in, transport, and utilize oxygen during exercise.",
+      "The upper limit of the body’s oxygen delivery and use during sustained activity.",
+      "A measure of how much oxygen the cardiovascular and muscular systems can process.",
+      "The ceiling of aerobic energy supply capability.",
+      "The physiological limit of oxygen uptake and utilization.",
+      "The capacity of the heart, lungs, blood, and muscles to support aerobic metabolism.",
+      "A determinant of endurance performance reflecting oxygen transport efficiency.",
+      "The maximal integrated function of respiratory, cardiovascular, and muscular systems."
+    ]
+  },
+  {
+    "term": "aerobic power",
+    "aliases": ["VO2max"],
+    "definitions": [
+      "The highest rate at which aerobic energy can be produced.",
+      "The maximal rate of oxygen consumption during exercise.",
+      "The peak speed of aerobic ATP production.",
+      "The intensity at which aerobic metabolism reaches its maximum output.",
+      "A measure of aerobic system output rather than duration.",
+      "The maximum oxygen flux through the aerobic system.",
+      "The rate-based expression of aerobic fitness.",
+      "The point at which increases in workload no longer increase oxygen uptake."
+    ]
+  },
+  {
+    "term": "agility",
+    "aliases": [],
+    "definitions": [
+      "The ability to rapidly change direction while maintaining balance and control.",
+      "A combination of speed, coordination, and neuromuscular control during direction changes.",
+      "Rapid whole-body movement with changes in velocity or direction in response to stimuli.",
+      "The capacity to decelerate, reorient, and accelerate efficiently.",
+      "Change-of-direction ability integrated with perceptual and decision-making elements.",
+      "A movement skill requiring strength, balance, and motor control.",
+      "Multidirectional speed under control.",
+      "The ability to reposition the body efficiently in space."
+    ]
+  },
+  {
+    "term": "anaerobic capacity",
+    "aliases": [],
+    "definitions": [
+      "The ability to sustain high-intensity effort via anaerobic pathways.",
+      "The total amount of work that can be performed anaerobically.",
+      "Energy-producing capacity of glycolytic and phosphagen systems combined.",
+      "Tolerance for repeated or sustained high-intensity exercise.",
+      "The volume-based component of anaerobic performance.",
+      "The ability to maintain output during short-duration intense exercise.",
+      "Anaerobic work potential rather than peak output.",
+      "The endurance of non-oxidative energy systems."
+    ]
+  },
+  {
+    "term": "anaerobic power",
+    "aliases": [],
+    "definitions": [
+      "The highest rate of anaerobic energy production.",
+      "Peak power output generated without oxygen.",
+      "The rate-based performance of phosphagen and glycolytic systems.",
+      "Explosive energy production over very short durations.",
+      "Maximum non-oxidative ATP generation rate.",
+      "Short-duration maximal effort capability.",
+      "Anaerobic system speed rather than endurance.",
+      "Peak output of non-aerobic metabolism."
+    ]
+  },
+  {
+    "term": "anthropometry",
+    "aliases": [],
+    "definitions": [
+      "The measurement of human body size, shape, and proportions.",
+      "Quantification of physical dimensions such as height, mass, and limb lengths.",
+      "Body measurement used in performance and health assessment.",
+      "Structural assessment of body characteristics.",
+      "Physical measurement techniques used in sport science.",
+      "Assessment of body dimensions for classification or tracking.",
+      "Measurement of external body characteristics.",
+      "A foundational method for evaluating growth, development, and physique."
+    ]
+  },
+  {
+    "term": "athletic performance",
+    "aliases": [],
+    "definitions": [
+      "Sport-specific execution capacity influenced by multiple factors.",
+      "The outcome of physical, technical, tactical, and psychological abilities.",
+      "The observable expression of training adaptations in sport.",
+      "Competitive execution effectiveness.",
+      "Integrated expression of fitness and skill.",
+      "How well an athlete performs in their sport context.",
+      "Performance shaped by preparation, skill, and decision-making.",
+      "The realized output of an athlete’s abilities."
+    ]
+  },
+  {
+    "term": "athletic profile",
+    "aliases": [],
+    "definitions": [
+      "A summary of test results across performance domains.",
+      "A multidimensional snapshot of an athlete’s strengths and weaknesses.",
+      "A compiled representation of physical performance qualities.",
+      "Performance benchmarking across key fitness variables.",
+      "An assessment framework guiding individualized training.",
+      "A diagnostic overview of athlete capabilities.",
+      "A performance fingerprint used for planning.",
+      "A consolidated athlete assessment report."
+    ]
+  },
+  {
+    "term": "balance",
+    "aliases": [],
+    "definitions": [
+      "The ability to maintain center of mass over base of support.",
+      "Postural control in static or dynamic conditions.",
+      "Neuromuscular control of body position.",
+      "Stability during stillness or movement.",
+      "Control of equilibrium.",
+      "The capacity to resist perturbations.",
+      "Coordination of sensory and motor systems for posture.",
+      "Maintenance of body alignment under gravity."
+    ]
+  },
+  {
+    "term": "body composition",
+    "aliases": [],
+    "definitions": [
+      "The relative proportions of fat mass and fat-free mass.",
+      "Distribution of body tissues.",
+      "The makeup of the body by tissue type.",
+      "The ratio of adipose to lean tissue.",
+      "A structural characteristic influencing performance and health.",
+      "Assessment of fat, muscle, bone, and water components.",
+      "Physique composition rather than size alone.",
+      "The partitioning of total body mass."
+    ]
+  },
+  {
+    "term": "central tendency",
+    "aliases": [],
+    "definitions": [
+      "A statistical measure representing the center of a dataset.",
+      "Typical value around which data cluster.",
+      "Summary statistic describing average performance.",
+      "Mean, median, or mode of a distribution.",
+      "Indicator of dataset central location.",
+      "A representative value of a dataset.",
+      "Statistical descriptor of typical outcome.",
+      "Measure summarizing where data are centered."
+    ]
+  },
+  {
+    "term": "descriptive statistics",
+    "aliases": [],
+    "definitions": [
+      "Statistics used to summarize and describe datasets.",
+      "Methods that organize and present data meaningfully.",
+      "Tools such as mean, SD, and range.",
+      "Non-inferential data summaries.",
+      "Techniques that describe what the data show.",
+      "Numerical summaries of performance data.",
+      "Data reduction methods for interpretation.",
+      "Statistics focused on description rather than inference."
+    ]
+  },
+  {
+    "term": "difference score",
+    "aliases": [],
+    "definitions": [
+      "The change between two measurements for the same subject.",
+      "Posttest minus pretest value.",
+      "Individual change over time.",
+      "Raw performance change metric.",
+      "Within-subject performance difference.",
+      "Unadjusted measure of improvement or decline.",
+      "Simple delta between two scores.",
+      "Absolute change calculation."
+    ]
+  },
+  {
+    "term": "effect size",
+    "aliases": [],
+    "definitions": [
+      "A standardized measure of the magnitude of a difference.",
+      "Quantifies practical importance of change.",
+      "Size of an effect independent of sample size.",
+      "Magnitude of relationship or intervention impact.",
+      "Standardized change metric (e.g., Cohen’s d).",
+      "Indicator of meaningfulness beyond p-values.",
+      "Scale-free measure of effect strength.",
+      "Practical significance indicator."
+    ]
+  },
+  {
+    "term": "flexibility",
+    "aliases": [],
+    "definitions": [
+      "The range of motion available at a joint.",
+      "Joint mobility capability.",
+      "Extent of movement allowed by tissues.",
+      "Capacity to move through full ROM.",
+      "Passive or active joint movement range.",
+      "Mobility at one or more joints.",
+      "Soft tissue extensibility.",
+      "Joint movement freedom."
+    ]
+  },
+  {
+    "term": "inferential statistics",
+    "aliases": [],
+    "definitions": [
+      "Statistics used to draw conclusions about a population from a sample.",
+      "Methods for hypothesis testing and estimation.",
+      "Analytical tools that go beyond description.",
+      "Statistical inference about broader populations.",
+      "Probability-based conclusions.",
+      "Generalization from sample data.",
+      "Statistics involving confidence and uncertainty.",
+      "Decision-making statistics."
+    ]
+  },
+  {
+    "term": "mean",
+    "aliases": ["average"],
+    "definitions": [
+      "The arithmetic average of a dataset.",
+      "Sum of values divided by number of observations.",
+      "Central tendency sensitive to outliers.",
+      "Most common summary statistic.",
+      "Numerical average value.",
+      "Balance point of a dataset.",
+      "Average performance score.",
+      "Expected value under symmetry."
+    ]
+  },
+  {
+    "term": "standard deviation",
+    "aliases": ["SD"],
+    "definitions": [
+      "A measure of dispersion around the mean.",
+      "Typical distance of values from the average.",
+      "Variability indicator in a dataset.",
+      "Spread of data points.",
+      "Consistency measure of performance.",
+      "Statistical dispersion metric.",
+      "Extent of score variability.",
+      "Measure of distribution width."
+    ]
+  },
+  {
+    "term": "variability",
+    "aliases": [],
+    "definitions": [
+      "The degree to which values differ within a dataset.",
+      "Spread or inconsistency of measurements.",
+      "Fluctuation in repeated measures.",
+      "Performance dispersion.",
+      "Natural variation in outcomes.",
+      "Extent of differences between observations.",
+      "Measure of consistency.",
+      "Range of deviation in data."
+    ]
+  }
+]

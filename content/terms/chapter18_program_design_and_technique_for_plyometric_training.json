@@ -1,0 +1,268 @@
+[
+  {
+    "term": "amortization phase",
+    "aliases": ["amortization", "transition phase", "coupling phase"],
+    "definitions": [
+      "The brief transition between eccentric loading and concentric takeoff in the stretch-shortening cycle.",
+      "The time interval from the end of the eccentric phase to the start of the concentric phase in SSC actions.",
+      "The “coupling” period where stored elastic energy can be preserved or lost before propulsion.",
+      "A critical SSC window in which the athlete must reverse movement direction rapidly to maximize power output.",
+      "The ground-contact transition in reactive movements where braking ends and re-acceleration begins.",
+      "The phase where neuromuscular switching occurs from yielding/absorbing force to producing force.",
+      "A key determinant of plyometric effectiveness: shorter amortization generally improves reactive performance.",
+      "The moment of reversal in SSC tasks when energy transfer and reflex contribution are most time-sensitive."
+    ]
+  },
+  {
+    "term": "balance",
+    "aliases": ["postural control", "equilibrium (general)"],
+    "definitions": [
+      "The ability to keep the body’s center of mass over its base of support in static or dynamic conditions.",
+      "Control of body position so stability is maintained while standing, moving, or changing direction.",
+      "The capacity to minimize sway and recover from perturbations without losing posture.",
+      "Postural regulation using sensory input (visual, vestibular, proprioceptive) to maintain stability.",
+      "The ability to control the center of mass relative to the support surface during movement tasks.",
+      "Maintaining stability during sport actions that challenge the base of support (e.g., landing, cutting).",
+      "A skill involving neuromuscular control that helps prevent falls and improves movement efficiency.",
+      "Coordinated control of joint positions and forces to avoid tipping or collapsing under load."
+    ]
+  },
+  {
+    "term": "bound",
+    "aliases": ["bounding", "power bound", "horizontal bound"],
+    "definitions": [
+      "A plyometric drill using exaggerated running strides to develop horizontal power and speed.",
+      "A series of powerful, long-stride hops emphasizing forward propulsion and elastic reactivity.",
+      "A plyometric exercise that trains horizontal force production and reactive stiffness with repeated contacts.",
+      "Explosive alternating-leg contacts that bridge sprint mechanics and plyometric power.",
+      "A drill that emphasizes projection, hip extension, and rapid ground contact for horizontal RFD.",
+      "A high-velocity, SSC-based running variation with longer airtime and forceful push-offs.",
+      "A horizontal plyometric used to develop stride power, rhythm, and stiffness under dynamic movement.",
+      "A reactive drill where athletes “launch” forward with each contact to train elastic return and power."
+    ]
+  },
+  {
+    "term": "box drill",
+    "aliases": ["plyo box drill", "box agility drill (context)"],
+    "definitions": [
+      "A plyometric drill using a box for stepping, jumping, or moving around it to train power and coordination.",
+      "A structured movement pattern involving contacts on/around a box to develop agility, rhythm, and reactivity.",
+      "A drill using a raised platform to train landing mechanics, footwork, and explosive movement transitions.",
+      "A plyometric sequence where athletes navigate the box with jumps/steps to build SSC efficiency and control.",
+      "A training drill that uses the box as a spatial constraint to challenge positioning and movement accuracy.",
+      "A coordination-focused plyometric that can emphasize lateral, linear, or multi-directional power.",
+      "A drill often used to blend agility footwork with plyometric contacts for reactive athleticism.",
+      "A box-based pattern that stresses quick contacts, stable landings, and direction changes."
+    ]
+  },
+  {
+    "term": "complex training",
+    "aliases": ["complex method", "strength–power complex"],
+    "definitions": [
+      "Pairing a heavy resistance exercise with a biomechanically similar plyometric movement to enhance power.",
+      "A training approach combining maximal or near-maximal strength work with an explosive counterpart in sequence.",
+      "A method designed to use post-activation effects (potentiation) from lifting to improve subsequent plyo output.",
+      "A pairing strategy (e.g., squat then jump) intended to increase rate of force development and power expression.",
+      "A contrast-style method where a heavy load primes the nervous system for explosive movement.",
+      "A plan that alternates strength and plyometrics to train both force capacity and force application speed.",
+      "A technique linking high-load strength stimuli with high-velocity sport-like actions for better transfer.",
+      "A sequencing method used to bridge gym strength and field explosiveness through similar movement patterns."
+    ]
+  },
+  {
+    "term": "concentric phase",
+    "aliases": ["concentric action", "shortening phase", "propulsive phase"],
+    "definitions": [
+      "The phase where muscle shortens while producing force.",
+      "The force-producing shortening action that typically drives movement or accelerates a load.",
+      "The portion of a lift or jump where the body or implement moves in the direction of intended motion.",
+      "The propulsive phase of SSC actions when stored energy and active contraction produce takeoff.",
+      "A muscle action characterized by fiber shortening and joint motion driven by the agonists.",
+      "The upward/accelerative portion of many resistance movements (e.g., rising from a squat).",
+      "The phase where mechanical work is produced as the muscle applies force through displacement.",
+      "The movement segment where force application results in positive acceleration of the body or load."
+    ]
+  },
+  {
+    "term": "depth jump",
+    "aliases": ["drop jump (commonly related)", "shock method jump (context)"],
+    "definitions": [
+      "A high-intensity plyometric where an athlete steps off a box and immediately jumps upon landing.",
+      "A reactive drill designed to minimize ground contact time and maximize explosive takeoff after a drop.",
+      "A plyometric emphasizing rapid SSC reversal: drop → absorb → rebound.",
+      "A training exercise targeting reactive strength and stiffness using a drop-landing transition into a jump.",
+      "A drill that challenges eccentric braking and fast concentric output with minimal amortization time.",
+      "A high-neural-demand plyo used to develop explosiveness and stretch reflex utilization.",
+      "A jump that begins with a fall from height to create a strong eccentric load before the rebound.",
+      "A classic reactive plyometric used to improve rate of force development and landing-to-takeoff speed."
+    ]
+  },
+  {
+    "term": "eccentric phase",
+    "aliases": ["eccentric action", "lengthening phase", "braking phase"],
+    "definitions": [
+      "The phase where muscle lengthens while producing force.",
+      "A muscle action that resists load while the muscle-tendon unit is being stretched.",
+      "The lowering/braking portion of a movement where force is applied to control descent or decelerate.",
+      "The SSC loading phase where elastic energy can be stored in the muscle-tendon unit.",
+      "A force-producing lengthening action often associated with high tension and strong hypertrophy stimulus.",
+      "The phase where the body absorbs force (e.g., landing) and prepares for reversal or stabilization.",
+      "A controlled yielding action that slows motion while maintaining tension against resistance.",
+      "The negative portion of many lifts where the athlete controls the weight through ROM."
+    ]
+  },
+  {
+    "term": "jumps in place",
+    "aliases": ["in-place jumps", "vertical pogo/jump drills (broad category)"],
+    "definitions": [
+      "Low-intensity plyometric drills emphasizing vertical movement with minimal horizontal displacement.",
+      "Stationary plyometrics focusing on landing mechanics, rhythm, and elastic reactivity.",
+      "Plyometric jumps performed without traveling, used to build foundational SSC control.",
+      "Vertical displacement drills that train quick contacts and posture without forward movement.",
+      "A basic plyo category often used early in progression to teach stiffness and safe landing.",
+      "Stationary jumping patterns that develop coordination, timing, and vertical power basics.",
+      "Low to moderate intensity reactive drills used to reinforce alignment and joint control.",
+      "In-place plyometrics used to develop foundational reactive ability before more intense drills."
+    ]
+  },
+  {
+    "term": "multiple hops and jumps",
+    "aliases": ["repeated hops", "continuous jumps", "multi-response plyometrics"],
+    "definitions": [
+      "Plyometric drills using repeated ground contacts to develop reactive strength and SSC efficiency.",
+      "Continuous jumping/hopping sequences that train quick coupling and elastic return.",
+      "A plyometric category emphasizing repeated contacts and rhythm to improve stiffness and reactivity.",
+      "Multi-response plyos that challenge the athlete to maintain technique across successive impacts.",
+      "Repeated jumps/hops designed to improve endurance of reactive qualities and landing control.",
+      "A drill type that trains force absorption and rapid reapplication over multiple contacts.",
+      "Plyometrics performed consecutively without full reset, increasing SSC demand and coordination.",
+      "Repeated-contact plyos that develop elastic utilization and control under accumulating fatigue."
+    ]
+  },
+  {
+    "term": "muscle spindle",
+    "aliases": ["muscle spindle receptor", "stretch receptor"],
+    "definitions": [
+      "A proprioceptor within muscle that detects changes in length and the rate of stretch.",
+      "A sensory receptor that contributes to the stretch reflex by sensing rapid muscle lengthening.",
+      "A structure that monitors muscle length to help regulate tone and protect against overstretching.",
+      "A neuromuscular sensor that increases activation when a muscle is rapidly stretched.",
+      "A receptor system that provides feedback for posture, coordination, and movement accuracy.",
+      "A key SSC component: rapid stretch stimulates spindle activity, supporting reflexive force production.",
+      "A proprioceptive organ that helps maintain stability by triggering contraction when length changes quickly.",
+      "A muscle-based sensor that detects stretch velocity and magnitude to influence motor output."
+    ]
+  },
+  {
+    "term": "potentiation",
+    "aliases": ["post-activation potentiation (PAP)", "post-activation performance enhancement (PAPE)"],
+    "definitions": [
+      "An increase in force or power output following prior muscular activation.",
+      "A short-term performance enhancement after a heavy or explosive stimulus primes the neuromuscular system.",
+      "A phenomenon where previous contractions increase subsequent contractile responsiveness.",
+      "A priming effect that can improve rate of force development and explosive performance temporarily.",
+      "A state in which neural drive and muscle contractile properties are elevated after activation work.",
+      "A training concept used in complexes/contrasts to boost sprint, jump, or throw performance.",
+      "An acute enhancement where readiness to produce force is increased after an activating task.",
+      "A short-lived boost in performance resulting from prior high-intensity muscular activity."
+    ]
+  },
+  {
+    "term": "power",
+    "aliases": ["mechanical power", "output power"],
+    "definitions": [
+      "The rate of doing work; commonly expressed as force multiplied by velocity.",
+      "How quickly work is performed (work per unit time).",
+      "A performance quality combining force production and movement speed.",
+      "The capacity to apply force rapidly—key for sprinting, jumping, and throwing.",
+      "A measure of explosive output: high force applied at high speed.",
+      "Mechanical output rate that increases when either force or velocity increases.",
+      "A key athletic quality reflecting fast force production through displacement.",
+      "Work performed per time, often maximized at intermediate loads depending on the movement."
+    ]
+  },
+  {
+    "term": "push-up",
+    "aliases": ["press-up", "plyometric push-up (variant)"],
+    "definitions": [
+      "A bodyweight upper-body exercise that can be performed traditionally or explosively for plyometric training.",
+      "An upper-body pushing movement emphasizing chest, shoulders, and triceps with trunk stabilization.",
+      "A closed-chain press where the body is lowered and raised by arm extension and shoulder horizontal adduction.",
+      "A scalable exercise that can develop strength endurance or power depending on execution.",
+      "A movement that trains pressing mechanics while demanding core stiffness and scapular control.",
+      "A foundational upper-body exercise that can be progressed into clap/launch variations for power.",
+      "A bodyweight press used to train upper-body strength, stability, and (when explosive) reactive power.",
+      "A versatile push pattern that can be modified via hand position, elevation, tempo, or plyometric intent."
+    ]
+  },
+  {
+    "term": "series elastic component (SEC)",
+    "aliases": ["series elastic component", "series elastic elements"],
+    "definitions": [
+      "Elastic elements in the muscle-tendon unit that store and release energy during SSC actions.",
+      "The tendon and related elastic tissues aligned in series with muscle fibers that contribute to recoil.",
+      "A spring-like component that can temporarily store mechanical energy during eccentric loading.",
+      "Structures (especially tendons) that transmit force and return energy to aid concentric output.",
+      "The elastic “series” tissues that help improve efficiency and power by releasing stored energy.",
+      "A key SSC contributor: stores energy on the way down and returns it if coupling time is short.",
+      "The elastic tissues that stretch under load and rebound to support explosive movement.",
+      "A mechanical component in muscle models representing tendon/elastic tissues in series with contractile fibers."
+    ]
+  },
+  {
+    "term": "standing jump",
+    "aliases": ["static jump", "no-step jump", "standing vertical/broad (context)"],
+    "definitions": [
+      "A jump performed from a stationary start without a preparatory step.",
+      "A plyometric or testing movement emphasizing concentric power from a static position.",
+      "A jump initiated without run-up, used to assess or train explosive takeoff ability.",
+      "A jump that reduces approach momentum so performance reflects force production and technique.",
+      "A static-start jump used to develop and measure lower-body power (e.g., standing broad jump).",
+      "A jump performed from set stance, emphasizing coordination of hip-knee-ankle extension.",
+      "A stationary jump that stresses rapid force generation without approach speed assistance.",
+      "A foundational jump pattern often used for power testing and skill progression."
+    ]
+  },
+  {
+    "term": "stretch reflex",
+    "aliases": ["myotatic reflex"],
+    "definitions": [
+      "An involuntary contraction triggered by rapid muscle stretching.",
+      "A reflexive response mediated by muscle spindles that increases activation when stretch is fast.",
+      "A protective neuromuscular mechanism that resists sudden lengthening of muscle.",
+      "A reflex that enhances force output in SSC tasks when the eccentric phase is rapid.",
+      "Automatic muscle activation in response to quick stretch to stabilize joints and maintain posture.",
+      "A neural response that can contribute to explosive performance if timing is appropriate.",
+      "A rapid, spinal-level reflex increasing muscle contraction following sudden stretch.",
+      "A spindle-driven reflex that supports reactive strength during quick eccentric loading."
+    ]
+  },
+  {
+    "term": "stretch-shortening cycle (SSC)",
+    "aliases": ["SSC", "stretch–shortening cycle"],
+    "definitions": [
+      "A muscle action sequence of eccentric loading, brief transition (amortization), and concentric propulsion.",
+      "A cycle where a rapid pre-stretch enhances subsequent shortening action and power output.",
+      "A mechanism that improves performance by combining elastic energy storage with reflexive activation.",
+      "Eccentric → coupling → concentric sequence used in most athletic movements (jumping, sprinting).",
+      "A process where muscle-tendon units store energy during braking and release it during propulsion.",
+      "A performance mechanism relying on quick reversal to preserve stored elastic energy.",
+      "A neuromechanical cycle that can increase force and power compared with concentric-only actions.",
+      "The fundamental plyometric mechanism combining pre-stretch, minimal delay, and explosive output."
+    ]
+  },
+  {
+    "term": "throw",
+    "aliases": ["medicine ball throw (common plyo context)", "ballistic throw"],
+    "definitions": [
+      "A ballistic upper-body movement used in plyometric training to develop power.",
+      "An explosive projection of an implement (often a med ball) to train rate of force development.",
+      "A power exercise emphasizing rapid force application through the upper body and trunk.",
+      "A ballistic movement where the load is released, enabling maximal acceleration throughout the motion.",
+      "A plyometric-style action training explosive pushing or rotational power depending on the throw type.",
+      "A training movement that converts strength into sport-like power via fast intent and full acceleration.",
+      "An explosive action used to develop upper-body and total-body power through rapid force transfer.",
+      "A ballistic power drill commonly used to train chest, overhead, or rotational explosiveness."
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "ch21_q01",
+    "question": "During which stage of the General Adaptation Syndrome does the body physiologically adapt to heavier training loads?",
+    "choices": [
+      "alarm",
+      "resistance",
+      "exhaustion",
+      "restoration"
+    ],
+    "answer_index": 1,
+    "explanation": "During the resistance stage, the body adapts to the imposed training stress."
+  },
+  {
+    "id": "ch21_q02",
+    "question": "When relating the season terminology to periodization periods, which season corresponds to the preparatory period of training?",
+    "choices": [
+      "in-season",
+      "preseason",
+      "off-season",
+      "postseason"
+    ],
+    "answer_index": 2,
+    "explanation": "The preparatory period corresponds to the off-season."
+  },
+  {
+    "id": "ch21_q03",
+    "question": "During which of the following periods are sport-specific activities performed in the greatest volume?",
+    "choices": [
+      "preparatory",
+      "first transition",
+      "competition",
+      "second transition"
+    ],
+    "answer_index": 2,
+    "explanation": "Sport-specific activities are highest during the competition period."
+  },
+  {
+    "id": "ch21_q04",
+    "question": "The medium-sized training cycle that lasts two to six weeks in duration is referred to as a\n\nI. block of training\nII. macrocycle\nIII. microcycle\nIV. mesocycle",
+    "choices": [
+      "II and III only",
+      "I and IV only",
+      "I, II, and IV only",
+      "III and IV only"
+    ],
+    "answer_index": 1,
+    "explanation": "A mesocycle (and training block) typically lasts two to six weeks."
+  },
+  {
+    "id": "ch21_q05",
+    "question": "Which of the following phases is (are) commonly used to vary workouts during the preparatory period?\n\nI. hypertrophy\nII. cardiovascular\nIII. basic strength\nIV. supercompensation",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 0,
+    "explanation": "Hypertrophy and basic strength phases are commonly used during the preparatory period."
+  },
+
+  {
+    "id": "ch21_q06",
+    "question": "Which of the following BEST describes the primary purpose of periodization?",
+    "choices": [
+      "to maximize fatigue throughout the season",
+      "to vary training variables to optimize long-term performance",
+      "to prevent all forms of overtraining",
+      "to maintain constant training intensity year-round"
+    ],
+    "answer_index": 1,
+    "explanation": "Periodization systematically varies training variables to maximize performance and manage fatigue over time."
+  },
+  {
+    "id": "ch21_q07",
+    "question": "Which of the following BEST explains why training volume typically decreases as competition approaches?",
+    "choices": [
+      "to improve aerobic capacity",
+      "to reduce injury risk from resistance training",
+      "to allow peak performance and recovery",
+      "to increase sport skill complexity"
+    ],
+    "answer_index": 2,
+    "explanation": "Reducing volume allows recovery and expression of maximal performance during competition."
+  },
+  {
+    "id": "ch21_q08",
+    "question": "Which of the following training variables is MOST often manipulated first during periodized program design?",
+    "choices": [
+      "exercise selection",
+      "training frequency",
+      "training volume",
+      "rest interval"
+    ],
+    "answer_index": 2,
+    "explanation": "Training volume is typically adjusted first to manage overall workload and fatigue."
+  },
+
+  {
+    "id": "ch21_q09",
+    "type": "wrapper",
+    "question": "For each training period below, select the MOST appropriate primary training emphasis.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "high volume, low intensity",
+      "moderate volume, moderate intensity",
+      "low volume, high intensity",
+      "very low volume, maintenance emphasis"
+    ],
+    "contexts": [
+      {
+        "prompt": "early preparatory period",
+        "answer_index": 0
+      },
+      {
+        "prompt": "late preparatory period",
+        "answer_index": 1
+      },
+      {
+        "prompt": "competition period",
+        "answer_index": 2
+      },
+      {
+        "prompt": "transition period",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Training emphasis shifts across periods to develop fitness qualities early and peak performance during competition."
+  },
+
+  {
+    "id": "ch21_q10",
+    "type": "wrapper",
+    "question": "For each athlete scenario below, select the MOST appropriate periodization model.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "linear periodization",
+      "undulating periodization",
+      "block periodization",
+      "nonperiodized training"
+    ],
+    "contexts": [
+      {
+        "prompt": "novice athlete with a long off-season",
+        "answer_index": 0
+      },
+      {
+        "prompt": "experienced athlete requiring frequent variation",
+        "answer_index": 1
+      },
+      {
+        "prompt": "elite athlete targeting a specific performance peak",
+        "answer_index": 2
+      },
+      {
+        "prompt": "recreational athlete training inconsistently",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Periodization model selection depends on training status, competitive schedule, and performance goals."
+  },
+
+  {
+    "id": "ch21_q11",
+    "type": "wrapper",
+    "question": "For each season phase below, select the MOST appropriate resistance training frequency.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "4–6 days per week",
+      "3–4 days per week",
+      "2–3 days per week",
+      "1–2 days per week"
+    ],
+    "contexts": [
+      {
+        "prompt": "off-season",
+        "answer_index": 0
+      },
+      {
+        "prompt": "preseason",
+        "answer_index": 1
+      },
+      {
+        "prompt": "in-season",
+        "answer_index": 2
+      },
+      {
+        "prompt": "postseason / transition",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Resistance training frequency decreases as sport-specific demands increase across the season."
+  },
+
+  {
+    "id": "ch21_q12",
+    "type": "wrapper",
+    "question": "For each training goal below, select the MOST appropriate phase emphasis during the preparatory period.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "hypertrophy",
+      "basic strength",
+      "power",
+      "active recovery"
+    ],
+    "contexts": [
+      {
+        "prompt": "increasing muscle cross-sectional area",
+        "answer_index": 0
+      },
+      {
+        "prompt": "improving maximal force production",
+        "answer_index": 1
+      },
+      {
+        "prompt": "converting strength to sport performance",
+        "answer_index": 2
+      },
+      {
+        "prompt": "reducing accumulated fatigue",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Each preparatory phase targets a distinct adaptation that contributes to long-term performance."
+  }
+]

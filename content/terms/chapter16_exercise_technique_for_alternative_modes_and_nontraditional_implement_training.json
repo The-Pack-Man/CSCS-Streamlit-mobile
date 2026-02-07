@@ -1,0 +1,352 @@
+[
+  {
+    "term": "accommodating resistance",
+    "aliases": ["accommodating load", "variable resistance (context: match strength curve)"],
+    "definitions": [
+      "Resistance that changes through the range of motion to better match the lifter’s force capability.",
+      "A loading approach where external resistance increases or decreases as leverage changes.",
+      "Typically achieved with bands or chains so the lift is heavier where you’re stronger.",
+      "A method to “accommodate” the strength curve and reduce the mismatch of constant load.",
+      "Variable loading that can reduce deceleration near lockout and promote intent to move fast.",
+      "A strategy that alters effective resistance across ROM rather than keeping it constant.",
+      "In practice: lighter at the weakest point, heavier near the strongest point (often).",
+      "Band/chain-based loading used to align resistance with torque capacity across a lift."
+    ]
+  },
+  {
+    "term": "alternative modes",
+    "aliases": ["alternative training modes", "nontraditional modes"],
+    "definitions": [
+      "Training methods or implements used instead of traditional free weights or machines.",
+      "Substitute approaches for achieving a similar training goal when standard tools aren’t ideal.",
+      "Nonstandard modalities used to train strength, power, conditioning, or movement quality.",
+      "Different equipment or setups chosen to manage constraints (injury, space, variety, specificity).",
+      "A category that includes strongman implements, sleds, bands, kettlebells, bodyweight work, etc.",
+      "Ways to train the same quality using different external resistance patterns or environments.",
+      "A programming option to keep the stimulus while changing the exercise/tool.",
+      "Any non-primary training approach used as a replacement or complement to core lifts."
+    ]
+  },
+  {
+    "term": "anatomical core",
+    "aliases": ["core musculature", "trunk musculature"],
+    "definitions": [
+      "The trunk muscles including abdominals, spinal extensors, diaphragm, and pelvic floor.",
+      "Muscles that contribute to spinal and pelvic stability and pressure regulation.",
+      "The structural and muscular system supporting the spine during movement and load transfer.",
+      "Includes deep stabilizers and global movers of the trunk (not just the “abs”).",
+      "Musculature that helps resist unwanted trunk motion (flexion, extension, rotation, shear).",
+      "The body’s central stabilizing region used for force transmission between upper and lower body.",
+      "A functional unit supporting posture, breathing mechanics, and bracing.",
+      "Trunk muscles responsible for stiffness and stability under load."
+    ]
+  },
+  {
+    "term": "anterior cruciate ligament (ACL)",
+    "aliases": ["ACL"],
+    "definitions": [
+      "A knee ligament that resists anterior tibial translation and contributes to rotational stability.",
+      "Primary restraint against the tibia sliding forward relative to the femur.",
+      "A key stabilizer for cutting, pivoting, deceleration, and landing mechanics.",
+      "Ligament that helps control knee internal rotation and valgus collapse under load.",
+      "A structure commonly injured during noncontact planting/cutting with poor control.",
+      "Stabilizer affected by high anterior shear and rotational forces at the knee.",
+      "A ligament connecting femur to tibia that limits forward tibial movement.",
+      "A major passive stabilizer supporting knee joint integrity in sport movements."
+    ]
+  },
+  {
+    "term": "axial skeleton",
+    "aliases": ["axial skeleton bones"],
+    "definitions": [
+      "Bones of the head, vertebral column, ribs, and sternum.",
+      "The skeleton forming the body’s central axis (skull + spine + thoracic cage).",
+      "Framework supporting posture and protecting the brain, spinal cord, and thoracic organs.",
+      "The central skeletal system to which the appendicular skeleton attaches.",
+      "Includes skull, vertebrae, ribs, and sternum.",
+      "The midline skeleton responsible for structural support and protection.",
+      "Core bony structures of the trunk and head.",
+      "Central-axis bones (not the limbs)."
+    ]
+  },
+  {
+    "term": "bilateral asymmetries",
+    "aliases": ["left-right asymmetries", "side-to-side asymmetries"],
+    "definitions": [
+      "Performance or strength differences between the left and right sides of the body.",
+      "Side-to-side discrepancies in force, power, mobility, stability, or coordination.",
+      "Imbalances that may affect movement efficiency and injury risk if large or persistent.",
+      "Differences seen in unilateral tests (e.g., single-leg jump, split squat, single-arm press).",
+      "Neuromuscular or structural differences between limbs.",
+      "A mismatch in capacity or control from one side of the body to the other.",
+      "Asymmetric outputs in bilateral tasks or measured unilaterally.",
+      "Unequal left vs right performance characteristics."
+    ]
+  },
+  {
+    "term": "bilateral deficit",
+    "aliases": ["BLD"],
+    "definitions": [
+      "When force from a bilateral effort is less than the sum of unilateral efforts.",
+      "A phenomenon where two-limb performance is lower than the combined one-limb performances.",
+      "Often observed when comparing bilateral vs unilateral jumps or strength tests.",
+      "A neuromuscular coordination/activation limitation during simultaneous limb contraction.",
+      "Indicates reduced total output when both limbs work together versus separately.",
+      "Bilateral task underperforms relative to the unilateral sum.",
+      "A commonly discussed concept supporting unilateral training in some contexts.",
+      "Two-leg/two-arm output < (left alone + right alone)."
+    ]
+  },
+  {
+    "term": "bilateral facilitation",
+    "aliases": ["BLF"],
+    "definitions": [
+      "When bilateral force production exceeds the sum of unilateral outputs.",
+      "A phenomenon where two-limb performance is greater than (left alone + right alone).",
+      "Suggests synergy or improved stability/coordination during bilateral efforts.",
+      "Bilateral task outperforms the combined unilateral results.",
+      "Can appear in certain lifts where trunk stability and interlimb coordination boost output.",
+      "Enhanced force output during simultaneous limb contraction.",
+      "A bilateral advantage compared with unilateral sum.",
+      "Two-limb output > (left alone + right alone)."
+    ]
+  },
+  {
+    "term": "bodyweight training",
+    "aliases": ["calisthenics (general)", "self-load training"],
+    "definitions": [
+      "Training that uses the athlete’s body mass as the primary resistance.",
+      "Exercises where external load is minimal and the body provides the resistance.",
+      "Movements like push-ups, pull-ups, squats, lunges, dips, and planks.",
+      "A mode emphasizing relative strength, control, and movement quality.",
+      "A practical approach requiring little equipment; load is manipulated via leverage and tempo.",
+      "Resistance training where the athlete is the implement.",
+      "Self-resisted training primarily using body mass and gravity.",
+      "Exercises that challenge strength through body positioning and range of motion."
+    ]
+  },
+  {
+    "term": "chains",
+    "aliases": ["barbell chains", "chain resistance"],
+    "definitions": [
+      "Variable-resistance devices attached to a barbell that increase load as the bar rises.",
+      "A method of accommodating resistance: more chain lifts off the floor through the concentric.",
+      "A tool that makes the top of the lift heavier than the bottom.",
+      "A way to change effective load across ROM without changing plates.",
+      "Chain loading that can reduce deceleration near lockout and increase intent.",
+      "A strongman/powerlifting tool used for progressive resistance within a rep.",
+      "Weighted chains used to alter resistance profile in barbell lifts.",
+      "A variable loading method where resistance increases with bar height."
+    ]
+  },
+  {
+    "term": "constant external resistance",
+    "aliases": ["constant load", "constant resistance"],
+    "definitions": [
+      "Resistance that stays the same across the range of motion (e.g., free weights).",
+      "A loading condition where external load does not change as joint angles change.",
+      "A fixed-mass resistance (plates/dumbbells) that doesn’t “accommodate” leverage changes.",
+      "The standard resistance profile for most barbell and dumbbell lifts.",
+      "Resistance that can feel harder at weak joint angles and easier at strong angles.",
+      "A constant-weight stimulus where torque demands change mainly due to biomechanics.",
+      "Uniform external load throughout a rep.",
+      "Non-variable load as opposed to bands/chains."
+    ]
+  },
+  {
+    "term": "core",
+    "aliases": ["trunk stabilization system", "lumbopelvic-hip complex (context-dependent)"],
+    "definitions": [
+      "Anatomical structures that stabilize the spine and pelvis during movement.",
+      "The trunk region and its stabilizers that resist unwanted motion and transfer force.",
+      "A functional system that supports posture, bracing, and efficient force transmission.",
+      "Structures and muscles that control spinal position under load.",
+      "The stabilizing center linking upper and lower extremity movement.",
+      "Trunk stability capacity, not just abdominal strength.",
+      "The region responsible for controlling the torso and pelvis in sport and lifting.",
+      "Stability system enabling efficient movement and load transfer."
+    ]
+  },
+  {
+    "term": "farmer’s walk",
+    "aliases": ["farmer carry", "loaded carry (farmer style)"],
+    "definitions": [
+      "A loaded carry where the athlete walks holding weights in each hand.",
+      "A strongman-style carry developing grip, trunk stiffness, and whole-body work capacity.",
+      "A gait-based strength exercise emphasizing postural control under load.",
+      "A carry that challenges lateral trunk stability and shoulder/upper back endurance.",
+      "Walking with heavy implements while maintaining neutral spine and steady steps.",
+      "An exercise integrating grip strength, bracing, and locomotion.",
+      "A bilateral carry with external load held at the sides.",
+      "Loaded walking with implements in both hands."
+    ]
+  },
+  {
+    "term": "ground-based free weight exercises",
+    "aliases": ["ground-based lifts"],
+    "definitions": [
+      "Free weight exercises performed with the feet on the ground.",
+      "Lifts that require force transfer through the kinetic chain into the ground.",
+      "Exercises emphasizing whole-body stabilization and coordinated force production.",
+      "Movements like squats, deadlifts, presses (standing), Olympic lift derivatives, etc.",
+      "Standing or foot-supported free-weight movements requiring balance and posture control.",
+      "Exercises where the athlete must stabilize the load without external guidance.",
+      "Ground-contact lifts integrating lower body, trunk, and upper body coordination.",
+      "Free-weight movements with ground reaction force involvement."
+    ]
+  },
+  {
+    "term": "isolation exercises",
+    "aliases": ["single-joint exercises"],
+    "definitions": [
+      "Exercises designed to primarily move at one joint and target one main muscle group.",
+      "Single-joint movements emphasizing a specific muscle rather than total-body coordination.",
+      "Accessory work used to add volume with lower systemic fatigue than big compound lifts.",
+      "Exercises like leg extensions, hamstring curls, biceps curls, triceps pressdowns.",
+      "Movements that reduce demands on stabilizers compared to multi-joint lifts.",
+      "Exercises that concentrate stress on a limited set of muscles.",
+      "A training category often used for hypertrophy, rehab, or weak-point targeting.",
+      "Single-joint accessory training."
+    ]
+  },
+  {
+    "term": "kettlebells",
+    "aliases": ["KBs"],
+    "definitions": [
+      "Handled weights used for ballistic and strength exercises.",
+      "A cast-iron/steel implement with an offset center of mass due to the handle.",
+      "Tools commonly used for swings, cleans, snatches, carries, and presses.",
+      "Implements enabling power-endurance and hip hinge patterning via ballistic work.",
+      "A nontraditional weight that challenges grip and trunk stability with dynamic movement.",
+      "A resistance tool often used for cyclic ballistic training and conditioning.",
+      "Handle-based weight that facilitates swing-based power training.",
+      "An implement used for strength and ballistic exercises with unique leverage."
+    ]
+  },
+  {
+    "term": "logs",
+    "aliases": ["log implement", "strongman log"],
+    "definitions": [
+      "Strongman pressing/carrying implements that challenge grip and trunk stability.",
+      "A large cylindrical implement used for log clean and press variations.",
+      "A nontraditional tool that alters pressing mechanics compared with a barbell.",
+      "An implement commonly used in strongman to train overhead strength and bracing.",
+      "A thick-grip, awkward-object implement increasing stability demands.",
+      "Pressing/carrying equipment that emphasizes trunk stiffness and upper-body power.",
+      "A strongman tool requiring different rack/press positions than a standard bar.",
+      "Awkward implement used for strength, power, and work capacity."
+    ]
+  },
+  {
+    "term": "machine-based training",
+    "aliases": ["machine training"],
+    "definitions": [
+      "Training performed on machines that guide movement and provide external stabilization.",
+      "Resistance exercises where the machine constrains the movement path.",
+      "A mode that can reduce balance/stabilizer demands and target muscles more directly.",
+      "Equipment-based resistance training with fixed or semi-fixed lever/track systems.",
+      "Often useful for hypertrophy, beginners, rehab, or managing fatigue and technique limits.",
+      "Machine-guided lifting where the implement provides support and direction.",
+      "External stabilization allowing focus on prime movers.",
+      "Resistance training using selectorized or plate-loaded machines."
+    ]
+  },
+  {
+    "term": "muscle activation",
+    "aliases": ["neuromuscular activation", "motor unit activation"],
+    "definitions": [
+      "Recruitment and firing of motor units within a muscle.",
+      "The process of turning muscle fibers on via neural input to produce force.",
+      "A description of neural drive to a muscle during a movement.",
+      "How strongly and how many motor units are engaged at a given moment.",
+      "A factor influenced by intent, technique, fatigue, and training status.",
+      "Neural stimulation leading to muscle tension development.",
+      "Level of motor unit recruitment and rate coding within a muscle.",
+      "The muscle’s neural “on” signal during contraction."
+    ]
+  },
+  {
+    "term": "nontraditional implement",
+    "aliases": ["nontraditional equipment", "alternative implement"],
+    "definitions": [
+      "Training equipment other than standard barbells, dumbbells, or machines.",
+      "Implements that change load handling, leverage, or stability compared to conventional tools.",
+      "Tools such as sandbags, logs, sleds, stones, kettlebells, bands, chains, etc.",
+      "Equipment often used to add variety, specificity, or novel stability demands.",
+      "A category including awkward objects and variable-resistance devices.",
+      "Alternative tools used to target strength, power, grip, and trunk control.",
+      "Nonstandard resistance tools used for performance training.",
+      "Implements outside the typical commercial gym defaults."
+    ]
+  },
+  {
+    "term": "resistance band",
+    "aliases": ["elastic band", "bands"],
+    "definitions": [
+      "An elastic device that provides variable resistance that increases as it stretches.",
+      "A tool used for accommodating resistance, assistance, warm-ups, and rehab.",
+      "Elastic resistance that changes tension across the range of motion.",
+      "A portable implement used to alter resistance profiles or reduce load at weak points.",
+      "A method to load speed-strength while maintaining intent to accelerate.",
+      "Elastic training tool where force rises with elongation.",
+      "Band tension used to modify a lift’s difficulty throughout ROM.",
+      "Variable-tension resistance implement."
+    ]
+  },
+  {
+    "term": "sticking point",
+    "aliases": ["sticking region"],
+    "definitions": [
+      "The most mechanically difficult portion of a lift where velocity decreases or stalls.",
+      "The range in which leverage is poorest and force demand is highest relative to capacity.",
+      "A common failure zone in a lift (e.g., off the chest in bench, out of the hole in squat).",
+      "The point where bar speed drops sharply and technique often degrades.",
+      "A limiting region that can be targeted with partials, pauses, or accommodating resistance.",
+      "The hardest ROM segment due to biomechanics and/or weak muscle contribution.",
+      "A lift’s “bottleneck” position.",
+      "Momentary slowdown region indicating mechanical disadvantage."
+    ]
+  },
+  {
+    "term": "strongman training",
+    "aliases": ["strongman-style training"],
+    "definitions": [
+      "Training using nontraditional implements to develop strength, power, and work capacity.",
+      "A style emphasizing awkward-object handling, carries, pulls, and presses.",
+      "Training that builds total-body strength, grip, trunk stiffness, and conditioning.",
+      "Implements include logs, stones, sleds, yokes, farmer carries, sandbags, etc.",
+      "A method that often blends strength and conditioning under heavy load.",
+      "Performance training focused on moving heavy objects in diverse tasks.",
+      "A modality that increases stability and bracing demands due to irregular implements.",
+      "Nontraditional strength training with high carry/drag/press emphasis."
+    ]
+  },
+  {
+    "term": "Valsalva maneuver",
+    "aliases": [],
+    "definitions": [
+      "Forced exhalation against a closed airway (closed glottis).",
+      "A bracing breath that increases intra-abdominal pressure to stabilize the trunk.",
+      "A technique used during heavy lifts to stiffen the torso and support the spine.",
+      "Breath-hold and brace method improving spinal stability under load.",
+      "A pressure-building maneuver that can transiently affect blood pressure.",
+      "A lifting breath strategy: inhale, brace, hold through the hardest portion, then exhale.",
+      "A trunk-stability breathing technique used in squats, deadlifts, presses.",
+      "Respiratory maneuver to increase trunk rigidity during high-force efforts."
+    ]
+  },
+  {
+    "term": "variable resistance",
+    "aliases": ["accommodating resistance (general)", "variable load"],
+    "definitions": [
+      "Resistance that changes throughout the range of motion rather than staying constant.",
+      "Loading that varies with joint angle, bar position, or implement tension (bands/chains).",
+      "A method used to better match resistance to the lifter’s strength curve.",
+      "Non-constant external resistance applied within a rep.",
+      "Band and chain loading are common examples.",
+      "A strategy that can reduce deceleration and encourage acceleration intent.",
+      "Resistance that increases or decreases during movement.",
+      "Any setup where external load is ROM-dependent."
+    ]
+  }
+]

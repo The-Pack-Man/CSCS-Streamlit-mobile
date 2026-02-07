@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ch16_q01",
+    "question": "If during the tire flip the athlete’s hips rise faster than the shoulders during the initial pushing motion, what is an effective correction to give the athlete?",
+    "choices": [
+      "Start with a higher hip position.",
+      "Keep the hips slightly below the shoulders in this position.",
+      "Lift the tire upward instead of driving it forward.",
+      "Push with the arms first."
+    ],
+    "answer_index": 1,
+    "explanation": "Keeping the hips slightly below the shoulders promotes proper force transfer and prevents excessive forward lean."
+  },
+  {
+    "id": "ch16_q02",
+    "question": "If a strong athlete incorporates only unilateral training into his or her program, what might the strength and conditioning professional expect to happen?",
+    "choices": [
+      "A bilateral facilitation will occur.",
+      "A bilateral deficit will be developed.",
+      "A reduction in bilateral asymmetries will occur.",
+      "Only unilateral strength will increase."
+    ],
+    "answer_index": 1,
+    "explanation": "Exclusive unilateral training can reduce bilateral neural adaptations, leading to a bilateral deficit."
+  },
+  {
+    "id": "ch16_q03",
+    "question": "With regard to core training, when is instability exercise best applied?",
+    "choices": [
+      "with untrained athletes who are relatively weak",
+      "in trained athletes who are rehabilitating from an injury",
+      "with trained athletes who are trying to optimize strength and power",
+      "with untrained athletes who are new to the exercise"
+    ],
+    "answer_index": 1,
+    "explanation": "Instability training is best applied during rehabilitation to restore neuromuscular control, not to maximize force production."
+  },
+  {
+    "id": "ch16_q04",
+    "question": "Which of the following is a rationale for using variable-resistance training methods?",
+    "choices": [
+      "to accommodate the changing mechanical advantages associated with constant-loaded exercises",
+      "to minimize force application throughout the full range of motion",
+      "to increase the time spent decelerating during a lifting motion",
+      "to keep the applied resistance constant during changes in joint angle"
+    ],
+    "answer_index": 0,
+    "explanation": "Variable resistance accommodates the strength curve by matching resistance to mechanical advantage."
+  },
+  {
+    "id": "ch16_q05",
+    "question": "Training on instability devices can reduce the overall agonist force production capacity and power output of the athlete to less than ____ of what can be achieved in a stable condition.",
+    "choices": [
+      "20%",
+      "50%",
+      "70%",
+      "90%"
+    ],
+    "answer_index": 2,
+    "explanation": "Instability training can reduce force and power output to less than 70% of stable conditions."
+  },
+
+  {
+    "id": "ch16_q06",
+    "question": "Which of the following athletes would benefit MOST from unilateral resistance training?",
+    "choices": [
+      "elite Olympic weightlifter",
+      "novice powerlifter",
+      "soccer player returning from unilateral injury",
+      "competitive bodybuilder"
+    ],
+    "answer_index": 2,
+    "explanation": "Unilateral training is particularly beneficial for correcting asymmetries during return-to-play scenarios."
+  },
+  {
+    "id": "ch16_q07",
+    "question": "Which of the following best describes the bilateral deficit?",
+    "choices": [
+      "greater force production during bilateral movements compared to unilateral movements",
+      "reduced force production during bilateral movements compared to unilateral movements",
+      "equal force production regardless of movement pattern",
+      "a loss of muscle mass due to asymmetrical loading"
+    ],
+    "answer_index": 1,
+    "explanation": "The bilateral deficit occurs when the combined unilateral force exceeds bilateral force output."
+  },
+  {
+    "id": "ch16_q08",
+    "question": "Which of the following resistance training methods MOST effectively overloads the terminal range of motion?",
+    "choices": [
+      "eccentric-only training",
+      "variable-resistance training",
+      "plyometric training",
+      "instability training"
+    ],
+    "answer_index": 1,
+    "explanation": "Variable resistance increases load where mechanical advantage is greatest, typically near lockout."
+  },
+  {
+    "id": "ch16_q09",
+    "question": "Which of the following is a primary limitation of instability resistance training?",
+    "choices": [
+      "reduced muscle activation",
+      "increased injury risk",
+      "reduced force and power output",
+      "inability to improve balance"
+    ],
+    "answer_index": 2,
+    "explanation": "Instability training reduces the ability to generate high force and power due to compromised stability."
+  },
+  {
+    "id": "ch16_q10",
+    "question": "Which training method is MOST appropriate when the primary goal is to improve rate of force development?",
+    "choices": [
+      "instability training",
+      "unilateral isolation training",
+      "variable-resistance training",
+      "slow eccentric training"
+    ],
+    "answer_index": 2,
+    "explanation": "Variable-resistance training supports rapid force production by matching resistance to the athlete’s strength curve."
+  }
+]

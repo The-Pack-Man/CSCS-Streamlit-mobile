@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ch11_q01",
+    "question": "Which of the following dietary supplements is (are) considered a stimulant?",
+    "choices": [
+      "I and II",
+      "II and IV",
+      "III and IV",
+      "I and III"
+    ],
+    "answer_index": 1,
+    "explanation": "Caffeine and citrus aurantium are stimulants; creatine and HMB are not."
+  },
+  {
+    "id": "ch11_q02",
+    "question": "Which of the following is NOT part of caffeine’s role in improving athletic performance?",
+    "choices": [
+      "increased power production",
+      "decreased glycogen depletion",
+      "increased fat oxidation",
+      "decreased urine production"
+    ],
+    "answer_index": 3,
+    "explanation": "Caffeine does not decrease urine production; it may have mild diuretic effects, especially in non-habituated users."
+  },
+  {
+    "id": "ch11_q03",
+    "question": "Which of the following is the BEST reason for aerobic endurance athletes to avoid erythropoietin use?",
+    "choices": [
+      "Hematocrit and hemoglobin levels may decrease",
+      "It may cause an unregulated increase in red blood cell production",
+      "Resistance to infectious disease may be impaired",
+      "It may reduce the ability of the blood to carry oxygen"
+    ],
+    "answer_index": 1,
+    "explanation": "Erythropoietin can dangerously increase red blood cell mass, raising blood viscosity and cardiovascular risk."
+  },
+  {
+    "id": "ch11_q04",
+    "question": "Creatine supplementation improves all of the following variables EXCEPT",
+    "choices": [
+      "lean body mass",
+      "maximal strength",
+      "endurance performance",
+      "power"
+    ],
+    "answer_index": 2,
+    "explanation": "Creatine primarily improves strength, power, and lean mass, but not aerobic endurance performance."
+  },
+  {
+    "id": "ch11_q05",
+    "question": "Which of the following performance-enhancing substances is most likely to increase lean body mass?",
+    "choices": [
+      "anabolic steroids",
+      "arginine",
+      "ephedrine",
+      "β-alanine"
+    ],
+    "answer_index": 0,
+    "explanation": "Anabolic steroids directly stimulate muscle protein synthesis and increase lean body mass."
+  }
+]

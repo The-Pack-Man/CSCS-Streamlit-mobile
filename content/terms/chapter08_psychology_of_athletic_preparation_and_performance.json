@@ -1,0 +1,772 @@
+[
+  {
+    "term": "achievement motivation",
+    "aliases": ["achievement drive", "need for achievement (general)"],
+    "definitions": [
+      "The drive to excel, succeed, and persist in the face of challenges.",
+      "A person’s tendency to pursue success, mastery, and improvement despite difficulty.",
+      "Motivation characterized by striving for competence and high standards of performance.",
+      "A disposition to seek achievement outcomes and persist when tasks are demanding.",
+      "The desire to meet or exceed goals, often reflected in effort and persistence.",
+      "A performance-oriented drive that pushes an athlete to improve and compete effectively.",
+      "The internal push to accomplish difficult tasks and demonstrate competence.",
+      "A motivation pattern emphasizing success, mastery, and continued effort under pressure."
+    ]
+  },
+  {
+    "term": "anxiety",
+    "aliases": ["performance anxiety (contextual)", "nervousness (informal)"],
+    "definitions": [
+      "A negative emotional state characterized by nervousness, worry, and apprehension.",
+      "An unpleasant emotional response involving tension and concern about potential outcomes.",
+      "A state combining physiological arousal and cognitive worry about perceived threats.",
+      "A negative affective state often linked to uncertainty, evaluation, or perceived danger.",
+      "A response to stress that can include worry, tension, and bodily activation.",
+      "A psychological state marked by apprehension that may impact focus and performance.",
+      "A negative emotional condition involving fear-like anticipation and unease.",
+      "A state of worry and nervous activation that can disrupt attention and motor control."
+    ]
+  },
+  {
+    "term": "arousal",
+    "aliases": ["activation", "physiological arousal"],
+    "definitions": [
+      "A physiological and psychological state of alertness or activation.",
+      "A level of central and peripheral nervous system activation that influences readiness.",
+      "A state of heightened alertness ranging from drowsiness to intense excitement.",
+      "The body’s level of activation that can affect attention, effort, and performance.",
+      "A readiness state involving physiological activation and mental alertness.",
+      "A spectrum of activation that influences intensity of behavior and response speed.",
+      "A state of being mentally and physically “turned on” for performance.",
+      "The degree of alertness/activation that can help or hinder performance depending on context."
+    ]
+  },
+  {
+    "term": "attention",
+    "aliases": ["selective attention (contextual)", "attentional focus (general)"],
+    "definitions": [
+      "The ability to focus selectively on relevant stimuli.",
+      "The process of directing mental resources toward task-relevant cues.",
+      "A cognitive skill that filters information to prioritize what matters for performance.",
+      "The capacity to pick up important cues while ignoring distractions.",
+      "A mental process of selecting and processing specific sensory or internal information.",
+      "The ability to allocate focus to relevant details in the environment or body.",
+      "A skill that governs what information is consciously processed during performance.",
+      "Selective concentration on relevant cues that supports decision-making and execution."
+    ]
+  },
+  {
+    "term": "augmented feedback",
+    "aliases": ["extrinsic feedback", "external feedback"],
+    "definitions": [
+      "External information provided to an athlete regarding performance or results.",
+      "Feedback originating outside the performer (coach, video, devices) that supplements intrinsic feedback.",
+      "Information about movement or outcome supplied by a source other than the athlete’s senses.",
+      "Coaching or technology-based information that helps correct or reinforce performance.",
+      "Additional performance information given to guide learning beyond natural sensory cues.",
+      "Externally provided feedback that can accelerate skill acquisition when used appropriately.",
+      "Information delivered from outside sources to refine technique or outcomes.",
+      "Performance-related information provided by coach/technology that supplements internal sensations."
+    ]
+  },
+  {
+    "term": "autogenic training",
+    "aliases": ["autogenic relaxation", "autogenic self-statements"],
+    "definitions": [
+      "A relaxation technique using self-statements to promote calmness.",
+      "A method of relaxation involving self-suggestions to induce warmth, heaviness, and calm.",
+      "A self-regulation technique using repeated phrases to reduce tension and anxiety.",
+      "A psychological skill that uses internal cues to shift the body toward relaxation.",
+      "A relaxation strategy centered on self-directed statements that produce a calming response.",
+      "A mental training method using autosuggestion to lower arousal and stress.",
+      "A technique where athletes use calming phrases to influence physiological state.",
+      "A self-relaxation approach using repeated statements to reduce arousal and promote control."
+    ]
+  },
+  {
+    "term": "catastrophe theory",
+    "aliases": ["catastrophe model"],
+    "definitions": [
+      "A model suggesting performance drops dramatically when high anxiety combines with high arousal.",
+      "A theory proposing that beyond a threshold, performance can collapse suddenly under combined arousal and anxiety.",
+      "A performance model where high physiological arousal plus high cognitive anxiety can trigger a sudden breakdown.",
+      "The idea that performance decline may be abrupt (not gradual) when anxiety and arousal are both high.",
+      "A framework explaining “choking” as a sharp performance drop under high anxiety and arousal.",
+      "A model emphasizing that performance can fall off a cliff when anxiety and arousal interact negatively.",
+      "A theory where increasing arousal helps until cognitive anxiety is high, then collapse can occur.",
+      "A performance model predicting sudden decrements when arousal is high and anxiety is elevated."
+    ]
+  },
+  {
+    "term": "cognitive anxiety",
+    "aliases": ["worry component of anxiety", "mental anxiety"],
+    "definitions": [
+      "Mental component of anxiety involving worry and negative thoughts.",
+      "The thought-based aspect of anxiety characterized by concern, doubt, and rumination.",
+      "Anxiety expressed as internal dialogue, worry about outcomes, and fear of failure.",
+      "A mental state involving apprehension and negative expectations about performance.",
+      "The cognitive side of anxiety, including self-doubt and concentration disruption.",
+      "Worry and negative evaluation thoughts that can impair decision-making and focus.",
+      "The “mind” component of anxiety, including fear, worry, and negative predictions.",
+      "Anxiety-related thoughts that increase uncertainty and can undermine confidence and attention."
+    ]
+  },
+  {
+    "term": "concentration",
+    "aliases": ["focus duration", "sustained attention"],
+    "definitions": [
+      "The ability to maintain attentional focus over time.",
+      "Sustaining attention on task-relevant cues without drifting or being distracted.",
+      "The capacity to keep mental resources directed toward performance demands.",
+      "Maintaining focus on relevant information despite distractions or fatigue.",
+      "A skill involving consistent attention allocation across a practice or competitive period.",
+      "The ability to stay locked on what matters for execution and decision-making.",
+      "Sustained attentional control that supports consistent performance.",
+      "The capacity to keep focus stable over time under varying conditions and pressure."
+    ]
+  },
+  {
+    "term": "controlled practice",
+    "aliases": ["closed practice", "closed skill practice (contextual)"],
+    "definitions": [
+      "Practice performed in a stable, predictable environment.",
+      "Training in conditions that do not change much from rep to rep (low variability).",
+      "Skill practice with consistent, controlled context and minimal external disruption.",
+      "Practice settings where the athlete can repeat the same task under similar conditions.",
+      "A learning context with predictable inputs, often used early in skill acquisition.",
+      "Practice in a closed environment that reduces uncertainty and simplifies decision demands.",
+      "Repetition-based practice with stable constraints and consistent task conditions.",
+      "Practice performed under predictable conditions to emphasize technique and basic patterning."
+    ]
+  },
+  {
+    "term": "diaphragmatic breathing",
+    "aliases": ["belly breathing", "deep breathing (diaphragm)"],
+    "definitions": [
+      "A breathing technique emphasizing deep breaths from the diaphragm to promote relaxation.",
+      "Breathing that uses the diaphragm effectively, often shown by abdominal expansion.",
+      "A method of breathing that can reduce arousal by slowing respiration and engaging the diaphragm.",
+      "Deep, controlled breathing that helps shift the body toward a calmer physiological state.",
+      "A relaxation-oriented breathing strategy that improves control of ventilation and reduces tension.",
+      "Breathing technique focusing on diaphragm movement rather than shallow chest breathing.",
+      "A self-regulation tool using slow, deep breaths to manage stress and anxiety.",
+      "Breathing that emphasizes diaphragm activation to promote calmness and improved autonomic control."
+    ]
+  },
+  {
+    "term": "discovery learning",
+    "aliases": ["self-discovery learning", "problem-solving learning"],
+    "definitions": [
+      "A learning approach where athletes solve movement problems independently.",
+      "Skill learning that emphasizes exploration and self-generated solutions rather than direct instruction.",
+      "A method where the athlete learns by experimenting and adjusting based on outcomes.",
+      "Learning through trial-and-error problem solving with minimal explicit coaching directions.",
+      "An approach that promotes deeper understanding by letting athletes find effective strategies.",
+      "A coaching style that encourages athletes to explore and discover correct movement patterns.",
+      "Learning mode where the performer identifies solutions through exploration and feedback.",
+      "A practice approach in which the athlete actively discovers technique solutions independently."
+    ]
+  },
+  {
+    "term": "drive theory",
+    "aliases": ["Hull’s drive theory (contextual)"],
+    "definitions": [
+      "A theory proposing that performance increases linearly with arousal.",
+      "The idea that higher arousal (drive) leads to better performance in a straight-line relationship.",
+      "A model suggesting increased activation improves dominant response execution.",
+      "A theory where arousal boosts performance, especially when skill is well learned.",
+      "A linear arousal-performance concept: more arousal equals better output (in theory).",
+      "A framework stating that arousal strengthens the most likely response (dominant response).",
+      "A theory implying arousal benefits performance consistently as it rises.",
+      "An arousal model proposing a direct positive relationship between arousal level and performance."
+    ]
+  },
+  {
+    "term": "emotions",
+    "aliases": ["affective states", "emotional states"],
+    "definitions": [
+      "Subjective psychological states involving physiological arousal and cognitive interpretation.",
+      "Internal experiences combining feelings, physiological activation, and appraisal of situations.",
+      "Affective states that influence attention, decision-making, and behavioral responses.",
+      "Psychological experiences involving feeling + body response + meaning/interpretation.",
+      "States such as fear, anger, joy, or frustration that affect performance and learning.",
+      "Feelings linked to physiological arousal and cognitive appraisal of events.",
+      "Affective experiences that shape motivation, stress responses, and focus.",
+      "Psychological states that combine physiological activation with perceived meaning and feeling tone."
+    ]
+  },
+  {
+    "term": "eustress",
+    "aliases": ["positive stress"],
+    "definitions": [
+      "Positive stress that enhances performance.",
+      "A beneficial stress response that increases readiness, motivation, or focus.",
+      "Stress interpreted as a challenge, leading to improved engagement and performance.",
+      "A productive level of stress that supports adaptation and performance rather than harm.",
+      "A positive arousal state where stress boosts effort and concentration.",
+      "Stress that is perceived as manageable and energizing rather than threatening.",
+      "A form of stress that can increase motivation and promote growth when recovery is adequate.",
+      "A helpful stress response that enhances alertness and performance capacity."
+    ]
+  },
+  {
+    "term": "explicit instructions",
+    "aliases": ["direct instruction", "verbal instructions"],
+    "definitions": [
+      "Direct verbal guidance on how to perform a skill.",
+      "Clear, specific coaching directions describing exactly what to do and how to do it.",
+      "Instruction that provides conscious rules or steps for movement execution.",
+      "Direct cues that tell an athlete what to focus on or how to move.",
+      "Coaching guidance that outlines the movement solution rather than letting it be discovered.",
+      "Step-by-step verbal guidance intended to shape technique.",
+      "Instruction that explicitly states the desired movement pattern or correction.",
+      "Direct coaching statements that provide specific technical directions for skill execution."
+    ]
+  },
+  {
+    "term": "fractionalization",
+    "aliases": ["fractionalized practice"],
+    "definitions": [
+      "Breaking a skill into parts that are practiced simultaneously.",
+      "A part-practice method where multiple components are trained at the same time.",
+      "Dividing a complex skill into segments and practicing several segments together.",
+      "A learning approach that isolates components but keeps some integration between parts.",
+      "A method of simplifying a skill by practicing groups of components concurrently.",
+      "Practicing several subcomponents of a skill together rather than the whole skill at once.",
+      "A part-learning strategy where elements are combined in partial form during practice.",
+      "Breaking a skill into pieces and training subsets of those pieces simultaneously."
+    ]
+  },
+  {
+    "term": "goal setting",
+    "aliases": ["goal-setting process"],
+    "definitions": [
+      "The process of establishing specific, measurable performance objectives.",
+      "Deliberately defining targets to guide effort, focus, and evaluation.",
+      "A planning method that clarifies desired outcomes and directs behavior toward them.",
+      "Creating clear objectives (process, performance, or outcome) to improve motivation and performance.",
+      "A strategy of setting targets that structure training and enhance commitment.",
+      "Establishing goals to provide direction, feedback, and motivation in training and competition.",
+      "A behavioral strategy involving defining and committing to measurable objectives.",
+      "The intentional creation of goals to guide actions, focus attention, and increase persistence."
+    ]
+  },
+  {
+    "term": "guided discovery",
+    "aliases": ["coach-guided discovery", "guided problem solving"],
+    "definitions": [
+      "A teaching method where the coach guides the athlete toward solutions using cues.",
+      "A learning approach that uses prompts and cues so the athlete discovers the solution.",
+      "Problem-solving learning where the coach shapes the athlete’s exploration with questions/cues.",
+      "A coaching method that avoids giving the answer directly, but nudges the athlete toward it.",
+      "A style of instruction where cues guide attention and the athlete learns by finding the pattern.",
+      "Learning facilitated by strategic prompts that lead to the correct movement solution.",
+      "A method combining athlete exploration with coach cues to arrive at effective technique.",
+      "A teaching approach where the coach provides hints while the athlete discovers the skill solution."
+    ]
+  },
+  {
+    "term": "imagery",
+    "aliases": ["visualization", "mental rehearsal"],
+    "definitions": [
+      "The mental rehearsal of movements or scenarios without physical execution.",
+      "A cognitive technique where athletes create vivid mental pictures of successful performance.",
+      "Rehearsing skills in the mind to enhance confidence, focus, and motor learning.",
+      "Mental practice using sensory-rich images of actions and outcomes.",
+      "A psychological strategy that simulates performance to prepare mentally and neurologically.",
+      "Using imagined scenarios to practice decision-making, technique, or competition routines.",
+      "A mental training method that recreates movement and environment without actual movement.",
+      "The process of visualizing and mentally practicing skills to support performance and learning."
+    ]
+  },
+  {
+    "term": "individual zones of optimal functioning",
+    "aliases": ["IZOF", "zones of optimal functioning"],
+    "definitions": [
+      "Theory that each athlete has a unique optimal arousal zone for peak performance.",
+      "The concept that best performance occurs within an individualized arousal/anxiety range.",
+      "A model stating that optimal arousal is athlete-specific rather than one-size-fits-all.",
+      "The idea that athletes perform best in their own preferred emotional/arousal window.",
+      "A theory emphasizing individualized optimal arousal levels rather than a universal curve.",
+      "A framework proposing that each athlete’s peak occurs at a unique arousal intensity range.",
+      "A model where performance is maximized within an athlete’s personal optimal arousal zone.",
+      "An individualized arousal-performance concept: peak output happens in a personal ‘best zone’."
+    ]
+  },
+  {
+    "term": "intrinsic feedback",
+    "aliases": ["internal feedback", "sensory feedback"],
+    "definitions": [
+      "Sensory information naturally received by the performer during movement.",
+      "Feedback from the athlete’s own senses (vision, proprioception, touch) during execution.",
+      "Internal information about movement produced without outside coaching or devices.",
+      "Naturally occurring sensory cues that inform the athlete about position, force, and timing.",
+      "Feedback generated by the performer’s sensory systems while performing a skill.",
+      "Self-sensed information about movement quality and outcomes during practice.",
+      "The built-in sensory data an athlete receives during performance.",
+      "Information from one’s own sensory receptors that guides corrections and learning."
+    ]
+  },
+  {
+    "term": "intrinsic motivation",
+    "aliases": ["internal motivation"],
+    "definitions": [
+      "Motivation driven by internal satisfaction or enjoyment.",
+      "A desire to engage in an activity for its own sake rather than external rewards.",
+      "Motivation fueled by interest, mastery, and enjoyment of the task.",
+      "An internal drive to practice or compete because it is personally rewarding.",
+      "Engagement that comes from enjoyment, challenge, or personal meaning.",
+      "Motivation based on personal satisfaction rather than praise, money, or trophies.",
+      "Self-driven motivation rooted in interest and enjoyment of improvement.",
+      "A form of motivation that comes from within, emphasizing enjoyment and self-fulfillment."
+    ]
+  },
+  {
+    "term": "inverted-U theory",
+    "aliases": ["Yerkes–Dodson law (general)", "inverted-U hypothesis"],
+    "definitions": [
+      "A theory stating that performance is optimal at moderate arousal levels.",
+      "A model proposing performance improves with arousal up to a point, then declines.",
+      "The idea that too little or too much arousal hurts performance, with a middle optimum.",
+      "A curvilinear arousal-performance relationship: best performance at moderate activation.",
+      "A theory suggesting peak performance occurs at an intermediate arousal level.",
+      "The concept that arousal helps until it becomes excessive, then performance drops.",
+      "A performance model predicting maximal output at moderate arousal, not extremes.",
+      "A theory describing a rise-then-fall pattern of performance as arousal increases."
+    ]
+  },
+  {
+    "term": "knowledge of performance",
+    "aliases": ["KP"],
+    "definitions": [
+      "Feedback about the quality or pattern of movement.",
+      "Information describing how the movement was performed (technique, timing, form).",
+      "Feedback focused on process and mechanics rather than outcome.",
+      "Coaching information about movement execution (e.g., bar path, joint angles).",
+      "Feedback that targets technique refinement and movement quality.",
+      "Information about the performance characteristics of the movement itself.",
+      "Technique-based feedback describing what happened during the action.",
+      "Feedback about movement pattern quality, used to improve skill execution."
+    ]
+  },
+  {
+    "term": "knowledge of results",
+    "aliases": ["KR"],
+    "definitions": [
+      "Feedback about the outcome of a performance.",
+      "Information describing the result achieved (score, time, distance, hit/miss).",
+      "Outcome-focused feedback rather than technique-focused feedback.",
+      "Feedback on what happened as a result of the movement, not how it looked.",
+      "Performance result information such as success/failure or numerical outcome.",
+      "Information indicating the effectiveness of an action (e.g., made shot, sprint time).",
+      "Feedback centered on end result rather than movement mechanics.",
+      "Outcome information that tells the athlete what they achieved."
+    ]
+  },
+  {
+    "term": "long-term goals",
+    "aliases": ["long-range goals"],
+    "definitions": [
+      "Goals set for extended time periods, often months or years.",
+      "Objectives established for a distant future time frame (season, year, multi-year).",
+      "Targets that guide long-term planning and progressive development.",
+      "Future-oriented goals that provide overarching direction for training cycles.",
+      "Goals spanning long durations, shaping strategy and commitment over time.",
+      "Broad targets typically achieved through multiple short-term and process goals.",
+      "Long horizon objectives that structure training phases and motivation.",
+      "Extended-duration goals that define the bigger picture and desired outcomes."
+    ]
+  },
+  {
+    "term": "motivation",
+    "aliases": ["drive (general)", "behavioral drive"],
+    "definitions": [
+      "The internal or external drive directing behavior toward goals.",
+      "Forces that energize, direct, and sustain behavior toward desired outcomes.",
+      "The reasons and incentives that influence effort, persistence, and choice.",
+      "A combination of internal desires and external rewards shaping goal-directed action.",
+      "The processes that initiate and maintain goal-oriented behaviors.",
+      "The factors that determine intensity and direction of training and performance effort.",
+      "The drive that influences how hard, how long, and why an athlete performs a task.",
+      "Internal/external influences that guide effort, persistence, and goal pursuit."
+    ]
+  },
+  {
+    "term": "negative punishment",
+    "aliases": ["response cost (general)"],
+    "definitions": [
+      "Removing a desirable stimulus to reduce behavior.",
+      "Decreasing a behavior by taking away something the athlete wants.",
+      "A consequence that reduces future behavior frequency by removing a positive stimulus.",
+      "Punishment by subtraction: removing a valued item/privilege after a behavior.",
+      "Reducing behavior by withdrawing rewards, privileges, or enjoyable stimuli.",
+      "An operant conditioning consequence that decreases behavior via removal of something desired.",
+      "A behavior-reduction method involving loss of a positive stimulus.",
+      "Removing a preferred stimulus following behavior to make that behavior less likely."
+    ]
+  },
+  {
+    "term": "negative reinforcement",
+    "aliases": ["escape learning", "avoidance reinforcement (general)"],
+    "definitions": [
+      "Removing an aversive stimulus to increase behavior.",
+      "Increasing a behavior by taking away something unpleasant when the behavior occurs.",
+      "Reinforcement by subtraction: behavior is strengthened because it ends an aversive condition.",
+      "A process that strengthens behavior through relief from an unpleasant stimulus.",
+      "Behavior increases because it allows escape from discomfort or negative conditions.",
+      "An operant process where removal of something aversive makes the behavior more likely.",
+      "Strengthening behavior by eliminating an unpleasant consequence.",
+      "A learning process where behavior grows because it reduces or removes an unwanted stimulus."
+    ]
+  },
+  {
+    "term": "observational practice",
+    "aliases": ["modeling (contextual)", "vicarious practice"],
+    "definitions": [
+      "Learning by watching others perform a skill.",
+      "Skill acquisition supported by observing a model demonstrate the movement.",
+      "A practice method where the athlete improves through watching demonstrations.",
+      "Learning by observation of technique, timing, and decision-making patterns.",
+      "A method where seeing others perform provides information for one’s own execution.",
+      "Practice that occurs through observing, which can enhance understanding and performance.",
+      "Vicarious learning: improving skill by watching skilled execution.",
+      "Learning facilitated by observation of others’ performance and outcomes."
+    ]
+  },
+  {
+    "term": "operant conditioning",
+    "aliases": ["consequence-based learning"],
+    "definitions": [
+      "Learning through consequences such as rewards and punishments.",
+      "A learning process where behavior is shaped by reinforcement and punishment.",
+      "Behavior change based on what happens after an action (consequences).",
+      "A conditioning method where consequences increase or decrease behavior frequency.",
+      "Learning in which reinforcement strengthens behavior and punishment weakens behavior.",
+      "A framework explaining how rewards and penalties shape future responses.",
+      "A learning model where behaviors are modified by their outcomes.",
+      "Consequence-driven learning: actions become more or less likely based on reinforcement or punishment."
+    ]
+  },
+  {
+    "term": "part practice",
+    "aliases": ["part learning", "segmented practice"],
+    "definitions": [
+      "Practicing components of a skill separately.",
+      "Breaking a complex skill into pieces and training each piece on its own.",
+      "A practice method that isolates sub-skills before integrating them.",
+      "Skill learning where elements are trained individually to simplify complexity.",
+      "A learning strategy that separates movement components to focus on specific elements.",
+      "Practicing pieces of a motor skill independently before combining them.",
+      "A method using isolated rehearsal of components to improve later whole-skill performance.",
+      "Training subcomponents of a skill separately to improve control and understanding."
+    ]
+  },
+  {
+    "term": "physiological efficiency",
+    "aliases": ["movement economy (contextual)", "energy efficiency"],
+    "definitions": [
+      "The ability to perform tasks with minimal energy expenditure.",
+      "Completing work with less physiological cost (lower oxygen/energy use at given workload).",
+      "The capacity to achieve performance with reduced metabolic demand.",
+      "Efficiency in which the body uses fewer resources to produce the same output.",
+      "Lower energy cost for a given task, often improved through training and technique.",
+      "A quality reflecting reduced physiological strain at a set intensity.",
+      "The ability to produce the same work with less oxygen consumption or energy usage.",
+      "Energy economy: minimizing physiological cost while maintaining performance output."
+    ]
+  },
+  {
+    "term": "positive punishment",
+    "aliases": ["punishment by addition"],
+    "definitions": [
+      "Adding an aversive stimulus to reduce behavior.",
+      "Decreasing a behavior by introducing an unpleasant consequence after it occurs.",
+      "Punishment by addition: behavior becomes less likely because something unpleasant is added.",
+      "A consequence that reduces behavior frequency by applying an aversive stimulus.",
+      "Reducing future behavior likelihood by adding a negative outcome after the behavior.",
+      "An operant method where an unpleasant stimulus follows behavior to suppress it.",
+      "A behavior-reduction technique involving addition of an aversive consequence.",
+      "Adding an unpleasant consequence after a behavior to make that behavior less likely."
+    ]
+  },
+  {
+    "term": "positive reinforcement",
+    "aliases": ["reinforcement by addition"],
+    "definitions": [
+      "Adding a desirable stimulus to increase behavior.",
+      "Increasing a behavior by providing a rewarding consequence afterward.",
+      "Reinforcement by addition: behavior becomes more likely because something desirable is added.",
+      "A consequence that strengthens behavior by giving a reward or positive stimulus.",
+      "Behavior increases because it is followed by praise, reward, or another desired outcome.",
+      "An operant conditioning process where rewards increase future behavior frequency.",
+      "Strengthening behavior by adding a positive consequence following the action.",
+      "Providing a valued stimulus after behavior to increase the likelihood it repeats."
+    ]
+  },
+  {
+    "term": "process goals",
+    "aliases": ["technique goals", "execution goals"],
+    "definitions": [
+      "Goals focused on technique or execution rather than outcome.",
+      "Objectives targeting controllable behaviors and actions during performance.",
+      "Goals emphasizing how to perform (form, rhythm, strategy) rather than win/lose.",
+      "A goal type centered on performance behaviors under the athlete’s control.",
+      "Targets that focus on skill execution and task-relevant actions.",
+      "Goals that guide attention to controllable steps and mechanics.",
+      "Objectives aimed at the process of performing rather than the end result.",
+      "Technique/execution-based goals that emphasize controllable actions."
+    ]
+  },
+  {
+    "term": "progressive muscle relaxation (PMR)",
+    "aliases": ["PMR", "Jacobson relaxation (general)"],
+    "definitions": [
+      "A relaxation technique involving systematic tension and release of muscles.",
+      "A method that reduces arousal by sequentially tightening and relaxing muscle groups.",
+      "Relaxation training where muscles are tensed briefly then relaxed to decrease tension awareness.",
+      "A technique that teaches athletes to recognize and reduce physical tension.",
+      "Systematic body relaxation achieved by alternating contraction and release across muscle groups.",
+      "A self-regulation method that lowers somatic tension through structured muscle release.",
+      "A relaxation approach that improves awareness of tension and promotes calmness.",
+      "A technique using deliberate muscle tension-release cycles to reduce stress and anxiety."
+    ]
+  },
+  {
+    "term": "random practice",
+    "aliases": ["interleaved practice"],
+    "definitions": [
+      "Practice involving multiple skills performed in random order.",
+      "A practice schedule where different skills are mixed rather than blocked.",
+      "Interleaving tasks so the athlete must repeatedly re-plan and adjust.",
+      "A training approach that increases contextual interference by varying tasks frequently.",
+      "Practice organization where skills are alternated unpredictably within a session.",
+      "A schedule that mixes skills, often improving retention and transfer despite slower acquisition.",
+      "Multiple skills practiced in varying sequence, forcing constant task switching.",
+      "A practice structure with mixed skill order that can enhance learning and adaptability."
+    ]
+  },
+  {
+    "term": "recovery",
+    "aliases": ["regeneration (general)", "restoration"],
+    "definitions": [
+      "The process of returning to physical and psychological readiness.",
+      "Restoration of performance capacity after training or competition stress.",
+      "Physiological and mental return toward baseline or improved readiness after fatigue.",
+      "The process of replenishing resources and reducing fatigue to support adaptation.",
+      "Returning to readiness through rest, sleep, nutrition, and stress management.",
+      "A process that restores function and supports supercompensation following training stress.",
+      "The return to preparedness via repair, replenishment, and nervous system reset.",
+      "Restoring performance capability and mental readiness after exertion and stress."
+    ]
+  },
+  {
+    "term": "reversal theory",
+    "aliases": ["reversal model"],
+    "definitions": [
+      "A theory suggesting performance depends on how an athlete interprets arousal.",
+      "A model proposing that arousal can be experienced as pleasant or unpleasant, affecting performance.",
+      "The idea that the meaning assigned to arousal (excitement vs anxiety) changes its impact.",
+      "A framework where performance depends on whether arousal is perceived as helpful or harmful.",
+      "A theory emphasizing that athletes can “switch” interpretations of arousal, changing outcomes.",
+      "A model where interpretation of activation determines whether it boosts or harms performance.",
+      "Performance depends on psychological interpretation of arousal state, not arousal alone.",
+      "A theory that the athlete’s appraisal of arousal (positive vs negative) drives performance effect."
+    ]
+  },
+  {
+    "term": "self-confidence",
+    "aliases": ["confidence"],
+    "definitions": [
+      "Belief in one’s ability to succeed.",
+      "A general belief that one can perform effectively and achieve desired outcomes.",
+      "Confidence in personal capabilities that supports persistence and resilience.",
+      "A positive expectation about one’s chances of successful performance.",
+      "A broad belief in one’s competence and ability to meet challenges.",
+      "An athlete’s overall belief in their capacity to perform well.",
+      "General confidence that supports risk-taking, focus, and resilience under pressure.",
+      "Belief in success potential that influences effort, persistence, and performance quality."
+    ]
+  },
+  {
+    "term": "self-controlled practice",
+    "aliases": ["learner-controlled practice"],
+    "definitions": [
+      "Practice where athletes have some control over practice conditions.",
+      "A training method allowing the athlete to choose aspects like feedback timing or task order.",
+      "Practice design where performers make decisions about how practice is structured.",
+      "A learning approach that increases autonomy by letting athletes control elements of training.",
+      "Practice in which the learner can influence conditions (e.g., when to receive feedback).",
+      "A method that can improve motivation and learning by giving athletes meaningful choices.",
+      "Practice organization that grants athletes control over certain variables.",
+      "An autonomy-supportive practice format where athletes help determine practice conditions."
+    ]
+  },
+  {
+    "term": "self-efficacy",
+    "aliases": ["task-specific confidence"],
+    "definitions": [
+      "Belief in one’s capability to perform a specific task.",
+      "Confidence about executing a particular behavior or skill successfully.",
+      "A situation-specific belief about one’s ability to complete a given task.",
+      "Task-specific confidence that influences effort, persistence, and performance.",
+      "Belief that one can successfully carry out the actions required for the task.",
+      "A judgment of capability for a specific performance demand.",
+      "A targeted confidence belief tied to a particular skill or situation.",
+      "Belief in the ability to execute a specific task, distinct from general confidence."
+    ]
+  },
+  {
+    "term": "self-talk",
+    "aliases": ["internal dialogue", "cue words (contextual)"],
+    "definitions": [
+      "Internal dialogue used to regulate thoughts and behavior.",
+      "Statements athletes say to themselves (silently or aloud) to guide focus and confidence.",
+      "A mental strategy using words/phrases to control attention, effort, or emotion.",
+      "Internal verbal cues that can shape mindset and execution.",
+      "A psychological skill involving purposeful internal statements to manage performance.",
+      "Self-directed language used to reinforce technique cues and regulate arousal.",
+      "The use of personal verbal cues to direct thoughts, emotions, and actions.",
+      "Internal statements that influence confidence, focus, and performance behavior."
+    ]
+  },
+  {
+    "term": "short-term goals",
+    "aliases": ["near-term goals"],
+    "definitions": [
+      "Goals set for brief time frames, such as days or weeks.",
+      "Objectives intended to be achieved in the near future.",
+      "Short horizon targets that guide daily/weekly training focus.",
+      "Near-term goals that build progress toward long-term objectives.",
+      "Goals designed for immediate periods to sustain motivation and track progress.",
+      "Targets for short time spans that provide quick feedback and direction.",
+      "Immediate goals that structure practice and effort over days to weeks.",
+      "Goals with short deadlines that support accountability and incremental improvement."
+    ]
+  },
+  {
+    "term": "somatic anxiety",
+    "aliases": ["physical anxiety", "physiological anxiety"],
+    "definitions": [
+      "Physiological component of anxiety (e.g., increased heart rate).",
+      "The bodily aspect of anxiety involving symptoms like tension, sweating, and elevated HR.",
+      "Anxiety expressed as physical activation rather than worry-based thoughts.",
+      "Physical signs of anxiety such as butterflies, muscle tension, and rapid breathing.",
+      "The arousal-related bodily symptoms associated with anxiety states.",
+      "The physiological manifestations of anxiety that can affect motor control.",
+      "Body-based anxiety symptoms that reflect autonomic activation.",
+      "The physical component of anxiety involving heightened physiological arousal."
+    ]
+  },
+  {
+    "term": "spot psychology",
+    "aliases": ["psychological spot techniques"],
+    "definitions": [
+      "The strategic use of psychological techniques in brief, time-limited situations.",
+      "Application of quick mental strategies to immediately influence performance or focus.",
+      "Short-duration psychological interventions used during competition or training.",
+      "The use of rapid mental skills (e.g., cue words, breathing) to manage arousal on demand.",
+      "Brief psychological tactics applied in the moment rather than long-term mental training.",
+      "Quick mental adjustments made to regain focus, confidence, or composure.",
+      "Short-term psychological tools used immediately before or during performance.",
+      "Targeted mental techniques applied in high-pressure moments to optimize performance."
+    ]
+  },
+  {
+    "term": "state anxiety",
+    "aliases": ["situational anxiety"],
+    "definitions": [
+      "Temporary anxiety experienced in a specific situation.",
+      "A short-term emotional response to a particular stressor or competitive event.",
+      "Anxiety that fluctuates depending on the environment or task demands.",
+      "Situation-dependent nervousness or apprehension that is not a stable personality trait.",
+      "A transient anxiety response that changes over time and context.",
+      "Immediate feelings of worry or tension triggered by a specific circumstance.",
+      "Anxiety that rises and falls based on perceived demands of the moment.",
+      "A short-lived anxiety state influenced by competition, pressure, or uncertainty."
+    ]
+  },
+  {
+    "term": "stress",
+    "aliases": ["psychological stress"],
+    "definitions": [
+      "The body’s response to perceived demands or challenges.",
+      "A psychophysiological reaction to internal or external pressures.",
+      "The interaction between environmental demands and an individual’s coping resources.",
+      "A response involving physiological arousal and cognitive appraisal of demands.",
+      "The reaction that occurs when perceived demands exceed perceived capacity.",
+      "A process involving perception, appraisal, and physiological activation.",
+      "The body–mind response to challenges requiring adaptation.",
+      "A state triggered when a situation is interpreted as threatening or demanding."
+    ]
+  },
+  {
+    "term": "stressor",
+    "aliases": ["stress stimulus"],
+    "definitions": [
+      "Any stimulus that causes stress.",
+      "An internal or external demand that triggers a stress response.",
+      "A factor that elicits physiological or psychological stress.",
+      "An event, condition, or stimulus perceived as challenging or threatening.",
+      "A source of stress that activates adaptive or maladaptive responses.",
+      "Any demand placed on an individual requiring adjustment.",
+      "A trigger that initiates the stress process.",
+      "A stimulus that provokes a stress reaction depending on perception."
+    ]
+  },
+  {
+    "term": "systematic desensitization",
+    "aliases": ["graduated exposure"],
+    "definitions": [
+      "Gradual exposure to anxiety-provoking stimuli while practicing relaxation.",
+      "A behavioral technique that pairs relaxation with progressive exposure to feared situations.",
+      "A method used to reduce anxiety through controlled exposure and relaxation training.",
+      "An anxiety-reduction strategy involving stepwise confrontation of stressors.",
+      "A technique that replaces anxiety responses with relaxation responses.",
+      "Progressive exposure to feared stimuli while maintaining a calm physiological state.",
+      "A behavioral therapy approach designed to weaken anxiety associations.",
+      "A gradual process of reducing anxiety by controlled exposure with relaxation."
+    ]
+  },
+  {
+    "term": "trait anxiety",
+    "aliases": ["dispositional anxiety"],
+    "definitions": [
+      "A personality characteristic reflecting general anxiety tendency.",
+      "A stable predisposition to perceive situations as threatening.",
+      "An individual’s typical level of anxiety across situations.",
+      "A long-term anxiety tendency that remains relatively consistent over time.",
+      "Baseline anxiety level that influences stress perception.",
+      "A personality trait associated with frequent worry or nervousness.",
+      "An enduring tendency toward anxiety regardless of context.",
+      "A habitual anxiety disposition rather than a temporary state."
+    ]
+  },
+  {
+    "term": "variable practice",
+    "aliases": ["practice variability"],
+    "definitions": [
+      "Practice involving variations of a single skill.",
+      "Training that changes conditions while practicing the same movement pattern.",
+      "A practice method that introduces variability to enhance skill adaptability.",
+      "Skill practice performed under changing environmental or task constraints.",
+      "A learning strategy designed to improve transfer and retention.",
+      "Practice that modifies speed, distance, or context while maintaining the same skill.",
+      "A motor learning approach emphasizing adaptability over repetition.",
+      "Practice structure that enhances generalization of motor skills."
+    ]
+  },
+  {
+    "term": "whole practice",
+    "aliases": ["whole-method practice"],
+    "definitions": [
+      "Practicing an entire skill as a single unit.",
+      "A practice method where the full movement pattern is trained together.",
+      "Learning approach best suited for continuous or highly integrated skills.",
+      "Skill practice emphasizing the complete coordination pattern.",
+      "A method where skills are not broken into parts during learning.",
+      "Practice of an entire movement sequence rather than isolated components.",
+      "An approach ideal for skills with high interdependence of components.",
+      "Training method focusing on the full execution of a skill."
+    ]
+  }
+]

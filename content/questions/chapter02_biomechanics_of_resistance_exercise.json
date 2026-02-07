@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ch02_q01",
+    "question": "Which of the following is the definition of power?",
+    "choices": [
+      "(mass) · (acceleration)",
+      "(force) · (distance)",
+      "(force) · (velocity)",
+      "(torque) · (time)"
+    ],
+    "answer_index": 2,
+    "explanation": "Power is defined as the rate of doing work and can be expressed as force multiplied by velocity."
+  },
+  {
+    "id": "ch02_q02",
+    "question": "To compare performances of Olympic weightlifters of different body weights, the classic formula divides the load lifted by the athlete’s:",
+    "choices": [
+      "body weight",
+      "body weight squared",
+      "lean body weight",
+      "body weight to the two-thirds power"
+    ],
+    "answer_index": 3,
+    "explanation": "Relative strength is commonly calculated by dividing the load lifted by body weight to the two-thirds power."
+  },
+  {
+    "id": "ch02_q03",
+    "question": "During a free weight exercise, muscle force varies with which of the following?\n\nI. perpendicular distance from the weight to the body joint\nII. joint angle\nIII. movement acceleration\nIV. movement velocity squared",
+    "choices": [
+      "I and II only",
+      "I and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 2,
+    "explanation": "Muscle force during free weight exercise depends on moment arm length, joint angle, and acceleration. Velocity squared applies to fluid resistance, not free weights."
+  },
+  {
+    "id": "ch02_q04",
+    "question": "A vertical jump involves knee, hip, and shoulder movement primarily in which of the following anatomical planes?",
+    "choices": [
+      "sagittal",
+      "perpendicular",
+      "frontal",
+      "transverse"
+    ],
+    "answer_index": 0,
+    "explanation": "Flexion and extension movements occur primarily in the sagittal plane."
+  },
+  {
+    "id": "ch02_q05",
+    "question": "An athlete is performing a concentric isokinetic elbow flexion and extension exercise. Which type(s) of levers occur(s) at the elbow during this exercise?\n\nI. first class\nII. second class\nIII. third class",
+    "choices": [
+      "I only",
+      "II only",
+      "I and III only",
+      "II and III only"
+    ],
+    "answer_index": 2,
+    "explanation": "Elbow flexion and extension function as third-class levers, where muscle force is applied between the axis and resistance."
+  },
+  {
+    "id": "ch02_q06",
+    "question": "Work is BEST defined as:",
+    "choices": [
+      "force applied over time",
+      "force multiplied by velocity",
+      "force applied through a displacement",
+      "torque applied through an angle"
+    ],
+    "answer_index": 2,
+    "explanation": "Work equals force applied through a displacement in the direction of the force."
+  },
+  {
+    "id": "ch02_q07",
+    "question": "Which of the following BEST describes torque?",
+    "choices": [
+      "Force applied parallel to a lever arm",
+      "Rotary effect of a force acting about an axis",
+      "Force multiplied by velocity",
+      "Rate of change in momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "Torque is the rotary effect of a force acting at a distance from a joint or axis."
+  },
+  {
+    "id": "ch02_q08",
+    "question": "Increasing the perpendicular distance between a resistance and a joint axis will:",
+    "choices": [
+      "decrease torque",
+      "have no effect on torque",
+      "increase torque",
+      "increase velocity"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque increases as the moment arm (perpendicular distance) increases."
+  },
+  {
+    "id": "ch02_q09",
+    "question": "Which lever system provides the greatest mechanical advantage?",
+    "choices": [
+      "first-class lever",
+      "second-class lever",
+      "third-class lever",
+      "fourth-class lever"
+    ],
+    "answer_index": 1,
+    "explanation": "Second-class levers place the resistance between the axis and force, maximizing mechanical advantage."
+  },
+  {
+    "id": "ch02_q10",
+    "question": "Most human musculoskeletal movements operate as:",
+    "choices": [
+      "first-class levers",
+      "second-class levers",
+      "third-class levers",
+      "compound levers only"
+    ],
+    "answer_index": 2,
+    "explanation": "Most human joints function as third-class levers, favoring speed and range of motion over force."
+  },
+  {
+    "id": "ch02_q11",
+    "question": "Which anatomical plane divides the body into left and right halves?",
+    "choices": [
+      "frontal",
+      "transverse",
+      "sagittal",
+      "horizontal"
+    ],
+    "answer_index": 2,
+    "explanation": "The sagittal plane divides the body into left and right portions."
+  },
+  {
+    "id": "ch02_q12",
+    "question": "A lateral raise exercise primarily involves movement in which anatomical plane?",
+    "choices": [
+      "sagittal",
+      "frontal",
+      "transverse",
+      "diagonal"
+    ],
+    "answer_index": 1,
+    "explanation": "Shoulder abduction during a lateral raise occurs in the frontal plane."
+  },
+  {
+    "id": "ch02_q13",
+    "question": "Angular displacement refers to:",
+    "choices": [
+      "change in joint angle",
+      "rate of change in velocity",
+      "force applied about a joint",
+      "distance traveled by the center of mass"
+    ],
+    "answer_index": 0,
+    "explanation": "Angular displacement is the change in joint angle during movement."
+  },
+  {
+    "id": "ch02_q14",
+    "question": "Which of the following BEST explains why third-class levers are common in the human body?",
+    "choices": [
+      "They maximize force production",
+      "They reduce muscular effort",
+      "They increase movement speed and range of motion",
+      "They eliminate joint torque"
+    ],
+    "answer_index": 2,
+    "explanation": "Third-class levers sacrifice force for increased speed and range of motion, which benefits athletic movement."
+  },
+  {
+    "id": "ch02_q15",
+    "question": "Which variable directly determines linear acceleration according to Newton’s second law?",
+    "choices": [
+      "velocity",
+      "mass",
+      "force",
+      "power"
+    ],
+    "answer_index": 2,
+    "explanation": "Acceleration is directly proportional to the net force applied."
+  },
+  {
+    "id": "ch02_q16",
+    "question": "During a squat, the greatest external torque at the knee occurs when:",
+    "choices": [
+      "the knee is fully extended",
+      "the barbell is directly over the joint",
+      "the moment arm is longest",
+      "velocity is constant"
+    ],
+    "answer_index": 2,
+    "explanation": "Torque is greatest when the perpendicular distance between the load and the joint axis is longest."
+  },
+  {
+    "id": "ch02_q17",
+    "question": "Which of the following BEST describes center of mass?",
+    "choices": [
+      "Point of maximum force production",
+      "Point at which mass is evenly distributed",
+      "Point of maximal velocity",
+      "Point where torque is minimized"
+    ],
+    "answer_index": 1,
+    "explanation": "The center of mass is the point where the body's mass is evenly distributed in all directions."
+  },
+  {
+    "id": "ch02_q18",
+    "question": "Which biomechanical principle explains why a wider base of support improves balance?",
+    "choices": [
+      "Reduced torque",
+      "Lower center of mass relative to base of support",
+      "Greater acceleration",
+      "Increased angular momentum"
+    ],
+    "answer_index": 1,
+    "explanation": "A wider base of support increases stability by allowing the center of mass to remain within the base more easily."
+  },
+  {
+    "id": "ch02_q19",
+    "question": "Which quantity is conserved in the absence of external forces?",
+    "choices": [
+      "force",
+      "velocity",
+      "momentum",
+      "power"
+    ],
+    "answer_index": 2,
+    "explanation": "Momentum is conserved when no external forces act on a system."
+  },
+  {
+    "id": "ch02_q20",
+    "question": "Which of the following BEST explains why increasing load reduces movement velocity during resistance exercise?",
+    "choices": [
+      "Greater force reduces acceleration",
+      "Greater mass requires greater force to accelerate",
+      "Greater power output is required",
+      "Greater torque eliminates displacement"
+    ],
+    "answer_index": 1,
+    "explanation": "As load increases, more force is required to accelerate it, typically reducing movement velocity."
+  }
+]

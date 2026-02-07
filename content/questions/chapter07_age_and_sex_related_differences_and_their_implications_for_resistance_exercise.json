@@ -1,0 +1,62 @@
+[
+  {
+    "id":"ch07_q01",
+    "question":"An 8-year-old boy dramatically increased his upper body strength after following a six-month resistance training program. Which of the following is MOST likely responsible for this gain?",
+    "choices":[
+      "increased number of muscle fibers",
+      "enhanced cross-sectional area",
+      "greater muscle density",
+      "improved neuromuscular functioning"
+    ],
+    "answer_index":3,
+    "explanation":"Strength gains in prepubescent children are primarily due to neural adaptations rather than hypertrophy."
+  },
+  {
+    "id":"ch07_q02",
+    "question":"Growth cartilage in children is located at all of the following EXCEPT the:",
+    "choices":[
+      "diaphysis",
+      "epiphyseal plate",
+      "joint surface",
+      "apophyseal insertion"
+    ],
+    "answer_index":0,
+    "explanation":"The diaphysis is the shaft of the bone and does not contain growth cartilage."
+  },
+  {
+    "id":"ch07_q03",
+    "question":"The condition characterized by a bone mineral density more than 2.5 standard deviations below the young adult mean is called:",
+    "choices":[
+      "sarcopenia",
+      "osteopenia",
+      "osteoporosis",
+      "scoliosis"
+    ],
+    "answer_index":2,
+    "explanation":"Osteoporosis is defined as bone mineral density more than 2.5 SD below the young adult mean."
+  },
+  {
+    "id":"ch07_q04",
+    "question":"Which of the following should be evaluated FIRST when designing a training program for a 68-year-old competitive female tennis player?",
+    "choices":[
+      "cardiovascular fitness",
+      "lower body strength",
+      "balance and agility",
+      "medical history"
+    ],
+    "answer_index":3,
+    "explanation":"Medical history must be assessed first to ensure safety before training older adults."
+  },
+  {
+    "id":"ch07_q05",
+    "question":"Deconditioned female college athletes who participate in sports such as basketball and soccer appear to be at increased risk for developing injuries to the:",
+    "choices":[
+      "back",
+      "knee",
+      "wrist",
+      "neck"
+    ],
+    "answer_index":1,
+    "explanation":"Female athletes are at higher risk of knee injuries, particularly ACL injuries, especially when deconditioned."
+  }
+]

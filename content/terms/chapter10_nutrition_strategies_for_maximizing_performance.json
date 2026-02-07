@@ -1,0 +1,170 @@
+[
+  {
+    "term": "anorexia nervosa",
+    "aliases": ["AN"],
+    "definitions": [
+      "An eating disorder characterized by restriction of energy intake leading to significantly low body weight.",
+      "A condition involving intense fear of weight gain and persistent behaviors that interfere with weight gain.",
+      "A disorder marked by distorted body image and undue influence of weight/shape on self-evaluation.",
+      "Clinically significant underfueling driven by weight/shape concerns, resulting in medical and performance consequences.",
+      "A psychiatric eating disorder where dietary restriction is central and body weight becomes dangerously low.",
+      "A pattern of chronic caloric restriction accompanied by strong anxiety about gaining weight.",
+      "An eating disorder where low body weight is maintained through restriction and maladaptive beliefs about body size.",
+      "A restrictive eating disorder that can cause endocrine, cardiovascular, and skeletal complications due to low energy availability."
+    ]
+  },
+  {
+    "term": "binge-eating disorder",
+    "aliases": ["BED"],
+    "definitions": [
+      "An eating disorder marked by recurrent binge episodes with loss of control.",
+      "Repeated consumption of unusually large amounts of food in a discrete period, accompanied by perceived inability to stop.",
+      "Binge eating that occurs without regular compensatory behaviors like purging.",
+      "A clinical condition involving frequent binge episodes and distress about binge eating.",
+      "Recurrent overeating episodes characterized by rapid eating and feeling out of control.",
+      "Binge eating episodes followed by guilt or distress but not by routine vomiting/laxative use.",
+      "A disorder defined by binge frequency and psychological distress rather than compensatory behaviors.",
+      "An eating disorder involving loss-of-control eating episodes that can impair health, mood, and performance."
+    ]
+  },
+  {
+    "term": "body mass index (BMI)",
+    "aliases": ["BMI"],
+    "definitions": [
+      "A weight-to-height index used to classify weight status: kg divided by m squared.",
+      "A screening metric calculated as body mass (kg) / height (m)^2.",
+      "A simple ratio used to estimate weight category in adults (underweight/normal/overweight/obesity).",
+      "A population-level classification tool that does not directly measure body fat percentage.",
+      "A surrogate measure for weight status that can misclassify muscular athletes.",
+      "A height-adjusted body mass index used in health risk stratification.",
+      "A standardized anthropometric measure used widely in epidemiology and clinical screening.",
+      "A body-size metric useful for groups but limited for individuals with atypical muscle mass."
+    ]
+  },
+  {
+    "term": "bulimia nervosa",
+    "aliases": ["BN"],
+    "definitions": [
+      "An eating disorder involving recurrent binge eating followed by compensatory behaviors.",
+      "Binge episodes paired with purging (vomiting/laxatives/diuretics) or excessive exercise/fasting.",
+      "A disorder marked by loss-of-control eating and attempts to prevent weight gain.",
+      "Recurrent binge–compensation cycles with undue influence of body shape/weight on self-evaluation.",
+      "An eating disorder where binge eating is followed by behaviors designed to offset caloric intake.",
+      "A condition characterized by binge eating plus compensatory actions, often with normal or near-normal body weight.",
+      "A psychiatric disorder involving frequent binges and repeated compensatory strategies driven by weight/shape concerns.",
+      "An eating disorder where the binge–purge cycle can lead to electrolyte imbalance, GI issues, and performance decline."
+    ]
+  },
+  {
+    "term": "carbohydrate loading",
+    "aliases": ["carb loading", "glycogen loading"],
+    "definitions": [
+      "A strategy to increase muscle glycogen stores before prolonged endurance events.",
+      "Combining a training taper with higher carbohydrate intake to maximize glycogen availability.",
+      "A pre-event fueling method designed to improve performance in long-duration exercise.",
+      "A nutrition approach that elevates muscle carbohydrate stores to delay fatigue.",
+      "A protocol that reduces training volume while increasing carbohydrate to supercompensate glycogen.",
+      "A precompetition diet adjustment to enhance endurance capacity by increasing stored carbohydrate.",
+      "A performance strategy used before events typically lasting ~90 minutes or longer.",
+      "A glycogen-maximizing approach that improves sustained high-output performance by increasing carbohydrate reserves."
+    ]
+  },
+  {
+    "term": "diet-induced thermogenesis",
+    "aliases": ["DIT", "thermic effect of food", "TEF"],
+    "definitions": [
+      "Energy expenditure associated with digesting, absorbing, transporting, metabolizing, and storing nutrients.",
+      "The increase in metabolic rate after eating due to processing food.",
+      "The caloric cost of nutrient processing and assimilation.",
+      "A component of total daily energy expenditure driven by food intake.",
+      "Post-meal energy expenditure required for digestion and nutrient storage.",
+      "The metabolic “overhead” of eating and processing macronutrients.",
+      "Energy burned as a direct result of food consumption and metabolism.",
+      "A measurable rise in energy expenditure after meals reflecting the cost of handling nutrients."
+    ]
+  },
+  {
+    "term": "disordered eating",
+    "aliases": [],
+    "definitions": [
+      "A spectrum of irregular eating behaviors that may not meet clinical criteria for an eating disorder.",
+      "Problematic eating patterns that impair health or performance without necessarily qualifying as a diagnosis.",
+      "Maladaptive eating behaviors such as chronic restriction, rigid rules, or recurrent binges without full diagnostic threshold.",
+      "Eating behaviors that are unhealthy, inflexible, or psychologically driven, potentially progressing to clinical disorders.",
+      "Subclinical eating-related behaviors that can harm energy availability, recovery, and mental health.",
+      "Irregular or extreme dietary practices that negatively affect functioning.",
+      "Unhealthy eating attitudes and behaviors that exist on a continuum of severity.",
+      "Patterns of eating that disrupt physical health, training quality, or psychological well-being."
+    ]
+  },
+  {
+    "term": "eating disorders",
+    "aliases": [],
+    "definitions": [
+      "Clinical conditions characterized by persistent disturbances in eating behaviors and related thoughts/emotions.",
+      "Psychiatric disorders involving dysfunctional eating patterns that impair health and daily functioning.",
+      "Diagnosable conditions such as anorexia nervosa, bulimia nervosa, and binge-eating disorder.",
+      "Mental health disorders defined by maladaptive eating behaviors and distress or impairment.",
+      "Sustained eating-related disturbances that compromise physiological health and psychosocial functioning.",
+      "Disorders involving abnormal eating behaviors and body-related beliefs leading to medical risk.",
+      "Clinical syndromes marked by disordered intake patterns and problematic weight/shape concerns.",
+      "A category of mental health conditions where eating behavior disruptions produce significant physical and psychological harm."
+    ]
+  },
+  {
+    "term": "isocaloric",
+    "aliases": ["isoenergetic"],
+    "definitions": [
+      "Having the same caloric (energy) content.",
+      "Equal total energy intake between diets or experimental conditions.",
+      "A comparison where calorie intake is matched while macronutrient composition may differ.",
+      "Describing diets or meals that provide the same total kilocalories.",
+      "Energy-matched conditions used to isolate effects of macronutrient differences.",
+      "Same-calorie dietary conditions used in nutrition research.",
+      "Equivalent caloric intake across two or more diets or protocols.",
+      "A term indicating energy intake is held constant while other variables change."
+    ]
+  },
+  {
+    "term": "obesity",
+    "aliases": [],
+    "definitions": [
+      "A condition of excess body fat that increases health risk.",
+      "A chronic state commonly classified in adults as BMI ≥ 30 kg/m² (context dependent).",
+      "Excess adiposity associated with increased risk of cardiometabolic disease.",
+      "A health condition characterized by elevated body fatness and related complications.",
+      "A clinical classification often based on BMI thresholds but not a direct fat measure.",
+      "A state of high body fat that can impair health, function, and sometimes performance.",
+      "A condition linked to increased inflammation and chronic disease risk.",
+      "Excess adipose tissue accumulation that elevates morbidity and mortality risk."
+    ]
+  },
+  {
+    "term": "precompetition meal",
+    "aliases": ["pre-event meal"],
+    "definitions": [
+      "A meal eaten before an event intended to optimize energy availability and comfort.",
+      "Pre-event nutrition emphasizing familiar foods, adequate fluids, and typically higher carbohydrate.",
+      "A meal designed to top off fuel stores while minimizing GI distress.",
+      "A pre-performance eating strategy supporting stable blood glucose and hydration.",
+      "Food intake before competition intended to enhance readiness and reduce hunger.",
+      "A planned meal that supports glycogen availability and athlete comfort prior to an event.",
+      "A pre-event feeding approach that prioritizes digestibility and carbohydrate availability.",
+      "A meal timed before competition to support energy, hydration, and gastrointestinal tolerance."
+    ]
+  },
+  {
+    "term": "voluntary dehydration",
+    "aliases": [],
+    "definitions": [
+      "Dehydration that occurs because an individual does not drink enough to match fluid losses.",
+      "Fluid deficit caused by underdrinking despite available fluids.",
+      "Dehydration resulting from inadequate intake relative to sweat/urine losses.",
+      "A hydration shortfall due to poor thirst response or behavioral choices.",
+      "Underconsumption of fluids leading to a net body water deficit.",
+      "A common exercise-related dehydration pattern where thirst lags behind actual need.",
+      "Dehydration caused by insufficient drinking rather than forced restriction.",
+      "A state where fluid intake fails to replace ongoing losses, producing measurable hypohydration."
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "term": "construction phase",
+    "aliases": [],
+    "definitions": [
+      "The phase in which the facility is physically built.",
+      "The stage where approved designs are executed.",
+      "The period involving actual facility construction.",
+      "The implementation phase of facility development.",
+      "The building phase following design approval.",
+      "The stage where architectural plans become a structure.",
+      "The physical development portion of facility planning.",
+      "The phase involving contractors and construction work."
+    ]
+  },
+  {
+    "term": "design phase",
+    "aliases": [],
+    "definitions": [
+      "The phase where facility layout and specifications are finalized.",
+      "The planning stage involving equipment placement decisions.",
+      "The stage translating needs into detailed facility plans.",
+      "The phase focused on spatial organization and workflow.",
+      "The architectural planning stage.",
+      "The phase defining equipment locations and dimensions.",
+      "The step where design drawings are completed.",
+      "The stage preceding construction approval."
+    ]
+  },
+  {
+    "term": "feasibility study",
+    "aliases": [],
+    "definitions": [
+      "An evaluation of whether a facility project is practical.",
+      "An assessment of financial and operational viability.",
+      "A study determining if a facility can be successfully developed.",
+      "An analysis of cost, demand, and resources.",
+      "A decision-making tool used before facility approval.",
+      "An examination of risks and benefits of a project.",
+      "A preliminary evaluation of project sustainability.",
+      "A planning study used to determine project viability."
+    ]
+  },
+  {
+    "term": "master plan",
+    "aliases": [],
+    "definitions": [
+      "A comprehensive long-term facility development plan.",
+      "A document outlining facility goals and future growth.",
+      "A strategic blueprint for facility layout and expansion.",
+      "A long-range planning guide for space allocation.",
+      "An overarching plan guiding facility decisions.",
+      "A framework for current and future facility needs.",
+      "A strategic facility roadmap.",
+      "A plan coordinating present design and future expansion."
+    ]
+  },
+  {
+    "term": "needs analysis",
+    "aliases": [],
+    "definitions": [
+      "An assessment of program and athlete requirements.",
+      "An evaluation guiding facility design decisions.",
+      "A process identifying training and population demands.",
+      "An analysis of user needs and program goals.",
+      "A foundational step in facility planning.",
+      "An assessment of space, equipment, and usage needs.",
+      "A planning tool used before design begins.",
+      "A systematic review of facility requirements."
+    ]
+  },
+  {
+    "term": "predesign phase",
+    "aliases": [],
+    "definitions": [
+      "The initial stage of facility planning.",
+      "The phase involving needs analysis and feasibility studies.",
+      "The earliest planning stage before design begins.",
+      "The conceptual planning phase.",
+      "The stage establishing project scope and goals.",
+      "The preparatory phase before design development.",
+      "The phase determining whether to proceed with a project.",
+      "The foundation phase of facility development."
+    ]
+  },
+  {
+    "term": "preparation phase",
+    "aliases": [],
+    "definitions": [
+      "The phase before facility opening focused on readiness.",
+      "The stage involving equipment installation and staff training.",
+      "The operational setup phase.",
+      "The phase ensuring systems are ready for use.",
+      "The stage preparing the facility for daily operation.",
+      "The transition phase between construction and opening.",
+      "The setup and commissioning stage.",
+      "The final preparation phase before use."
+    ]
+  },
+  {
+    "term": "safety cushion",
+    "aliases": ["clearance zone"],
+    "definitions": [
+      "The space around equipment to allow safe movement.",
+      "Clearance required for spotting and safe exercise execution.",
+      "An area preventing collisions or interference.",
+      "The buffer zone surrounding training equipment.",
+      "A safety margin for lifters and spotters.",
+      "Open space ensuring safe equipment use.",
+      "Protective clearance around exercise stations.",
+      "Designated safety space in facility layouts."
+    ]
+  }
+]

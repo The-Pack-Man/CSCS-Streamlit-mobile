@@ -1,0 +1,758 @@
+[
+  {
+    "term": "actin",
+    "aliases": ["thin filament protein"],
+    "definitions": [
+      "The main contractile protein of the thin filament that binds with myosin to generate force.",
+      "A thin-filament protein that provides the track for myosin cross-bridge attachment.",
+      "The primary protein of thin myofilaments; interacts with myosin heads during contraction.",
+      "A myofibrillar protein anchored to Z-lines that slides past myosin during shortening.",
+      "A structural/contractile protein whose exposed binding sites enable cross-bridge cycling.",
+      "The thin-filament protein that, when unblocked by tropomyosin, permits myosin binding.",
+      "A key sarcomere protein that contributes to force when myosin pulls it toward the M-line.",
+      "A major thin-filament component responsible for transmitting contractile force through the sarcomere."
+    ]
+  },
+  {
+    "term": "anaerobic alactic system",
+    "aliases": ["phosphagen system", "ATP-PC system", "ATP-PCr system"],
+    "definitions": [
+      "An anaerobic energy system that resynthesizes ATP primarily from phosphocreatine without lactate formation.",
+      "The immediate energy pathway supplying rapid ATP via stored ATP and PCr during very short, high-power work.",
+      "A non-oxidative system using PCr to buffer ATP demand, producing no lactate as an end-product.",
+      "The short-duration energy system dominated by ATP and phosphocreatine breakdown and resynthesis.",
+      "An anaerobic pathway that supports maximal efforts for ~0–10 seconds through PCr-driven ATP resynthesis.",
+      "The high-power system where creatine kinase transfers phosphate from PCr to ADP to rebuild ATP.",
+      "A rapid energy source for sprints/jumps that relies on stored high-energy phosphates rather than glycolysis.",
+      "The ATP–phosphocreatine pathway characterized by fast ATP availability and minimal metabolic byproducts."
+    ]
+  },
+  {
+    "term": "anaerobic lactic system",
+    "aliases": ["glycolytic system", "anaerobic glycolysis", "fast glycolysis"],
+    "definitions": [
+      "An anaerobic energy system that rapidly produces ATP via glycolysis with lactate accumulation.",
+      "The non-oxidative pathway that breaks down carbohydrate to generate ATP and forms lactate and H+.",
+      "A high-rate glycolytic energy system supporting hard efforts typically ~10–120 seconds.",
+      "The anaerobic pathway where glucose/glycogen is metabolized to pyruvate and then lactate under high demand.",
+      "A carbohydrate-based ATP system that supplies energy quickly when oxygen delivery cannot meet demand.",
+      "The energy system associated with rising blood lactate and metabolic acidosis during intense exercise.",
+      "A rapid ATP-producing pathway that trades efficiency for speed, producing lactate as a product of high flux.",
+      "The glycolysis-dominant system that powers sustained high-intensity bouts and results in lactate formation."
+    ]
+  },
+  {
+    "term": "anaerobic training",
+    "aliases": ["high-intensity training (non-oxidative emphasis)"],
+    "definitions": [
+      "Training performed at intensities that rely heavily on phosphagen and/or glycolytic energy systems.",
+      "Exercise that emphasizes ATP production without primary dependence on oxygen-driven metabolism.",
+      "High-intensity work designed to stress the phosphagen and glycolytic pathways.",
+      "Training characterized by hard efforts where energy demand outpaces aerobic ATP supply.",
+      "Work bouts that preferentially develop power/speed capacity and lactate tolerance/production systems.",
+      "Exercise using short-duration, high-intensity intervals to target non-oxidative metabolism.",
+      "Training that develops performance in activities requiring rapid ATP resynthesis without sustained oxygen use.",
+      "Workouts that stress anaerobic energy contributions through intensity, not necessarily total duration."
+    ]
+  },
+  {
+    "term": "bilateral deficit",
+    "aliases": [],
+    "definitions": [
+      "A phenomenon where maximal bilateral force is less than the summed force of each limb tested unilaterally.",
+      "Reduced total force output when both limbs contract together compared with unilateral contractions added.",
+      "A neural phenomenon in which bilateral activation does not fully match unilateral motor drive.",
+      "A performance effect where two-limb output is lower than expected from single-limb capabilities.",
+      "A motor-control limitation sometimes seen in bilateral strength tasks versus unilateral strength tests.",
+      "A situation where simultaneous limb contraction yields less combined force than unilateral totals.",
+      "A bilateral force shortfall often attributed to neural inhibition or incomplete motor unit activation.",
+      "A finding where left + right (separately) > both together, despite similar mechanics."
+    ]
+  },
+  {
+    "term": "bilateral facilitation",
+    "aliases": [],
+    "definitions": [
+      "A phenomenon where maximal bilateral force exceeds what would be predicted from unilateral force measures.",
+      "Enhanced force output when both limbs act together compared with unilateral performance.",
+      "A neural effect where bilateral contraction increases motor drive beyond unilateral levels.",
+      "A performance boost where two-limb output is greater than the sum-based expectation from single-limb tests.",
+      "Greater strength expression during simultaneous limb contraction relative to unilateral output benchmarks.",
+      "A condition where bilateral tasks show amplified force production compared with unilateral comparisons.",
+      "An effect suggesting improved coordination or neural activation when limbs work together.",
+      "A scenario where both together outperforms what unilateral testing would predict."
+    ]
+  },
+  {
+    "term": "bone matrix",
+    "aliases": ["extracellular matrix of bone"],
+    "definitions": [
+      "The composite material of bone made of organic proteins and inorganic minerals.",
+      "Bone’s structural framework consisting mainly of collagen fibers plus mineral crystals.",
+      "The extracellular scaffold that provides bone with both toughness and hardness.",
+      "The organic (osteoid) and inorganic (mineral) components that give bone its properties.",
+      "A collagen-rich foundation mineralized by hydroxyapatite to create rigid bone tissue.",
+      "The structural substance of bone that supports load and resists deformation.",
+      "Bone tissue material formed from collagen, ground substance, and deposited mineral salts.",
+      "The combined protein-and-mineral architecture responsible for bone strength and structure."
+    ]
+  },
+  {
+    "term": "bone mineral density (BMD)",
+    "aliases": ["bone density"],
+    "definitions": [
+      "A measure of mineral content in bone per unit area (or volume) used as an index of bone strength.",
+      "An indicator of how much mineral is packed into bone, often linked to fracture risk.",
+      "A clinical metric reflecting bone mass and mineralization.",
+      "A value used to assess bone health, commonly measured by DXA scanning.",
+      "The density of mineral in bone tissue associated with stiffness and resistance to fracture.",
+      "A proxy measure for bone strength based on mineral content relative to size.",
+      "A bone-quality indicator where lower values generally imply higher osteoporosis risk.",
+      "A measurement representing mineralized bone mass normalized to an area/volume."
+    ]
+  },
+  {
+    "term": "collagen",
+    "aliases": [],
+    "definitions": [
+      "A structural protein that provides tensile strength to connective tissues.",
+      "The primary fibrous protein in tendons, ligaments, and fascia that resists stretching.",
+      "A major extracellular matrix protein forming strong, rope-like fibers.",
+      "A protein scaffold that helps tissues withstand pulling forces.",
+      "The dominant protein in many connective tissues, critical for stiffness and integrity.",
+      "A connective tissue protein that forms fibers supporting load transmission.",
+      "A structural protein whose cross-links influence tissue rigidity.",
+      "The main protein framework that supports tissues subjected to tension."
+    ]
+  },
+  {
+    "term": "cortical bone",
+    "aliases": ["compact bone"],
+    "definitions": [
+      "Dense outer bone that provides high strength and structural support.",
+      "The compact, rigid bone layer forming the outer shell of most bones.",
+      "Bone tissue optimized to resist bending and torsion through dense architecture.",
+      "The thick outer bone material with relatively low porosity.",
+      "The strong outer bone region that bears most mechanical load.",
+      "Compact bone that contributes substantially to bone stiffness and strength.",
+      "The dense bone layer surrounding the medullary cavity and trabecular region.",
+      "A hard, compact tissue that forms the bone cortex and provides load-bearing capacity."
+    ]
+  },
+  {
+    "term": "cross-education",
+    "aliases": ["contralateral training effect"],
+    "definitions": [
+      "Strength gains in an untrained limb following unilateral training of the opposite limb.",
+      "A neural carryover where training one side improves strength on the other side.",
+      "The contralateral strength transfer effect from unilateral exercise.",
+      "An adaptation where unilateral training enhances motor output in the nontrained limb.",
+      "A phenomenon often attributed to central nervous system adaptations rather than local muscle changes.",
+      "A strength transfer effect useful during injury rehabilitation when one limb cannot be trained directly.",
+      "Unilateral training-induced improvements in the opposite limb’s force capacity.",
+      "A neural adaptation where practice/strength on one side partially generalizes to the contralateral side."
+    ]
+  },
+  {
+    "term": "cross-linking",
+    "aliases": ["collagen cross-linking"],
+    "definitions": [
+      "Chemical bonds between collagen fibers that increase tissue stiffness.",
+      "The formation of links between collagen molecules that strengthens connective tissue.",
+      "A process that reduces tissue compliance by binding collagen structures together.",
+      "A structural change that increases rigidity and load transfer capacity of connective tissue.",
+      "Bonding between collagen fibrils that influences tendon and ligament mechanical properties.",
+      "A mechanism by which connective tissue becomes less deformable under load.",
+      "A tissue-stiffening process driven by chemical link formation within collagen networks.",
+      "Increased collagen-to-collagen bonding that raises tensile strength and stiffness."
+    ]
+  },
+  {
+    "term": "detraining",
+    "aliases": ["deconditioning"],
+    "definitions": [
+      "The partial or complete loss of training adaptations due to reduced or absent training.",
+      "A decline in performance and physiological capacity after training stops or drops markedly.",
+      "Reversal of training-induced gains when stimulus is insufficient.",
+      "Loss of fitness characteristics such as strength, endurance, or power after inactivity.",
+      "A period where adaptations regress because overload is removed.",
+      "The decay of neuromuscular and metabolic improvements without continued training.",
+      "A decrease in performance capacities following unloading or inactivity.",
+      "The process of adaptation loss caused by inadequate training frequency, volume, or intensity."
+    ]
+  },
+  {
+    "term": "elastin",
+    "aliases": [],
+    "definitions": [
+      "A connective tissue protein that allows tissues to stretch and recoil.",
+      "An elastic protein enabling return to original shape after deformation.",
+      "A component of connective tissue that provides elasticity rather than tensile strength.",
+      "A protein that supports tissue flexibility and resilience.",
+      "A spring-like connective tissue protein contributing to passive recoil.",
+      "A matrix protein that helps tissues regain length after stretching.",
+      "A structural protein associated with tissue compliance.",
+      "A connective tissue protein responsible for elastic properties in ligaments and other tissues."
+    ]
+  },
+  {
+    "term": "electromyography (EMG)",
+    "aliases": ["EMG"],
+    "definitions": [
+      "A method for measuring muscle electrical activity.",
+      "A technique that records motor unit action potentials from muscle.",
+      "Assessment of neuromuscular activation via electrical signals in muscle tissue.",
+      "A tool used to quantify muscle activation patterns during movement.",
+      "Recording of muscle electrical activity using surface or intramuscular electrodes.",
+      "A measurement approach that reflects neural drive to muscle.",
+      "A technique to evaluate timing and amplitude of muscle activation.",
+      "A method for detecting and analyzing electrical signals produced during muscle contraction."
+    ]
+  },
+  {
+    "term": "fibrous cartilage",
+    "aliases": ["fibrocartilage"],
+    "definitions": [
+      "Cartilage rich in collagen fibers that resists compression and tension.",
+      "A tough cartilage type combining dense collagen and cartilage matrix for durability.",
+      "A load-bearing cartilage found where strong support and shock absorption are needed.",
+      "Cartilage adapted to handle both tensile and compressive stresses.",
+      "A collagen-heavy cartilage type seen in structures like intervertebral discs and menisci.",
+      "A cartilage form designed for high mechanical stress environments.",
+      "A connective tissue that provides strong cushioning under heavy loads.",
+      "A cartilage type with abundant collagen that increases strength and resistance to deformation."
+    ]
+  },
+  {
+    "term": "functional overreaching (FOR)",
+    "aliases": ["FOR"],
+    "definitions": [
+      "Short-term overreaching that leads to performance supercompensation after recovery.",
+      "A planned, brief increase in training stress followed by rebound performance improvement.",
+      "Temporary performance decrease that resolves with rest and yields improved fitness.",
+      "A deliberate overload phase intended to produce positive adaptation after taper/recovery.",
+      "A training strategy where fatigue is accumulated briefly to stimulate later gains.",
+      "An overreaching state that is productive when paired with sufficient recovery.",
+      "A short-term imbalance (stress > recovery) that later results in enhanced performance.",
+      "A purposeful overload that initially suppresses performance but improves it after restoration."
+    ]
+  },
+  {
+    "term": "hyaline cartilage",
+    "aliases": [],
+    "definitions": [
+      "Smooth cartilage covering joint surfaces that reduces friction.",
+      "A glassy cartilage type that provides low-friction movement at synovial joints.",
+      "Articular cartilage that helps distribute load and protect bone ends.",
+      "A cartilage form that supports and cushions joints while enabling smooth motion.",
+      "The common cartilage type forming articular surfaces and parts of the respiratory tract.",
+      "A smooth connective tissue that reduces wear between moving bones.",
+      "Cartilage providing a slick surface for joint movement and load distribution.",
+      "A cartilage type that decreases friction and absorbs compressive forces at joint interfaces."
+    ]
+  },
+  {
+    "term": "hydroxyapatite",
+    "aliases": [],
+    "definitions": [
+      "A crystalline mineral compound that gives bone its hardness.",
+      "The calcium-phosphate mineral deposited in bone matrix to increase rigidity.",
+      "The primary inorganic mineral of bone responsible for compressive strength.",
+      "A mineral crystal that stiffens the collagen framework in bone.",
+      "Bone’s main mineral component providing hardness and resistance to compression.",
+      "A calcium phosphate crystal that contributes to bone density and strength.",
+      "The inorganic salt that mineralizes osteoid and increases bone stiffness.",
+      "A mineralized compound (calcium phosphate) that makes bone hard and load resistant."
+    ]
+  },
+  {
+    "term": "hyperplasia",
+    "aliases": [],
+    "definitions": [
+      "An increase in the number of muscle fibers, with limited evidence for large effects in humans.",
+      "Growth of tissue through addition of new cells rather than enlargement of existing cells.",
+      "An increase in cell count within a tissue.",
+      "Muscle growth mechanism involving formation of additional fibers (controversial in humans).",
+      "Expansion of tissue by increasing the number of constituent cells.",
+      "A tissue adaptation where cell number rises in response to stimulus.",
+      "A cellular proliferation-based growth process (distinct from hypertrophy).",
+      "Increase in fiber number as a proposed contributor to muscle size in some contexts."
+    ]
+  },
+  {
+    "term": "hypertrophy",
+    "aliases": ["muscle hypertrophy"],
+    "definitions": [
+      "An increase in muscle fiber cross-sectional area.",
+      "Muscle growth primarily due to enlargement of existing fibers.",
+      "An adaptation where muscle cells increase size rather than number.",
+      "Increase in contractile protein content and cellular volume in muscle fibers.",
+      "A training-induced increase in muscle thickness and size.",
+      "Growth of skeletal muscle via increased myofibrillar and/or sarcoplasmic components.",
+      "An increase in the diameter of muscle fibers resulting in greater muscle size.",
+      "A size adaptation characterized by larger muscle fibers and increased CSA."
+    ]
+  },
+  {
+    "term": "mechanical loading",
+    "aliases": ["mechanical stress", "loading stimulus"],
+    "definitions": [
+      "The application of force to tissues that stimulates adaptation.",
+      "External or internal forces placed on biological tissues during activity.",
+      "A physical stressor that drives remodeling in bone, tendon, and muscle.",
+      "Load exposure that signals tissues to strengthen or change structure.",
+      "The strain-producing forces that provoke musculoskeletal adaptation.",
+      "A stimulus created by weight-bearing, impact, or resistance that promotes tissue remodeling.",
+      "Forces applied to tissues that can trigger mechanotransduction responses.",
+      "A mechanical stimulus that induces structural and functional adaptation in connective tissues."
+    ]
+  },
+  {
+    "term": "microfibril",
+    "aliases": [],
+    "definitions": [
+      "A fine fibrillar component of connective tissue contributing to structural support.",
+      "A small-diameter fiber element within the extracellular matrix.",
+      "A microscopic fibril that helps organize connective tissue architecture.",
+      "A fine structural unit that supports connective tissue integrity.",
+      "A connective tissue substructure that contributes to mechanical properties.",
+      "A small fibrillar component involved in organizing matrix proteins.",
+      "A fine fiber element that supports tissue structure and resilience.",
+      "A microscopic connective tissue fibril that participates in extracellular matrix organization."
+    ]
+  },
+  {
+    "term": "minimal essential strain (MES)",
+    "aliases": ["MES"],
+    "definitions": [
+      "The minimum strain magnitude required to stimulate bone adaptation.",
+      "A threshold level of mechanical strain needed to trigger bone remodeling.",
+      "The smallest effective strain stimulus that promotes osteogenic response.",
+      "A bone-loading threshold below which adaptation is minimal.",
+      "The strain level required to signal bone formation processes.",
+      "The minimum deformation stimulus that provokes bone maintenance or gain.",
+      "A concept describing the strain threshold for bone to respond to loading.",
+      "The smallest strain signal that initiates meaningful osteogenic adaptation."
+    ]
+  },
+  {
+    "term": "motor unit",
+    "aliases": [],
+    "definitions": [
+      "A motor neuron and all the muscle fibers it innervates.",
+      "The basic functional unit of neural control of muscle force.",
+      "One alpha motor neuron plus the muscle fibers it activates.",
+      "A neuromuscular unit that contracts together when the neuron fires.",
+      "The smallest unit of muscle activation controlled by the nervous system.",
+      "A nerve-to-muscle grouping determining force output and control precision.",
+      "A set of muscle fibers driven by a single motor neuron.",
+      "A neural control unit whose recruitment and firing rate influence muscle force."
+    ]
+  },
+  {
+    "term": "myogenesis",
+    "aliases": [],
+    "definitions": [
+      "The formation of new muscle tissue or fibers.",
+      "The developmental process of creating muscle cells and muscle fibers.",
+      "Muscle tissue generation through differentiation of precursor cells.",
+      "A process involving creation and maturation of muscle fibers.",
+      "Formation of muscle tissue, often discussed in development and regeneration contexts.",
+      "The biological process that produces new muscle cells (myocytes).",
+      "Muscle formation via cellular growth and differentiation pathways.",
+      "The creation of muscle tissue from progenitor cells into functional fibers."
+    ]
+  },
+  {
+    "term": "myosin",
+    "aliases": ["thick filament protein"],
+    "definitions": [
+      "The primary protein of thick filaments that generates force via cross-bridge cycling.",
+      "A contractile protein whose heads bind actin and use ATP to produce movement and force.",
+      "The thick-filament motor protein responsible for the power stroke in contraction.",
+      "A myofibrillar protein that converts chemical energy (ATP) into mechanical work.",
+      "The thick-filament protein that attaches to actin and pulls during shortening.",
+      "A motor protein with ATPase activity that drives filament sliding.",
+      "The force-producing protein whose cross-bridges interact cyclically with actin.",
+      "A thick-filament contractile protein that powers muscle contraction through ATP-dependent cycling."
+    ]
+  },
+  {
+    "term": "myotatic reflex",
+    "aliases": ["stretch reflex"],
+    "definitions": [
+      "The stretch reflex causing a muscle to contract in response to rapid stretching.",
+      "A protective reflex that resists sudden muscle lengthening.",
+      "A reflex mediated by muscle spindles leading to contraction after quick stretch.",
+      "The reflex arc that increases muscle activation when length changes rapidly.",
+      "A neural response to stretch that helps maintain posture and muscle tone.",
+      "An involuntary contraction triggered by muscle spindle activation during sudden stretch.",
+      "A reflex that facilitates agonist contraction and inhibits antagonist activity in response to stretch.",
+      "A rapid contraction response elicited when a muscle is quickly lengthened."
+    ]
+  },
+  {
+    "term": "neuromuscular junction (NMJ)",
+    "aliases": ["NMJ"],
+    "definitions": [
+      "The synapse between a motor neuron and a muscle fiber.",
+      "The site where acetylcholine is released to initiate muscle fiber depolarization.",
+      "A specialized junction where neural signals are transmitted to skeletal muscle.",
+      "The connection point where motor neuron action potentials trigger muscle contraction.",
+      "A chemical synapse enabling communication from nerve to muscle.",
+      "The interface where a motor neuron activates a muscle fiber via neurotransmitter release.",
+      "The synaptic region that converts neural firing into muscle excitation.",
+      "The neuron-to-muscle synapse that initiates the excitation–contraction sequence."
+    ]
+  },
+  {
+    "term": "nonfunctional overreaching (NFOR)",
+    "aliases": ["NFOR"],
+    "definitions": [
+      "Overreaching that results in prolonged performance decrements without supercompensation.",
+      "An accumulation of fatigue that reduces performance for an extended period despite recovery attempts.",
+      "A maladaptive overreaching state where performance does not rebound quickly.",
+      "A short-to-medium term training stress imbalance causing longer-lasting underperformance.",
+      "A negative outcome of excessive training load without adequate recovery, lasting weeks.",
+      "A fatigue-driven performance drop that persists and does not yield a rebound benefit.",
+      "An overreaching condition requiring extended recovery to restore baseline performance.",
+      "A state between functional overreaching and overtraining syndrome characterized by sustained decrements."
+    ]
+  },
+  {
+    "term": "osteoblasts",
+    "aliases": ["bone-forming cells"],
+    "definitions": [
+      "Bone-forming cells responsible for producing new bone matrix.",
+      "Cells that synthesize osteoid and promote mineral deposition.",
+      "The cells that build bone tissue during growth and remodeling.",
+      "Bone cells that lay down collagen matrix later mineralized into bone.",
+      "Matrix-producing cells essential for bone formation and repair.",
+      "Cells that contribute to increased bone mass through synthesis activity.",
+      "Bone-building cells that generate organic matrix and facilitate mineralization.",
+      "Cells that form new bone by producing osteoid and coordinating mineralization."
+    ]
+  },
+  {
+    "term": "osteogenic stimuli",
+    "aliases": ["osteogenic stimulus"],
+    "definitions": [
+      "Mechanical loading signals that promote bone formation.",
+      "Load-related cues (strain, rate, frequency) that stimulate bone adaptation.",
+      "Stimuli that trigger bone remodeling toward increased strength or density.",
+      "Mechanical stress patterns that encourage osteoblast activity.",
+      "Bone-building signals derived from impact or resistance loading.",
+      "Loading characteristics that drive osteogenesis (bone formation).",
+      "Mechanical cues that promote bone growth and mineralization.",
+      "Signals from loading that activate pathways leading to bone formation."
+    ]
+  },
+  {
+    "term": "osteoporosis",
+    "aliases": [],
+    "definitions": [
+      "A condition of low bone mass and increased fracture risk.",
+      "A skeletal disorder characterized by reduced bone strength.",
+      "Disease marked by decreased BMD and degraded bone microarchitecture.",
+      "A state where bones become more porous and fragile.",
+      "A disorder increasing risk of fractures due to weakened bone.",
+      "Low bone density and structural deterioration leading to fragility fractures.",
+      "A condition where bone resorption outpaces formation, weakening bone.",
+      "A clinical syndrome of fragile bones typically associated with aging and low BMD."
+    ]
+  },
+  {
+    "term": "overreaching",
+    "aliases": [],
+    "definitions": [
+      "A short-term imbalance between training stress and recovery.",
+      "A temporary increase in training load that causes fatigue and performance suppression.",
+      "A period of excessive training stress relative to recovery capacity.",
+      "An overload state that may be functional or nonfunctional depending on recovery and duration.",
+      "A short-term accumulation of fatigue from training above current tolerance.",
+      "A planned or unplanned training load spike that temporarily reduces performance.",
+      "A fatigue state created by high training demands that can precede adaptation or maladaptation.",
+      "A short-duration overload that exceeds recovery and temporarily impairs performance."
+    ]
+  },
+  {
+    "term": "overtraining syndrome (OTS)",
+    "aliases": ["OTS"],
+    "definitions": [
+      "A chronic maladaptive state from excessive training and insufficient recovery.",
+      "Long-term performance decline accompanied by physiological and psychological disturbances.",
+      "A persistent fatigue and underperformance condition not resolved by short rest.",
+      "A syndrome involving prolonged training stress leading to systemic dysfunction.",
+      "A chronic training-related state characterized by decreased performance and mood changes.",
+      "A long-duration maladaptation where recovery requires weeks to months.",
+      "A condition resulting from cumulative overload without adequate restoration, impairing multiple systems.",
+      "A chronic syndrome marked by sustained performance decrement and dysregulation beyond normal fatigue."
+    ]
+  },
+  {
+    "term": "parasympathetic overtraining syndrome",
+    "aliases": ["parasympathetic OTS"],
+    "definitions": [
+      "Overtraining characterized by fatigue, reduced heart rate, and performance decrements.",
+      "An OTS presentation with lowered resting HR and subdued arousal.",
+      "A chronic underperformance state associated with elevated parasympathetic tone.",
+      "Overtraining marked by lethargy, low motivation, and decreased sympathetic drive.",
+      "A form of OTS often seen in endurance athletes featuring low resting HR and fatigue.",
+      "An overtraining pattern where the body appears “shut down” rather than hyper-aroused.",
+      "OTS characterized by blunted stress responses and reduced physiological activation.",
+      "A parasympathetic-dominant overtraining state with low arousal and persistent fatigue."
+    ]
+  },
+  {
+    "term": "peak bone mass",
+    "aliases": [],
+    "definitions": [
+      "The highest bone density achieved during growth and development.",
+      "Maximum lifetime bone mass typically reached in early adulthood.",
+      "The top level of BMD obtained before age-related decline begins.",
+      "The greatest amount of bone tissue accrued during maturation.",
+      "A developmental milestone representing maximal skeletal mineralization.",
+      "The maximum bone strength potential built through genetics, nutrition, and loading during youth.",
+      "The highest bone mass reached, influencing osteoporosis risk later in life.",
+      "The lifetime maximum skeletal mass achieved before maintenance/decline phases."
+    ]
+  },
+  {
+    "term": "pennation angle",
+    "aliases": ["angle of pennation"],
+    "definitions": [
+      "The angle between muscle fibers and the line of pull (tendon).",
+      "The fiber-to-tendon orientation that influences force transmission.",
+      "The oblique angle at which fibers insert into a tendon in pennate muscles.",
+      "An architectural feature affecting physiological cross-sectional area and force potential.",
+      "The angle that can increase with hypertrophy and alter force–velocity characteristics.",
+      "A muscle architecture measure describing fiber alignment relative to the tendon.",
+      "The fiber alignment angle that affects how much fiber force contributes to tendon force.",
+      "The angle between muscle fibers and the aponeurosis/tendon direction of action."
+    ]
+  },
+  {
+    "term": "periosteum",
+    "aliases": [],
+    "definitions": [
+      "A connective tissue membrane covering the outer surface of bone (except at articular cartilage).",
+      "The fibrous outer layer of bone important for growth and repair.",
+      "A vascularized membrane that nourishes bone and supports remodeling.",
+      "The outer bone covering that anchors tendons/ligaments and aids healing.",
+      "A protective connective tissue sheath surrounding bone surfaces.",
+      "The membrane containing cells involved in bone formation and repair.",
+      "A dense connective tissue layer covering bone that contributes to appositional growth.",
+      "Bone’s outer covering that supports repair processes and attachment sites."
+    ]
+  },
+  {
+    "term": "procollagen",
+    "aliases": [],
+    "definitions": [
+      "A precursor molecule used in collagen synthesis.",
+      "The initial collagen form produced inside cells before being processed into mature collagen.",
+      "A pre-collagen protein that is modified and secreted to form collagen fibers.",
+      "The soluble precursor that becomes collagen after enzymatic cleavage and assembly.",
+      "A collagen building block synthesized by fibroblasts prior to extracellular maturation.",
+      "The intracellular precursor that undergoes processing to produce functional collagen.",
+      "A molecule that is converted to tropocollagen and then assembled into collagen fibrils.",
+      "The early synthesis form that is later processed to create mature collagen fibers."
+    ]
+  },
+  {
+    "term": "progressive overload",
+    "aliases": [],
+    "definitions": [
+      "Gradual increase of training stress to stimulate continued adaptation.",
+      "Systematically raising load, volume, intensity, or density over time to drive gains.",
+      "A training principle requiring progressively greater stimulus as the body adapts.",
+      "Planned escalation of mechanical or metabolic demand to promote improvement.",
+      "Increasing training challenge to maintain adaptation pressure.",
+      "The concept that performance improves when stress increases beyond current capacity.",
+      "A method of applying increasing demands to prevent plateaus.",
+      "A principle where training stimulus must rise over time to keep producing adaptations."
+    ]
+  },
+  {
+    "term": "rate-pressure product",
+    "aliases": ["RPP", "double product"],
+    "definitions": [
+      "Heart rate multiplied by systolic blood pressure, estimating cardiac workload.",
+      "An index of myocardial oxygen demand based on HR and SBP.",
+      "A cardiovascular workload metric calculated as HR × systolic BP.",
+      "A measure used to approximate how hard the heart is working during exercise.",
+      "A proxy for cardiac oxygen consumption derived from HR and blood pressure.",
+      "A workload indicator often used in clinical and exercise testing contexts.",
+      "A cardiac strain metric combining heart rate and systolic pressure.",
+      "A calculated index reflecting the heart’s work demand: HR times systolic BP."
+    ]
+  },
+  {
+    "term": "reactive hyperemia",
+    "aliases": [],
+    "definitions": [
+      "An increase in blood flow after a period of temporary blood-flow occlusion.",
+      "The post-occlusion surge in perfusion due to accumulated metabolites and vasodilation.",
+      "A rebound increase in tissue blood flow following ischemia.",
+      "A vascular response where flow increases above baseline after restriction is released.",
+      "Increased perfusion occurring when blood supply returns after brief blockage.",
+      "A circulation response linked to metabolic byproducts and vessel dilation after occlusion.",
+      "A temporary overshoot in blood flow after removing a tourniquet or compression.",
+      "Enhanced blood flow following temporary restriction as vessels dilate and demand is repaid."
+    ]
+  },
+  {
+    "term": "selective recruitment",
+    "aliases": [],
+    "definitions": [
+      "Recruitment of motor units based on force and velocity demands of a task.",
+      "Task-dependent motor unit activation patterns shaped by movement requirements.",
+      "Preferential activation of motor units depending on needed force, speed, and coordination.",
+      "The concept that recruitment strategy can differ based on exercise intent and mechanics.",
+      "Motor unit activation influenced by the demands of power, rate of force development, and load.",
+      "A pattern where the nervous system selects appropriate motor units for the task.",
+      "Recruitment behavior shaped by movement velocity and force requirements.",
+      "Choosing motor unit activation patterns that best match the mechanical and neural demands."
+    ]
+  },
+  {
+    "term": "size principle",
+    "aliases": [],
+    "definitions": [
+      "Motor units are recruited from smallest to largest as force demands increase.",
+      "A recruitment order rule: low-threshold units first, high-threshold units later.",
+      "The principle that slow, fatigue-resistant motor units activate before fast, powerful ones.",
+      "A motor unit recruitment hierarchy based on neuron size and threshold.",
+      "A rule explaining progressive recruitment as intensity rises.",
+      "The pattern where Type I-dominant units are recruited before Type II-dominant units.",
+      "A neural control principle linking force needs to recruitment of larger motor neurons.",
+      "A recruitment ordering concept: increasing force demand recruits progressively larger motor units."
+    ]
+  },
+  {
+    "term": "specificity of loading",
+    "aliases": ["specificity", "SAID principle (contextual)"],
+    "definitions": [
+      "Adaptations are specific to the type, magnitude, and direction of the applied load.",
+      "The idea that tissues adapt to the particular stresses they experience.",
+      "A principle stating training effects reflect the exact loading pattern imposed.",
+      "Load-specific remodeling: what you load is what you develop.",
+      "An adaptation rule where angle, velocity, and force direction shape the outcome.",
+      "The concept that bone, tendon, and muscle changes depend on the precise loading stimulus.",
+      "A principle explaining why different exercises produce different structural adaptations.",
+      "The notion that training adaptations match the mechanical characteristics of the overload applied."
+    ]
+  },
+  {
+    "term": "stress fractures",
+    "aliases": [],
+    "definitions": [
+      "Microfractures in bone caused by repetitive submaximal loading.",
+      "Bone injury from cumulative stress exceeding the bone’s repair capacity.",
+      "A small crack or microdamage accumulation due to repeated impact or load.",
+      "A fatigue-related bone injury resulting from overuse.",
+      "Microdamage that progresses when remodeling cannot keep pace with loading.",
+      "A repetitive-load bone injury commonly seen with running, jumping, or high volume training.",
+      "A fracture developing gradually from repeated strain rather than a single traumatic event.",
+      "Bone microinjury caused by chronic repetitive stress and insufficient recovery."
+    ]
+  },
+  {
+    "term": "structural exercises",
+    "aliases": ["core lifts (contextual)"],
+    "definitions": [
+      "Multi-joint exercises that load the spine and large muscle groups.",
+      "Compound movements that impose significant axial loading and whole-body demand.",
+      "Exercises like squats/deadlifts/presses that stress multiple joints and major muscle mass.",
+      "Large-scale lifts that produce high systemic training stress and require trunk stabilization.",
+      "Primary multi-joint lifts that create strong mechanical loading for adaptation.",
+      "Exercises characterized by heavy loading and major skeletal support involvement.",
+      "Compound lifts that typically require bracing and stabilize the spine under load.",
+      "Multi-joint movements that heavily load the body and drive broad neuromuscular adaptation."
+    ]
+  },
+  {
+    "term": "sympathetic overtraining syndrome",
+    "aliases": ["sympathetic OTS"],
+    "definitions": [
+      "Overtraining characterized by elevated resting heart rate and heightened arousal.",
+      "An OTS presentation featuring increased sympathetic activity and irritability.",
+      "A chronic underperformance state marked by hyperexcitability and elevated stress markers.",
+      "Overtraining with signs like insomnia, restlessness, and increased resting HR.",
+      "A sympathetic-dominant overtraining pattern often linked to high-intensity stress exposure.",
+      "OTS characterized by elevated catecholamine-like responses and increased arousal.",
+      "An overtraining state where the system appears chronically “revved up.”",
+      "Overtraining marked by increased resting HR, agitation, and persistent performance decline."
+    ]
+  },
+  {
+    "term": "syndrome",
+    "aliases": [],
+    "definitions": [
+      "A collection of signs and symptoms that occur together.",
+      "A consistent cluster of clinical features associated with a condition.",
+      "A set of symptoms that tend to co-occur and indicate a particular disorder.",
+      "A grouped pattern of findings rather than a single isolated symptom.",
+      "A recognizable combination of signs used to characterize a condition.",
+      "A diagnostic grouping based on repeated symptom patterns.",
+      "Multiple related symptoms that collectively define a condition.",
+      "A pattern of associated signs and symptoms forming a clinical picture."
+    ]
+  },
+  {
+    "term": "tendon stiffness",
+    "aliases": [],
+    "definitions": [
+      "A tendon’s resistance to deformation under load.",
+      "The amount a tendon stretches for a given applied force (inverse of compliance).",
+      "A mechanical property describing how much a tendon elongates when loaded.",
+      "Higher stiffness means less stretch at the same force.",
+      "A characteristic affecting force transmission and rate of force development.",
+      "A connective tissue property influenced by collagen content and cross-linking.",
+      "A measure of tendon rigidity that impacts elastic energy storage and return.",
+      "The mechanical resistance of tendon tissue to length change during loading."
+    ]
+  },
+  {
+    "term": "titin",
+    "aliases": [],
+    "definitions": [
+      "A giant elastic protein contributing to passive muscle tension.",
+      "A sarcomere protein acting like a spring between Z-line and thick filament.",
+      "A structural protein that stabilizes the myosin filament and provides elasticity.",
+      "A protein responsible for recoil and passive resistance during muscle stretch.",
+      "A key contributor to passive stiffness and sarcomere alignment.",
+      "The elastic filament that helps muscles return to resting length after stretch.",
+      "A large protein that maintains sarcomere integrity and generates passive tension.",
+      "A spring-like sarcomeric protein that supports structure and passive force."
+    ]
+  },
+  {
+    "term": "trabecular bone",
+    "aliases": ["spongy bone", "cancellous bone"],
+    "definitions": [
+      "Spongy inner bone with high metabolic activity.",
+      "Porous bone tissue arranged in a lattice that adapts quickly to loading changes.",
+      "The inner bone structure that helps dissipate forces and supports marrow.",
+      "Bone with higher surface area and faster remodeling compared to cortical bone.",
+      "A lattice-like bone tissue that contributes to shock absorption and load distribution.",
+      "The metabolically active bone type found in vertebrae and ends of long bones.",
+      "A porous bone architecture that is highly responsive to mechanical stimuli.",
+      "Spongy bone tissue that remodels rapidly and supports compressive load distribution."
+    ]
+  },
+  {
+    "term": "ventilatory equivalent",
+    "aliases": ["VE/VO2", "VE/VCO2"],
+    "definitions": [
+      "The ratio of ventilation to oxygen uptake or carbon dioxide production.",
+      "A measure of how much air is ventilated per unit of O2 consumed (VE/VO2) or CO2 produced (VE/VCO2).",
+      "An index of ventilatory efficiency during exercise testing.",
+      "A respiratory ratio reflecting ventilation demand relative to metabolic gas exchange.",
+      "A metric used to identify ventilatory thresholds and inefficiency.",
+      "The amount of minute ventilation required for a given VO2 or VCO2.",
+      "A measure of breathing efficiency; higher values typically indicate less efficient ventilation.",
+      "A cardiopulmonary exercise variable expressing VE relative to VO2 or VCO2."
+    ]
+  }
+]

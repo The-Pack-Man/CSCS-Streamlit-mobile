@@ -1,0 +1,310 @@
+[
+  {
+    "term": "active stretch",
+    "aliases": ["active flexibility"],
+    "definitions": [
+      "A stretching technique performed using voluntary muscle contraction without external assistance.",
+      "Stretching achieved by actively moving a limb through its range of motion.",
+      "A self-generated stretch relying on agonist muscle activation.",
+      "A stretch where the opposing muscle group provides the force.",
+      "Stretching performed without a partner or external load.",
+      "A mobility method emphasizing muscular control.",
+      "Stretching that improves strength through range.",
+      "ROM work driven by internal force production."
+    ]
+  },
+  {
+    "term": "agonist contraction",
+    "aliases": ["prime mover contraction"],
+    "definitions": [
+      "Activation of the primary muscle responsible for a movement.",
+      "Contraction of the muscle producing the intended joint action.",
+      "The force-generating muscle action driving motion.",
+      "Prime mover engagement during movement execution.",
+      "Muscle activation causing joint movement.",
+      "The dominant muscle’s contraction in a task.",
+      "Force production by the main mover.",
+      "Neuromuscular activation of the movement initiator."
+    ]
+  },
+  {
+    "term": "autogenic inhibition",
+    "aliases": [],
+    "definitions": [
+      "Relaxation of a muscle due to activation of its Golgi tendon organs.",
+      "A protective reflex that reduces muscle tension when force is high.",
+      "Inhibition of the same muscle experiencing tension.",
+      "GTO-mediated reduction in motor neuron activity.",
+      "A neuromuscular safety mechanism preventing excessive force.",
+      "Reflexive muscle relaxation following strong contraction.",
+      "Self-inhibition of a muscle under tension.",
+      "A mechanism exploited during PNF stretching."
+    ]
+  },
+  {
+    "term": "ball-and-socket joint",
+    "aliases": [],
+    "definitions": [
+      "A synovial joint permitting movement in all three planes.",
+      "A joint with a spherical head fitting into a cup-like socket.",
+      "A multiaxial joint such as the shoulder or hip.",
+      "A joint allowing flexion, extension, abduction, rotation, and circumduction.",
+      "The most mobile joint type in the body.",
+      "A joint sacrificing stability for mobility.",
+      "A joint enabling rotational and angular motion.",
+      "A three-degree-of-freedom synovial joint."
+    ]
+  },
+  {
+    "term": "ballistic stretch",
+    "aliases": [],
+    "definitions": [
+      "A stretching technique using rapid, bouncing movements.",
+      "Stretching that forces a limb beyond its normal ROM using momentum.",
+      "A high-velocity stretch that can activate the stretch reflex.",
+      "Dynamic but uncontrolled stretching.",
+      "Stretching involving jerky or bouncing actions.",
+      "A stretch method generally discouraged for warm-ups.",
+      "Stretching that increases injury risk due to reflexive contraction.",
+      "ROM forcing via momentum rather than control."
+    ]
+  },
+  {
+    "term": "contract-relax",
+    "aliases": ["PNF contract-relax"],
+    "definitions": [
+      "A PNF stretch involving isometric contraction followed by relaxation.",
+      "Stretching that exploits autogenic inhibition.",
+      "Isometric contraction of the target muscle before stretching.",
+      "A flexibility method using neuromuscular reflexes.",
+      "PNF technique without agonist contraction.",
+      "Stretching via tension-relaxation cycles.",
+      "ROM improvement through inhibitory reflexes.",
+      "A partner-assisted or self-applied PNF stretch."
+    ]
+  },
+  {
+    "term": "dynamic flexibility",
+    "aliases": [],
+    "definitions": [
+      "The ability to move joints through full ROM during active movement.",
+      "Mobility expressed under muscular control.",
+      "Flexibility during motion rather than static positions.",
+      "ROM demonstrated during functional tasks.",
+      "Movement-based joint mobility.",
+      "Flexibility relevant to sport performance.",
+      "Controlled mobility during activity.",
+      "Active ROM capacity."
+    ]
+  },
+  {
+    "term": "dynamic stretch",
+    "aliases": [],
+    "definitions": [
+      "Stretching using controlled, sport-specific movements.",
+      "A warm-up method emphasizing movement through ROM.",
+      "Stretching performed while the body is in motion.",
+      "Mobility work preparing tissues for activity.",
+      "Stretching that raises temperature and neural readiness.",
+      "Active stretching without prolonged holds.",
+      "Pre-performance ROM preparation.",
+      "Movement-based flexibility training."
+    ]
+  },
+  {
+    "term": "elasticity",
+    "aliases": [],
+    "definitions": [
+      "The ability of tissue to return to its original length after deformation.",
+      "Reversible deformation of muscle or connective tissue.",
+      "Temporary stretch behavior of tissues.",
+      "Spring-like property of biological tissues.",
+      "Energy-storing capability of muscle-tendon units.",
+      "Non-permanent tissue elongation.",
+      "Elastic recoil after stretch.",
+      "Short-term stretch response."
+    ]
+  },
+  {
+    "term": "fibrosis",
+    "aliases": [],
+    "definitions": [
+      "Excessive connective tissue formation that restricts movement.",
+      "Thickening or scarring of soft tissues.",
+      "Pathological loss of tissue elasticity.",
+      "Reduced ROM due to collagen accumulation.",
+      "Structural stiffening of tissue.",
+      "Connective tissue overgrowth after injury or inactivity.",
+      "Movement limitation due to scarring.",
+      "Non-functional connective tissue adaptation."
+    ]
+  },
+  {
+    "term": "general warm-up",
+    "aliases": [],
+    "definitions": [
+      "Low-intensity activity increasing body temperature.",
+      "Non-specific movement to prepare the body for exercise.",
+      "Warm-up phase focused on systemic readiness.",
+      "Activity raising heart rate and circulation.",
+      "Initial phase of exercise preparation.",
+      "Broad movement prep before specific drills.",
+      "Physiological readiness phase.",
+      "Global preparation activity."
+    ]
+  },
+  {
+    "term": "Golgi tendon organ (GTO)",
+    "aliases": ["GTO"],
+    "definitions": [
+      "A proprioceptor sensing muscle tension.",
+      "A receptor located in tendons monitoring force.",
+      "A protective sensory organ preventing excessive tension.",
+      "Mechanoreceptor responsible for autogenic inhibition.",
+      "Tension-sensitive neuromuscular sensor.",
+      "Force-detecting proprioceptor.",
+      "Inhibitory reflex receptor.",
+      "Tendon-based sensory structure."
+    ]
+  },
+  {
+    "term": "hinge joint",
+    "aliases": [],
+    "definitions": [
+      "A synovial joint permitting motion in one plane.",
+      "A joint allowing flexion and extension only.",
+      "Uniaxial joint such as the knee or elbow.",
+      "A joint with a door-hinge type movement.",
+      "Joint permitting angular motion in one direction.",
+      "Single-axis synovial joint.",
+      "Flexion-extension joint.",
+      "Plane-specific motion joint."
+    ]
+  },
+  {
+    "term": "muscle spindles",
+    "aliases": ["muscle spindle"],
+    "definitions": [
+      "Sensory receptors detecting muscle length and stretch speed.",
+      "Proprioceptors embedded within muscle fibers.",
+      "Stretch-sensitive receptors initiating the stretch reflex.",
+      "Length-monitoring neuromuscular sensors.",
+      "Receptors regulating muscle tone.",
+      "Protective sensors responding to rapid stretch.",
+      "Primary mediators of stretch reflex.",
+      "Muscle length feedback organs."
+    ]
+  },
+  {
+    "term": "passive stretch",
+    "aliases": [],
+    "definitions": [
+      "A stretch applied with external assistance.",
+      "Stretching without active muscle contraction.",
+      "ROM increase via partner, gravity, or apparatus.",
+      "Externally driven flexibility method.",
+      "Stretching relying on outside force.",
+      "Relaxed stretching technique.",
+      "Static ROM increase via assistance.",
+      "Non-contractile stretching."
+    ]
+  },
+  {
+    "term": "plasticity",
+    "aliases": [],
+    "definitions": [
+      "Permanent deformation of connective tissue after prolonged stretch.",
+      "Long-term change in tissue length.",
+      "Non-reversible tissue adaptation.",
+      "Structural remodeling of connective tissue.",
+      "Permanent flexibility adaptation.",
+      "Tissue lengthening beyond elastic limits.",
+      "Chronic stretch-induced change.",
+      "Connective tissue remodeling capacity."
+    ]
+  },
+  {
+    "term": "potentiation",
+    "aliases": ["post-activation potentiation"],
+    "definitions": [
+      "Enhanced neuromuscular performance following prior activation.",
+      "Temporary increase in force or power output.",
+      "Performance enhancement after preload activity.",
+      "Increased motor unit responsiveness.",
+      "Neural readiness effect.",
+      "Short-term performance boost.",
+      "Excitability increase after activation.",
+      "Force enhancement via neural priming."
+    ]
+  },
+  {
+    "term": "proprioceptive neuromuscular facilitation (PNF)",
+    "aliases": ["PNF"],
+    "definitions": [
+      "Stretching techniques using neuromuscular reflexes.",
+      "Flexibility methods involving contraction and relaxation.",
+      "ROM improvement using proprioceptive mechanisms.",
+      "Stretching exploiting GTO and spindle responses.",
+      "Neurologically driven stretching approach.",
+      "Advanced flexibility training method.",
+      "Stretching using muscular activation.",
+      "Reflex-based flexibility technique."
+    ]
+  },
+  {
+    "term": "range of motion (ROM)",
+    "aliases": [],
+    "definitions": [
+      "The distance and direction a joint can move.",
+      "Extent of joint movement capability.",
+      "Angular displacement available at a joint.",
+      "Mobility measure of joint function.",
+      "Movement freedom at a joint.",
+      "Joint excursion capacity.",
+      "Functional movement range.",
+      "Joint motion potential."
+    ]
+  },
+  {
+    "term": "reciprocal inhibition",
+    "aliases": [],
+    "definitions": [
+      "Relaxation of an antagonist when the agonist contracts.",
+      "Neuromuscular inhibition opposing movement.",
+      "Reflex allowing smooth joint motion.",
+      "Antagonist suppression during agonist activity.",
+      "Protective coordination mechanism.",
+      "Inhibitory motor neuron response.",
+      "Opposing muscle relaxation reflex.",
+      "Agonist-driven inhibition."
+    ]
+  },
+  {
+    "term": "static stretch",
+    "aliases": ["static flexibility"],
+    "definitions": [
+      "A stretch held at end ROM for a period of time.",
+      "Non-moving stretch technique.",
+      "Sustained elongation of tissue.",
+      "Passive or active held stretch.",
+      "Stretching without motion.",
+      "ROM held under tension.",
+      "Traditional flexibility method.",
+      "End-range hold stretching."
+    ]
+  },
+  {
+    "term": "stretch reflex",
+    "aliases": [],
+    "definitions": [
+      "An involuntary contraction in response to rapid stretch.",
+      "Protective reflex mediated by muscle spindles.",
+      "Automatic resistance to sudden muscle lengthening.",
+      "Neuromuscular reflex preventing overstretching.",
+      "Lengthening-triggered contraction.",
+      "Spindle-driven contraction response.",
+      "Rapid stretch defense mechanism.",
+      "Reflex opposing fast elongation."
+    ]
+  }
+]

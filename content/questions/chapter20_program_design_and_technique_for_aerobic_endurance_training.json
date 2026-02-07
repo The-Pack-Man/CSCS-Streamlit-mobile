@@ -1,0 +1,155 @@
+[
+  {
+    "id": "ch20_q01",
+    "question": "Which of the following adaptations occur as an outcome of an aerobic endurance training program?\n\nI. increased oxygen delivery to working tissues\nII. higher rate of aerobic energy production\nIII. greater utilization of fat as a fuel source\nIV. increased disturbance of the acid–base balance",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 2,
+    "explanation": "Aerobic endurance training improves oxygen delivery, aerobic energy production, and fat utilization, while reducing acid–base disturbance."
+  },
+  {
+    "id": "ch20_q02",
+    "question": "Which of the following types of training is conducted at an intensity equal to the lactate threshold?",
+    "choices": [
+      "pace/tempo",
+      "interval",
+      "high-intensity interval training (HIIT)",
+      "Fartlek"
+    ],
+    "answer_index": 0,
+    "explanation": "Pace/tempo training is designed to be performed at or near the lactate threshold."
+  },
+  {
+    "id": "ch20_q03",
+    "question": "Which of the following is the method most commonly used to assign and regulate exercise intensity?",
+    "choices": [
+      "oxygen consumption",
+      "heart rate",
+      "ratings of perceived exertion",
+      "race pace"
+    ],
+    "answer_index": 1,
+    "explanation": "Heart rate is the most commonly used method for prescribing and monitoring aerobic exercise intensity."
+  },
+  {
+    "id": "ch20_q04",
+    "question": "The loss of physiological adaptations upon the cessation of training is an example of",
+    "choices": [
+      "specificity of training",
+      "cross-training",
+      "detraining",
+      "tapering"
+    ],
+    "answer_index": 2,
+    "explanation": "Detraining refers to the loss of adaptations when training stimulus is reduced or removed."
+  },
+  {
+    "id": "ch20_q05",
+    "question": "The longest aerobic endurance training sessions should be performed during which of the following sport seasons?",
+    "choices": [
+      "postseason",
+      "preseason",
+      "in-season",
+      "off-season"
+    ],
+    "answer_index": 3,
+    "explanation": "The off-season is best suited for long-duration aerobic training to build a base."
+  },
+
+  {
+    "id": "ch20_q06",
+    "question": "Which physiological adaptation is MOST responsible for improvements in aerobic endurance performance?",
+    "choices": [
+      "increased muscle fiber pennation angle",
+      "increased mitochondrial density",
+      "greater fast-twitch fiber recruitment",
+      "increased anaerobic enzyme activity"
+    ],
+    "answer_index": 1,
+    "explanation": "Increased mitochondrial density enhances aerobic ATP production and is a primary driver of endurance performance."
+  },
+  {
+    "id": "ch20_q07",
+    "question": "Which of the following BEST describes the primary goal of tempo (lactate threshold) training?",
+    "choices": [
+      "maximize fat oxidation at low intensity",
+      "delay the onset of blood lactate accumulation",
+      "increase maximal anaerobic power",
+      "improve phosphagen system recovery"
+    ],
+    "answer_index": 1,
+    "explanation": "Tempo training improves the athlete’s ability to sustain higher intensities before lactate accumulation increases."
+  },
+  {
+    "id": "ch20_q08",
+    "question": "Which of the following changes is MOST likely to occur following aerobic detraining?",
+    "choices": [
+      "increase in capillary density",
+      "increase in stroke volume",
+      "decrease in VO₂max",
+      "increase in lactate threshold"
+    ],
+    "answer_index": 2,
+    "explanation": "VO₂max declines rapidly during detraining due to reductions in plasma volume and mitochondrial adaptations."
+  },
+  {
+    "id": "ch20_q09",
+    "question": "Which of the following methods is MOST appropriate for monitoring aerobic training intensity in large team settings?",
+    "choices": [
+      "blood lactate sampling",
+      "oxygen consumption testing",
+      "heart rate monitoring",
+      "muscle biopsy"
+    ],
+    "answer_index": 2,
+    "explanation": "Heart rate monitoring is practical, cost-effective, and scalable for team-based aerobic training."
+  },
+
+  {
+    "id": "ch20_q10",
+    "type": "wrapper",
+    "question": "For each aerobic training goal below, select the MOST appropriate training method.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "long slow distance",
+      "tempo (lactate threshold)",
+      "interval training",
+      "high-intensity interval training"
+    ],
+    "contexts": [
+      {
+        "prompt": "Building an aerobic base in the off-season",
+        "answer_index": 0
+      },
+      {
+        "prompt": "Improving sustainable race pace",
+        "answer_index": 1
+      },
+      {
+        "prompt": "Increasing VO₂max in trained athletes",
+        "answer_index": 2
+      },
+      {
+        "prompt": "Time-efficient conditioning with metabolic stress",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Aerobic training methods must align with the athlete’s goal, time constraints, and training phase."
+  },
+
+  {
+    "id": "ch20_q11",
+    "question": "Which of the following errors is MOST likely to compromise aerobic endurance adaptations?",
+    "choices": [
+      "performing aerobic training at intensities that are too high too frequently",
+      "training primarily in the off-season",
+      "monitoring heart rate during training",
+      "including recovery days between sessions"
+    ],
+    "answer_index": 0,
+    "explanation": "Excessive high-intensity aerobic training interferes with recovery and limits endurance adaptations."
+  }
+]

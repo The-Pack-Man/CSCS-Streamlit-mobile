@@ -1,0 +1,436 @@
+[
+  {
+    "term": "adolescence",
+    "aliases": ["adolescent period", "teen years (approx.)"],
+    "definitions": [
+      "The developmental period between childhood and adulthood marked by rapid physical and hormonal changes.",
+      "A growth-and-maturation stage characterized by puberty-related endocrine shifts and accelerated physical development.",
+      "The transition phase where biological maturation speeds up and body proportions/strength change quickly.",
+      "A life stage often including peak height velocity and major changes in body composition and neuromuscular control.",
+      "The period when sexual maturation occurs and training responses can change due to hormonal environment.",
+      "A developmental window with rapid growth that can temporarily affect coordination and injury risk.",
+      "The stage between childhood and adulthood where physiological systems mature toward adult capacity.",
+      "A maturation phase where growth rate increases, then slows as adult stature is approached."
+    ]
+  },
+  {
+    "term": "adulthood",
+    "aliases": ["adult stage"],
+    "definitions": [
+      "The stage of life following adolescence characterized by physical maturity.",
+      "A life phase in which growth in height has largely ceased and biological systems are fully mature.",
+      "The post-maturation period where training adaptations occur in a relatively stable physiological state.",
+      "A stage defined by completed development of reproductive and musculoskeletal systems.",
+      "The phase after puberty/PHV where adult body size and proportions are established.",
+      "A period where performance changes are driven more by training, recovery, and aging than growth.",
+      "The mature life stage following adolescence, with stabilized endocrine and skeletal growth patterns.",
+      "A stage of life in which biological age and chronological age often align more closely than in youth."
+    ]
+  },
+  {
+    "term": "amenorrhea",
+    "aliases": ["secondary amenorrhea", "menstrual absence"],
+    "definitions": [
+      "The absence of menstruation, often associated with low energy availability and the female athlete triad.",
+      "A menstrual disturbance in which normal menstrual cycles stop or do not occur.",
+      "Loss of menstrual function frequently linked to insufficient caloric intake relative to training demands.",
+      "A key red-flag sign of disrupted reproductive hormone signaling in active females.",
+      "Menstrual absence that can indicate low energy availability and increased risk to bone health.",
+      "A symptom that may reflect endocrine suppression due to chronic energy deficit and/or stress.",
+      "A menstrual dysfunction often discussed within the female athlete triad/RED-S context.",
+      "Absence of menses that can be associated with decreased estrogen and compromised bone density."
+    ]
+  },
+  {
+    "term": "anterior cruciate ligament (ACL)",
+    "aliases": ["ACL"],
+    "definitions": [
+      "A ligament in the knee that provides rotational stability and resists anterior tibial translation.",
+      "A major knee stabilizer that limits forward movement of the tibia relative to the femur.",
+      "A ligament that helps control knee valgus/rotation stresses during cutting and landing.",
+      "A key passive restraint that contributes to knee joint stability in multi-planar movements.",
+      "A knee ligament commonly injured in pivoting sports, especially with deceleration and change of direction.",
+      "A structure that resists anterior shear forces on the tibia and helps stabilize knee rotation.",
+      "A stabilizing ligament whose injury often occurs with noncontact cutting/landing mechanics.",
+      "A ligament critical for knee stability during rapid deceleration, pivoting, and jumping/landing."
+    ]
+  },
+  {
+    "term": "apophyseal",
+    "aliases": ["apophysis-related"],
+    "definitions": [
+      "Relating to a secondary ossification center where tendons attach to bone.",
+      "Pertaining to an apophysis, a bony outgrowth serving as a tendon/ligament attachment site.",
+      "Describing growth regions where traction forces from tendons can affect developing bone.",
+      "A term often used in youth injury contexts where tendon attachment sites are still developing.",
+      "Relating to areas that ossify separately from the main bone shaft and fuse later.",
+      "Associated with secondary growth centers that can be vulnerable to traction overuse in youth.",
+      "Referring to tendon attachment growth centers (apophyses) rather than joint surfaces.",
+      "Describing structures involving secondary ossification sites where muscles/tendons anchor."
+    ]
+  },
+  {
+    "term": "biological age",
+    "aliases": ["maturational age", "physiological age"],
+    "definitions": [
+      "An assessment of physiological and developmental maturity rather than chronological years.",
+      "A measure of how mature the body is biologically, independent of calendar age.",
+      "A maturity indicator that reflects developmental status (e.g., puberty timing, growth stage).",
+      "An estimate of maturation level that can differ significantly among same-aged peers.",
+      "A way to describe developmental progress toward adult state, not simply years since birth.",
+      "A maturity-based age metric useful when considering training readiness in youth athletes.",
+      "A developmental assessment that reflects physiological maturation rather than birthdate.",
+      "A measure of growth/maturity stage that helps explain performance differences in youth."
+    ]
+  },
+  {
+    "term": "childhood",
+    "aliases": ["pre-adolescence (broad)"],
+    "definitions": [
+      "The developmental stage before adolescence characterized by steady growth.",
+      "A pre-pubertal life stage with relatively stable, gradual increases in height and mass.",
+      "A growth phase where endocrine changes of puberty have not yet accelerated development.",
+      "A period when skill learning and movement literacy are often highly trainable.",
+      "The stage prior to puberty where biological maturation is progressing but not accelerated.",
+      "A developmental window typically marked by steady growth and improving neuromuscular coordination.",
+      "A pre-adolescent phase in which growth is consistent and less variable than during puberty.",
+      "The life stage before adolescent growth spurts and major hormonal changes begin."
+    ]
+  },
+  {
+    "term": "chronological age",
+    "aliases": ["calendar age"],
+    "definitions": [
+      "Age measured in years since birth.",
+      "The number of years (and months) elapsed since a person’s birthdate.",
+      "A time-based age measure that may not reflect biological maturity in youth.",
+      "Calendar age used for grouping athletes but not always predictive of readiness.",
+      "A simple age metric that does not account for differences in maturation timing.",
+      "The official age in years, often used for competition categories and eligibility.",
+      "The count of time since birth, distinct from physiological or biological age.",
+      "An age classification based on birthdate rather than developmental stage."
+    ]
+  },
+  {
+    "term": "cocontraction",
+    "aliases": ["co-contraction"],
+    "definitions": [
+      "Simultaneous activation of agonist and antagonist muscles to enhance joint stability.",
+      "Co-activation of opposing muscle groups to stiffen a joint and improve control.",
+      "A stabilization strategy where both sides of a joint produce force at the same time.",
+      "A neuromuscular pattern that increases joint stiffness, often used during landing or cutting.",
+      "Concurrent activation of prime movers and their opposers to protect and stabilize joints.",
+      "A control mechanism that can reduce joint shear/translation by increasing stiffness.",
+      "A strategy that improves stability but can reduce net torque if excessive.",
+      "Simultaneous muscle activation around a joint to enhance alignment and stability."
+    ]
+  },
+  {
+    "term": "development",
+    "aliases": ["human development"],
+    "definitions": [
+      "The process of growth, maturation, and functional change over time.",
+      "Long-term progression of physical, cognitive, and physiological capacities across lifespan.",
+      "A broad term describing changes in structure and function as an individual ages and matures.",
+      "The combination of growth in size and maturation of systems and skills.",
+      "The ongoing process of change in capabilities from childhood through adulthood and aging.",
+      "A lifespan process including growth, biological maturation, and improved functional capacity.",
+      "Changes in body systems and abilities over time due to maturation and experience.",
+      "The overall trajectory of functional and structural change from youth to older adulthood."
+    ]
+  },
+  {
+    "term": "diaphysis",
+    "aliases": ["shaft of a long bone"],
+    "definitions": [
+      "The shaft or midsection of a long bone.",
+      "The long central portion of a long bone between the ends (epiphyses).",
+      "The tubular bone shaft that provides leverage and structural strength.",
+      "The midsection region of long bones that houses marrow cavity in many bones.",
+      "The main body of a long bone, typically composed largely of cortical bone.",
+      "The central segment of long bones that contributes to bending strength and support.",
+      "The elongated shaft portion of a long bone, not the joint-forming ends.",
+      "The primary structural shaft of a long bone, connecting proximal and distal ends."
+    ]
+  },
+  {
+    "term": "ectomorphic",
+    "aliases": ["ectomorph", "ectomorphic somatotype"],
+    "definitions": [
+      "A somatotype characterized by a lean body structure and low fat mass.",
+      "A body type typically described as slender with relatively low body mass and fat stores.",
+      "A somatotype associated with narrow frame, lower muscle mass, and linear build.",
+      "A classification often linked to endurance-friendly physiques (general trend, not destiny).",
+      "A lean somatotype with less relative mass around limbs and trunk.",
+      "A somatotype characterized by long limbs and a smaller cross-sectional build.",
+      "A body-type descriptor emphasizing leanness and relatively low adiposity.",
+      "A somatotype typically described as “thin/linear,” with low fat and smaller frame."
+    ]
+  },
+  {
+    "term": "endomorphic",
+    "aliases": ["endomorph", "endomorphic somatotype"],
+    "definitions": [
+      "A somatotype characterized by higher fat accumulation and rounder body shape.",
+      "A body type often described as softer, with greater relative adiposity.",
+      "A somatotype with a tendency toward higher body fat and broader circumference measures.",
+      "A classification associated with rounder physique and potentially easier mass gain (general trend).",
+      "A somatotype described by higher fat storage and less linear appearance.",
+      "A body-type descriptor emphasizing higher adiposity and rounder body contours.",
+      "A somatotype often characterized by greater fat mass and thicker trunk/limbs.",
+      "A physique classification typically described as “rounder,” with higher relative fat stores."
+    ]
+  },
+  {
+    "term": "female athlete triad",
+    "aliases": ["triad", "female athlete triad syndrome"],
+    "definitions": [
+      "A condition involving low energy availability, menstrual dysfunction, and low bone mineral density.",
+      "A health pattern in active females combining inadequate energy intake, hormonal disruption, and bone loss risk.",
+      "Interrelated problems: insufficient energy availability, irregular/absent menses, and compromised bone health.",
+      "A syndrome linking under-fueling to reproductive hormone changes and reduced skeletal integrity.",
+      "A triad of low energy, menstrual disturbances, and low BMD that increases injury risk.",
+      "A clinical framework describing under-fueling leading to menstrual and bone density consequences.",
+      "A set of conditions in athletes where energy deficit impacts menstrual function and bone strength.",
+      "A syndrome in which low energy availability can drive amenorrhea and decreased bone mineral density."
+    ]
+  },
+  {
+    "term": "growth",
+    "aliases": ["physical growth"],
+    "definitions": [
+      "An increase in body size or tissue mass.",
+      "A measurable increase in stature, mass, or organ/tissue size over time.",
+      "The process of becoming larger in physical dimensions (height, weight, tissue volume).",
+      "A size-based change distinct from maturation, which is about functional/biological readiness.",
+      "An increase in body dimensions due to tissue accumulation and skeletal elongation.",
+      "A change in body size commonly tracked via height, weight, and limb segment changes.",
+      "A physical size increase that occurs across development, especially in youth.",
+      "An increase in tissue quantity (e.g., bone length, muscle size) over time."
+    ]
+  },
+  {
+    "term": "growth cartilage",
+    "aliases": ["epiphyseal cartilage (broad)", "growth plate cartilage"],
+    "definitions": [
+      "Cartilage responsible for longitudinal bone growth, such as epiphyseal plates.",
+      "Cartilaginous tissue at growth plates enabling long bone lengthening during development.",
+      "The cartilage regions where bones lengthen before ossifying into adult bone.",
+      "Tissue at the ends of long bones that supports height growth until closure.",
+      "The cartilage responsible for bone elongation in youth, later replaced by bone.",
+      "Growth plate cartilage that allows longitudinal growth via endochondral ossification.",
+      "Cartilage structures that permit bone length increases during childhood/adolescence.",
+      "The growth plate-related cartilage that supports bone lengthening before maturation."
+    ]
+  },
+  {
+    "term": "maturation",
+    "aliases": ["biological maturation", "maturational process"],
+    "definitions": [
+      "The process of progressing toward the adult state of biological development.",
+      "Developmental progression of physiological systems toward adult function and structure.",
+      "The biological process by which tissues and systems become fully developed.",
+      "A timeline of becoming ‘adult-like’ in function, not just increasing in size.",
+      "The process of achieving full biological development (e.g., puberty completion).",
+      "Progression toward adult physiological capability and skeletal maturity.",
+      "Biological development stage advancement independent of chronological age.",
+      "The transition toward adult state in growth plates, hormones, and system function."
+    ]
+  },
+  {
+    "term": "menarche",
+    "aliases": ["first menses"],
+    "definitions": [
+      "The onset of the first menstrual cycle.",
+      "The first occurrence of menstruation, marking a milestone in female puberty.",
+      "A pubertal event indicating maturation of the reproductive endocrine system.",
+      "The first menstrual period, often used as a maturation marker in youth female athletes.",
+      "The initial menstrual bleeding event signaling reproductive maturation progress.",
+      "The beginning of menstrual function during puberty in females.",
+      "A developmental milestone marking the start of menstrual cycles.",
+      "The first menstrual period, commonly referenced when discussing maturation timing."
+    ]
+  },
+  {
+    "term": "mesomorphic",
+    "aliases": ["mesomorph", "mesomorphic somatotype"],
+    "definitions": [
+      "A somatotype characterized by muscularity and athletic build.",
+      "A body type often described as naturally more muscular with broader shoulders and stronger frame.",
+      "A somatotype associated with greater relative lean mass and robust physique.",
+      "A physique classification emphasizing muscular development and athletic proportions.",
+      "A body-type descriptor associated with higher muscle mass and strength potential (general trend).",
+      "A somatotype typically described as strong/athletic with greater muscle thickness.",
+      "A classification characterized by muscularity and relatively lower fat compared with endomorphic types.",
+      "A somatotype often linked to power/strength-friendly builds, featuring higher muscle mass."
+    ]
+  },
+  {
+    "term": "older",
+    "aliases": ["older adult", "65+ (common cutoff)"],
+    "definitions": [
+      "A classification typically referring to individuals over 65 years of age.",
+      "A general age grouping often used for adults past typical retirement age (commonly 65+).",
+      "A life stage associated with aging-related changes in muscle, bone, and recovery capacity.",
+      "A broad classification describing later-life adults, often defined by context-specific cutoffs.",
+      "An age category frequently used in research/clinical settings for senior populations.",
+      "A group term for later adulthood where sarcopenia and bone loss risks increase.",
+      "A classification describing individuals in later life stages, often 65 and older.",
+      "An age grouping used in training contexts to reflect age-associated physiological changes."
+    ]
+  },
+  {
+    "term": "osteopenia",
+    "aliases": ["low bone mass (clinical)"],
+    "definitions": [
+      "Lower-than-normal bone mineral density that is not low enough to be classified as osteoporosis.",
+      "A bone density state between normal and osteoporosis, indicating increased fracture risk vs normal.",
+      "Reduced BMD that is mild-to-moderate, often considered a precursor to osteoporosis.",
+      "A diagnosis of low bone mass that signals compromised skeletal strength but not severe osteoporosis.",
+      "A condition of decreased bone density that raises risk but is less severe than osteoporosis.",
+      "Subnormal bone mineral density that indicates bone loss without meeting osteoporosis threshold.",
+      "Lower bone density that warrants attention to loading, nutrition, and hormonal health.",
+      "A stage of decreased BMD that can progress to osteoporosis if risk factors persist."
+    ]
+  },
+  {
+    "term": "osteoporosis",
+    "aliases": ["osteoporotic bone disease"],
+    "definitions": [
+      "A disease characterized by very low bone mineral density and increased fracture risk.",
+      "A skeletal disorder in which bone strength is reduced, increasing likelihood of fractures.",
+      "A condition of significant bone loss and structural deterioration of bone tissue.",
+      "Severely reduced BMD associated with fragility fractures and compromised bone integrity.",
+      "A disease state where bones become porous/brittle, elevating fracture risk.",
+      "A bone disease marked by low mass and weakened microarchitecture.",
+      "A condition in which bone is so weakened that fracture risk rises substantially.",
+      "A severe bone density loss disorder characterized by fragile bones and fracture susceptibility."
+    ]
+  },
+  {
+    "term": "peak height velocity (PHV)",
+    "aliases": ["PHV", "growth spurt peak"],
+    "definitions": [
+      "The period of fastest growth in stature during adolescence.",
+      "The point in adolescence where height increases at the greatest rate.",
+      "A maturational marker representing maximum growth rate in body height.",
+      "The peak of the adolescent growth spurt, often used to time youth training considerations.",
+      "The time window where yearly (or monthly) height gain is highest.",
+      "The maximal rate of increase in stature occurring during puberty-related growth acceleration.",
+      "A key adolescent milestone indicating the apex of linear growth speed.",
+      "The period when the adolescent experiences their fastest upward growth in height."
+    ]
+  },
+  {
+    "term": "preactivation",
+    "aliases": ["pre-activation", "anticipatory activation"],
+    "definitions": [
+      "Muscle activation that occurs prior to ground contact to increase joint stability.",
+      "Anticipatory muscle activity before landing/contact to stiffen joints and improve control.",
+      "Neuromuscular activation before impact that helps prepare tissues for force absorption.",
+      "A preparatory contraction pattern that can reduce injury risk during landings and cutting.",
+      "Muscle ‘turn-on’ before contact that enhances stability and force handling capacity.",
+      "Feedforward activation that increases joint stiffness before external load/impact occurs.",
+      "Pre-contact activation that helps stabilize joints and manage landing forces.",
+      "Anticipatory activation before landing that improves alignment, stiffness, and protection."
+    ]
+  },
+  {
+    "term": "puberty",
+    "aliases": ["pubertal period"],
+    "definitions": [
+      "The developmental period marked by sexual maturation and rapid growth.",
+      "A maturation stage characterized by endocrine changes that drive reproductive and physical development.",
+      "The biological process leading to sexual maturity, often accompanied by growth spurts.",
+      "A developmental window featuring hormonal changes that affect body composition and performance.",
+      "The period where reproductive capability develops and secondary sex characteristics emerge.",
+      "A maturation phase involving increased sex hormones and accelerated growth in stature and mass.",
+      "The stage of maturation that initiates rapid physical development and sexual maturation.",
+      "A developmental period where hormonal changes drive adult reproductive maturation and growth."
+    ]
+  },
+  {
+    "term": "resistance exercise",
+    "aliases": ["resistance training (broad)", "strength training (contextual)"],
+    "definitions": [
+      "Exercise that causes muscles to contract against an external resistance.",
+      "Training that applies load (external or bodyweight) to stimulate strength and tissue adaptation.",
+      "A form of exercise using resistance to challenge muscles and produce mechanical tension.",
+      "Exercise involving external load or opposing force to improve strength, hypertrophy, or endurance.",
+      "Loading-based exercise that creates muscular force against resistance (weights, bands, machines, body mass).",
+      "Exercise that overloads muscle via resistance to promote neuromuscular and structural adaptations.",
+      "A training mode where muscles work against resistance to improve force production capacity.",
+      "Work performed against external force to strengthen muscle and connective tissues."
+    ]
+  },
+  {
+    "term": "sarcopenia",
+    "aliases": ["age-related muscle loss"],
+    "definitions": [
+      "Age-related loss of skeletal muscle mass and strength.",
+      "A progressive decline in muscle size and function associated with aging.",
+      "The aging-linked reduction in muscle tissue and force-producing capacity.",
+      "Loss of muscle mass/strength with age that contributes to frailty and reduced performance.",
+      "An age-associated syndrome involving decreased lean mass, strength, and physical function.",
+      "A decline in skeletal muscle quantity and quality seen in older populations.",
+      "Age-related muscle wasting that impacts strength, power, and mobility.",
+      "The progressive loss of muscle mass and function that occurs with advancing age."
+    ]
+  },
+  {
+    "term": "senior",
+    "aliases": ["older adult", "65+ (common cutoff)"],
+    "definitions": [
+      "An older adult, often classified as age 65 or older.",
+      "A life-stage classification typically used for individuals in older adulthood.",
+      "A common demographic label for later-life adults (often 65+ depending on context).",
+      "An age group where aging-related changes in recovery, bone, and muscle are more prominent.",
+      "A classification used in health/fitness contexts to describe older adult populations.",
+      "A term often synonymous with older adult in training and clinical settings.",
+      "A later-life demographic category frequently defined around retirement age.",
+      "An age classification for older individuals, commonly beginning around 65 years."
+    ]
+  },
+  {
+    "term": "training age",
+    "aliases": ["lifting age (informal)", "experience age (training)"],
+    "definitions": [
+      "The length of time an individual has participated in structured training.",
+      "A measure of training experience reflecting years/months of consistent program exposure.",
+      "How long a person has been training in a systematic way (not just chronological age).",
+      "A useful indicator of readiness for advanced programming and loading complexity.",
+      "A practical metric describing exposure history to resistance training or sport training.",
+      "Training experience duration that helps predict adaptation rate and technical proficiency.",
+      "An experience-based age describing how long structured training has been performed.",
+      "The amount of time spent in organized, progressive training that shapes adaptation potential."
+    ]
+  },
+  {
+    "term": "youth",
+    "aliases": ["youth population", "children and adolescents"],
+    "definitions": [
+      "A general term referring to children and adolescents.",
+      "A broad classification for individuals not yet in adulthood (childhood through adolescence).",
+      "A demographic group typically spanning prepubertal and pubertal developmental stages.",
+      "A life-stage grouping where growth and maturation processes are still occurring.",
+      "A general label for young individuals whose biological maturity may vary widely.",
+      "A category encompassing children and teens with ongoing growth and development.",
+      "A broad term covering developmental stages prior to full adult maturity.",
+      "A group term for non-adult populations including kids and adolescents."
+    ]
+  },
+  {
+    "term": "young athlete",
+    "aliases": ["youth athlete"],
+    "definitions": [
+      "A child or adolescent participating in organized sport or training.",
+      "A developing athlete whose growth and maturation status influences training response and risk.",
+      "A youth participant in sport where training should account for biological age and PHV timing.",
+      "A pre-adult athlete with ongoing growth, making movement skill and safe loading priorities.",
+      "An athlete in childhood/adolescence whose readiness varies by maturation, not just age.",
+      "A sport participant who is still developing physically and neurologically.",
+      "A youth sport trainee whose program should reflect growth plate considerations and maturation.",
+      "A child or teen athlete whose training must balance skill, strength, and long-term development."
+    ]
+  }
+]

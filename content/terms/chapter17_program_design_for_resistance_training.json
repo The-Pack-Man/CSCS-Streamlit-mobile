@@ -1,0 +1,632 @@
+[
+  {
+    "term": "1-repetition maximum (1RM)",
+    "aliases": ["one-rep max", "1RM"],
+    "definitions": [
+      "The maximum load an athlete can lift once with proper technique.",
+      "The heaviest weight that can be successfully completed for one full repetition.",
+      "A maximal strength benchmark representing a single successful rep at the highest load.",
+      "A test value used to prescribe training intensity as a percentage of maximum.",
+      "The greatest resistance that can be moved one time through the full ROM with correct form.",
+      "A reference maximum used for programming loads (e.g., 85% 1RM).",
+      "A single-rep ceiling for an exercise under standardized technique criteria.",
+      "The top load that can be lifted once without technical breakdown or assistance."
+    ]
+  },
+  {
+    "term": "2-for-2 rule",
+    "aliases": ["two-for-two progression rule"],
+    "definitions": [
+      "If an athlete exceeds the rep goal by 2+ reps on the last set for two consecutive sessions, increase the load.",
+      "A progression guideline using repeated over-performance to justify adding weight.",
+      "A rule to increase training load when target reps are surpassed consistently across two workouts.",
+      "A practical overload trigger: beat the rep target by at least two reps, twice in a row, on the final set.",
+      "A method for load progression based on performance above the planned repetition goal.",
+      "A decision rule to raise intensity when the athlete repeatedly demonstrates reserve capacity.",
+      "A progression criterion tying weight increases to repeated rep surplus on the last set.",
+      "A simple autoregulation-style rule that advances load after two straight rep-goal “wins.”"
+    ]
+  },
+  {
+    "term": "agonist",
+    "aliases": ["prime mover"],
+    "definitions": [
+      "The muscle primarily responsible for producing a specific movement.",
+      "The main muscle generating force for an action at a joint.",
+      "The primary contributor to movement in a given exercise phase.",
+      "The muscle that shortens or generates the intended torque for the motion.",
+      "The dominant force-producing muscle in a movement pattern.",
+      "The principal muscle targeted when performing a specific joint action.",
+      "The main muscle acting to create the desired motion.",
+      "The prime mover that produces the majority of force for the action."
+    ]
+  },
+  {
+    "term": "antagonist",
+    "aliases": ["opposing muscle"],
+    "definitions": [
+      "The muscle that opposes the action of the agonist.",
+      "A muscle that produces torque opposite the prime mover at a joint.",
+      "The opposing muscle group that can slow, control, or reverse movement.",
+      "A muscle that lengthens while the agonist shortens during a movement.",
+      "The muscle that counteracts the agonist’s action to stabilize or control motion.",
+      "A muscle that can act as a brake during deceleration or eccentric control.",
+      "The opposing muscle contributing to joint stability via co-contraction.",
+      "The muscle group performing the opposite joint action to the prime mover."
+    ]
+  },
+  {
+    "term": "assistance exercise",
+    "aliases": ["accessory exercise", "supplemental lift"],
+    "definitions": [
+      "An exercise used to support a primary lift by strengthening key muscles or positions.",
+      "Accessory work chosen to improve performance in core/competition movements.",
+      "A secondary movement used to address weak links, technique limits, or hypertrophy needs.",
+      "An exercise that targets specific muscles to carry over to main lifts.",
+      "Supplemental training used after core lifts to build supportive strength.",
+      "A non-primary exercise selected to improve a primary exercise’s outcome.",
+      "A movement that helps correct imbalances or reinforce parts of a main lift.",
+      "Supporting exercises used to build capacity around the key performance lifts."
+    ]
+  },
+  {
+    "term": "circuit training",
+    "aliases": ["circuit"],
+    "definitions": [
+      "A series of exercises performed in sequence with minimal rest between stations.",
+      "Training organized as stations where multiple movements are completed back-to-back.",
+      "A method that alternates exercises rapidly to maintain an elevated heart rate.",
+      "Sequential exercise bouts with short rest that can emphasize muscular endurance and conditioning.",
+      "A workout structure where athletes rotate through multiple exercises in a set order.",
+      "A method that combines resistance exercises (and sometimes cardio) with limited rest.",
+      "A training format using short transitions to sustain workload density.",
+      "A sequence-based approach that increases total work per unit time."
+    ]
+  },
+  {
+    "term": "compound set",
+    "aliases": ["same-muscle superset (non-opposing)", "compound pairing"],
+    "definitions": [
+      "Two exercises for the same muscle group performed consecutively with little rest.",
+      "Back-to-back movements targeting the same primary muscles.",
+      "A pairing method that increases local fatigue by repeating stress on one muscle group.",
+      "A set structure where two similar-target exercises are done without meaningful rest.",
+      "A technique to add volume and metabolic stress to a targeted muscle group.",
+      "Consecutive exercises emphasizing the same region (e.g., chest press then fly).",
+      "A paired set approach used to intensify focus on one muscle group.",
+      "Two sequential exercises for the same muscles with minimal transition time."
+    ]
+  },
+  {
+    "term": "core exercise",
+    "aliases": ["primary exercise", "main lift (context-dependent)"],
+    "definitions": [
+      "An exercise that recruits large muscle areas and involves two or more primary joints.",
+      "A foundational multijoint lift used as the main driver of training stimulus.",
+      "A primary movement that provides the greatest transfer to sport or key performance goals.",
+      "A large-muscle, multi-joint exercise typically performed early in the session.",
+      "A main lift emphasizing high force output and significant systemic demand.",
+      "A primary exercise around which assistance work is organized.",
+      "A multijoint movement that forms the backbone of a training session.",
+      "A key lift chosen for maximal training effect and broad muscular involvement."
+    ]
+  },
+  {
+    "term": "exercise history",
+    "aliases": ["training history (exercise-specific)"],
+    "definitions": [
+      "An athlete’s prior experience with resistance training and specific exercises.",
+      "The record of what movements an athlete has practiced and adapted to over time.",
+      "Past exposure to training methods that influences current tolerance and response.",
+      "An overview of an athlete’s previous lifting experience and exercise familiarity.",
+      "A programming consideration describing the athlete’s accumulated exercise experience.",
+      "Prior experience that affects technique, load selection, and progression speed.",
+      "Background information on what the athlete has done before in training.",
+      "The athlete’s historical exposure to resistance exercise and movement patterns."
+    ]
+  },
+  {
+    "term": "exercise order",
+    "aliases": ["order of exercises"],
+    "definitions": [
+      "The sequence in which exercises are performed within a workout.",
+      "The planned arrangement of lifts from first to last in a session.",
+      "A programming variable that influences fatigue and performance on later exercises.",
+      "Typically: power → core multijoint → assistance → isolation (common sequencing logic).",
+      "The workout structure defining which movements occur earlier vs later.",
+      "A factor affecting intensity quality, technique, and total training output.",
+      "The prioritized sequence of exercises based on goals and fatigue management.",
+      "How exercises are arranged to maximize performance on the most important lifts."
+    ]
+  },
+  {
+    "term": "exercise selection",
+    "aliases": ["movement selection"],
+    "definitions": [
+      "Choosing exercises that match goals, sport demands, and athlete needs.",
+      "The process of picking lifts based on desired adaptations and movement patterns.",
+      "Selecting movements to address strengths, weaknesses, injury history, and equipment constraints.",
+      "Choosing the specific exercises that will comprise a training program.",
+      "A decision process aligning exercises with specificity, safety, and progression potential.",
+      "The selection of movements that best produce the targeted training stimulus.",
+      "Picking exercises that fit the athlete’s skill, mobility, and tolerance.",
+      "Choosing the best exercises to achieve performance outcomes efficiently."
+    ]
+  },
+  {
+    "term": "exercise technique experience",
+    "aliases": ["technical proficiency", "movement skill (lifting)"],
+    "definitions": [
+      "An athlete’s proficiency in performing exercises with correct form.",
+      "The skill level an athlete has with a lift’s mechanics and execution.",
+      "Technical competency that affects load selection, safety, and training effect.",
+      "How well an athlete can maintain technique across fatigue and heavier loads.",
+      "A factor that determines whether complex lifts are appropriate in a program.",
+      "The athlete’s ability to perform an exercise consistently and correctly.",
+      "Movement skill that influences efficiency, performance, and injury risk.",
+      "The level of technical mastery an athlete has for a given exercise."
+    ]
+  },
+  {
+    "term": "goal repetitions",
+    "aliases": ["target reps"],
+    "definitions": [
+      "The planned number of repetitions to be completed in a set.",
+      "The rep target prescribed for the athlete for a given set.",
+      "A programming variable used to set intensity and training effect (strength vs hypertrophy).",
+      "The intended rep count for the set before accounting for fatigue or autoregulation.",
+      "The repetition objective used to evaluate performance and progression decisions.",
+      "A planned rep number that guides load selection and pacing.",
+      "The prescribed reps that define the set’s goal output.",
+      "The target rep count used to structure training volume and intensity."
+    ]
+  },
+  {
+    "term": "injury analysis",
+    "aliases": ["injury risk analysis", "injury history review"],
+    "definitions": [
+      "Evaluation of injury history and risk factors to guide program design decisions.",
+      "A review of prior injuries, current symptoms, and movement limitations for safe training.",
+      "Identifying injury patterns and contraindications when selecting exercises and loads.",
+      "A screening process to reduce risk and select appropriate progressions.",
+      "Assessment of tissues/joints that require modification in volume, intensity, or exercise choice.",
+      "Considering injury susceptibility when planning training stress and technique demands.",
+      "Analyzing injury background to tailor exercise selection and loading strategies.",
+      "A program-design step focusing on safety and individualized constraints."
+    ]
+  },
+  {
+    "term": "intensity",
+    "aliases": ["relative load", "training intensity"],
+    "definitions": [
+      "Load expressed relative to maximum capacity (often %1RM).",
+      "How heavy the resistance is compared with an athlete’s maximal ability.",
+      "A key training variable commonly quantified as percent of 1RM.",
+      "The magnitude of resistance that drives neural and strength adaptations.",
+      "Relative loading that influences repetitions possible and training effect.",
+      "How challenging the load is compared to the athlete’s max on that exercise.",
+      "The relative heaviness of the set rather than how hard it “feels.”",
+      "A prescription variable indicating load severity (e.g., 70% vs 90% 1RM)."
+    ]
+  },
+  {
+    "term": "interset rest",
+    "aliases": ["rest between sets", "between-set rest"],
+    "definitions": [
+      "The recovery period between sets of the same exercise.",
+      "Time allowed after a set before the next set begins.",
+      "A variable influencing energy system recovery and performance quality.",
+      "A programming factor that affects strength (longer rest) vs metabolic stress (shorter rest).",
+      "The between-set pause used to restore ATP-PCr and reduce fatigue.",
+      "Rest duration separating repeated sets to manage fatigue and maintain technique.",
+      "Planned recovery time between sets in a workout.",
+      "Set-to-set recovery interval."
+    ]
+  },
+  {
+    "term": "load",
+    "aliases": ["external resistance", "weight used"],
+    "definitions": [
+      "The amount of external resistance used in an exercise.",
+      "The weight or resistance applied to the athlete during a movement.",
+      "A primary driver of mechanical tension and strength adaptation.",
+      "The external force demand imposed by the implement (barbell, dumbbell, machine).",
+      "The prescribed resistance for a given set or rep range.",
+      "The amount of weight selected based on intensity and goals.",
+      "Resistance magnitude applied to the body during training.",
+      "The external training stress in kilograms/pounds or equivalent resistance units."
+    ]
+  },
+  {
+    "term": "mechanical work",
+    "aliases": ["work (physics)"],
+    "definitions": [
+      "Force applied multiplied by displacement in the direction of the force.",
+      "The product of force and distance moved (W = F × d).",
+      "Energy transferred when a force causes an object to move.",
+      "A physics-based quantity describing how much force moved an object through a distance.",
+      "Work done increases when either force or displacement increases.",
+      "A measure of energy expenditure related to moving a load through a range of motion.",
+      "In lifting: the work associated with moving the bar through its path under load.",
+      "A mechanical quantity distinct from power (rate of doing work)."
+    ]
+  },
+  {
+    "term": "movement analysis",
+    "aliases": ["movement demands analysis", "biomechanical analysis (sport)"],
+    "definitions": [
+      "Evaluation of sport-specific movement patterns and biomechanics.",
+      "Analyzing how athletes move in sport to identify key joints, velocities, and patterns.",
+      "A needs-analysis step that identifies critical movement actions and technical demands.",
+      "Reviewing game movements (e.g., sprinting, cutting, jumping) to guide exercise choice.",
+      "Assessing directional demands, ROM, and typical force/velocity characteristics of sport.",
+      "Analyzing the mechanics of sport tasks to match training specificity.",
+      "Studying movement patterns to identify performance limiters and injury risks.",
+      "Biomechanical evaluation of sport actions to inform program design."
+    ]
+  },
+  {
+    "term": "multijoint exercise",
+    "aliases": ["multi-joint exercise", "compound exercise (general)"],
+    "definitions": [
+      "An exercise involving movement at two or more joints.",
+      "A lift that recruits multiple muscle groups across multiple joints.",
+      "Compound movements such as squats, deadlifts, presses, rows, cleans.",
+      "Exercises that generally produce higher systemic stress and training effect per set.",
+      "Movements requiring coordination and stabilization across segments.",
+      "Lifts where more than one primary joint action occurs simultaneously.",
+      "A category of exercises typically prioritized for strength and power development.",
+      "A multi-articular movement pattern used to train integrated force production."
+    ]
+  },
+  {
+    "term": "muscle balance",
+    "aliases": ["strength balance", "agonist-antagonist balance"],
+    "definitions": [
+      "Appropriate strength relationships between opposing muscle groups.",
+      "A state where agonists and antagonists have balanced strength and control.",
+      "Proportional development across opposing movements (e.g., hamstrings/quads, push/pull).",
+      "Strength symmetry that supports joint stability and efficient movement.",
+      "Balanced muscular development that reduces injury risk from imbalances.",
+      "Appropriate ratios between muscle groups that act on the same joint.",
+      "Adequate opposing muscle capacity to decelerate and stabilize actions.",
+      "A program goal to prevent dominance of one muscle group over its counterpart."
+    ]
+  },
+  {
+    "term": "needs analysis",
+    "aliases": ["sport needs analysis", "athlete needs analysis"],
+    "definitions": [
+      "Evaluating sport demands, athlete characteristics, and injury risks to guide program design.",
+      "A structured process to determine what qualities training should prioritize.",
+      "Analysis of sport tasks and athlete profile to select training methods and targets.",
+      "A planning step that integrates movement, physiological, and injury considerations.",
+      "The foundation of program design: what the sport requires and what the athlete needs.",
+      "A systematic review used to prioritize training goals and exercise selection.",
+      "Assessment of sport-specific requirements plus individual constraints and strengths/weaknesses.",
+      "A decision framework to align training with performance demands."
+    ]
+  },
+  {
+    "term": "overload",
+    "aliases": ["progressive overload (principle)", "training overload"],
+    "definitions": [
+      "Applying greater stress than previously encountered to stimulate adaptation.",
+      "A principle stating the body adapts only when challenged beyond its current level.",
+      "Increasing training demand to force physiological and performance changes.",
+      "A requirement for improvement: stress must exceed habitual levels.",
+      "Overload can be achieved by raising load, volume, density, complexity, or velocity demands.",
+      "A foundational training concept necessary for strength, hypertrophy, and conditioning gains.",
+      "Progressively increasing stimulus so the body must adapt.",
+      "The systematic application of a higher training stress to drive adaptation."
+    ]
+  },
+  {
+    "term": "physiological analysis",
+    "aliases": ["metabolic analysis", "energy system analysis"],
+    "definitions": [
+      "Assessment of the metabolic and energy system demands of a sport.",
+      "Evaluating whether sport demands are primarily anaerobic power, capacity, aerobic endurance, etc.",
+      "A needs-analysis component focusing on intensity, duration, and recovery patterns.",
+      "Analyzing predominant energy pathways and fatigue patterns in sport performance.",
+      "Determining key conditioning qualities (e.g., repeated sprint ability, VO2 demands).",
+      "Studying work-to-rest ratios and intensity distribution to guide conditioning design.",
+      "A review of sport physiology requirements to inform training emphasis.",
+      "Assessment of energy system contribution and conditioning priorities."
+    ]
+  },
+  {
+    "term": "power exercise",
+    "aliases": ["power movement", "explosive exercise"],
+    "definitions": [
+      "An exercise emphasizing high force production at high movement velocity.",
+      "A movement performed explosively to maximize rate of force development and speed.",
+      "Exercises like Olympic lift derivatives, jumps, throws, and explosive presses.",
+      "A training category designed to increase power output (force × velocity).",
+      "Movements requiring rapid acceleration of a load or body mass.",
+      "Exercises performed with intent to move fast rather than grind heavy reps.",
+      "Training that prioritizes speed-strength and explosiveness.",
+      "Explosive movements aimed at maximizing mechanical power."
+    ]
+  },
+  {
+    "term": "profile",
+    "aliases": ["athlete profile", "performance profile"],
+    "definitions": [
+      "A summary of an athlete’s performance characteristics and capacities.",
+      "A compiled overview of strengths, weaknesses, and key metrics from testing and observation.",
+      "A snapshot of an athlete’s current abilities across multiple domains.",
+      "A set of data describing the athlete’s physical qualities and readiness.",
+      "A summary used to guide goal setting and program priorities.",
+      "An athlete’s measured and observed capabilities used for planning training.",
+      "A performance summary that helps target limiting factors.",
+      "A descriptive record of the athlete’s current status and attributes."
+    ]
+  },
+  {
+    "term": "program design",
+    "aliases": ["training program design", "programming"],
+    "definitions": [
+      "Systematic planning of training variables to meet performance goals.",
+      "Organizing exercises, volume, intensity, frequency, and progression into a coherent plan.",
+      "The process of building a periodized training plan aligned with sport demands and athlete needs.",
+      "Planning training structure to produce specific adaptations while managing fatigue and risk.",
+      "Selecting and sequencing training phases and sessions to achieve targeted outcomes.",
+      "Designing workouts and cycles based on needs analysis and progression principles.",
+      "A decision process integrating exercise selection, order, rest, and progression strategies.",
+      "The structured creation of a training plan that drives adaptation safely and effectively."
+    ]
+  },
+  {
+    "term": "progression",
+    "aliases": ["training progression", "progressive overload (application)"],
+    "definitions": [
+      "A systematic increase in training stress over time.",
+      "Planned advancement of training variables to continue adaptation.",
+      "Gradually increasing load, volume, density, or complexity as capacity improves.",
+      "A methodical approach to making training more challenging across sessions or blocks.",
+      "A programming strategy that prevents stagnation by raising stimulus appropriately.",
+      "The stepwise escalation of training demands to drive improvement.",
+      "Advancing the training plan as the athlete adapts.",
+      "An organized increase in difficulty across time."
+    ]
+  },
+  {
+    "term": "recovery exercise",
+    "aliases": ["active recovery", "restorative exercise"],
+    "definitions": [
+      "Low-intensity activity used to facilitate recovery between training sessions.",
+      "Light movement aimed at promoting blood flow and reducing stiffness.",
+      "Exercise performed below taxing intensity to support restoration rather than adaptation stress.",
+      "Active recovery designed to aid readiness without adding meaningful fatigue.",
+      "Low-demand movement such as easy cycling, walking, mobility, or light tempo work.",
+      "A recovery-focused session used to improve restoration and reduce residual soreness.",
+      "Light exercise intended to accelerate recovery processes.",
+      "Submaximal activity used to maintain movement and promote recovery."
+    ]
+  },
+  {
+    "term": "repetition",
+    "aliases": ["rep"],
+    "definitions": [
+      "One complete movement of an exercise.",
+      "A single cycle of the lifting motion from start to finish.",
+      "One full execution of the movement pattern through the prescribed ROM.",
+      "A single completed performance of the exercise.",
+      "One full concentric-eccentric (or defined) movement cycle of a lift.",
+      "The basic counting unit within a set.",
+      "A single complete lift performed with correct technique.",
+      "One completed movement repetition."
+    ]
+  },
+  {
+    "term": "repetition maximum (RM)",
+    "aliases": ["RM"],
+    "definitions": [
+      "The maximum load that can be lifted for a given number of repetitions.",
+      "The heaviest weight that can be completed for a specified rep count (e.g., 5RM).",
+      "A strength measure defined by failure at the target rep under proper form.",
+      "A load prescription reference point used for intensity planning without testing 1RM.",
+      "The maximal load sustainable for exactly N repetitions.",
+      "A capacity metric: maximum weight for a set rep target.",
+      "A repetition-specific maximal strength benchmark.",
+      "The greatest load possible for a given reps-to-fatigue value."
+    ]
+  },
+  {
+    "term": "repetition-volume",
+    "aliases": ["rep volume", "total reps"],
+    "definitions": [
+      "The total number of repetitions performed in a workout or session.",
+      "Sum of all reps completed across sets (and potentially exercises) in a session.",
+      "A volume metric describing repetition count independent of load.",
+      "Total reps accumulated for an exercise or muscle group in a workout.",
+      "A training quantity that influences fatigue and hypertrophy when accumulated sufficiently.",
+      "The aggregate rep count used to quantify workload density and volume.",
+      "A measure of how many reps were completed overall.",
+      "Total repetition count across the workout."
+    ]
+  },
+  {
+    "term": "rest period",
+    "aliases": ["rest interval"],
+    "definitions": [
+      "Time allowed for recovery between sets or exercises.",
+      "The planned pause separating work bouts in resistance training.",
+      "A programming variable influencing performance, fatigue, and energy system recovery.",
+      "Longer rest supports strength and power quality; shorter rest increases metabolic stress.",
+      "Recovery time between efforts used to manage training density and intensity.",
+      "The interval between sets/exercises that affects total training output.",
+      "A planned recovery window used to restore readiness for the next effort.",
+      "The time between work bouts in a training session."
+    ]
+  },
+  {
+    "term": "SAID",
+    "aliases": ["Specific Adaptations to Imposed Demands", "SAID principle"],
+    "definitions": [
+      "Specific Adaptations to Imposed Demands: adaptations match the type of training stress applied.",
+      "A principle stating the body adapts specifically to the demands placed upon it.",
+      "Training effects are specific to the mode, intensity, volume, and movement pattern used.",
+      "A reminder that you get better at what you repeatedly practice and stress.",
+      "Adaptations reflect the exact stimulus: muscles, joints, velocities, and energy systems involved.",
+      "A rule explaining why specificity drives transfer to sport performance.",
+      "The body’s response is tailored to the imposed training demands.",
+      "Adaptations are not general; they are stimulus-specific."
+    ]
+  },
+  {
+    "term": "set",
+    "aliases": [],
+    "definitions": [
+      "A group of repetitions performed consecutively.",
+      "A block of reps completed without extended rest.",
+      "A discrete work bout within an exercise prescription.",
+      "A prescribed cluster of repetitions separated from others by rest.",
+      "A unit of training volume (e.g., 3 sets of 5 reps).",
+      "A series of consecutive reps performed as one effort.",
+      "A repeated work segment for an exercise.",
+      "A defined group of reps before resting."
+    ]
+  },
+  {
+    "term": "single-joint exercise",
+    "aliases": ["isolation exercise", "single-joint movement"],
+    "definitions": [
+      "An exercise involving movement at only one joint.",
+      "A movement designed to target a specific muscle group with minimal joint involvement.",
+      "Isolation work such as leg extension (knee), biceps curl (elbow), calf raise (ankle).",
+      "Exercises with one primary joint action dominating the movement.",
+      "Movements that often allow focused hypertrophy or rehab with lower coordination demands.",
+      "A category of exercises that reduces systemic fatigue compared to multi-joint lifts.",
+      "Exercises where one joint primarily moves through ROM.",
+      "Single-articular training movements."
+    ]
+  },
+  {
+    "term": "specificity",
+    "aliases": ["training specificity principle"],
+    "definitions": [
+      "Training adaptations are specific to the type of exercise performed.",
+      "A principle stating improvements are greatest in the movements and demands that are trained.",
+      "Adaptation depends on similarity between training stimulus and performance task.",
+      "The closer training matches sport demands, the greater the transfer.",
+      "A rule guiding exercise selection, velocity, ROM, and energy system emphasis.",
+      "Specificity explains why skill, movement pattern, and intensity matter for performance gains.",
+      "Adaptations occur in the specific muscles, patterns, and energy systems stressed.",
+      "A programming principle aligning training with desired outcomes."
+    ]
+  },
+  {
+    "term": "split routine",
+    "aliases": ["split program", "training split"],
+    "definitions": [
+      "A schedule dividing muscle groups or movement patterns across different training days.",
+      "A weekly plan that distributes training volume across sessions (e.g., upper/lower).",
+      "A structure that allows higher volume per muscle group by separating sessions.",
+      "A routine organizing workouts by body regions, lifts, or movement patterns.",
+      "A programming approach that manages fatigue by spreading work across the week.",
+      "A training schedule format (push/pull/legs, upper/lower, etc.).",
+      "A method of dividing training focus into separate days.",
+      "A weekly organization strategy for resistance training sessions."
+    ]
+  },
+  {
+    "term": "structural exercise",
+    "aliases": ["structural lift"],
+    "definitions": [
+      "A multijoint exercise that loads the spine and requires postural stabilization.",
+      "A lift that challenges trunk stiffness and whole-body support under axial load.",
+      "Exercises like squats, deadlifts, overhead presses, cleans (context dependent).",
+      "Movements requiring significant torso and hip stabilization while producing force.",
+      "A category typically performed early due to high systemic demand and technique requirement.",
+      "Large, spine-loading compound lifts that demand strong posture control.",
+      "Exercises placing meaningful compressive/shear demands on the axial skeleton.",
+      "Multijoint lifts that require stabilizing the spine under load."
+    ]
+  },
+  {
+    "term": "superset",
+    "aliases": ["paired set (opposing)", "antagonist paired set (common)"],
+    "definitions": [
+      "Two exercises performed consecutively with minimal rest.",
+      "A paired set format commonly using opposing muscle groups (e.g., push then pull).",
+      "A method to increase training density by reducing rest between different movements.",
+      "Back-to-back exercises with little transition time to save time and increase workload.",
+      "A pairing technique that can maintain performance by alternating muscle groups.",
+      "Two exercises done in sequence before taking a longer rest.",
+      "A session structure for efficiency and increased work per unit time.",
+      "Consecutive exercises with minimal rest, often arranged as antagonist pairs."
+    ]
+  },
+  {
+    "term": "training background",
+    "aliases": ["training history (overall)", "athletic background"],
+    "definitions": [
+      "An athlete’s cumulative experience with physical training.",
+      "The total training exposure that shapes adaptation, tolerance, and skill.",
+      "A history of what the athlete has done across strength, conditioning, and sport work.",
+      "A factor that influences progression rate, injury risk, and program complexity.",
+      "Overall training experience level used to classify novice, intermediate, advanced status.",
+      "The athlete’s accumulated practice and conditioning history.",
+      "Past training volume, intensity, and modalities that affect current readiness.",
+      "A summary of long-term training experience and adaptation."
+    ]
+  },
+  {
+    "term": "training frequency",
+    "aliases": ["frequency"],
+    "definitions": [
+      "The number of training sessions performed per week.",
+      "How often an athlete trains in a given time period.",
+      "A program variable describing session count per week for a lift, muscle group, or total plan.",
+      "How many exposures to training stimuli occur each week.",
+      "A driver of skill practice opportunities and volume distribution.",
+      "Weekly session rate that influences recovery needs and workload planning.",
+      "The schedule-based repetition of training sessions over the week.",
+      "Number of training exposures per week."
+    ]
+  },
+  {
+    "term": "training status",
+    "aliases": ["training level", "current fitness status"],
+    "definitions": [
+      "An athlete’s current level of fitness and adaptation.",
+      "The present conditioning and strength level resulting from recent training.",
+      "A snapshot of preparedness influenced by training history and current phase.",
+      "Current adaptation level that affects how much stimulus is needed for progress.",
+      "A classification of current fitness and readiness (not just experience).",
+      "The athlete’s current capability and tolerance for training stress.",
+      "Current performance capacity based on recent training consistency and recovery.",
+      "An athlete’s present level of conditioning and training adaptation."
+    ]
+  },
+  {
+    "term": "volume",
+    "aliases": ["training volume"],
+    "definitions": [
+      "The total amount of work performed, often expressed as sets × reps.",
+      "A workload quantity describing how much training is completed.",
+      "Total training amount accumulated for a muscle group or exercise.",
+      "A programming variable commonly measured as total sets and reps (and sometimes load).",
+      "The quantity of training that contributes strongly to hypertrophy and fatigue.",
+      "How much work is performed over a session, week, or block.",
+      "A measure of training amount independent of intensity details (sometimes).",
+      "Total work quantity commonly approximated via sets and repetitions."
+    ]
+  },
+  {
+    "term": "volume-load",
+    "aliases": ["total load", "tonnage (common term)"],
+    "definitions": [
+      "Total training load calculated as sets × repetitions × load.",
+      "A workload metric combining volume and intensity into one value.",
+      "The sum of weight lifted across all reps and sets (often called tonnage).",
+      "A quantification of total external load moved during a workout or period.",
+      "A planning metric used to compare workload across sessions or blocks.",
+      "Total lifted load computed by multiplying reps and sets by the weight used.",
+      "A way to express total work with resistance across a training bout.",
+      "Sets × reps × weight used across the session (or exercise)."
+    ]
+  }
+]

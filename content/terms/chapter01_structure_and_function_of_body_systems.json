@@ -1,0 +1,1022 @@
+[
+  {
+    "term": "A-band",
+    "aliases": [],
+    "definitions": [
+      "Dark sarcomere band that contains the thick (myosin) filaments.",
+      "Region where myosin is present, including actin–myosin overlap.",
+      "Band whose length stays essentially constant during contraction.",
+      "Sarcomere zone associated with force production via crossbridges."
+    ]
+  },
+  {
+    "term": "acetylcholine",
+    "aliases": ["ACh"],
+    "definitions": [
+      "Neurotransmitter released by motor neurons at the neuromuscular junction.",
+      "Chemical that binds receptors on the motor end plate to initiate excitation.",
+      "Signal molecule that triggers depolarization of the muscle fiber membrane.",
+      "Messenger that converts a nerve impulse into a muscle action potential."
+    ]
+  },
+  {
+    "term": "actin",
+    "aliases": [],
+    "definitions": [
+      "Primary protein of thin filaments in skeletal muscle.",
+      "Thin filament protein that interacts with myosin to generate force.",
+      "Filament anchored near the Z-line that slides during contraction.",
+      "Contractile protein whose binding sites are regulated by troponin/tropomyosin."
+    ]
+  },
+  {
+    "term": "action potential",
+    "aliases": [],
+    "definitions": [
+      "Rapid, self-propagating change in membrane voltage in excitable tissue.",
+      "Electrical signal formed by depolarization followed by repolarization.",
+      "All-or-none impulse that travels along an axon or sarcolemma.",
+      "Event triggered when membrane threshold is reached."
+    ]
+  },
+  {
+    "term": "all-or-none principle",
+    "aliases": [],
+    "definitions": [
+      "If threshold is reached, an action potential occurs fully; if not, it doesn’t occur.",
+      "A single muscle fiber contracts maximally once stimulated above threshold.",
+      "Principle applies to individual fibers/cells, not whole-muscle force output.",
+      "Explains why action potential amplitude is not graded with stimulus intensity."
+    ]
+  },
+  {
+    "term": "alveolar pressure",
+    "aliases": ["intrapulmonary pressure"],
+    "definitions": [
+      "Pressure of air within the alveoli.",
+      "Pressure changes that drive airflow during ventilation.",
+      "When below atmospheric pressure, air flows into the lungs.",
+      "Determines airflow direction along with atmospheric pressure."
+    ]
+  },
+  {
+    "term": "alveoli",
+    "aliases": [],
+    "definitions": [
+      "Tiny lung air sacs where gas exchange occurs.",
+      "Terminal respiratory structures surrounded by pulmonary capillaries.",
+      "Site where O2 diffuses into blood and CO2 diffuses out.",
+      "High-surface-area units optimized for diffusion."
+    ]
+  },
+  {
+    "term": "aortic valve",
+    "aliases": [],
+    "definitions": [
+      "Semilunar valve between the left ventricle and the aorta.",
+      "Prevents backflow from the aorta into the left ventricle.",
+      "Opens during ventricular systole to allow ejection.",
+      "Closes during diastole to maintain one-way flow."
+    ]
+  },
+  {
+    "term": "appendicular skeleton",
+    "aliases": [],
+    "definitions": [
+      "Bones of the limbs plus the pectoral and pelvic girdles.",
+      "Skeletal region responsible for movement of arms and legs.",
+      "Upper and lower extremities and their attachment structures.",
+      "Includes shoulder girdle, pelvis, and limb bones."
+    ]
+  },
+  {
+    "term": "arterial system",
+    "aliases": [],
+    "definitions": [
+      "Vessels that carry blood away from the heart (arteries to arterioles).",
+      "High-pressure side of circulation delivering blood to tissues.",
+      "Distribution network routing cardiac output to capillary beds.",
+      "Arteries and arterioles that regulate delivery of blood to organs."
+    ]
+  },
+  {
+    "term": "arteriole",
+    "aliases": ["resistance vessel"],
+    "definitions": [
+      "Small artery that regulates flow into capillaries via smooth muscle.",
+      "Primary site of vascular resistance and blood pressure control.",
+      "Vessel that vasoconstricts/vasodilates to control tissue perfusion.",
+      "Terminal arterial branch feeding capillary networks."
+    ]
+  },
+  {
+    "term": "artery",
+    "aliases": [],
+    "definitions": [
+      "Blood vessel that carries blood away from the heart.",
+      "Thick-walled vessel built to handle higher pressures.",
+      "Typically carries oxygenated blood (except pulmonary arteries).",
+      "Elastic and muscular vessel that smooths pulsatile flow."
+    ]
+  },
+  {
+    "term": "atrioventricular (AV) bundle",
+    "aliases": ["Bundle of His", "His bundle", "AV bundle"],
+    "definitions": [
+      "Conduction fibers that carry impulses from the AV node to the ventricles.",
+      "Electrical pathway connecting atrial and ventricular conduction systems.",
+      "Tract that splits into left and right bundle branches.",
+      "Key link for transmitting depolarization into ventricular myocardium."
+    ]
+  },
+  {
+    "term": "atrioventricular (AV) node",
+    "aliases": ["AV node"],
+    "definitions": [
+      "Cardiac structure that delays and relays impulses from atria to ventricles.",
+      "Conduction “gate” that coordinates timing for ventricular filling.",
+      "Node that slows electrical transmission before ventricular activation.",
+      "Part of the conduction system between atria and ventricles."
+    ]
+  },
+  {
+    "term": "atrioventricular (AV) valves",
+    "aliases": ["mitral valve", "tricuspid valve", "AV valves"],
+    "definitions": [
+      "Valves between atria and ventricles that prevent backflow during systole.",
+      "Mitral (left) and tricuspid (right) valves.",
+      "Close when ventricles contract to stop regurgitation into atria.",
+      "Ensure one-way flow from atria into ventricles."
+    ]
+  },
+  {
+    "term": "atrium",
+    "aliases": ["atria"],
+    "definitions": [
+      "Upper chamber of the heart that receives returning blood.",
+      "Right atrium receives systemic venous blood; left atrium receives pulmonary venous blood.",
+      "Heart chamber that fills ventricles through AV valves.",
+      "Preload chamber that contracts to assist ventricular filling."
+    ]
+  },
+  {
+    "term": "axial skeleton",
+    "aliases": [],
+    "definitions": [
+      "Skull, vertebral column, ribs, and sternum.",
+      "Central skeleton that supports posture and protects organs.",
+      "Trunk and head bones forming the body’s core framework.",
+      "Skeletal components aligned along the body’s midline."
+    ]
+  },
+  {
+    "term": "biaxial joints",
+    "aliases": [],
+    "definitions": [
+      "Joints permitting motion in two planes.",
+      "Examples include condyloid (MCP) and saddle joints.",
+      "Allow flexion/extension plus abduction/adduction.",
+      "Two-axis synovial joints enabling combined movements."
+    ]
+  },
+  {
+    "term": "bone periosteum",
+    "aliases": ["periosteum"],
+    "definitions": [
+      "Tough connective tissue membrane covering outer bone (except articular surfaces).",
+      "Layer involved in bone growth, repair, and nutrient supply.",
+      "Attachment site for tendons/ligaments via Sharpey’s fibers.",
+      "Protective outer sheath rich in nerves and blood vessels."
+    ]
+  },
+  {
+    "term": "bradycardia",
+    "aliases": [],
+    "definitions": [
+      "Slower-than-normal heart rate (often <60 bpm in adults, context dependent).",
+      "Can be normal in trained endurance athletes due to high vagal tone.",
+      "Opposite of tachycardia; refers to low resting HR.",
+      "A heart rate condition defined relative to clinical context and symptoms."
+    ]
+  },
+  {
+    "term": "bronchi",
+    "aliases": ["primary bronchi"],
+    "definitions": [
+      "Large airways branching from the trachea into each lung.",
+      "Conduct air toward smaller branches and bronchioles.",
+      "Cartilage-supported air passages for ventilation.",
+      "Main airway conduits distributing airflow into lungs."
+    ]
+  },
+  {
+    "term": "bronchiole",
+    "aliases": [],
+    "definitions": [
+      "Small airway branch of bronchi leading toward alveolar regions.",
+      "Regulates airflow via smooth muscle tone (bronchoconstriction/dilation).",
+      "Conducting airways that lack cartilage compared with larger bronchi.",
+      "Pathway leading to alveolar ducts and alveoli."
+    ]
+  },
+  {
+    "term": "capillary",
+    "aliases": [],
+    "definitions": [
+      "Smallest blood vessel where exchange with tissues occurs.",
+      "Site of gas, nutrient, and waste diffusion between blood and cells.",
+      "Thin-walled vessels forming networks within organs.",
+      "Exchange vessels connecting arterioles to venules."
+    ]
+  },
+  {
+    "term": "cartilaginous joints",
+    "aliases": [],
+    "definitions": [
+      "Joints where bones are connected by cartilage with limited movement.",
+      "Examples include intervertebral discs and pubic symphysis.",
+      "Provide stability with small degrees of motion and shock absorption.",
+      "Joint type defined by cartilage connection rather than synovial cavity."
+    ]
+  },
+  {
+    "term": "crossbridge",
+    "aliases": ["cross-bridge"],
+    "definitions": [
+      "Myosin head attachment to actin during contraction.",
+      "Force-generating link between thick and thin filaments.",
+      "Temporary bond that cycles using ATP during contraction.",
+      "Mechanical connection responsible for tension development."
+    ]
+  },
+  {
+    "term": "depolarization",
+    "aliases": [],
+    "definitions": [
+      "Membrane potential becomes less negative (toward positive).",
+      "Electrical change that can initiate an action potential.",
+      "Often driven by Na+ influx in excitable membranes.",
+      "First phase of an action potential before repolarization."
+    ]
+  },
+  {
+    "term": "diastole",
+    "aliases": [],
+    "definitions": [
+      "Relaxation phase of the cardiac cycle when chambers fill with blood.",
+      "Period when ventricular pressure decreases and filling occurs.",
+      "Opposite of systole; associated with filling rather than ejection.",
+      "Time when semilunar valves are closed and AV valves typically open."
+    ]
+  },
+  {
+    "term": "diffusion",
+    "aliases": [],
+    "definitions": [
+      "Passive movement from higher to lower concentration or partial pressure.",
+      "Transport driven by random molecular motion without energy input.",
+      "Mechanism for O2/CO2 exchange across membranes.",
+      "Net movement down a gradient until equilibrium is approached."
+    ]
+  },
+  {
+    "term": "distal",
+    "aliases": [],
+    "definitions": [
+      "Farther from the trunk or point of attachment.",
+      "Direction term opposite of proximal.",
+      "Example: the hand is distal to the elbow.",
+      "Used to describe limb locations relative to the body."
+    ]
+  },
+  {
+    "term": "electrocardiogram (ECG)",
+    "aliases": ["ECG", "EKG"],
+    "definitions": [
+      "Surface recording of the heart’s electrical activity over time.",
+      "Graphical tracing of depolarization and repolarization events.",
+      "Clinical tool showing waves/complexes like P, QRS, and T.",
+      "Noninvasive measure of cardiac electrical conduction patterns."
+    ]
+  },
+  {
+    "term": "endomysium",
+    "aliases": [],
+    "definitions": [
+      "Connective tissue sheath surrounding each individual muscle fiber.",
+      "Layer that supports fibers and helps transmit force laterally.",
+      "Fine CT wrapping around myocytes within a fascicle.",
+      "Innermost muscle connective tissue layer."
+    ]
+  },
+  {
+    "term": "epimysium",
+    "aliases": [],
+    "definitions": [
+      "Dense connective tissue surrounding an entire muscle.",
+      "Outermost CT layer that merges with fascia and tendon.",
+      "Protective sheath that helps transmit force to tendons.",
+      "Whole-muscle connective tissue envelope."
+    ]
+  },
+  {
+    "term": "extrafusal fibers",
+    "aliases": [],
+    "definitions": [
+      "Force-producing skeletal muscle fibers outside the muscle spindle.",
+      "Typical muscle fibers responsible for generating movement and tension.",
+      "Innervated by alpha motor neurons (contrast with intrafusal fibers).",
+      "Main contractile fibers of skeletal muscle."
+    ]
+  },
+  {
+    "term": "fasciculi",
+    "aliases": ["fascicles"],
+    "definitions": [
+      "Bundles of muscle fibers within a muscle.",
+      "Groups of fibers wrapped by perimysium.",
+      "Structural organization level between fiber and whole muscle.",
+      "Muscle compartments that contribute to force transmission."
+    ]
+  },
+  {
+    "term": "fast-twitch fiber",
+    "aliases": ["Type II fiber"],
+    "definitions": [
+      "Muscle fiber type that contracts rapidly and produces high power.",
+      "Typically fatigues faster than slow-twitch fibers.",
+      "Often associated with higher glycolytic capacity (Type IIa/IIx).",
+      "Fiber type recruited more for high-intensity or explosive tasks."
+    ]
+  },
+  {
+    "term": "fibrous joints",
+    "aliases": [],
+    "definitions": [
+      "Joints connected by dense fibrous connective tissue.",
+      "Allow little to no movement (e.g., skull sutures).",
+      "Joint type defined by collagenous connection rather than synovial cavity.",
+      "Stable joints optimized for protection rather than mobility."
+    ]
+  },
+  {
+    "term": "Golgi tendon organ (GTO)",
+    "aliases": ["GTO", "Golgi tendon organ"],
+    "definitions": [
+      "Tendon proprioceptor that senses tension/force in the musculotendinous unit.",
+      "Receptor that can inhibit muscle activation when tension is excessive.",
+      "Protective feedback sensor located near the tendon–muscle junction.",
+      "Proprioceptor that responds primarily to muscle tension rather than length."
+    ]
+  },
+  {
+    "term": "hemoglobin",
+    "aliases": ["Hb"],
+    "definitions": [
+      "Oxygen-carrying protein in red blood cells.",
+      "Binds O2 in the lungs and helps deliver it to tissues.",
+      "Protein that also contributes to CO2 transport and buffering.",
+      "Key molecule determining blood’s oxygen-carrying capacity."
+    ]
+  },
+  {
+    "term": "hyaline cartilage",
+    "aliases": [],
+    "definitions": [
+      "Smooth cartilage covering articular surfaces to reduce friction.",
+      "Glassy cartilage found in joints and structures like the trachea.",
+      "Tissue that supports and cushions while allowing smooth movement.",
+      "Type of cartilage important for joint function and airway support."
+    ]
+  },
+  {
+    "term": "H-zone",
+    "aliases": [],
+    "definitions": [
+      "Central part of the A-band containing only thick (myosin) filaments.",
+      "Sarcomere region with no actin overlap (at rest).",
+      "Area around the M-line where only myosin is present.",
+      "Zone that narrows/disappears as overlap increases during contraction."
+    ]
+  },
+  {
+    "term": "I-band",
+    "aliases": [],
+    "definitions": [
+      "Light sarcomere band containing thin (actin) filaments only.",
+      "Region that shortens during contraction as filaments slide.",
+      "Band spanning the Z-line with actin but no myosin presence.",
+      "Sarcomere area whose length changes with muscle shortening."
+    ]
+  },
+  {
+    "term": "inferior",
+    "aliases": [],
+    "definitions": [
+      "Below or toward the feet in anatomical position.",
+      "Directional term opposite of superior.",
+      "Example: the stomach is inferior to the heart.",
+      "Anatomical descriptor for lower body position."
+    ]
+  },
+  {
+    "term": "intrafusal fibers",
+    "aliases": [],
+    "definitions": [
+      "Specialized fibers within muscle spindles that detect stretch/length changes.",
+      "Sensory-related fibers that adjust spindle sensitivity (not primary force producers).",
+      "Fibers innervated by gamma motor neurons to tune the spindle response.",
+      "Muscle spindle components involved in proprioceptive feedback."
+    ]
+  },
+  {
+    "term": "left bundle branch",
+    "aliases": ["LBB"],
+    "definitions": [
+      "Ventricular conduction pathway carrying impulses down the left septum.",
+      "Branch of the AV bundle leading to Purkinje network in the left ventricle.",
+      "Part of the conduction system coordinating left ventricular depolarization.",
+      "Electrical pathway supporting synchronized ventricular contraction."
+    ]
+  },
+  {
+    "term": "mitral valve",
+    "aliases": ["bicuspid valve"],
+    "definitions": [
+      "Left AV valve between left atrium and left ventricle.",
+      "Prevents backflow from the left ventricle into the left atrium during systole.",
+      "AV valve that opens during diastole to fill the left ventricle.",
+      "Two-cusped valve controlling left-sided inflow."
+    ]
+  },
+  {
+    "term": "motor neuron",
+    "aliases": [],
+    "definitions": [
+      "Neuron that sends signals from the CNS to muscle fibers to cause contraction.",
+      "Efferent nerve cell that activates skeletal muscle.",
+      "Cell whose axon forms neuromuscular junctions with muscle fibers.",
+      "Neural output pathway driving voluntary movement."
+    ]
+  },
+  {
+    "term": "motor unit",
+    "aliases": [],
+    "definitions": [
+      "A motor neuron and all the muscle fibers it innervates.",
+      "Functional unit of force production controlled by recruitment.",
+      "Smaller motor units allow finer control; larger units produce more force.",
+      "Neuromuscular structure that determines graded muscle force."
+    ]
+  },
+  {
+    "term": "multiaxial joints",
+    "aliases": ["triaxial joints"],
+    "definitions": [
+      "Joints permitting movement in three planes.",
+      "Ball-and-socket joints like shoulder and hip.",
+      "Allow flex/extend, abduct/adduct, and rotate.",
+      "Highly mobile synovial joints with three degrees of freedom."
+    ]
+  },
+  {
+    "term": "muscle fiber",
+    "aliases": ["myofiber"],
+    "definitions": [
+      "A single skeletal muscle cell, long and typically multinucleated.",
+      "Basic cellular unit of skeletal muscle tissue.",
+      "Cell containing myofibrils arranged in repeating sarcomeres.",
+      "Contractile cell enclosed by the sarcolemma."
+    ]
+  },
+  {
+    "term": "muscle spindle",
+    "aliases": [],
+    "definitions": [
+      "Proprioceptor within muscle that senses stretch and rate of length change.",
+      "Receptor that initiates the stretch reflex to resist rapid lengthening.",
+      "Sensory organ containing intrafusal fibers aligned with extrafusal fibers.",
+      "Primary detector of muscle length for posture and movement control."
+    ]
+  },
+  {
+    "term": "myocardium",
+    "aliases": [],
+    "definitions": [
+      "Middle muscular layer of the heart wall responsible for pumping.",
+      "Contractile cardiac muscle tissue generating ventricular and atrial force.",
+      "Heart muscle layer between endocardium and epicardium.",
+      "Muscle tissue that produces cardiac contractions."
+    ]
+  },
+  {
+    "term": "myofibril",
+    "aliases": [],
+    "definitions": [
+      "Rod-like contractile structure in muscle fibers composed of sarcomeres.",
+      "Repeating chain of sarcomeres that produces muscle contraction.",
+      "Subcellular structure containing thick and thin myofilaments.",
+      "Primary contractile organelle inside a skeletal muscle fiber."
+    ]
+  },
+  {
+    "term": "myofilament",
+    "aliases": [],
+    "definitions": [
+      "Contractile protein filament within myofibrils (actin or myosin).",
+      "Thin (actin) and thick (myosin) filaments that create force through sliding.",
+      "Protein strands that form sarcomere structure and function.",
+      "Filaments responsible for contraction mechanics in striated muscle."
+    ]
+  },
+  {
+    "term": "myosin",
+    "aliases": [],
+    "definitions": [
+      "Primary protein of thick filaments in muscle.",
+      "Molecular motor whose heads bind actin and hydrolyze ATP to generate force.",
+      "Thick filament protein responsible for crossbridge cycling.",
+      "Contractile protein whose power stroke pulls actin during contraction."
+    ]
+  },
+  {
+    "term": "neuromuscular junction",
+    "aliases": ["NMJ", "motor end plate"],
+    "definitions": [
+      "Synapse where a motor neuron communicates with a skeletal muscle fiber.",
+      "Site where acetylcholine is released to excite the muscle membrane.",
+      "Connection converting nerve impulses into muscle fiber depolarization.",
+      "Specialized junction between motor neuron terminal and sarcolemma."
+    ]
+  },
+  {
+    "term": "parasympathetic nervous system",
+    "aliases": ["PNS (parasympathetic)"],
+    "definitions": [
+      "Autonomic division associated with “rest-and-digest” functions.",
+      "Generally decreases heart rate and supports digestion and recovery.",
+      "System that promotes energy conservation and recovery states.",
+      "Counterbalances sympathetic activation by slowing physiological output."
+    ]
+  },
+  {
+    "term": "perimysium",
+    "aliases": [],
+    "definitions": [
+      "Connective tissue surrounding a fascicle (bundle) of muscle fibers.",
+      "CT layer between endomysium and epimysium.",
+      "Provides a pathway for nerves and blood vessels within muscle.",
+      "Supports force transmission by organizing fibers into bundles."
+    ]
+  },
+  {
+    "term": "pleura",
+    "aliases": ["pleural membranes"],
+    "definitions": [
+      "Double-layered membrane surrounding lungs and lining thoracic cavity.",
+      "Visceral pleura covers lungs; parietal pleura lines chest wall.",
+      "Reduces friction during breathing and supports pressure coupling.",
+      "Membranous system creating a sealed pleural space for lung mechanics."
+    ]
+  },
+  {
+    "term": "pleural pressure",
+    "aliases": ["intrapleural pressure"],
+    "definitions": [
+      "Pressure within the pleural cavity, usually negative relative to alveolar pressure.",
+      "Negative pressure that helps keep lungs expanded against the chest wall.",
+      "Pressure that changes with breathing to enable lung inflation/deflation.",
+      "Key pressure variable linking chest wall movement to lung volume change."
+    ]
+  },
+  {
+    "term": "power stroke",
+    "aliases": [],
+    "definitions": [
+      "Force-producing step where myosin pivots and pulls actin.",
+      "Crossbridge event that generates tension and filament sliding.",
+      "Movement of the myosin head after phosphate release during cycling.",
+      "Mechanical action translating ATP energy into muscle force."
+    ]
+  },
+  {
+    "term": "proprioceptor",
+    "aliases": [],
+    "definitions": [
+      "Sensory receptor providing information about body position and movement.",
+      "Receptor that senses muscle length, tension, or joint position.",
+      "Includes structures like muscle spindles and Golgi tendon organs.",
+      "Feedback sensor essential for coordination, balance, and motor control."
+    ]
+  },
+  {
+    "term": "proximal",
+    "aliases": [],
+    "definitions": [
+      "Closer to the trunk or point of attachment.",
+      "Directional term opposite of distal.",
+      "Example: the elbow is proximal to the wrist.",
+      "Used to describe relative locations along a limb."
+    ]
+  },
+  {
+    "term": "pulmonary valve",
+    "aliases": [],
+    "definitions": [
+      "Semilunar valve between the right ventricle and pulmonary artery.",
+      "Prevents backflow into the right ventricle after ejection.",
+      "Opens during right ventricular systole to allow pulmonary flow.",
+      "Valve ensuring one-way blood movement toward the lungs."
+    ]
+  },
+  {
+    "term": "Purkinje fibers",
+    "aliases": ["Purkinje network"],
+    "definitions": [
+      "Specialized conduction fibers that rapidly distribute impulses through ventricles.",
+      "Network that coordinates synchronized ventricular contraction.",
+      "Terminal conduction system delivering depolarization to ventricular myocardium.",
+      "Fast-conducting fibers downstream of bundle branches."
+    ]
+  },
+  {
+    "term": "P-wave",
+    "aliases": [],
+    "definitions": [
+      "ECG wave representing atrial depolarization.",
+      "Electrical event corresponding to atrial activation before contraction.",
+      "Surface ECG deflection produced by atrial electrical activity.",
+      "Cardiac tracing component that precedes the QRS complex."
+    ]
+  },
+  {
+    "term": "QRS complex",
+    "aliases": [],
+    "definitions": [
+      "ECG complex representing ventricular depolarization.",
+      "Electrical event associated with ventricular activation and contraction onset.",
+      "Atrial repolarization is typically hidden within this complex.",
+      "Major ECG deflection produced by ventricular electrical activity."
+    ]
+  },
+  {
+    "term": "red blood cell",
+    "aliases": ["erythrocyte", "RBC"],
+    "definitions": [
+      "Blood cell specialized for oxygen transport using hemoglobin.",
+      "Cell that carries O2 from lungs to tissues and assists CO2 transport.",
+      "Anucleate cell optimized for gas exchange and deformability in capillaries.",
+      "Primary cellular component determining oxygen-carrying capacity of blood."
+    ]
+  },
+  {
+    "term": "repolarization",
+    "aliases": [],
+    "definitions": [
+      "Return of membrane potential toward resting level after depolarization.",
+      "Electrical recovery phase following an action potential.",
+      "Often driven by K+ efflux in excitable membranes.",
+      "Process restoring resting polarity after excitation."
+    ]
+  },
+  {
+    "term": "right bundle branch",
+    "aliases": ["RBB"],
+    "definitions": [
+      "Ventricular conduction pathway carrying impulses down the right septum.",
+      "Branch of the AV bundle that activates right ventricular Purkinje fibers.",
+      "Part of the conduction system coordinating right ventricular depolarization.",
+      "Electrical pathway supporting synchronized ventricular contraction."
+    ]
+  },
+  {
+    "term": "sarcolemma",
+    "aliases": [],
+    "definitions": [
+      "Cell membrane of a muscle fiber.",
+      "Excitable membrane that conducts action potentials along the muscle cell.",
+      "Membrane enclosing the sarcoplasm and associated structures.",
+      "Muscle cell plasma membrane that communicates electrical signals."
+    ]
+  },
+  {
+    "term": "sarcomere",
+    "aliases": [],
+    "definitions": [
+      "Basic contractile unit of striated muscle.",
+      "Region between Z-lines containing repeating actin–myosin arrangement.",
+      "Smallest functional unit capable of contraction in skeletal muscle.",
+      "Structure whose shortening underlies muscle contraction."
+    ]
+  },
+  {
+    "term": "sarcoplasm",
+    "aliases": [],
+    "definitions": [
+      "Cytoplasm of a muscle fiber.",
+      "Intracellular fluid containing organelles, enzymes, and substrates.",
+      "Muscle cell interior surrounding myofibrils.",
+      "Cellular matrix where metabolic processes occur in the myofiber."
+    ]
+  },
+  {
+    "term": "sarcoplasmic reticulum",
+    "aliases": ["SR"],
+    "definitions": [
+      "Specialized smooth ER in muscle that stores and releases calcium.",
+      "Calcium reservoir that enables excitation–contraction coupling.",
+      "Network surrounding myofibrils controlling intracellular Ca2+ levels.",
+      "Structure that releases Ca2+ to start contraction and re-sequesters it for relaxation."
+    ]
+  },
+  {
+    "term": "semilunar valves",
+    "aliases": ["aortic valve", "pulmonary valve"],
+    "definitions": [
+      "Valves at ventricular outflow (aortic and pulmonary) preventing backflow into ventricles.",
+      "Open during systole to allow ejection; close during diastole to prevent regurgitation.",
+      "Heart valves located between ventricles and great arteries.",
+      "Ensure one-way flow from ventricles into aorta and pulmonary artery."
+    ]
+  },
+  {
+    "term": "sinoatrial (SA) node",
+    "aliases": ["SA node"],
+    "definitions": [
+      "Primary pacemaker of the heart initiating the electrical impulse.",
+      "Conduction structure that sets resting heart rhythm.",
+      "Node in the right atrium that triggers atrial depolarization.",
+      "Source of spontaneous depolarizations governing heart rate."
+    ]
+  },
+  {
+    "term": "sliding-filament theory",
+    "aliases": [],
+    "definitions": [
+      "Muscle shortens because actin slides past myosin via crossbridge cycling.",
+      "Model explaining contraction without filaments themselves shortening.",
+      "Sarcomere shortening occurs from increased filament overlap.",
+      "Theory linking ATP-driven myosin cycling to mechanical shortening."
+    ]
+  },
+  {
+    "term": "slow-twitch fiber",
+    "aliases": ["Type I fiber"],
+    "definitions": [
+      "Muscle fiber type specialized for endurance and aerobic metabolism.",
+      "Fatigue-resistant fiber with high oxidative capacity.",
+      "Typically recruited early for low-to-moderate intensity activity.",
+      "Fiber type suited for posture and prolonged submaximal work."
+    ]
+  },
+  {
+    "term": "superior",
+    "aliases": [],
+    "definitions": [
+      "Above or toward the head in anatomical position.",
+      "Directional term opposite of inferior.",
+      "Example: the heart is superior to the stomach.",
+      "Anatomical descriptor for higher body position."
+    ]
+  },
+  {
+    "term": "sympathetic nervous system",
+    "aliases": ["SNS"],
+    "definitions": [
+      "Autonomic division supporting “fight-or-flight” responses.",
+      "Generally increases heart rate, contractility, and blood pressure.",
+      "System that mobilizes energy and elevates arousal for stress/exertion.",
+      "Counterbalances parasympathetic activity by increasing physiological output."
+    ]
+  },
+  {
+    "term": "synovial fluid",
+    "aliases": [],
+    "definitions": [
+      "Lubricating fluid inside synovial joints that reduces friction.",
+      "Fluid that nourishes and cushions articular cartilage.",
+      "Joint lubricant produced by synovial membrane.",
+      "Viscous fluid enabling smooth, low-friction joint movement."
+    ]
+  },
+  {
+    "term": "synovial joints",
+    "aliases": ["diarthrodial joints"],
+    "definitions": [
+      "Freely movable joints with a capsule, synovial membrane, and synovial fluid.",
+      "Joint type enabling the greatest range of motion (e.g., knee, shoulder).",
+      "Articulations with a joint cavity and articular cartilage.",
+      "Movement-focused joints defined by enclosed synovial space."
+    ]
+  },
+  {
+    "term": "systole",
+    "aliases": [],
+    "definitions": [
+      "Contraction phase of the cardiac cycle when blood is pumped out.",
+      "Often refers specifically to ventricular contraction/ejection.",
+      "Period when ventricular pressure rises and semilunar valves open.",
+      "Opposite of diastole; associated with ejection rather than filling."
+    ]
+  },
+  {
+    "term": "tachycardia",
+    "aliases": [],
+    "definitions": [
+      "Faster-than-normal heart rate (often >100 bpm in adults, context dependent).",
+      "Opposite of bradycardia; refers to elevated HR relative to baseline.",
+      "May occur from exercise, stress, stimulants, or pathology depending on context.",
+      "A heart rate condition defined relative to clinical situation and symptoms."
+    ]
+  },
+  {
+    "term": "tendon",
+    "aliases": [],
+    "definitions": [
+      "Dense connective tissue attaching muscle to bone.",
+      "Structure transmitting muscle force to the skeleton to create movement.",
+      "Collagen-rich tissue with high tensile strength.",
+      "Connective link between contractile tissue and bone leverage."
+    ]
+  },
+  {
+    "term": "tetanus",
+    "aliases": ["tetanic contraction"],
+    "definitions": [
+      "Sustained muscle contraction from high-frequency stimulation.",
+      "Condition where twitches summate with incomplete relaxation.",
+      "Physiology term distinct from the infectious disease tetanus.",
+      "Force plateau resulting from rapid repeated motor neuron firing."
+    ]
+  },
+  {
+    "term": "trachea",
+    "aliases": ["windpipe"],
+    "definitions": [
+      "Airway conducting air from larynx to bronchi.",
+      "Cartilage-reinforced tube that maintains an open airway.",
+      "Primary conducting airway before branching into the lungs.",
+      "Structure that routes inhaled air toward pulmonary passages."
+    ]
+  },
+  {
+    "term": "tricuspid valve",
+    "aliases": [],
+    "definitions": [
+      "Right AV valve between right atrium and right ventricle.",
+      "Prevents backflow into the right atrium during ventricular systole.",
+      "Opens during diastole to fill the right ventricle.",
+      "Three-cusped valve controlling right-sided inflow."
+    ]
+  },
+  {
+    "term": "tropomyosin",
+    "aliases": [],
+    "definitions": [
+      "Regulatory protein that blocks myosin-binding sites on actin at rest.",
+      "Filament that shifts position when troponin binds calcium.",
+      "Actin-associated protein controlling access for crossbridge formation.",
+      "Protein that helps regulate contraction by masking/unmasking binding sites."
+    ]
+  },
+  {
+    "term": "troponin",
+    "aliases": [],
+    "definitions": [
+      "Calcium-binding regulatory protein complex on the thin filament.",
+      "Protein that moves tropomyosin to expose myosin-binding sites on actin.",
+      "Key switch for contraction initiation when Ca2+ binds.",
+      "Thin filament regulator enabling crossbridge formation during excitation."
+    ]
+  },
+  {
+    "term": "T-tubule",
+    "aliases": ["transverse tubule", "T tubule"],
+    "definitions": [
+      "Invagination of the sarcolemma that carries action potentials into the fiber.",
+      "Structure enabling rapid excitation of deep myofibrils.",
+      "Membrane tubule that couples electrical signals to SR calcium release.",
+      "Pathway for synchronized contraction across the muscle fiber."
+    ]
+  },
+  {
+    "term": "T-wave",
+    "aliases": [],
+    "definitions": [
+      "ECG wave representing ventricular repolarization.",
+      "Electrical recovery event of ventricles after depolarization.",
+      "ECG deflection following the QRS complex.",
+      "Surface tracing component reflecting ventricular electrical reset."
+    ]
+  },
+  {
+    "term": "twitch",
+    "aliases": [],
+    "definitions": [
+      "Single brief contraction-relaxation response to one stimulus.",
+      "Mechanical response of a muscle fiber to one action potential.",
+      "Basic unit of muscular response that can summate into tetanus.",
+      "One-cycle contraction event whose force depends on fiber type and conditions."
+    ]
+  },
+  {
+    "term": "Type I fiber",
+    "aliases": ["slow-twitch fiber"],
+    "definitions": [
+      "Slow, oxidative muscle fiber with high fatigue resistance.",
+      "Fiber specialized for endurance and aerobic metabolism.",
+      "Typically recruited first for low-intensity and postural tasks.",
+      "Muscle fiber with high mitochondrial and capillary density (relative)."
+    ]
+  },
+  {
+    "term": "Type IIa fiber",
+    "aliases": [],
+    "definitions": [
+      "Fast-twitch fiber with mixed oxidative and glycolytic capacity.",
+      "Intermediate fatigue resistance with strong power output.",
+      "Often recruited for moderate-to-high intensity efforts requiring speed and endurance.",
+      "Fast fiber type bridging Type I endurance and Type IIx explosiveness."
+    ]
+  },
+  {
+    "term": "Type IIx fiber",
+    "aliases": [],
+    "definitions": [
+      "Fast-twitch fiber with high glycolytic capacity and very high power potential.",
+      "Fatigues quickly compared with Type I and Type IIa fibers.",
+      "Fiber type recruited for maximal or near-maximal explosive actions.",
+      "High-velocity, high-force fiber specialized for short-duration output."
+    ]
+  },
+  {
+    "term": "uniaxial joints",
+    "aliases": [],
+    "definitions": [
+      "Joints permitting movement primarily in one plane.",
+      "Examples include hinge (elbow/knee) and pivot (atlas-axis).",
+      "Allow one primary degree of freedom (e.g., flexion/extension).",
+      "Synovial joints designed for single-axis motion."
+    ]
+  },
+  {
+    "term": "vein",
+    "aliases": [],
+    "definitions": [
+      "Blood vessel carrying blood toward the heart.",
+      "Typically carries deoxygenated blood (except pulmonary veins).",
+      "Lower-pressure vessel often containing valves to prevent backflow.",
+      "Returns blood from tissues to the heart via venous pathways."
+    ]
+  },
+  {
+    "term": "venous system",
+    "aliases": [],
+    "definitions": [
+      "Vessels returning blood to the heart (venules to veins).",
+      "Low-pressure return network often aided by muscle pump and valves.",
+      "Circulatory system component responsible for venous return.",
+      "Pathway collecting blood from capillaries and delivering it back to the heart."
+    ]
+  },
+  {
+    "term": "ventricle",
+    "aliases": ["ventricles"],
+    "definitions": [
+      "Lower heart chamber that pumps blood out of the heart.",
+      "Right ventricle pumps to lungs; left ventricle pumps to systemic circulation.",
+      "Primary pressure-generating chambers of the heart.",
+      "Chambers that eject blood through semilunar valves."
+    ]
+  },
+  {
+    "term": "venule",
+    "aliases": [],
+    "definitions": [
+      "Small vessel that drains capillary beds and leads into veins.",
+      "Collects blood leaving capillaries and begins venous return.",
+      "Low-pressure vessel connecting capillaries to larger veins.",
+      "Initial segment of the venous system after capillaries."
+    ]
+  },
+  {
+    "term": "vertebral column",
+    "aliases": ["spine"],
+    "definitions": [
+      "Series of vertebrae forming the spine.",
+      "Supports the trunk and protects the spinal cord.",
+      "Central axial structure enabling posture and movement.",
+      "Skeletal column providing structural support and neural protection."
+    ]
+  },
+  {
+    "term": "Z-line",
+    "aliases": ["Z-disc", "Z line"],
+    "definitions": [
+      "Boundary of a sarcomere; anchors thin (actin) filaments.",
+      "Line defining sarcomere length from Z-line to Z-line.",
+      "Structural region where actin and supporting proteins attach.",
+      "Sarcomere landmark that moves closer during contraction as the sarcomere shortens."
+    ]
+  }
+]

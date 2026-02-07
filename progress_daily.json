@@ -1,0 +1,65 @@
+{
+  "days": {
+    "2026-01-15": {
+      "reviews": 51,
+      "again": 10,
+      "correct_like": 41,
+      "seconds": 646.0,
+      "by_kind": {
+        "question": 5,
+        "term": 45,
+        "table": 1
+      }
+    },
+    "2026-01-16": {
+      "reviews": 250,
+      "again": 18,
+      "correct_like": 232,
+      "seconds": 2996.0,
+      "by_kind": {
+        "term": 200,
+        "question": 50
+      }
+    },
+    "2026-01-17": {
+      "reviews": 117,
+      "again": 22,
+      "correct_like": 95,
+      "seconds": 1799.0,
+      "by_kind": {
+        "question": 31,
+        "term": 86
+      }
+    },
+    "2026-01-18": {
+      "reviews": 4,
+      "again": 0,
+      "correct_like": 4,
+      "seconds": 127502.0,
+      "by_kind": {
+        "question": 2,
+        "term": 2
+      }
+    },
+    "2026-01-19": {
+      "reviews": 230,
+      "again": 68,
+      "correct_like": 162,
+      "seconds": 3542.0,
+      "by_kind": {
+        "term": 159,
+        "question": 71
+      }
+    },
+    "2026-02-05": {
+      "reviews": 13,
+      "again": 5,
+      "correct_like": 8,
+      "seconds": 716.0,
+      "by_kind": {
+        "term": 10,
+        "question": 3
+      }
+    }
+  }
+}

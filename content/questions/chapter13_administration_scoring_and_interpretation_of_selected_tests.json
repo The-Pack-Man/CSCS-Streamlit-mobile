@@ -1,0 +1,161 @@
+[
+  {
+    "id": "ch13_q01",
+    "question": "Anaerobic capacity is quantified as the maximal power output achieved during activity lasting",
+    "choices": [
+      "less than 10 seconds",
+      "30 to 90 seconds",
+      "2 to 3 minutes",
+      "longer than 5 minutes"
+    ],
+    "answer_index": 1,
+    "explanation": "Anaerobic capacity reflects the ability to sustain high power primarily via glycolytic pathways, typically over ~30–90 seconds."
+  },
+  {
+    "id": "ch13_q02",
+    "question": "Which of the following tests is NOT used to measure maximum muscular power?",
+    "choices": [
+      "Margaria-Kalamen test",
+      "vertical jump",
+      "40-yard (37 m) sprint",
+      "1RM power clean"
+    ],
+    "answer_index": 2,
+    "explanation": "A 40-yard sprint is primarily a measure of speed/acceleration; the others are used as muscular power assessments."
+  },
+  {
+    "id": "ch13_q03",
+    "question": "Flexibility of which of these muscle groups or body areas is assessed during the sit-and-reach test?\n\nI. hamstrings\nII. erector spinae\nIII. lumbar spine\nIV. hip flexors",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 2,
+    "explanation": "The sit-and-reach is intended to assess hamstring and lower-back (lumbar/erector spinae) flexibility."
+  },
+  {
+    "id": "ch13_q04",
+    "question": "Which of the following is a reason for a trial of the T-test to be disqualified (see figure 13.11)?",
+    "choices": [
+      "touching the base of cone D",
+      "shuffling from cone C to cone D",
+      "crossing the feet from cone B to cone C",
+      "running forward from cone A to cone B"
+    ],
+    "answer_index": 2,
+    "explanation": "In the T-test, athletes must shuffle laterally without crossing the feet; crossing the feet is a disqualification."
+  },
+  {
+    "id": "ch13_q05",
+    "question": "When compiling results from the volleyball team’s vertical jump testing, the strength and conditioning professional notices that most scores are similar, but there are three scores that are much higher than the rest. Which of the following measures of central tendency is most appropriate for this group?",
+    "choices": [
+      "mean",
+      "median",
+      "mode",
+      "variance"
+    ],
+    "answer_index": 1,
+    "explanation": "With extreme high outliers, the median best represents central tendency because it is resistant to outliers."
+  },
+
+  {
+    "id": "ch13_q06",
+    "question": "Which of the following statistical measures BEST describes the spread or dispersion of test scores around the mean?",
+    "choices": [
+      "mean",
+      "median",
+      "standard deviation",
+      "percentile rank"
+    ],
+    "answer_index": 2,
+    "explanation": "Standard deviation quantifies how much individual scores vary from the mean."
+  },
+  {
+    "id": "ch13_q07",
+    "question": "An athlete scores in the 90th percentile on a strength test. This indicates that the athlete performed better than",
+    "choices": [
+      "90% of the population",
+      "10% of the population",
+      "90% of similar athletes",
+      "10% of similar athletes"
+    ],
+    "answer_index": 0,
+    "explanation": "A 90th percentile rank means the athlete outperformed 90% of the reference population."
+  },
+  {
+    "id": "ch13_q08",
+    "question": "Which of the following BEST explains why normative data are important when interpreting test results?",
+    "choices": [
+      "They eliminate the need for repeated testing",
+      "They allow comparison to a reference population",
+      "They improve the validity of the test",
+      "They reduce measurement error"
+    ],
+    "answer_index": 1,
+    "explanation": "Normative data provide context by allowing an athlete’s performance to be compared to a relevant population."
+  },
+
+  {
+    "id": "ch13_q09",
+    "type": "wrapper",
+    "question": "For each testing outcome below, select the MOST appropriate interpretation.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "performance is above average",
+      "performance is average",
+      "performance is below average",
+      "result is unreliable due to testing error"
+    ],
+    "contexts": [
+      {
+        "prompt": "An athlete scores in the 85th percentile on a power test",
+        "answer_index": 0
+      },
+      {
+        "prompt": "An athlete scores near the 50th percentile on a strength test",
+        "answer_index": 1
+      },
+      {
+        "prompt": "An athlete scores in the 15th percentile on an agility test",
+        "answer_index": 2
+      },
+      {
+        "prompt": "Test scores vary widely across repeated trials",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Percentile ranks indicate relative performance, while large score variability suggests poor reliability."
+  },
+
+  {
+    "id": "ch13_q10",
+    "type": "wrapper",
+    "question": "For each situation below, select the MOST appropriate statistical measure.\n\nUse the SAME answer choices for each scenario.",
+    "choices": [
+      "mean",
+      "median",
+      "mode",
+      "standard deviation"
+    ],
+    "contexts": [
+      {
+        "prompt": "Describing the average performance of a normally distributed group",
+        "answer_index": 0
+      },
+      {
+        "prompt": "Describing central tendency in the presence of extreme outliers",
+        "answer_index": 1
+      },
+      {
+        "prompt": "Identifying the most frequently occurring score",
+        "answer_index": 2
+      },
+      {
+        "prompt": "Quantifying variability among test scores",
+        "answer_index": 3
+      }
+    ],
+    "explanation": "Each statistical measure serves a distinct purpose in summarizing and interpreting test results."
+  }
+]

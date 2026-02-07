@@ -1,0 +1,268 @@
+[
+  {
+    "term": "active rest",
+    "aliases": ["active recovery", "low-intensity recovery"],
+    "definitions": [
+      "Low-intensity physical activity performed to promote recovery.",
+      "Movement-based recovery used instead of complete rest.",
+      "Exercise performed below training intensity to aid circulation.",
+      "A recovery strategy that maintains conditioning while reducing fatigue.",
+      "Light activity used during rest periods or between sessions.",
+      "Recovery work that facilitates metabolite clearance.",
+      "A method to support recovery without complete inactivity.",
+      "Submaximal activity intended to accelerate recovery processes."
+    ]
+  },
+  {
+    "term": "annual training plan",
+    "aliases": ["yearly plan", "annual periodization plan"],
+    "definitions": [
+      "A long-term plan outlining training phases across a year.",
+      "A macro-level roadmap for training organization.",
+      "A yearly structure coordinating preparatory, competitive, and transition phases.",
+      "A plan aligning training cycles with competition schedules.",
+      "The highest-level framework for program design.",
+      "An annual outline of goals, phases, and progressions.",
+      "A long-range plan integrating all training cycles.",
+      "The overarching yearly training strategy."
+    ]
+  },
+  {
+    "term": "basic strength phase",
+    "aliases": ["maximal strength phase", "foundational strength phase"],
+    "definitions": [
+      "A preparatory phase focused on increasing maximal force production.",
+      "Training emphasizing high loads and low-to-moderate repetitions.",
+      "A phase designed to increase neural and muscular strength capacity.",
+      "Strength-focused training preceding power development.",
+      "A phase prioritizing force over velocity.",
+      "Training that increases absolute strength foundations.",
+      "A phase emphasizing heavy resistance training.",
+      "Preparation for later power or sport-specific phases."
+    ]
+  },
+  {
+    "term": "competitive period",
+    "aliases": ["competition phase", "in-season competition"],
+    "definitions": [
+      "The phase when performance is maximized for competition.",
+      "A training period aligned with scheduled competitions.",
+      "A phase emphasizing performance maintenance and readiness.",
+      "Training organized around peaking and competing.",
+      "A period with reduced volume and maintained intensity.",
+      "The phase where results matter most.",
+      "A cycle focused on competition execution.",
+      "The season in which athletes compete."
+    ]
+  },
+  {
+    "term": "daily undulating periodization",
+    "aliases": ["DUP", "daily nonlinear periodization"],
+    "definitions": [
+      "A nonlinear model where training variables change daily.",
+      "A system alternating intensity or volume day to day.",
+      "Periodization with frequent daily fluctuations.",
+      "Training that varies load, reps, or focus each session.",
+      "A model designed to reduce monotony and plateaus.",
+      "A strategy distributing stress across multiple qualities.",
+      "Nonlinear programming on a daily basis.",
+      "A flexible periodization approach using daily variation."
+    ]
+  },
+  {
+    "term": "first transition period",
+    "aliases": ["postseason recovery", "transition phase I"],
+    "definitions": [
+      "A short phase after competition emphasizing physical recovery.",
+      "The initial recovery period following the competitive season.",
+      "A phase focused on regeneration and reduced training load.",
+      "Recovery-oriented training after peak performance.",
+      "A decompression phase between competition and preparation.",
+      "A short-term unloading phase.",
+      "Post-competition recovery cycle.",
+      "A period prioritizing rest and restoration."
+    ]
+  },
+  {
+    "term": "fitness–fatigue paradigm",
+    "aliases": ["fitness-fatigue model", "performance balance model"],
+    "definitions": [
+      "A model describing performance as fitness minus fatigue.",
+      "A framework explaining short-term fatigue masking fitness.",
+      "A theory that performance reflects competing adaptations.",
+      "The balance between positive training effects and fatigue.",
+      "A model explaining supercompensation timing.",
+      "Performance as the net result of training stress.",
+      "A conceptual explanation of overload and recovery.",
+      "A model guiding tapering and peaking decisions."
+    ]
+  },
+  {
+    "term": "General Adaptation Syndrome (GAS)",
+    "aliases": ["GAS model", "Selye stress model"],
+    "definitions": [
+      "A three-stage response to stress: alarm, resistance, exhaustion.",
+      "A model describing how organisms adapt to stress.",
+      "The physiological response pattern to training load.",
+      "A framework explaining adaptation and overtraining.",
+      "A stress-response model applied to exercise training.",
+      "A concept linking overload and exhaustion.",
+      "A biological adaptation model.",
+      "A theory explaining stress tolerance and breakdown."
+    ]
+  },
+  {
+    "term": "general preparatory phase",
+    "aliases": ["general preparation", "GPP"],
+    "definitions": [
+      "The initial phase emphasizing general physical development.",
+      "Training focused on broad fitness qualities.",
+      "A foundation phase preceding sport-specific work.",
+      "A period developing strength, endurance, and mobility.",
+      "Non-specific training to build work capacity.",
+      "Early-cycle training focused on general adaptation.",
+      "Preparation for later specialized training.",
+      "A phase emphasizing overall athletic development."
+    ]
+  },
+  {
+    "term": "hypertrophy/strength endurance phase",
+    "aliases": ["hypertrophy phase", "strength endurance block"],
+    "definitions": [
+      "A phase emphasizing muscle size and endurance.",
+      "Training focused on moderate loads and higher volume.",
+      "A preparatory block increasing muscle cross-sectional area.",
+      "A phase supporting later maximal strength development.",
+      "Training emphasizing time under tension.",
+      "A muscular foundation-building phase.",
+      "Resistance training focused on work capacity.",
+      "A volume-oriented strength phase."
+    ]
+  },
+  {
+    "term": "linear periodization",
+    "aliases": ["traditional linear model", "sequential periodization"],
+    "definitions": [
+      "A model progressing from high volume to high intensity.",
+      "Training variables change gradually over time.",
+      "A stepwise increase in intensity with volume reduction.",
+      "A traditional approach to long-term planning.",
+      "Sequential phase-based training.",
+      "A predictable progression model.",
+      "Classic periodization structure.",
+      "A linear shift in training emphasis."
+    ]
+  },
+  {
+    "term": "macrocycle",
+    "aliases": ["long-term cycle", "annual cycle"],
+    "definitions": [
+      "The longest training cycle, often a year in length.",
+      "A cycle encompassing all phases of training.",
+      "The highest level of periodization structure.",
+      "A long-term planning unit.",
+      "A yearly or seasonal training cycle.",
+      "The umbrella cycle for mesocycles.",
+      "A macro-level training framework.",
+      "The broadest training timeline."
+    ]
+  },
+  {
+    "term": "mesocycle",
+    "aliases": ["training block", "meso block"],
+    "definitions": [
+      "A medium-length training cycle lasting weeks.",
+      "A block focused on specific training adaptations.",
+      "A subdivision of a macrocycle.",
+      "A training unit organizing workload progression.",
+      "A phase lasting approximately 2–6 weeks.",
+      "A focused adaptation period.",
+      "A modular planning block.",
+      "An intermediate training cycle."
+    ]
+  },
+  {
+    "term": "microcycle",
+    "aliases": ["weekly cycle", "short-term cycle"],
+    "definitions": [
+      "The shortest training cycle, usually one week.",
+      "A unit organizing daily training sessions.",
+      "A short-term planning structure.",
+      "A week-long training schedule.",
+      "The smallest cycle in periodization.",
+      "A micro-level workload plan.",
+      "Daily training organization unit.",
+      "A short-duration training cycle."
+    ]
+  },
+  {
+    "term": "nonlinear periodization",
+    "aliases": ["undulating periodization", "flexible periodization"],
+    "definitions": [
+      "A model where training variables change frequently.",
+      "Periodization without a fixed linear progression.",
+      "Training with variable intensity and volume.",
+      "A flexible approach to program design.",
+      "Frequent alterations in training focus.",
+      "A model reducing stagnation risk.",
+      "Non-sequential training progression.",
+      "Adaptive training organization."
+    ]
+  },
+  {
+    "term": "peaking",
+    "aliases": ["performance peak", "taper peak"],
+    "definitions": [
+      "The process of maximizing performance for competition.",
+      "Timing training to achieve peak readiness.",
+      "A short-term optimization of performance.",
+      "The culmination of periodized training.",
+      "Reducing fatigue while maintaining fitness.",
+      "A competition-focused preparation strategy.",
+      "The final phase before key events.",
+      "Performance maximization phase."
+    ]
+  },
+  {
+    "term": "periodization",
+    "aliases": ["training organization", "long-term planning"],
+    "definitions": [
+      "Systematic planning of training variables over time.",
+      "Organizing training to optimize adaptation.",
+      "Long-term manipulation of volume and intensity.",
+      "Structured variation to prevent stagnation.",
+      "A method to manage fatigue and performance.",
+      "Planning training cycles and phases.",
+      "A framework for training progression.",
+      "Strategic distribution of training stress."
+    ]
+  },
+  {
+    "term": "supercompensation",
+    "aliases": ["adaptive rebound", "training rebound"],
+    "definitions": [
+      "A temporary performance increase after recovery.",
+      "The adaptive rebound following training stress.",
+      "Fitness exceeding baseline after recovery.",
+      "A result of proper overload and rest timing.",
+      "The physiological basis for periodization.",
+      "An improvement following fatigue resolution.",
+      "The performance payoff of recovery.",
+      "Adaptation beyond initial capacity."
+    ]
+  },
+  {
+    "term": "traditional periodization",
+    "aliases": ["classic periodization", "linear model"],
+    "definitions": [
+      "Sequential training phases progressing toward competition.",
+      "A model moving from general to specific training.",
+      "Volume decreases as intensity increases over time.",
+      "A structured, phase-based training approach.",
+      "A classic long-term planning strategy.",
+      "Predictable progression of training stress.",
+      "The most established periodization model.",
+      "A conventional training organization system."
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "term": "assumption of risk",
+    "aliases": ["primary assumption of risk"],
+    "definitions": [
+      "A legal concept that a participant accepts inherent risks of an activity.",
+      "The idea that certain dangers are understood and voluntarily accepted before participation.",
+      "A defense that limits liability when risk is obvious and inherent to the sport/task.",
+      "A principle that participants consent to known, typical hazards (e.g., contact, falls).",
+      "A legal doctrine reducing responsibility when the injured party knowingly engages in risky activity.",
+      "An acknowledgement that some injuries may occur even with proper supervision and care.",
+      "A concept distinguishing inherent risks from risks created by negligence.",
+      "In S&C, the notion that training carries unavoidable risks that cannot be eliminated entirely."
+    ]
+  },
+  {
+    "term": "breach of duty",
+    "aliases": ["breach"],
+    "definitions": [
+      "Failure to meet the standard of care owed to an individual.",
+      "A violation of the legal duty to act with reasonable care.",
+      "When a professional does not do what a reasonably competent professional would do.",
+      "Not providing appropriate supervision, instruction, or safe conditions when required.",
+      "A key element of negligence: duty existed, but was not fulfilled.",
+      "An omission or action that falls below accepted professional practice.",
+      "In S&C, failing to follow policies/EAP/safety procedures that a prudent coach would follow.",
+      "A departure from expected care that increases risk of harm."
+    ]
+  },
+  {
+    "term": "damages",
+    "aliases": ["compensatory damages"],
+    "definitions": [
+      "Losses suffered by an injured party that may be compensated in a legal action.",
+      "The harm or injury (financial, physical, emotional) claimed in a lawsuit.",
+      "The measurable consequences resulting from an incident.",
+      "Costs such as medical bills, lost wages, and pain and suffering attributed to injury.",
+      "A required element in many negligence claims: actual harm occurred.",
+      "The monetary value assigned to an injury in court or settlement.",
+      "In S&C cases, the documented impact of injury on health, work, or athletic participation.",
+      "Proof of injury-related loss used to justify compensation."
+    ]
+  },
+  {
+    "term": "duty",
+    "aliases": ["duty of care"],
+    "definitions": [
+      "The legal obligation to conform to a standard of reasonable care.",
+      "A requirement to act as a prudent professional would under similar circumstances.",
+      "An obligation created by the coach–athlete relationship to provide safe instruction and supervision.",
+      "A responsibility to foresee and reduce unreasonable risks of harm.",
+      "The first element of negligence: a duty was owed.",
+      "A professional expectation to act within training standards and scope of practice.",
+      "In S&C, the obligation to provide safe facilities, equipment checks, and competent coaching.",
+      "A legal responsibility arising from role, setting, and relationship to the participant."
+    ]
+  },
+  {
+    "term": "emergency action plan",
+    "aliases": ["EAP"],
+    "definitions": [
+      "A written document outlining procedures to respond to medical emergencies.",
+      "A formal plan detailing roles, communication, and steps during emergencies.",
+      "A facility-specific protocol for injuries, cardiac events, and other urgent situations.",
+      "A preparedness plan covering equipment (AED), contacts, and evacuation routes.",
+      "A document assigning responsibilities to staff during an emergency response.",
+      "A risk-management tool ensuring rapid, organized response to emergencies.",
+      "In S&C, the plan rehearsed so staff can act quickly under stress.",
+      "A written set of actions for emergency recognition, response, and follow-up."
+    ]
+  },
+  {
+    "term": "informed consent",
+    "aliases": ["consent form"],
+    "definitions": [
+      "Written acknowledgment that a participant understands risks and benefits of participation.",
+      "A document indicating voluntary participation with awareness of potential hazards.",
+      "Evidence that risks, procedures, and expectations were explained before training/testing.",
+      "A form confirming the participant had an opportunity to ask questions and agree.",
+      "A legal/administrative tool showing the participant knowingly chose to participate.",
+      "Documentation that supports risk communication and transparency.",
+      "In S&C, consent often accompanies screening, testing, and program participation.",
+      "A record that the participant accepted participation after being informed of material risks."
+    ]
+  },
+  {
+    "term": "liability",
+    "aliases": ["legal liability"],
+    "definitions": [
+      "Legal responsibility for one’s actions or omissions.",
+      "The obligation to answer for harm caused by negligence or wrongdoing.",
+      "Exposure to legal claims when injury results from failure to meet standards.",
+      "A legal consequence that may involve damages, settlement, or court judgment.",
+      "Responsibility that can fall on individuals, organizations, or manufacturers.",
+      "Accountability when unsafe conditions or improper actions lead to injury.",
+      "In S&C, liability risk increases with poor supervision, documentation, and facility safety.",
+      "The legal burden for injuries linked to one’s conduct or failure to act."
+    ]
+  },
+  {
+    "term": "litigation",
+    "aliases": ["lawsuit process"],
+    "definitions": [
+      "The process of resolving disputes through the legal system.",
+      "Legal proceedings in which a claim is brought to court.",
+      "A formal dispute process involving pleadings, discovery, and trial or settlement.",
+      "The act of suing or being sued over an alleged injury or wrongdoing.",
+      "A structured legal pathway for determining liability and damages.",
+      "A process that may include depositions, evidence review, and expert testimony.",
+      "In S&C, litigation often follows injury claims tied to negligence allegations.",
+      "The courtroom-based method of settling legal conflicts."
+    ]
+  },
+  {
+    "term": "mission statement",
+    "aliases": [],
+    "definitions": [
+      "A written declaration outlining the purpose and guiding principles of a program or facility.",
+      "A concise statement describing why an organization or program exists.",
+      "A guiding document clarifying priorities, values, and intended impact.",
+      "A statement aligning staff and stakeholders on program direction.",
+      "A high-level description of purpose, not specific measurable targets.",
+      "A communication tool for identity and organizational focus.",
+      "In S&C, a mission statement frames athlete development and service standards.",
+      "An organizational summary of purpose and philosophy."
+    ]
+  },
+  {
+    "term": "negligence",
+    "aliases": [],
+    "definitions": [
+      "Failure to act as a reasonably prudent person would under similar circumstances.",
+      "A breach of duty that results in injury and damages.",
+      "A legal claim requiring duty, breach, causation, and damages.",
+      "Conduct falling below the standard of care expected of a professional.",
+      "A failure to foresee and prevent unreasonable risk when it was preventable.",
+      "The basis for many injury lawsuits in sport and training settings.",
+      "In S&C, negligence can involve inadequate supervision, unsafe equipment, or improper instruction.",
+      "A civil wrong arising from careless action or omission leading to harm."
+    ]
+  },
+  {
+    "term": "policies",
+    "aliases": ["organizational policies"],
+    "definitions": [
+      "Written statements that guide decision-making and behavior within an organization.",
+      "Rules or standards describing what should be done and why.",
+      "Documents that define expectations for safety, conduct, and operations.",
+      "High-level guidance that procedures implement in detail.",
+      "Administrative standards used to create consistency and reduce risk.",
+      "Organizational directives for staff actions and compliance.",
+      "In S&C, policies may cover supervision ratios, equipment use, and emergency readiness.",
+      "Formal guidelines that shape consistent organizational behavior."
+    ]
+  },
+  {
+    "term": "procedures",
+    "aliases": ["standard operating procedures", "SOPs"],
+    "definitions": [
+      "Step-by-step instructions that implement policies.",
+      "Specific methods describing how tasks are carried out.",
+      "Operational directions to ensure consistent execution of duties.",
+      "Detailed actions staff follow to meet policy requirements.",
+      "A sequence of steps for safe and repeatable practice.",
+      "Written instructions for routine operations and safety checks.",
+      "In S&C, procedures include equipment inspection, spotting rules, and test administration steps.",
+      "Action-level instructions that translate policy into practice."
+    ]
+  },
+  {
+    "term": "product liability",
+    "aliases": [],
+    "definitions": [
+      "Legal responsibility of manufacturers or sellers for injuries caused by defective equipment.",
+      "Liability arising when a product defect contributes to harm.",
+      "Responsibility for injuries due to design, manufacturing, or warning defects.",
+      "A legal concept holding sellers/manufacturers accountable for unsafe products.",
+      "Claims involving equipment failure not primarily caused by user misuse.",
+      "A risk category addressed by purchasing reputable equipment and maintaining records.",
+      "In S&C, may involve broken racks, faulty cables, or inadequate safety warnings.",
+      "Legal accountability linked to equipment defects that cause injury."
+    ]
+  },
+  {
+    "term": "program goals",
+    "aliases": [],
+    "definitions": [
+      "Specific outcomes a strength and conditioning program aims to achieve.",
+      "Broad desired end results of a program (what you want to accomplish).",
+      "Targeted performance or health outcomes guiding program direction.",
+      "End-state aims such as improved strength, speed, injury reduction, or readiness.",
+      "High-level outcomes that shape objectives and training plans.",
+      "Statements of intent that are not necessarily measurable on their own.",
+      "In S&C, goals align with sport demands and athlete development priorities.",
+      "Desired program endpoints that guide design decisions."
+    ]
+  },
+  {
+    "term": "program objectives",
+    "aliases": [],
+    "definitions": [
+      "Measurable steps used to achieve program goals.",
+      "Specific, trackable targets that support broader goals.",
+      "Concrete performance benchmarks tied to timelines and assessments.",
+      "Operationalized outcomes (how you’ll know you’re progressing).",
+      "Measurable outcomes such as increases in 1RM, jump height, or conditioning markers.",
+      "Shorter-horizon targets that lead toward program goals.",
+      "In S&C, objectives guide exercise selection, volume, and monitoring.",
+      "Quantified targets that translate goals into actionable metrics."
+    ]
+  },
+  {
+    "term": "proximate cause",
+    "aliases": ["legal causation"],
+    "definitions": [
+      "The primary cause that directly results in an injury.",
+      "A cause sufficiently related to the harm to create legal responsibility.",
+      "The direct link between an action (or omission) and the injury.",
+      "A legal concept connecting breach of duty to the resulting harm.",
+      "Causation showing the injury would not have occurred ‘but for’ the breach.",
+      "A requirement in negligence: breach must be a direct cause of injury.",
+      "In S&C, whether lack of supervision or unsafe equipment directly led to injury.",
+      "The immediate, legally recognized cause of the injury event."
+    ]
+  },
+  {
+    "term": "risk management",
+    "aliases": [],
+    "definitions": [
+      "The process of identifying, evaluating, and minimizing potential risks.",
+      "A systematic approach to reducing injury and liability exposure.",
+      "Planning and practices designed to prevent foreseeable harm.",
+      "Ongoing safety management including documentation and policy compliance.",
+      "A framework including screening, supervision, facility upkeep, and emergency planning.",
+      "An administrative process aimed at reducing hazards and legal risk.",
+      "In S&C, includes EAPs, staff training, equipment maintenance, and athlete education.",
+      "A continuous cycle of risk identification, control, and review."
+    ]
+  },
+  {
+    "term": "scope of practice",
+    "aliases": [],
+    "definitions": [
+      "The activities and responsibilities legally permitted for a professional role.",
+      "The boundaries of what a professional is trained, licensed, and authorized to do.",
+      "Defined professional limits set by laws, regulations, and credentials.",
+      "What an S&C coach can and cannot do relative to medical diagnosis and treatment.",
+      "A guideline preventing professionals from practicing outside their competency.",
+      "A legal and ethical boundary for services provided.",
+      "In S&C, typically excludes diagnosing injuries or prescribing medical treatment.",
+      "The permitted range of professional duties based on qualifications and law."
+    ]
+  },
+  {
+    "term": "standard of care",
+    "aliases": ["professional standard"],
+    "definitions": [
+      "The level of care that a reasonably competent professional would provide.",
+      "Accepted professional practice under similar circumstances.",
+      "The benchmark used to judge whether conduct was reasonable and appropriate.",
+      "The expected competence level for a given role and setting.",
+      "A legal reference point for determining breach of duty.",
+      "Professional norms established by training, policies, and best practices.",
+      "In S&C, includes appropriate supervision, instruction, screening, and facility safety.",
+      "The baseline professional behavior expected to prevent unreasonable harm."
+    ]
+  },
+  {
+    "term": "statute of limitations",
+    "aliases": [],
+    "definitions": [
+      "The legally defined time period during which a lawsuit may be filed.",
+      "A deadline after which legal claims are barred.",
+      "A legal time limit that varies by jurisdiction and claim type.",
+      "A procedural rule restricting how long someone has to sue after an event.",
+      "A time window controlling access to court action.",
+      "A legal limit that encourages timely filing and evidence preservation.",
+      "In S&C contexts, the filing window depends on state law and circumstances.",
+      "The court-enforced timeline for initiating a legal claim."
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "term": "age-predicted maximal heart rate (APMHR)",
+    "aliases": ["predicted HRmax", "220-minus-age method"],
+    "definitions": [
+      "An estimate of maximal heart rate calculated as 220 minus age.",
+      "A simple formula used to approximate an individual’s maximum heart rate.",
+      "A population-based estimate of HRmax rather than a direct measurement.",
+      "A commonly used method for prescribing aerobic training intensity.",
+      "An indirect estimation tool that becomes less accurate with age variability.",
+      "A reference value used in percentage-of-MHR intensity calculations.",
+      "A generalized prediction of maximal cardiac frequency during exercise.",
+      "An easy-to-use but imprecise approach to estimating HRmax."
+    ]
+  },
+  {
+    "term": "altitude",
+    "aliases": ["high-altitude environment", "hypoxic environment"],
+    "definitions": [
+      "A training environment with reduced oxygen availability due to elevation.",
+      "A condition where barometric pressure lowers inspired oxygen pressure.",
+      "An environmental stressor that challenges oxygen transport and utilization.",
+      "A setting often used to stimulate hematological adaptations.",
+      "A hypoxic condition that increases ventilatory and cardiovascular strain.",
+      "An external factor influencing aerobic performance and recovery.",
+      "A training context that can impair acute performance but enhance adaptation.",
+      "A geographic elevation that reduces arterial oxygen saturation."
+    ]
+  },
+  {
+    "term": "base training",
+    "aliases": ["aerobic base", "foundation training"],
+    "definitions": [
+      "Low- to moderate-intensity endurance training to establish aerobic fitness.",
+      "Training designed to improve mitochondrial density and capillarization.",
+      "A preparatory phase emphasizing volume over intensity.",
+      "A foundation period supporting later high-intensity training.",
+      "Sustained aerobic work aimed at improving efficiency and durability.",
+      "Early-phase conditioning focused on long-term endurance development.",
+      "Training that prioritizes consistency and aerobic adaptations.",
+      "A phase used to build cardiovascular and metabolic capacity."
+    ]
+  },
+  {
+    "term": "cross-training",
+    "aliases": ["multimodal training", "alternative training"],
+    "definitions": [
+      "Use of alternative activities to maintain or improve fitness.",
+      "Training with non-primary modes to reduce repetitive stress.",
+      "A strategy to preserve aerobic capacity during injury or fatigue.",
+      "Incorporating different exercise modes to enhance general conditioning.",
+      "A method for maintaining fitness while minimizing overuse risk.",
+      "Training variety used to support recovery and longevity.",
+      "A supplemental approach to sport-specific training.",
+      "A way to improve fitness without excessive sport-specific load."
+    ]
+  },
+  {
+    "term": "detraining",
+    "aliases": ["training cessation", "training regression"],
+    "definitions": [
+      "The loss of training-induced adaptations due to reduced training.",
+      "A decline in fitness following inactivity or insufficient stimulus.",
+      "Reversal of physiological adaptations gained through training.",
+      "A reduction in aerobic capacity, strength, or endurance over time.",
+      "The consequence of prolonged unloading or inactivity.",
+      "A physiological regression when overload is removed.",
+      "Loss of fitness following training interruption.",
+      "The decay of performance adaptations in the absence of stimulus."
+    ]
+  },
+  {
+    "term": "duration",
+    "aliases": ["exercise time", "session length"],
+    "definitions": [
+      "The length of time an exercise session lasts.",
+      "A training variable describing how long work is performed.",
+      "One of the primary components of aerobic training prescription.",
+      "The temporal length of a bout of exercise.",
+      "A determinant of total training volume.",
+      "A factor influencing metabolic and cardiovascular stress.",
+      "The time component of an exercise session.",
+      "A controllable variable affecting endurance adaptations."
+    ]
+  },
+  {
+    "term": "exercise economy",
+    "aliases": ["movement economy", "metabolic efficiency"],
+    "definitions": [
+      "The oxygen cost of performing exercise at a given workload.",
+      "How efficiently the body uses oxygen during movement.",
+      "Lower oxygen consumption for the same output indicates better economy.",
+      "A determinant of endurance performance independent of VO2max.",
+      "A reflection of biomechanical and neuromuscular efficiency.",
+      "The energetic efficiency of a movement pattern.",
+      "A performance quality improved through technique and training.",
+      "The metabolic cost of producing a given external workload."
+    ]
+  },
+  {
+    "term": "Fartlek training",
+    "aliases": ["speed play", "variable-pace training"],
+    "definitions": [
+      "Endurance training alternating fast and slow running.",
+      "A continuous training method with unstructured intensity changes.",
+      "A blend of interval and steady-state training.",
+      "Speed variation performed without fixed work-rest ratios.",
+      "A flexible endurance method emphasizing pace changes.",
+      "Training that develops both aerobic and anaerobic qualities.",
+      "A less formal form of interval-style running.",
+      "An endurance approach mixing intensities within one session."
+    ]
+  },
+  {
+    "term": "frequency",
+    "aliases": ["training frequency", "sessions per week"],
+    "definitions": [
+      "The number of training sessions performed per week.",
+      "A key variable in exercise program design.",
+      "How often training stimuli are applied.",
+      "A determinant of total training load.",
+      "The weekly repetition of training exposure.",
+      "A scheduling variable affecting recovery and adaptation.",
+      "How many times exercise is performed in a time period.",
+      "An adjustable component of training prescription."
+    ]
+  },
+  {
+    "term": "heart rate reserve (HRR)",
+    "aliases": ["HR reserve", "Karvonen reserve"],
+    "definitions": [
+      "The difference between maximal and resting heart rate.",
+      "A measure of available heart rate range for exercise.",
+      "Used to individualize aerobic training intensity.",
+      "Reflects cardiovascular functional capacity.",
+      "A more personalized intensity metric than %HRmax.",
+      "The working heart rate range above rest.",
+      "A value used in the Karvonen method.",
+      "The adjustable heart rate bandwidth for exercise."
+    ]
+  },
+  {
+    "term": "high-intensity interval training",
+    "aliases": ["HIIT", "high-intensity intervals"],
+    "definitions": [
+      "Repeated bouts of high-intensity exercise with recovery periods.",
+      "Training that alternates near-maximal work and rest.",
+      "A time-efficient method for improving aerobic fitness.",
+      "Intervals performed above lactate threshold intensity.",
+      "Training that stresses both aerobic and anaerobic systems.",
+      "Short-duration, high-effort cardiovascular training.",
+      "A method shown to improve VO2max rapidly.",
+      "Intense work intervals separated by partial recovery."
+    ]
+  },
+  {
+    "term": "Karvonen method",
+    "aliases": ["HRR method", "heart rate reserve method"],
+    "definitions": [
+      "An exercise prescription method using heart rate reserve.",
+      "Calculates target heart rate from HRR and resting HR.",
+      "A more individualized intensity approach than %HRmax.",
+      "Accounts for differences in resting heart rate.",
+      "A formula-based aerobic training prescription method.",
+      "Uses HRR to define training zones.",
+      "A commonly used method in endurance programming.",
+      "A personalized heart rate–based intensity calculation."
+    ]
+  },
+  {
+    "term": "lactate threshold",
+    "aliases": ["LT", "anaerobic threshold"],
+    "definitions": [
+      "The intensity where blood lactate begins to rise rapidly.",
+      "A transition point between sustainable and unsustainable exercise.",
+      "An important predictor of endurance performance.",
+      "The workload at which lactate production exceeds clearance.",
+      "A key marker for tempo and threshold training.",
+      "An intensity closely related to endurance race pace.",
+      "A metabolic breakpoint during incremental exercise.",
+      "A sustainable upper limit of steady-state aerobic effort."
+    ]
+  },
+  {
+    "term": "tapering",
+    "aliases": ["training taper", "pre-competition taper"],
+    "definitions": [
+      "A reduction in training volume before competition.",
+      "A strategy used to reduce fatigue while maintaining fitness.",
+      "A short-term decrease in workload to enhance performance.",
+      "A peaking method prior to competition.",
+      "Volume reduction with maintained intensity.",
+      "A performance optimization phase.",
+      "A method to maximize readiness on competition day.",
+      "A planned unloading phase before key events."
+    ]
+  }
+]

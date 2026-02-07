@@ -1,0 +1,702 @@
+[
+  {
+    "id": "pt1_q01",
+    "question": "The axial skeleton includes the:",
+    "choices": ["Scapulae", "Humerus", "Vertebrae", "Femur"],
+    "answer_index": 2,
+    "explanation": "The axial skeleton includes the skull, vertebral column, and rib cage. The vertebrae form the central part of the vertebral column."
+  },
+  {
+    "id": "pt1_q02",
+    "question": "The primary muscle group responsible for knee extension during a squat is the:",
+    "choices": ["Hamstrings", "Quadriceps", "Gluteus maximus", "Gastrocnemius"],
+    "answer_index": 1,
+    "explanation": "The quadriceps are the primary movers during knee extension, which occurs when standing up from the bottom of a squat."
+  },
+  {
+    "id": "pt1_q03",
+    "question": "Alveoli are responsible for:",
+    "choices": ["Filtering inhaled air", "Warming and humidifying air", "Trapping particles in mucus", "Exchanging gases between air and blood"],
+    "answer_index": 3,
+    "explanation": "Alveoli are tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide occurs between the lungs and the bloodstream."
+  },
+  {
+    "id": "pt1_q04",
+    "question": "In a first-class lever (e.g., a seesaw), the fulcrum is positioned:",
+    "choices": ["Between the load and the effort", "Between the effort and the load", "At the end of the lever arm", "Directly under the load"],
+    "answer_index": 0,
+    "explanation": "In a first-class lever, the fulcrum is positioned between the effort and the load."
+  },
+  {
+    "id": "pt1_q05",
+    "question": "Which type of muscle action occurs when lowering a dumbbell during a curl?",
+    "choices": ["Concentric", "Eccentric", "Isometric", "Isokinetic"],
+    "answer_index": 1,
+    "explanation": "Eccentric muscle actions occur when the muscle lengthens under tension, such as when lowering a dumbbell during a curl."
+  },
+  {
+    "id": "pt1_q06",
+    "question": "Using the torque equation (Torque = Force × Distance), which option produces the greatest torque?",
+    "choices": ["10 N at 0.10 m", "20 N at 0.05 m", "25 N at 0.06 m", "30 N at 0.04 m"],
+    "answer_index": 2,
+    "explanation": "Torque = Force × Distance. 25 × 0.06 = 1.5 N·m, which is the highest torque among the options."
+  },
+  {
+    "id": "pt1_q07",
+    "question": "Which energy system provides immediate energy for short, high-intensity activities (e.g., a 100-meter sprint)?",
+    "choices": ["Glycolytic", "Oxidative", "Phosphagen", "Aerobic"],
+    "answer_index": 2,
+    "explanation": "The phosphagen system provides immediate energy for short, high-intensity activities like a 100-meter sprint."
+  },
+  {
+    "id": "pt1_q08",
+    "question": "Which hormone helps maintain blood glucose levels during prolonged exercise by promoting glycogen breakdown in the liver?",
+    "choices": ["Insulin", "Epinephrine", "Cortisol", "Glucagon"],
+    "answer_index": 3,
+    "explanation": "Glucagon is secreted to maintain blood glucose levels during prolonged exercise by promoting glycogen breakdown in the liver."
+  },
+  {
+    "id": "pt1_q09",
+    "question": "High-intensity interval training (HIIT) is most associated with:",
+    "choices": ["Decreased oxygen debt", "No oxygen deficit", "Increased oxygen debt", "Elimination of lactate accumulation"],
+    "answer_index": 2,
+    "explanation": "HIIT causes a significant oxygen deficit during exercise, leading to greater oxygen debt afterward for recovery."
+  },
+  {
+    "id": "pt1_q10",
+    "question": "Type I muscle fibers are best described as:",
+    "choices": ["Fast-twitch, high force", "Slow-twitch, fatigue-resistant", "Fast-twitch, easily fatigued", "Intermediate, moderate fatigue resistance"],
+    "answer_index": 1,
+    "explanation": "Type I fibers are slow-twitch fibers that are highly fatigue-resistant and primarily rely on the aerobic energy system."
+  },
+  {
+    "id": "pt1_q11",
+    "question": "The functional unit of a myofibril where muscle contraction occurs is the:",
+    "choices": ["Sarcolemma", "Sarcomere", "Sarcoplasm", "Fascicle"],
+    "answer_index": 1,
+    "explanation": "The sarcomere is the structural and functional unit of a myofibril, where muscle contraction occurs."
+  },
+  {
+    "id": "pt1_q12",
+    "question": "Calcium ions bind to which protein to initiate muscle contraction?",
+    "choices": ["Actin", "Myosin", "Tropomyosin", "Troponin"],
+    "answer_index": 3,
+    "explanation": "Calcium ions bind to troponin, which triggers the conformational change that allows actin and myosin interaction for contraction."
+  },
+  {
+    "id": "pt1_q13",
+    "question": "Which receptor detects changes in muscle length and triggers a stretch reflex?",
+    "choices": ["Golgi tendon organ", "Pacinian corpuscle", "Muscle spindle", "Ruffini ending"],
+    "answer_index": 2,
+    "explanation": "Muscle spindles detect changes in muscle length and initiate the stretch reflex to resist overstretching."
+  },
+  {
+    "id": "pt1_q14",
+    "question": "Which part of a neuron conducts electrical impulses away from the cell body?",
+    "choices": ["Axon", "Dendrite", "Synapse", "Myelin sheath"],
+    "answer_index": 0,
+    "explanation": "Axons conduct electrical impulses away from the neuron’s cell body toward other neurons, muscles, or glands."
+  },
+  {
+    "id": "pt1_q15",
+    "question": "Which neurotransmitter is released at the neuromuscular junction to initiate muscle contraction?",
+    "choices": ["Dopamine", "Serotonin", "Acetylcholine", "Norepinephrine"],
+    "answer_index": 2,
+    "explanation": "Acetylcholine is the neurotransmitter that binds to receptors on muscle cells to initiate contraction."
+  },
+  {
+    "id": "pt1_q16",
+    "question": "During high-intensity exercise, the preferred energy source for ATP production is typically:",
+    "choices": ["Fat", "Carbohydrate", "Protein", "Ketones"],
+    "answer_index": 1,
+    "explanation": "Carbohydrates are the preferred energy source during high-intensity exercise due to their efficiency in ATP production."
+  },
+  {
+    "id": "pt1_q17",
+    "question": "Which vitamin is fat-soluble and commonly requires dietary fat for absorption?",
+    "choices": ["Vitamin C", "Vitamin D", "Vitamin B12", "Folate"],
+    "answer_index": 1,
+    "explanation": "Vitamins A, D, E, and K are fat-soluble, meaning they are stored in body fat and require fat for absorption."
+  },
+  {
+    "id": "pt1_q18",
+    "question": "Iron is a critical component of hemoglobin and primarily supports:",
+    "choices": ["Bone density", "Oxygen transport in blood", "Muscle contraction", "Nerve conduction"],
+    "answer_index": 1,
+    "explanation": "Iron is a critical component of hemoglobin, responsible for carrying oxygen in the blood."
+  },
+  {
+    "id": "pt1_q19",
+    "question": "A carbohydrate-loading strategy for endurance events typically involves:",
+    "choices": ["Consuming a high-fat diet 1 day prior", "Fasting 24 hours prior", "Reducing carbohydrate intake 3–7 days prior", "Consuming a high-carbohydrate diet 3–7 days prior"],
+    "answer_index": 3,
+    "explanation": "Carbohydrate loading involves increasing glycogen stores by consuming a high-carbohydrate diet days before an event."
+  },
+  {
+    "id": "pt1_q20",
+    "question": "Recommended daily protein intake for athletes to support muscle repair and recovery is approximately:",
+    "choices": ["0.4–0.8 g/kg body weight", "1.2–2.0 g/kg body weight", "2.5–3.5 g/kg body weight", "4.0 g/kg body weight"],
+    "answer_index": 1,
+    "explanation": "Athletes typically require 1.2–2.0 grams of protein per kilogram of body weight to support muscle repair and recovery."
+  },
+  {
+    "id": "pt1_q21",
+    "question": "Endurance athletes are most likely to rely heavily on carbohydrates, such as:",
+    "choices": ["Marathon runner", "Olympic weightlifter", "Shot putter", "Powerlifter"],
+    "answer_index": 0,
+    "explanation": "Endurance athletes, such as marathon runners, rely heavily on carbohydrates to fuel prolonged training sessions."
+  },
+  {
+    "id": "pt1_q22",
+    "question": "Which supplement is best known for improving ATP resynthesis during short-duration, high-intensity exercise?",
+    "choices": ["Creatine monohydrate", "Vitamin C", "Fish oil", "Caffeine-free electrolyte mix"],
+    "answer_index": 0,
+    "explanation": "Creatine improves ATP resynthesis during high-intensity, short-duration exercises such as sprinting and lifting."
+  },
+  {
+    "id": "pt1_q23",
+    "question": "Which substance is banned due to its performance-enhancing and potential health-risk properties?",
+    "choices": ["Caffeine", "Creatine", "Ephedrine", "Whey protein"],
+    "answer_index": 2,
+    "explanation": "Ephedrine is a banned substance due to its performance-enhancing and potential health-risk properties."
+  },
+  {
+    "id": "pt1_q24",
+    "question": "Which supplement increases muscle carnosine levels and may delay fatigue by buffering hydrogen ions?",
+    "choices": ["BCAA", "Beta-alanine", "Glucosamine", "Vitamin E"],
+    "answer_index": 1,
+    "explanation": "Beta-alanine supplementation increases muscle carnosine levels, enhancing the ability to buffer hydrogen ions and delay fatigue."
+  },
+  {
+    "id": "pt1_q25",
+    "question": "Which mineral is vital for nerve function and muscle contraction, and imbalances can contribute to cramps?",
+    "choices": ["Calcium", "Sodium", "Potassium", "Iron"],
+    "answer_index": 2,
+    "explanation": "Potassium is vital for nerve function and muscle contraction; imbalances can lead to cramps and weakness."
+  },
+  {
+    "id": "pt1_q26",
+    "question": "Which method is a simple and effective way to assess hydration status in athletes?",
+    "choices": ["Urine color observation", "Skinfold measurement", "Resting heart rate only", "Body mass index (BMI)"],
+    "answer_index": 0,
+    "explanation": "Urine color is a simple and effective method to assess hydration status—pale yellow indicates good hydration."
+  },
+  {
+    "id": "pt1_q27",
+    "question": "Losing more than 2% of body weight through sweat can impair thermoregulation and increase risk of:",
+    "choices": ["Hypoglycemia", "Heatstroke", "Hypertension", "Muscle hypertrophy"],
+    "answer_index": 1,
+    "explanation": "Losing more than 2% of body weight through sweat can impair thermoregulation and increase the risk of heat-related illnesses like heatstroke."
+  },
+  {
+    "id": "pt1_q28",
+    "question": "Carbohydrate consumption within what time frame post-exercise helps maximize glycogen resynthesis?",
+    "choices": ["Within 30 minutes", "Within 2 hours", "Within 6 hours", "The next day"],
+    "answer_index": 0,
+    "explanation": "Carbohydrate consumption within 30 minutes post-exercise maximizes glycogen resynthesis for better recovery."
+  },
+  {
+    "id": "pt1_q29",
+    "question": "Which pre-competition meal is generally recommended to provide sustained energy without GI discomfort?",
+    "choices": ["High-fat, high-fiber meal", "High-protein, low-carb meal", "Moderate carbohydrate, low-fat, moderate protein meal", "No meal before competition"],
+    "answer_index": 2,
+    "explanation": "A balanced pre-competition meal with moderate carbohydrates, low fat, and moderate protein provides sustained energy without gastrointestinal discomfort."
+  },
+  {
+    "id": "pt1_q30",
+    "question": "Consuming protein prior to training (even during fasting periods) can help:",
+    "choices": ["Eliminate the need for carbohydrates", "Preserve muscle mass and optimize performance", "Increase dehydration risk", "Reduce recovery capacity"],
+    "answer_index": 1,
+    "explanation": "Providing protein prior to training can help preserve muscle mass and optimize performance."
+  },
+  {
+    "id": "pt1_q31",
+    "question": "Which grip type is typically used for a deadlift to enhance grip strength and prevent bar rotation?",
+    "choices": ["Mixed grip", "Hook grip", "Overhand grip", "Neutral grip"],
+    "answer_index": 0,
+    "explanation": "A mixed grip (one hand overhand, one underhand) increases bar security and helps prevent rotation during deadlifts."
+  },
+  {
+    "id": "pt1_q32",
+    "question": "During a back squat, at what joint should the lifter initiate the movement first?",
+    "choices": ["Ankle", "Knee", "Hip", "Spine"],
+    "answer_index": 2,
+    "explanation": "Proper squat mechanics begin with the hips moving backward, keeping the weight over the midfoot and minimizing knee stress."
+  },
+  {
+    "id": "pt1_q33",
+    "question": "Which cue is MOST appropriate to maintain proper form during a bench press?",
+    "choices": ["Flare elbows out at 90 degrees", "Retract and depress scapulae", "Lift hips off the bench for more power", "Keep wrists bent back"],
+    "answer_index": 1,
+    "explanation": "Keeping the scapulae retracted and depressed provides shoulder stability and safer movement during the bench press."
+  },
+  {
+    "id": "pt1_q34",
+    "question": "Which of the following describes the eccentric phase in a plyometric exercise?",
+    "choices": ["Muscle shortening", "Muscle lengthening", "Isometric stabilization", "Muscle contraction without movement"],
+    "answer_index": 1,
+    "explanation": "The eccentric phase occurs when the muscle lengthens under tension, such as during the landing phase of a jump."
+  },
+  {
+    "id": "pt1_q35",
+    "question": "Which drill is most appropriate for developing lower-body power in an athlete?",
+    "choices": ["Bounding", "Lateral shuffle", "Side plank", "Jogging"],
+    "answer_index": 0,
+    "explanation": "Bounding exercises develop explosive strength and elastic power in the lower body muscles."
+  },
+  {
+    "id": "pt1_q36",
+    "question": "Refer to the diagram below of a depth jump setup. Which key aspect should be emphasized when performing a depth jump?",
+    "choices": ["Land softly with flexed knees", "Immediate, minimal ground contact time", "Maximal vertical jump effort", "Focus"],
+    "answer_index": 1,
+    "explanation": "Reducing ground contact time maximizes the explosive power transfer from eccentric to concentric contraction."
+  },
+  {
+    "id": "pt1_q37",
+    "question": "What component of speed is most influenced by resistance sprint drills?",
+    "choices": ["Reaction time", "Acceleration", "Top-end speed", "Lateral quickness"],
+    "answer_index": 1,
+    "explanation": "Resistance sprint drills (like sled pushes) primarily improve the early acceleration phase of sprinting."
+  },
+  {
+    "id": "pt1_q38",
+    "question": "Which drill best develops change-of-direction speed?",
+    "choices": ["T-test", "I-test", "L-test", "S-test"],
+    "answer_index": 0,
+    "explanation": "The T-test involves forward sprinting, side shuffling, and backward running, improving multi-directional agility."
+  },
+  {
+    "id": "pt1_q39",
+    "question": "Elite sprinters are characterized by:",
+    "choices": ["Long ground contact time", "Excessive forward lean", "Reduced stride frequency", "Short ground contact time"],
+    "answer_index": 3,
+    "explanation": "Elite sprinters minimize ground contact time, maximizing force application into the ground for speed development."
+  },
+  {
+    "id": "pt1_q40",
+    "question": "In Olympic weightlifting, the second pull is characterized by:",
+    "choices": ["Knee bend", "Maximum force and triple extension", "Catch position", "First upward pull from the floor"],
+    "answer_index": 1,
+    "explanation": "The second pull involves explosive extension at the hips, knees, and ankles to generate maximal bar acceleration."
+  },
+  {
+    "id": "pt1_q41",
+    "question": "When coaching a volleyball athlete, which exercise is MOST sport-specific?",
+    "choices": ["Depth jumps", "Overhead squat", "Barbell hip thrust", "Plank holds"],
+    "answer_index": 0,
+    "explanation": "Depth jumps closely mimic the explosive nature of vertical jumping in volleyball, making it sport-specific."
+  },
+  {
+    "id": "pt1_q42",
+    "question": "Which muscle group is crucial for shoulder stabilization during overhead movements like pitching?",
+    "choices": ["Trapezius", "Rotator cuff", "Latissimus dorsi", "Pectoralis major"],
+    "answer_index": 1,
+    "explanation": "Rotator cuff muscles stabilize the shoulder during high-velocity overhead motions like pitching."
+  },
+  {
+    "id": "pt1_q43",
+    "question": "Dynamic stretching is recommended before activity because it:",
+    "choices": ["Decreases core temperature", "Reduces joint mobility", "Causes fatigue prior to exercise", "Increases core temperature and mobility"],
+    "answer_index": 3,
+    "explanation": "Dynamic stretching increases core temperature and mobility, preparing muscles for activity without compromising performance."
+  },
+  {
+    "id": "pt1_q44",
+    "question": "Which flexibility exercise best improves hip extension mobility relevant to deep squats?",
+    "choices": ["Hip flexor lunge stretch", "Toe-touch stretch", "Seated hamstring stretch", "Wrist flexor stretch"],
+    "answer_index": 0,
+    "explanation": "Hip flexor stretches improve hip extension and mobility, essential for deep squats."
+  },
+  {
+    "id": "pt1_q45",
+    "question": "Which tool is commonly used for self-myofascial release to reduce muscle tension and improve tissue quality?",
+    "choices": ["Foam roller", "Lacrosse ball only", "Massage gun only", "Stretch strap"],
+    "answer_index": 0,
+    "explanation": "Foam rollers are commonly used for self-myofascial release to reduce muscle tension and improve tissue quality."
+  },
+  {
+    "id": "pt1_q46",
+    "question": "Which analysis identifies the most common injuries in a sport to design preventive and corrective programs?",
+    "choices": ["Biomechanical analysis", "Injury analysis", "Needs analysis", "Performance profiling"],
+    "answer_index": 1,
+    "explanation": "Injury analysis identifies the most common injuries in a sport to design preventive and corrective training programs."
+  },
+  {
+    "id": "pt1_q47",
+    "question": "In program design, beginners should first focus on:",
+    "choices": ["Developing movement competency and technique", "Maximizing training volume immediately", "Sport specialization only", "Complex Olympic lifts early"],
+    "answer_index": 0,
+    "explanation": "Beginners should focus on mastering basic movement patterns and correct technique before progressing to complex exercises."
+  },
+  {
+    "id": "pt1_q48",
+    "question": "In linear periodization, training intensity typically:",
+    "choices": ["Decreases while volume increases", "Increases while volume decreases", "Stays constant year-round", "Increases with volume increasing"],
+    "answer_index": 1,
+    "explanation": "In linear periodization, intensity increases while training volume decreases progressively over time."
+  },
+  {
+    "id": "pt1_q49",
+    "question": "Which phase of periodization emphasizes foundational strength, hypertrophy, and general fitness before sport-specific training?",
+    "choices": ["Preparatory phase", "Peaking phase", "Competition phase", "Transition phase"],
+    "answer_index": 0,
+    "explanation": "The preparatory phase emphasizes foundational strength, hypertrophy, and basic fitness before advancing to sport-specific training."
+  },
+  {
+    "id": "pt1_q50",
+    "question": "A mesocycle typically lasts:",
+    "choices": ["1–2 days", "4–6 weeks", "6–12 months", "2–3 years"],
+    "answer_index": 1,
+    "explanation": "A mesocycle typically spans 4–6 weeks and focuses on achieving specific adaptation like strength or endurance."
+  },
+  {
+    "id": "pt1_q51",
+    "question": "Power or explosive exercises should typically be performed:",
+    "choices": ["At the end of the workout when fatigued", "Early in the workout when fresh", "Only on recovery days", "Only after isolation work"],
+    "answer_index": 1,
+    "explanation": "Power movements should be prioritized early in the workout when the athlete is not fatigued."
+  },
+  {
+    "id": "pt1_q52",
+    "question": "The primary goal of hypertrophy training is to:",
+    "choices": ["Increase muscle cross-sectional area", "Maximize VO2 max", "Reduce tendon stiffness", "Decrease muscle size"],
+    "answer_index": 0,
+    "explanation": "Hypertrophy training aims to increase muscle size by promoting muscle fiber growth."
+  },
+  {
+    "id": "pt1_q53",
+    "question": "Training at approximately 85% of 1RM for low repetitions typically targets:",
+    "choices": ["Strength development", "Muscular endurance", "Speed development", "Flexibility"],
+    "answer_index": 0,
+    "explanation": "Training at 85% of 1RM for low repetitions is typical for maximal strength development."
+  },
+  {
+    "id": "pt1_q54",
+    "question": "An athlete completes five sets of 5 repetitions at 85% 1RM. This training primarily targets:",
+    "choices": ["Strength development", "Hypertrophy", "Power production", "Muscular endurance"],
+    "answer_index": 0,
+    "explanation": "Training at ~85% of 1RM for low repetitions is characteristic of maximal strength development."
+  },
+  {
+    "id": "pt1_q55",
+    "question": "Which lift is an example of a compound, multi-joint movement typically prioritized early in a session?",
+    "choices": ["Biceps curl", "Barbell back squat", "Triceps pushdown", "Calf raise"],
+    "answer_index": 1,
+    "explanation": "Compound, multi-joint movements should be prioritized early in the session when the athlete is fresh."
+  },
+  {
+    "id": "pt1_q56",
+    "question": "A training program that alternates upper and lower body exercises within the same session is designed to:",
+    "choices": ["Maximize fatigue", "Eliminate recovery needs", "Alternate between upper and lower", "Reduce strength gains"],
+    "answer_index": 2,
+    "explanation": "Alternating upper and lower body exercises can improve training efficiency and recovery during the session."
+  },
+  {
+    "id": "pt1_q57",
+    "question": "Circuit training most strongly emphasizes:",
+    "choices": ["Maximal strength", "Power", "Flexibility", "Aerobic endurance"],
+    "answer_index": 3,
+    "explanation": "Circuit training minimizes rest between exercises, promoting muscular endurance and aerobic conditioning."
+  },
+  {
+    "id": "pt1_q58",
+    "question": "Supercompensation is most associated with the:",
+    "choices": ["Preparatory phase", "Recovery phase", "Peaking phase", "Transition phase"],
+    "answer_index": 1,
+    "explanation": "Supercompensation is the body’s enhanced adaptation following proper recovery after training stress."
+  },
+  {
+    "id": "pt1_q59",
+    "question": "A hallmark sign of overtraining is:",
+    "choices": ["Increased performance with fatigue", "Decreased performance despite high training volume", "Rapid muscle gain", "Improved sleep quality"],
+    "answer_index": 1,
+    "explanation": "Persistent performance decline along with fatigue are hallmark signs of overtraining."
+  },
+  {
+    "id": "pt1_q60",
+    "question": "Most athletes require approximately how much sleep per night to support recovery and performance?",
+    "choices": ["4–5 hours", "5–6 hours", "6–7 hours", "7–9 hours"],
+    "answer_index": 3,
+    "explanation": "Athletes require 7–9 hours of sleep per night to support recovery, hormone regulation, and overall performance."
+  },
+  {
+    "id": "pt1_q61",
+    "question": "A recommended training space allocation per athlete in a weight room is approximately:",
+    "choices": ["10–15 square feet", "20–25 square feet", "35–50 square feet", "80–100 square feet"],
+    "answer_index": 2,
+    "explanation": "Providing 35–50 square feet per athlete ensures safety, comfort, and freedom of movement during training sessions."
+  },
+  {
+    "id": "pt1_q62",
+    "question": "An important factor in weight room design to reduce accidents and congestion is:",
+    "choices": ["Mirrors in every corner", "Dim lighting", "Safe flow of traffic and equipment accessibility", "Crowding equipment together"],
+    "answer_index": 2,
+    "explanation": "Safety and efficiency in movement are critical factors in facility design to prevent accidents and congestion."
+  },
+  {
+    "id": "pt1_q63",
+    "question": "A treadmill should be placed near exits primarily to:",
+    "choices": ["Allow quick evacuation and reduce obstruction", "Increase noise levels", "Improve aesthetics", "Encourage group use"],
+    "answer_index": 0,
+    "explanation": "Cardio equipment like treadmills should be placed near exits for quick evacuation and minimal obstruction."
+  },
+  {
+    "id": "pt1_q64",
+    "question": "The legal responsibility of fitness professionals to take necessary actions to protect clients from harm is called:",
+    "choices": ["Negligence", "Duty of care", "Assumption of risk", "Vicarious liability"],
+    "answer_index": 1,
+    "explanation": "Duty of care requires fitness professionals to take necessary actions to protect clients from harm."
+  },
+  {
+    "id": "pt1_q65",
+    "question": "Keeping equipment safe and functional to reduce injury risk requires:",
+    "choices": ["Only replacing equipment yearly", "Limiting athlete access", "Regular equipment maintenance and inspection", "Using equipment until failure"],
+    "answer_index": 2,
+    "explanation": "Keeping equipment safe and functional significantly reduces the risk of injury during workouts."
+  },
+  {
+    "id": "pt1_q66",
+    "question": "Which document, signed before participation, outlines the risks involved in physical activity?",
+    "choices": ["Insurance form", "Liability waiver", "Code of conduct", "Incident report"],
+    "answer_index": 1,
+    "explanation": "A liability waiver informs clients of potential risks and reduces legal exposure for fitness facilities."
+  },
+  {
+    "id": "pt1_q67",
+    "question": "Which of the following actions by a coach would be considered unethical?",
+    "choices": ["Reporting suspected abuse", "Recommending performance-enhancing drugs", "Promoting injury prevention techniques", "Encouraging proper warm-up routines"],
+    "answer_index": 1,
+    "explanation": "Suggesting or providing banned substances is unethical and against professional conduct standards."
+  },
+  {
+    "id": "pt1_q68",
+    "question": "Which law requires that individuals with disabilities have equal access to public facilities, including fitness centers?",
+    "choices": ["Civil Rights Act", "Occupational Safety and Health Act", "Americans with Disabilities Act (ADA)", "Family and Medical Leave Act"],
+    "answer_index": 2,
+    "explanation": "The ADA mandates that facilities must be accessible to individuals with disabilities."
+  },
+  {
+    "id": "pt1_q69",
+    "question": "If a coach shares an athlete’s private health information without consent, they may be violating which law?",
+    "choices": ["FERPA", "Title IX", "OSHA", "HIPAA"],
+    "answer_index": 3,
+    "explanation": "HIPAA protects the confidentiality of medical records and personal health information."
+  },
+  {
+    "id": "pt1_q70",
+    "question": "When purchasing new weight room equipment, what is the most important factor to consider?",
+    "choices": ["Safety and durability standards", "Popularity of the brand", "Color and style", "Trendiness in the market"],
+    "answer_index": 0,
+    "explanation": "Equipment must meet safety and durability standards to ensure athlete safety and long-term use."
+  },
+  {
+    "id": "pt1_q71",
+    "question": "Which piece of equipment requires the most frequent inspection due to heavy usage?",
+    "choices": ["Stability balls", "Resistance bands", "Squat racks and barbells", "Plyometric boxes"],
+    "answer_index": 2,
+    "explanation": "These high-load equipment pieces are heavily used and critical for safety, requiring regular inspections."
+  },
+  {
+    "id": "pt1_q72",
+    "question": "Which preventive maintenance step is essential for treadmills?",
+    "choices": ["Oil the cables weekly", "Replace the motor monthly", "Lubricate the running belt periodically", "Calibrate incline daily"],
+    "answer_index": 2,
+    "explanation": "Proper lubrication prevents friction, overheating, and premature wear on treadmill belts."
+  },
+  {
+    "id": "pt1_q73",
+    "question": "Which of the following best promotes professional development among strength and conditioning staff?",
+    "choices": ["Requiring monthly staff meetings", "Encouraging participation in continuing education courses", "Offering bonuses only for high attendance", "Restricting knowledge to head coaches"],
+    "answer_index": 1,
+    "explanation": "Continued education ensures that coaches stay current with the latest research and best practices."
+  },
+  {
+    "id": "pt1_q74",
+    "question": "What is the MOST important factor when hiring new strength and conditioning staff?",
+    "choices": ["Appearance", "Low salary expectations", "Ability to market the facility", "Certification and practical experience"],
+    "answer_index": 3,
+    "explanation": "Credentials and hands-on experience are critical for ensuring qualified, safe, and effective coaching."
+  },
+  {
+    "id": "pt1_q75",
+    "question": "In a staff evaluation process, which of the following should be emphasized the most?",
+    "choices": ["Adherence to professional standards and job performance", "Number of social media posts", "Ability to sell memberships", "Number of hours spent in the facility"],
+    "answer_index": 0,
+    "explanation": "Evaluations should focus on professionalism, effectiveness, and the ability to uphold safety and ethical standards."
+  },
+  {
+    "id": "pt1_q76",
+    "question": "Which of the following tests measures maximum muscular strength?",
+    "choices": ["Vertical jump test", "1-repetition maximum (1RM) bench press", "Yo-Yo intermittent recovery test", "Pro agility shuttle"],
+    "answer_index": 1,
+    "explanation": "The 1RM bench press measures maximal strength by determining the heaviest weight an individual can lift once."
+  },
+  {
+    "id": "pt1_q77",
+    "question": "Which performance test would best assess lower-body explosive power?",
+    "choices": ["Standing long jump", "1RM squat", "300-yard shuttle", "Curl-up test"],
+    "answer_index": 0,
+    "explanation": "The standing long jump measures horizontal explosive power from the lower body."
+  },
+  {
+    "id": "pt1_q78",
+    "question": "During strength testing, how much rest is recommended between maximal attempts?",
+    "choices": ["30 seconds", "1 minute", "2–5 minutes", "10 minutes"],
+    "answer_index": 2,
+    "explanation": "Sufficient recovery (2–5 minutes) between maximal attempts helps ensure accurate strength assessment."
+  },
+  {
+    "id": "pt1_q79",
+    "question": "Which test is MOST appropriate for assessing aerobic endurance in well-trained athletes?",
+    "choices": ["300-yard shuttle run", "12-minute Cooper test", "Vertical jump test", "1RM power clean"],
+    "answer_index": 1,
+    "explanation": "The Cooper test evaluates aerobic endurance by measuring the distance covered in 12 minutes."
+  },
+  {
+    "id": "pt1_q80",
+    "question": "Which of the following primarily assesses anaerobic capacity?",
+    "choices": ["1.5-mile run", "Skinfold measurement", "Sit-and-reach test", "Wingate anaerobic test"],
+    "answer_index": 3,
+    "explanation": "The Wingate test measures peak anaerobic power and anaerobic capacity during a 30-second maximal effort cycle."
+  },
+  {
+    "id": "pt1_q81",
+    "question": "Refer to the chart below and determine the anaerobic power output (Power = Force × Distance ÷ Time). Time = 5 sec, Force = 800 N, Distance = 30 m. What is the anaerobic power output?",
+    "choices": ["4000 W", "4800 W", "5000 W", "5200 W"],
+    "answer_index": 1,
+    "explanation": "800 N × 30 m ÷ 5 sec = 4800 W."
+  },
+  {
+    "id": "pt1_q82",
+    "question": "Which method provides the MOST accurate assessment of body fat percentage?",
+    "choices": ["BMI", "Skinfold caliper measurement", "Hydrostatic weighing", "Bioelectrical impedance analysis"],
+    "answer_index": 2,
+    "explanation": "Hydrostatic weighing is considered the gold standard for body composition measurement, despite being less accessible."
+  },
+  {
+    "id": "pt1_q83",
+    "question": "Which skinfold site is measured for a three-site skinfold test for women?",
+    "choices": ["Chest, abdomen, thigh", "Triceps, suprailiac, thigh", "Biceps, calf, thigh", "Subscapular, abdomen, calf"],
+    "answer_index": 1,
+    "explanation": "These are standard skinfold sites for estimating body fat percentage in women using the three-site method."
+  },
+  {
+    "id": "pt1_q84",
+    "question": "When using a skinfold caliper, how long should you wait after pinching the skin before taking the measurement?",
+    "choices": ["Immediately", "1 second", "3 seconds", "5 seconds"],
+    "answer_index": 2,
+    "explanation": "Waiting 3 seconds after pinching allows the skinfold to stabilize, providing a more accurate measurement."
+  },
+  {
+    "id": "pt1_q85",
+    "question": "Which movement screen assesses stability and mobility of the shoulders?",
+    "choices": ["Shoulder mobility test", "Inline lunge", "Deep squat", "Hurdle step"],
+    "answer_index": 0,
+    "explanation": "The shoulder mobility test evaluates bilateral shoulder range of motion, combining internal rotation with adduction."
+  },
+  {
+    "id": "pt1_q86",
+    "question": "During the deep squat test, a compensatory movement such as heel lift-off typically indicates tightness in which muscle group?",
+    "choices": ["Hamstrings", "Hip flexors", "Gastrocnemius/soleus", "Gluteus maximus"],
+    "answer_index": 2,
+    "explanation": "Tight calves can restrict ankle dorsiflexion, causing heels to lift during a deep squat."
+  },
+  {
+    "id": "pt1_q87",
+    "question": "Which functional movement screen best identifies asymmetries in single-leg strength and mobility?",
+    "choices": ["Hurdle step", "Trunk stability push-up", "Rotary stability test", "Active straight leg raise"],
+    "answer_index": 0,
+    "explanation": "The hurdle step challenges single-leg balance, strength, and mobility, revealing side-to-side asymmetries."
+  },
+  {
+    "id": "pt1_q88",
+    "question": "What is the primary purpose of performance analysis in strength and conditioning programs?",
+    "choices": ["To track equipment maintenance schedules", "To monitor progress and adjust programs accordingly", "To determine team captains", "To design marketing strategies"],
+    "answer_index": 1,
+    "explanation": "Performance analysis helps in evaluating effectiveness and making necessary modifications to training programs."
+  },
+  {
+    "id": "pt1_q89",
+    "question": "Which of the following is a key performance indicator (KPI) for a sprinter?",
+    "choices": ["VO2 max", "Skinfold body fat", "Bench press 1RM", "40-yard dash time"],
+    "answer_index": 3,
+    "explanation": "Sprint times like the 40-yard dash are primary indicators of speed performance for sprinters."
+  },
+  {
+    "id": "pt1_q90",
+    "question": "In athlete performance testing, why is it important to test under similar conditions (same time of day, similar environment)?",
+    "choices": ["To favor morning athletes", "To avoid excessive competition", "To ensure consistency and validity of results", "To limit athlete improvement"],
+    "answer_index": 2,
+    "explanation": "Testing under consistent conditions ensures that performance changes are due to training, not environmental factors."
+  },
+  {
+    "id": "pt1_q91",
+    "question": "Which variable is MOST critical when assessing muscular power using the vertical jump test?",
+    "choices": ["Speed of movement", "Body fat percentage", "Reaction time", "Flexibility"],
+    "answer_index": 0,
+    "explanation": "Muscular power is a combination of strength and speed; in vertical jumps, quick force production is essential."
+  },
+  {
+    "id": "pt1_q92",
+    "question": "What is the primary goal of conducting a 1RM test for the bench press?",
+    "choices": ["Test aerobic endurance", "Assess flexibility", "Measure upper body maximal strength", "Evaluate muscle endurance"],
+    "answer_index": 2,
+    "explanation": "1RM testing measures the maximal amount of force that can be exerted by the upper body muscles."
+  },
+  {
+    "id": "pt1_q93",
+    "question": "The Yo-Yo Intermittent Recovery Test is designed to assess an athlete’s:",
+    "choices": ["Flexibility", "Maximal strength", "Body composition", "Anaerobic and aerobic endurance"],
+    "answer_index": 3,
+    "explanation": "The Yo-Yo test evaluates an athlete’s ability to repeatedly perform intense exercise with short recovery periods."
+  },
+  {
+    "id": "pt1_q94",
+    "question": "Which protocol is BEST for testing an athlete’s maximal aerobic capacity (VO2 max)?",
+    "choices": ["Wingate test", "12-minute Cooper run", "Hexagon agility test", "Skinfold measurements"],
+    "answer_index": 1,
+    "explanation": "The Cooper test is widely used to estimate VO2 max based on the distance covered in 12 minutes of running."
+  },
+  {
+    "id": "pt1_q95",
+    "question": "Which tool is primarily used in a skinfold measurement to assess body fat percentage?",
+    "choices": ["Measuring tape", "Stethoscope", "Skinfold caliper", "Bioelectrical impedance device"],
+    "answer_index": 2,
+    "explanation": "Skinfold calipers measure subcutaneous fat thickness at standard sites to estimate total body fat percentage."
+  },
+  {
+    "id": "pt1_q96",
+    "question": "If an athlete’s weight remains constant but their body fat percentage decreases, this indicates an increase in:",
+    "choices": ["Body fat mass", "Muscle mass", "Water retention", "Calorie intake"],
+    "answer_index": 1,
+    "explanation": "A drop in body fat percentage while maintaining weight typically indicates gains in lean muscle tissue."
+  },
+  {
+    "id": "pt1_q97",
+    "question": "Which movement pattern is evaluated during the inline lunge test in FMS?",
+    "choices": ["Lower body unilateral stability and mobility", "Rotational stability", "Upper body mobility", "Aerobic endurance"],
+    "answer_index": 0,
+    "explanation": "The inline lunge test assesses balance, strength, and mobility on each leg individually."
+  },
+  {
+    "id": "pt1_q98",
+    "question": "During the active straight leg raise test, what is the primary factor being assessed?",
+    "choices": ["Knee stability", "Hamstring and hip flexor flexibility", "Upper back strength", "Shoulder mobility"],
+    "answer_index": 1,
+    "explanation": "The active straight leg raise measures the flexibility and control of the hamstrings and hip flexors."
+  },
+  {
+    "id": "pt1_q99",
+    "question": "Which of the following BEST describes a qualitative analysis in sports performance testing?",
+    "choices": ["Measuring sprint times precisely", "Using force plates for jumping analysis", "Observing movement patterns for technique evaluation", "Recording maximal oxygen consumption"],
+    "answer_index": 2,
+    "explanation": "Qualitative analysis involves subjective assessments such as evaluating an athlete’s movement efficiency and form."
+  },
+  {
+    "id": "pt1_q100",
+    "question": "When analyzing performance test results, what is the primary benefit of using norm-referenced data?",
+    "choices": ["Comparing an athlete to personal bests", "Establishing group averages only", "Predicting an athlete’s injury risk", "Comparing an athlete’s performance to a larger reference group"],
+    "answer_index": 3,
+    "explanation": "Norm-referenced data allows athletes to compare their performance against standard benchmarks from peer groups."
+  }
+]

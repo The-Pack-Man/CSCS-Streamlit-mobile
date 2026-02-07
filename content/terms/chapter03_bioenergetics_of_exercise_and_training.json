@@ -1,0 +1,712 @@
+[
+  {
+    "term": "adenosine diphosphate (ADP)",
+    "aliases": ["ADP"],
+    "definitions": [
+      "A nucleotide formed when ATP loses one phosphate group (ATP → ADP + Pi).",
+      "The lower-energy form of ATP after one phosphate bond has been broken.",
+      "A molecule that can be rephosphorylated to ATP to store usable cellular energy.",
+      "A product of ATP hydrolysis that helps signal cellular energy demand."
+    ]
+  },
+  {
+    "term": "adenosine monophosphate (AMP)",
+    "aliases": ["AMP"],
+    "definitions": [
+      "A nucleotide formed when ATP loses two phosphate groups (ATP → AMP + PPi in some reactions).",
+      "A low-energy adenine nucleotide that rises when cellular energy is stressed.",
+      "A molecule produced in the adenylate kinase reaction (2 ADP → ATP + AMP).",
+      "A cellular signal of low energy status that can help regulate metabolism."
+    ]
+  },
+  {
+    "term": "adenosine triphosphatase (ATPase)",
+    "aliases": ["ATPase"],
+    "definitions": [
+      "An enzyme that catalyzes ATP breakdown into ADP + inorganic phosphate (Pi).",
+      "A protein that uses the energy released from ATP hydrolysis to do work (e.g., pumping ions, moving filaments).",
+      "An ATP-splitting enzyme; different ATPases perform different cellular tasks.",
+      "A catalyst that converts ATP’s chemical energy into mechanical, transport, or signaling work."
+    ]
+  },
+  {
+    "term": "adenosine triphosphate (ATP)",
+    "aliases": ["ATP"],
+    "definitions": [
+      "The primary energy currency of the cell.",
+      "A high-energy nucleotide whose phosphate bonds provide usable energy when hydrolyzed.",
+      "A molecule that stores and transfers energy to power cellular work (contraction, transport, synthesis).",
+      "The immediate energy source for many biological processes, regenerated continuously."
+    ]
+  },
+  {
+    "term": "adenylate kinase reaction",
+    "aliases": ["myokinase reaction", "adenylate kinase", "AK reaction"],
+    "definitions": [
+      "Reaction that regenerates ATP by combining two ADP molecules: 2 ADP → ATP + AMP.",
+      "A rapid ATP-buffering reaction that helps maintain ATP during high demand.",
+      "A pathway that produces ATP and AMP when ADP accumulates.",
+      "Enzymatic reaction (via adenylate kinase) that supports short-term energy balance."
+    ]
+  },
+  {
+    "term": "aerobic",
+    "aliases": [],
+    "definitions": [
+      "Requiring oxygen for energy production.",
+      "Describing processes that use O₂ as part of ATP generation.",
+      "Energy metabolism supported by oxygen availability (oxidative).",
+      "Relating to sustained activities primarily fueled by oxidative pathways."
+    ]
+  },
+  {
+    "term": "aerobic glycolysis",
+    "aliases": [],
+    "definitions": [
+      "Glycolysis occurring when oxygen is available; pyruvate is formed and can enter aerobic pathways.",
+      "Breakdown of glucose to pyruvate with downstream oxidation supported by oxygen.",
+      "Glycolytic production of pyruvate that can be converted to acetyl-CoA and enter the Krebs cycle.",
+      "Carbohydrate breakdown where end-product pyruvate is handled oxidatively rather than largely to lactate."
+    ]
+  },
+  {
+    "term": "allosteric activation",
+    "aliases": [],
+    "definitions": [
+      "Increased enzyme activity caused by an activator binding away from the active site.",
+      "Enzyme stimulation via binding at a regulatory (allosteric) site that changes enzyme shape/function.",
+      "A regulation method where a molecule boosts enzyme rate without occupying the substrate site.",
+      "Positive allosteric regulation that enhances catalytic activity."
+    ]
+  },
+  {
+    "term": "allosteric inhibition",
+    "aliases": [],
+    "definitions": [
+      "Decreased enzyme activity caused by an inhibitor binding away from the active site.",
+      "Enzyme slowing via binding at a regulatory site that alters enzyme conformation.",
+      "Negative regulation where a molecule reduces enzyme function without competing at the active site.",
+      "Allosteric control that lowers pathway flux by reducing a key enzyme’s activity."
+    ]
+  },
+  {
+    "term": "anabolism",
+    "aliases": [],
+    "definitions": [
+      "Synthesis of complex molecules from simpler ones; requires energy input.",
+      "Building processes that consume ATP to create larger structures (e.g., protein synthesis).",
+      "Constructive metabolism: assembling tissues or molecules from smaller units.",
+      "Energy-requiring pathways that create storage or structural compounds."
+    ]
+  },
+  {
+    "term": "anaerobic",
+    "aliases": [],
+    "definitions": [
+      "Occurring without the use of oxygen.",
+      "Describing energy production that does not rely on O₂ availability.",
+      "Relating to pathways that can generate ATP without oxygen (phosphagen, glycolysis).",
+      "Metabolism or activity performed in the absence of sufficient oxygen supply."
+    ]
+  },
+  {
+    "term": "anaerobic glycolysis",
+    "aliases": ["fast glycolysis (contextual)"],
+    "definitions": [
+      "Glycolysis without sufficient oxygen; produces ATP and lactate from pyruvate.",
+      "Carbohydrate breakdown where pyruvate is largely converted to lactate to maintain glycolytic flux.",
+      "ATP production via glycolysis with lactate formation when oxidative processing can’t keep up.",
+      "High-rate glycolytic pathway supporting intense efforts, commonly associated with lactate accumulation."
+    ]
+  },
+  {
+    "term": "beta oxidation",
+    "aliases": ["β-oxidation"],
+    "definitions": [
+      "Breakdown of fatty acids into acetyl-CoA units for aerobic metabolism.",
+      "A mitochondrial process that chops fatty acids into two-carbon fragments (acetyl-CoA).",
+      "Fat metabolism pathway generating acetyl-CoA and electron carriers for ATP production.",
+      "Oxidative fat breakdown feeding the Krebs cycle and electron transport chain."
+    ]
+  },
+  {
+    "term": "bioenergetics",
+    "aliases": [],
+    "definitions": [
+      "Study of how energy flows and is transformed in biological systems.",
+      "The science of ATP production, utilization, and energy pathways in cells.",
+      "Examination of metabolic systems supplying energy for life and exercise.",
+      "Field focused on how organisms capture, store, and use energy."
+    ]
+  },
+  {
+    "term": "branched-chain amino acid",
+    "aliases": ["BCAA", "BCAAs"],
+    "definitions": [
+      "Amino acids with branched side chains: leucine, isoleucine, and valine.",
+      "Three essential amino acids commonly linked to muscle metabolism (Leu, Ile, Val).",
+      "Branched-structure amino acids that can be oxidized by muscle and influence protein synthesis signaling.",
+      "Leucine, isoleucine, and valine—dietary amino acids with unique branching structure."
+    ]
+  },
+  {
+    "term": "calcium ATPase",
+    "aliases": ["SERCA", "Ca2+ ATPase"],
+    "definitions": [
+      "An ATP-driven pump that moves calcium back into the sarcoplasmic reticulum to promote relaxation.",
+      "Enzyme that uses ATP to resequester Ca²⁺ into the SR after contraction.",
+      "Calcium pump responsible for lowering cytosolic calcium so muscle can relax.",
+      "ATPase that restores SR calcium stores by active transport."
+    ]
+  },
+  {
+    "term": "catabolism",
+    "aliases": [],
+    "definitions": [
+      "Breakdown of complex molecules into simpler ones, releasing energy.",
+      "Degradative metabolism that produces substrates and energy (ATP/electron carriers).",
+      "Processes that dismantle fuels (carbs, fats, proteins) to harvest usable energy.",
+      "Energy-yielding metabolic pathways that reduce large compounds to smaller units."
+    ]
+  },
+  {
+    "term": "combination training",
+    "aliases": [],
+    "definitions": [
+      "Training that mixes different energy system demands within a session or program.",
+      "Programming that combines aerobic, anaerobic, and/or phosphagen-focused work.",
+      "A plan that integrates multiple metabolic targets (e.g., intervals + steady-state).",
+      "Training approach blending energy-system stresses to develop broad conditioning."
+    ]
+  },
+  {
+    "term": "Cori cycle",
+    "aliases": [],
+    "definitions": [
+      "Pathway where lactate from muscle is converted to glucose in the liver.",
+      "Recycling loop: lactate → liver gluconeogenesis → glucose returned to blood.",
+      "A lactate-to-glucose conversion process supporting blood glucose during/after exercise.",
+      "Metabolic shuttle that helps clear lactate by converting it back into glucose."
+    ]
+  },
+  {
+    "term": "creatine kinase",
+    "aliases": ["CK"],
+    "definitions": [
+      "Enzyme that transfers a phosphate from phosphocreatine to ADP to rapidly regenerate ATP.",
+      "Catalyst of the PCr system: PCr + ADP → ATP + creatine.",
+      "Key enzyme enabling immediate ATP resynthesis during short, intense efforts.",
+      "Rapid energy-buffer enzyme that maintains ATP availability in muscle."
+    ]
+  },
+  {
+    "term": "creatine phosphate (CP)",
+    "aliases": ["phosphocreatine", "PCr", "CP"],
+    "definitions": [
+      "High-energy phosphate compound used to rapidly regenerate ATP.",
+      "Stored phosphate donor that buffers ATP during maximal/near-maximal efforts.",
+      "Immediate energy reserve in muscle that replenishes ATP via creatine kinase.",
+      "A quick ATP resynthesis substrate in the phosphagen system."
+    ]
+  },
+  {
+    "term": "cytochrome",
+    "aliases": [],
+    "definitions": [
+      "Electron-transfer proteins involved in the electron transport chain.",
+      "Heme-containing carriers that pass electrons between ETC complexes.",
+      "Proteins that facilitate electron flow during oxidative phosphorylation.",
+      "ETC components that help move electrons toward oxygen as the final acceptor."
+    ]
+  },
+  {
+    "term": "depletion",
+    "aliases": [],
+    "definitions": [
+      "Reduction or exhaustion of energy substrates within cells.",
+      "Drop in stored fuel availability (e.g., glycogen or PCr).",
+      "A state where key metabolic resources become significantly reduced.",
+      "Loss of substrate stores that can limit performance or recovery."
+    ]
+  },
+  {
+    "term": "electron transport chain (ETC)",
+    "aliases": ["ETC"],
+    "definitions": [
+      "Series of mitochondrial complexes that transfer electrons and drive ATP production.",
+      "Electron-passing system that creates a proton gradient used to make ATP.",
+      "Oxidative pathway where NADH/FADH2 donate electrons to ultimately reduce oxygen to water.",
+      "Mitochondrial membrane complexes that power oxidative phosphorylation via chemiosmosis."
+    ]
+  },
+  {
+    "term": "endergonic reaction",
+    "aliases": [],
+    "definitions": [
+      "A chemical reaction that requires an input of energy.",
+      "Energy-consuming reaction; products have higher free energy than reactants.",
+      "Non-spontaneous reaction that must be driven (often by coupling to ATP).",
+      "Reaction that proceeds only when energy is supplied."
+    ]
+  },
+  {
+    "term": "energy",
+    "aliases": [],
+    "definitions": [
+      "The capacity to do work.",
+      "Ability to produce change or perform work on a system.",
+      "In physiology, usable capacity to drive biological processes (often via ATP).",
+      "A property that can be transformed (chemical, mechanical, thermal) but not created or destroyed."
+    ]
+  },
+  {
+    "term": "energy substrate",
+    "aliases": ["fuel substrate", "metabolic substrate"],
+    "definitions": [
+      "A substance used to produce energy, such as carbohydrate, fat, or protein.",
+      "Fuel source oxidized or broken down to support ATP resynthesis.",
+      "Metabolic input that can be converted into ATP through cellular pathways.",
+      "Nutrients that serve as raw materials for energy production."
+    ]
+  },
+  {
+    "term": "excess postexercise oxygen consumption (EPOC)",
+    "aliases": ["EPOC", "oxygen debt (older)"],
+    "definitions": [
+      "Elevated oxygen uptake after exercise that helps restore resting conditions.",
+      "Post-exercise rise in VO₂ used for recovery processes (restoring PCr, clearing metabolites, temperature).",
+      "The extra oxygen consumed above resting level during recovery following exercise.",
+      "Recovery oxygen consumption reflecting the cost of returning the body to homeostasis."
+    ]
+  },
+  {
+    "term": "exergonic reaction",
+    "aliases": [],
+    "definitions": [
+      "A chemical reaction that releases energy.",
+      "Energy-yielding reaction; products have lower free energy than reactants.",
+      "Spontaneous reaction that can drive work or be coupled to endergonic processes.",
+      "Reaction that liberates usable energy (often captured in ATP/electron carriers)."
+    ]
+  },
+  {
+    "term": "fast glycolysis",
+    "aliases": ["anaerobic glycolysis (contextual)", "rapid glycolysis"],
+    "definitions": [
+      "High-rate glycolysis that rapidly produces ATP and lactate.",
+      "Glycolytic ATP production at high intensity with significant lactate formation.",
+      "Carbohydrate breakdown pathway emphasized during hard efforts when energy demand is high.",
+      "Rapid ATP resynthesis via glycolysis, commonly associated with higher lactate and H+ accumulation."
+    ]
+  },
+  {
+    "term": "flavin adenine dinucleotide (FADH2)",
+    "aliases": ["FADH2"],
+    "definitions": [
+      "An electron carrier that donates electrons to the electron transport chain.",
+      "Reduced form of FAD produced during aerobic metabolism (e.g., Krebs cycle).",
+      "Electron shuttle that feeds electrons into the ETC at a different entry point than NADH.",
+      "A reduced coenzyme that transports high-energy electrons for oxidative ATP production."
+    ]
+  },
+  {
+    "term": "gluconeogenesis",
+    "aliases": [],
+    "definitions": [
+      "Formation of glucose from non-carbohydrate sources.",
+      "Glucose synthesis from lactate, glycerol, or certain amino acids.",
+      "A metabolic pathway (notably in liver) that rebuilds glucose when carbs are limited.",
+      "Process that helps maintain blood glucose during fasting or prolonged exercise."
+    ]
+  },
+  {
+    "term": "glycogenolysis",
+    "aliases": [],
+    "definitions": [
+      "Breakdown of glycogen into glucose (or glucose-1-phosphate) for energy use.",
+      "Mobilization of stored carbohydrate from muscle or liver glycogen.",
+      "Process of splitting glycogen to supply substrate for glycolysis.",
+      "Conversion of glycogen stores into usable glucose units."
+    ]
+  },
+  {
+    "term": "glycolysis",
+    "aliases": [],
+    "definitions": [
+      "Metabolic pathway that breaks down glucose to produce ATP and pyruvate.",
+      "A series of reactions converting glucose into pyruvate with net ATP production.",
+      "Carbohydrate breakdown pathway occurring in the cytosol, producing ATP quickly.",
+      "Glucose-to-pyruvate energy pathway that can proceed with or without oxygen downstream."
+    ]
+  },
+  {
+    "term": "glycolytic",
+    "aliases": [],
+    "definitions": [
+      "Relating to glycolysis or the glycolytic energy system.",
+      "Describing metabolism that relies heavily on glucose breakdown for ATP.",
+      "Pertaining to the pathway producing ATP from carbohydrate via glycolysis.",
+      "Associated with glycolysis-driven energy production (often higher-intensity efforts)."
+    ]
+  },
+  {
+    "term": "high-intensity interval training (HIIT)",
+    "aliases": ["HIIT"],
+    "definitions": [
+      "Repeated high-intensity work bouts separated by recovery periods.",
+      "Training format alternating very hard efforts with rest or low-intensity intervals.",
+      "Interval method designed to stress anaerobic and/or aerobic systems via intense repeats.",
+      "Work-rest training using short-to-moderate bursts near maximal intensity."
+    ]
+  },
+  {
+    "term": "hydrolysis",
+    "aliases": [],
+    "definitions": [
+      "Chemical breakdown of a compound using water.",
+      "Reaction where water splits a bond (e.g., ATP hydrolysis).",
+      "Process that cleaves molecules by adding water across a bond.",
+      "A common reaction type in metabolism, including ATP → ADP + Pi."
+    ]
+  },
+  {
+    "term": "inorganic phosphate",
+    "aliases": ["Pi"],
+    "definitions": [
+      "A free phosphate group released during ATP breakdown.",
+      "Phosphate ion (Pi) produced when ATP is hydrolyzed.",
+      "A product of ATP splitting that can influence muscle contraction and fatigue processes.",
+      "Released phosphate that participates in energy-transfer reactions."
+    ]
+  },
+  {
+    "term": "interval training",
+    "aliases": [],
+    "definitions": [
+      "Training alternating periods of work and recovery.",
+      "Method using repeated bouts with rest/active rest between efforts.",
+      "Programming that manipulates intensity and recovery to target specific adaptations.",
+      "A structured work-rest approach to develop fitness and performance."
+    ]
+  },
+  {
+    "term": "Krebs cycle",
+    "aliases": ["citric acid cycle", "TCA cycle"],
+    "definitions": [
+      "Series of reactions that oxidize acetyl-CoA to produce electron carriers for ATP production.",
+      "Mitochondrial cycle that generates NADH/FADH2 and CO₂ from acetyl-CoA.",
+      "Central aerobic pathway feeding electrons to the ETC via NADH and FADH2.",
+      "Oxidative metabolic cycle that processes acetyl-CoA for energy harvest."
+    ]
+  },
+  {
+    "term": "lactate",
+    "aliases": [],
+    "definitions": [
+      "A product formed from pyruvate during high glycolytic flux.",
+      "The conjugate base produced when pyruvate is reduced to help regenerate NAD⁺.",
+      "A metabolite associated with intense exercise, produced during anaerobic glycolysis.",
+      "A transportable fuel/signaling molecule that can be shuttled and oxidized elsewhere."
+    ]
+  },
+  {
+    "term": "lactate threshold (LT)",
+    "aliases": ["LT"],
+    "definitions": [
+      "Exercise intensity where lactate begins to accumulate rapidly in blood.",
+      "Point at which lactate production outpaces clearance, causing a sustained rise in blood lactate.",
+      "A threshold intensity used to estimate endurance performance and training zones.",
+      "The workload where lactate levels show a clear, non-linear increase."
+    ]
+  },
+  {
+    "term": "lactic acid",
+    "aliases": [],
+    "definitions": [
+      "Common term used to refer to lactate plus associated hydrogen ions during high-intensity metabolism.",
+      "Often-used label for the byproducts of rapid glycolysis (lactate and H⁺).",
+      "A historical/colloquial term; in physiology discussions it typically points to lactate-related acidity.",
+      "Term frequently used in training contexts to describe metabolite buildup during intense exercise."
+    ]
+  },
+  {
+    "term": "law of mass action",
+    "aliases": [],
+    "definitions": [
+      "Reaction rate and direction depend on concentrations of reactants and products.",
+      "Principle stating that substrate/product levels influence how a chemical reaction proceeds.",
+      "Concept that increasing reactants drives reactions forward; increasing products can drive reverse.",
+      "Rule describing how concentration changes shift equilibrium and reaction speed."
+    ]
+  },
+  {
+    "term": "mass action effect",
+    "aliases": [],
+    "definitions": [
+      "Shifting a reaction’s direction by changing substrate or product concentration.",
+      "Driving a reaction forward by increasing reactant availability or removing products.",
+      "Practical outcome of the law of mass action in metabolic pathways.",
+      "Concentration-driven push/pull that changes reaction flow."
+    ]
+  },
+  {
+    "term": "metabolic acidosis",
+    "aliases": [],
+    "definitions": [
+      "Decrease in muscle or blood pH due to increased hydrogen ion concentration.",
+      "Acidic shift from elevated H⁺ associated with high-intensity metabolism.",
+      "Condition where buffering is challenged and pH drops during hard exercise.",
+      "Lowered pH state linked to intense work and high glycolytic activity."
+    ]
+  },
+  {
+    "term": "metabolic specificity",
+    "aliases": ["specificity (metabolic)"],
+    "definitions": [
+      "Adaptations are specific to the metabolic demands imposed by training.",
+      "Training principle: energy-system changes reflect the intensity and duration patterns practiced.",
+      "Conditioning improvements depend on which substrates/pathways are repeatedly stressed.",
+      "Rule that metabolic adaptations mirror the work-rest and intensity profile of training."
+    ]
+  },
+  {
+    "term": "metabolism",
+    "aliases": [],
+    "definitions": [
+      "Sum of all chemical reactions in the body.",
+      "All processes that build (anabolism) and break down (catabolism) molecules.",
+      "Total biochemical activity that maintains life and supports work.",
+      "Integrated network of reactions that produce energy and synthesize/repair tissues."
+    ]
+  },
+  {
+    "term": "mitochondria",
+    "aliases": ["mitochondrion"],
+    "definitions": [
+      "Cell organelles where aerobic ATP production occurs.",
+      "Site of oxidative metabolism: Krebs cycle and electron transport chain.",
+      "Organelles that use oxygen to produce large amounts of ATP.",
+      "Cellular “powerhouses” generating ATP through oxidative phosphorylation."
+    ]
+  },
+  {
+    "term": "myokinase reaction",
+    "aliases": ["adenylate kinase reaction", "AK reaction"],
+    "definitions": [
+      "Another name for the adenylate kinase reaction: 2 ADP → ATP + AMP.",
+      "ATP-buffer reaction producing ATP and AMP when ADP accumulates.",
+      "Enzyme-mediated reaction that supports rapid ATP maintenance during intense efforts.",
+      "Short-term energy-balancing pathway: combines two ADP molecules to restore one ATP."
+    ]
+  },
+  {
+    "term": "myosin ATPase",
+    "aliases": [],
+    "definitions": [
+      "An enzyme on the myosin head that hydrolyzes ATP to power cross-bridge cycling.",
+      "ATP-splitting activity of myosin that drives muscle contraction mechanics.",
+      "Catalytic function enabling myosin to use ATP energy for force and movement.",
+      "Enzyme action that provides energy for the power stroke and detachment steps."
+    ]
+  },
+  {
+    "term": "near-equilibrium reactions",
+    "aliases": [],
+    "definitions": [
+      "Reactions that readily reverse direction depending on substrate/product concentrations.",
+      "Steps that operate close to equilibrium and can run forward or backward easily.",
+      "Reversible reactions whose direction is strongly influenced by mass action.",
+      "Metabolic reactions not strongly rate-limited, shifting based on reactant/product levels."
+    ]
+  },
+  {
+    "term": "nicotinamide adenine dinucleotide (NADH)",
+    "aliases": ["NADH"],
+    "definitions": [
+      "An electron carrier that transports electrons to the electron transport chain.",
+      "Reduced coenzyme formed during glycolysis/Krebs that donates electrons for ATP production.",
+      "A key electron shuttle delivering high-energy electrons to the ETC.",
+      "Carrier molecule that links fuel oxidation to oxidative phosphorylation."
+    ]
+  },
+  {
+    "term": "onset of blood lactate accumulation (OBLA)",
+    "aliases": ["OBLA"],
+    "definitions": [
+      "Exercise intensity where blood lactate reaches about 4 mmol/L.",
+      "A lactate threshold marker commonly defined by the 4 mmol/L criterion.",
+      "Work rate at which blood lactate hits ~4 mM during incremental testing.",
+      "Operational definition of a threshold point indicating significant lactate accumulation."
+    ]
+  },
+  {
+    "term": "oxidative phosphorylation",
+    "aliases": [],
+    "definitions": [
+      "ATP production driven by electron transport and chemiosmosis in mitochondria.",
+      "Process using the proton gradient from the ETC to synthesize ATP.",
+      "Mitochondrial ATP generation coupled to oxygen use as the final electron acceptor.",
+      "ATP formation via ATP synthase powered by a membrane proton motive force."
+    ]
+  },
+  {
+    "term": "oxidative system",
+    "aliases": ["aerobic system"],
+    "definitions": [
+      "Energy system that produces ATP using oxygen (aerobic metabolism).",
+      "Long-duration ATP supply relying on mitochondria and oxygen.",
+      "Aerobic energy pathway using carbs/fats (and sometimes protein) to make ATP.",
+      "System supporting sustained work via oxidative phosphorylation."
+    ]
+  },
+  {
+    "term": "oxygen debt",
+    "aliases": [],
+    "definitions": [
+      "Older term roughly referring to postexercise oxygen consumption.",
+      "Historical concept describing elevated oxygen use after exercise (now commonly EPOC).",
+      "Legacy label for recovery oxygen requirement following intense activity.",
+      "Term often replaced in modern texts by EPOC."
+    ]
+  },
+  {
+    "term": "oxygen deficit",
+    "aliases": [],
+    "definitions": [
+      "Shortfall between oxygen required and oxygen actually consumed at exercise onset.",
+      "Initial lag in aerobic energy supply when starting exercise.",
+      "Gap between energy demand and oxidative contribution early in a bout.",
+      "Early-exercise period where anaerobic sources help cover energy needs until VO₂ rises."
+    ]
+  },
+  {
+    "term": "oxygen uptake",
+    "aliases": ["VO2", "VO₂"],
+    "definitions": [
+      "Amount of oxygen consumed by the body.",
+      "Rate at which oxygen is used for aerobic metabolism (often expressed as VO₂).",
+      "Physiological measure reflecting aerobic energy turnover.",
+      "Oxygen consumption used to estimate intensity and aerobic capacity."
+    ]
+  },
+  {
+    "term": "phosphagen system",
+    "aliases": ["ATP-PC system", "ATP-PCr system"],
+    "definitions": [
+      "Energy system that rapidly resynthesizes ATP using phosphocreatine.",
+      "Immediate ATP supply system using stored ATP and PCr for short, intense efforts.",
+      "Fastest ATP regeneration pathway, dominant in very short-duration maximal work.",
+      "System relying on high-energy phosphates (ATP and PCr) rather than oxygen."
+    ]
+  },
+  {
+    "term": "phosphocreatine (PCr)",
+    "aliases": ["creatine phosphate", "CP", "PCr"],
+    "definitions": [
+      "Stored high-energy phosphate used to regenerate ATP quickly.",
+      "Immediate phosphate reserve that donates a phosphate to ADP via creatine kinase.",
+      "High-energy compound that buffers ATP during maximal sprint/lift efforts.",
+      "Muscle energy store central to the phosphagen system."
+    ]
+  },
+  {
+    "term": "phosphofructokinase (PFK)",
+    "aliases": ["PFK"],
+    "definitions": [
+      "Key rate-limiting enzyme in glycolysis.",
+      "Major regulatory enzyme controlling glycolytic flux.",
+      "Enzyme that catalyzes a central step in glycolysis often used as a control point.",
+      "A primary “gatekeeper” enzyme determining glycolysis speed under many conditions."
+    ]
+  },
+  {
+    "term": "phosphorylation",
+    "aliases": [],
+    "definitions": [
+      "Addition of a phosphate group to a molecule.",
+      "Attachment of phosphate that can change a molecule’s activity or energy state.",
+      "Process used in metabolism to activate substrates or store energy.",
+      "Common biochemical modification influencing signaling and metabolic pathways."
+    ]
+  },
+  {
+    "term": "pyruvate",
+    "aliases": [],
+    "definitions": [
+      "End product of glycolysis before conversion to lactate or entry into aerobic pathways.",
+      "Three-carbon molecule produced from glucose breakdown in glycolysis.",
+      "Glycolytic product that can be converted to acetyl-CoA for the Krebs cycle.",
+      "Key metabolic junction: can be reduced to lactate or oxidized aerobically."
+    ]
+  },
+  {
+    "term": "rate-limiting step",
+    "aliases": [],
+    "definitions": [
+      "Slowest step in a pathway that controls overall process rate.",
+      "Bottleneck reaction determining how fast a pathway can run.",
+      "Regulatory step often targeted by enzymes that are highly controlled.",
+      "The step whose kinetics largely set pathway flux."
+    ]
+  },
+  {
+    "term": "repletion",
+    "aliases": [],
+    "definitions": [
+      "Restoration of depleted energy substrates.",
+      "Refilling fuel stores after they’ve been reduced (e.g., glycogen or PCr).",
+      "Recovery process of replenishing metabolic resources after exercise.",
+      "Return of substrate levels toward baseline following depletion."
+    ]
+  },
+  {
+    "term": "slow glycolysis",
+    "aliases": [],
+    "definitions": [
+      "Lower-rate glycolysis with less lactate accumulation, often at lower intensities.",
+      "Glycolytic ATP production occurring at a slower pace with relatively more oxidative support.",
+      "Carbohydrate breakdown pathway operating at moderate rates with minimal lactate rise.",
+      "Glycolysis emphasizing pyruvate handling without rapid lactate buildup."
+    ]
+  },
+  {
+    "term": "sodium-potassium ATPase",
+    "aliases": ["Na+/K+ ATPase", "Na-K pump"],
+    "definitions": [
+      "ATP-driven enzyme that maintains sodium and potassium gradients across membranes.",
+      "Membrane pump using ATP to move Na⁺ out and K⁺ into cells.",
+      "Ion-transport ATPase essential for resting membrane potential and excitability.",
+      "Active transport system preserving electrochemical gradients for nerve and muscle function."
+    ]
+  },
+  {
+    "term": "substrate-level phosphorylation",
+    "aliases": [],
+    "definitions": [
+      "ATP production by direct transfer of a phosphate group to ADP.",
+      "ATP formation that does not require oxygen or the electron transport chain.",
+      "Direct phosphorylation of ADP using energy from an intermediate (e.g., in glycolysis).",
+      "Non-ETC ATP synthesis occurring in cytosolic or mitochondrial pathway steps."
+    ]
+  },
+  {
+    "term": "wet muscle",
+    "aliases": [],
+    "definitions": [
+      "Body mass including water; sometimes referenced in body composition or scaling discussions.",
+      "Tissue mass measured with its water content included (not dehydrated mass).",
+      "A term used when discussing muscle mass as measured in typical physiological conditions.",
+      "Muscle mass concept that includes intracellular and extracellular water."
+    ]
+  },
+  {
+    "term": "work-to-rest ratio",
+    "aliases": ["work:rest ratio"],
+    "definitions": [
+      "Relationship between exercise duration and recovery duration in intervals.",
+      "Interval design variable comparing work time to rest time (e.g., 1:2).",
+      "Programming ratio that shapes energy system stress and recovery demands.",
+      "A way to describe how long you work relative to how long you recover."
+    ]
+  }
+]

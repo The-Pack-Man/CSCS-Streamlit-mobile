@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ch09_q01",
+    "question": "Maintaining adequate glycogen stores:",
+    "choices": [
+      "spares the use of protein for energy",
+      "improves maximum power",
+      "decreases endurance performance",
+      "helps athletes gain weight"
+    ],
+    "answer_index": 0,
+    "explanation": "Adequate glycogen helps meet energy demands so the body relies less on amino acids (protein) for fuel."
+  },
+  {
+    "id": "ch09_q02",
+    "question": "The following is the most likely contributor to fatigue and poor performance:",
+    "choices": [
+      "low protein intake",
+      "iron deficiency",
+      "low calcium intake",
+      "omega-3 fatty acid deficiency"
+    ],
+    "answer_index": 1,
+    "explanation": "Iron deficiency can reduce hemoglobin and oxygen delivery, commonly causing fatigue and reduced performance."
+  },
+  {
+    "id": "ch09_q03",
+    "question": "Which of the following is a recommendation for lowering undesirably high levels of blood lipids?",
+    "choices": [
+      "reduce complex carbohydrate intake",
+      "limit saturated fatty acid intake to 30% of total calories",
+      "consume a minimum of 500 mg of dietary cholesterol per day",
+      "replace saturated fatty acids with monounsaturated or polyunsaturated fatty acids"
+    ],
+    "answer_index": 3,
+    "explanation": "Replacing saturated fats with unsaturated fats (mono/poly) is a common strategy to improve blood lipid profiles."
+  },
+  {
+    "id": "ch09_q04",
+    "question": "Which of the following protein sources does not contain all essential amino acids in appreciable quantities?",
+    "choices": [
+      "poultry",
+      "eggs",
+      "lentils",
+      "beef"
+    ],
+    "answer_index": 2,
+    "explanation": "Many plant proteins (like lentils) are incomplete, meaning one or more essential amino acids are present in lower amounts."
+  }
+]

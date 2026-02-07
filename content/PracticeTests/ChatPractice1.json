@@ -1,0 +1,821 @@
+[
+  {
+    "id": "cscs_sim_full_q01",
+    "question": "Which structure primarily stores elastic energy during the stretch-shortening cycle?",
+    "choices": ["Actin filaments", "Series elastic component", "Sarcomere Z-disks", "Neuromuscular junction"],
+    "answer_index": 1,
+    "explanation": "Elastic energy is stored primarily in the series elastic component (tendons and cross-bridge elasticity)."
+  },
+  {
+    "id": "cscs_sim_full_q02",
+    "question": "Power is best defined as:",
+    "choices": ["Force × distance", "Mass × acceleration", "Force × velocity", "Torque × time"],
+    "answer_index": 2,
+    "explanation": "Power is the rate of doing work and is mechanically defined as force multiplied by velocity."
+  },
+  {
+    "id": "cscs_sim_full_q03",
+    "question": "Which muscle fiber type has the highest fatigue resistance?",
+    "choices": ["Type IIx", "Type IIa", "Type I", "Fast glycolytic"],
+    "answer_index": 2,
+    "explanation": "Type I fibers are slow-twitch, highly oxidative, and the most fatigue resistant."
+  },
+  {
+    "id": "cscs_sim_full_q04",
+    "question": "Which energy system predominates during a 10-second maximal sprint?",
+    "choices": ["Oxidative", "Anaerobic glycolysis", "Phosphagen", "Beta oxidation"],
+    "answer_index": 2,
+    "explanation": "Short, maximal efforts rely primarily on the ATP-PCr (phosphagen) system."
+  },
+  {
+    "id": "cscs_sim_full_q05",
+    "question": "A first-class lever in the human body is best exemplified by:",
+    "choices": ["Elbow flexion", "Ankle plantarflexion", "Neck extension", "Knee extension"],
+    "answer_index": 2,
+    "explanation": "Neck extension places the fulcrum between the load (head) and effort (neck extensors)."
+  },
+
+  {
+    "id": "cscs_sim_full_q06",
+    "question": "Which hormone promotes amino acid uptake and protein synthesis?",
+    "choices": ["Cortisol", "Glucagon", "Insulin", "Epinephrine"],
+    "answer_index": 2,
+    "explanation": "Insulin is anabolic and promotes amino acid uptake and protein synthesis."
+  },
+  {
+    "id": "cscs_sim_full_q07",
+    "question": "Which receptor detects changes in muscle length?",
+    "choices": ["Golgi tendon organ", "Muscle spindle", "Pacinian corpuscle", "Ruffini ending"],
+    "answer_index": 1,
+    "explanation": "Muscle spindles detect muscle length changes and initiate the stretch reflex."
+  },
+  {
+    "id": "cscs_sim_full_q08",
+    "question": "Which factor MOST influences acceleration?",
+    "choices": ["Stride frequency", "Maximal velocity", "Ground reaction force", "Reaction time"],
+    "answer_index": 2,
+    "explanation": "Acceleration depends on the magnitude of force applied to the ground."
+  },
+  {
+    "id": "cscs_sim_full_q09",
+    "question": "Torque is calculated as:",
+    "choices": ["Force × velocity", "Force × distance", "Mass × acceleration", "Distance ÷ time"],
+    "answer_index": 1,
+    "explanation": "Torque equals force multiplied by the perpendicular moment arm distance."
+  },
+  {
+    "id": "cscs_sim_full_q10",
+    "question": "Which adaptation occurs earliest with resistance training?",
+    "choices": ["Muscle hypertrophy", "Neural adaptations", "Fiber type conversion", "Increased tendon stiffness"],
+    "answer_index": 1,
+    "explanation": "Early strength gains are largely due to neural adaptations."
+  },
+
+  {
+    "id": "cscs_sim_full_q11",
+    "question": "Which rep range is MOST appropriate for hypertrophy?",
+    "choices": ["1–3", "4–6", "8–12", "20–30"],
+    "answer_index": 2,
+    "explanation": "Hypertrophy is typically targeted with moderate loads for 8–12 repetitions."
+  },
+  {
+    "id": "cscs_sim_full_q12",
+    "question": "Which rest interval best supports maximal strength development?",
+    "choices": ["30–60 sec", "1–2 min", "2–5 min", "10+ min"],
+    "answer_index": 2,
+    "explanation": "Maximal strength requires sufficient ATP-PCr recovery, typically 2–5 minutes."
+  },
+  {
+    "id": "cscs_sim_full_q13",
+    "question": "Which lift should be performed first in a training session?",
+    "choices": ["Isolation exercise", "Power movement", "Core exercise", "Conditioning drill"],
+    "answer_index": 1,
+    "explanation": "Power movements should be performed first when the athlete is fresh."
+  },
+  {
+    "id": "cscs_sim_full_q14",
+    "question": "Which training variable is MOST important for power?",
+    "choices": ["Volume", "Velocity", "Time under tension", "Exercise variety"],
+    "answer_index": 1,
+    "explanation": "Power depends on producing force rapidly, making velocity critical."
+  },
+  {
+    "id": "cscs_sim_full_q15",
+    "question": "Which phase of periodization emphasizes hypertrophy and basic strength?",
+    "choices": ["Preparatory", "Peaking", "Competition", "Transition"],
+    "answer_index": 0,
+    "explanation": "The preparatory phase develops foundational strength and muscle mass."
+  },
+
+  {
+    "id": "cscs_sim_full_q16",
+    "question": "Linear periodization typically involves:",
+    "choices": [
+      "Increasing volume and intensity together",
+      "Decreasing intensity and volume",
+      "Increasing intensity while decreasing volume",
+      "Constant intensity and volume"
+    ],
+    "answer_index": 2,
+    "explanation": "Linear models increase intensity while reducing volume over time."
+  },
+  {
+    "id": "cscs_sim_full_q17",
+    "question": "Which plyometric guideline MOST reduces injury risk?",
+    "choices": [
+      "High volume early",
+      "Minimal rest",
+      "Proper landing mechanics",
+      "Hard training surfaces"
+    ],
+    "answer_index": 2,
+    "explanation": "Proper landing mechanics reduce joint stress and injury risk."
+  },
+  {
+    "id": "cscs_sim_full_q18",
+    "question": "Which sprint drill BEST improves acceleration?",
+    "choices": ["Overspeed sprinting", "Resisted sprinting", "Tempo runs", "Backward jogging"],
+    "answer_index": 1,
+    "explanation": "Resisted sprinting increases force production during initial acceleration."
+  },
+  {
+    "id": "cscs_sim_full_q19",
+    "question": "Which exercise is closed-chain?",
+    "choices": ["Leg extension", "Seated hamstring curl", "Back squat", "Biceps curl"],
+    "answer_index": 2,
+    "explanation": "Closed-chain exercises have the distal segment fixed."
+  },
+  {
+    "id": "cscs_sim_full_q20",
+    "question": "A hallmark of overtraining syndrome is:",
+    "choices": [
+      "Short-term soreness",
+      "Rapid strength gains",
+      "Persistent performance decline",
+      "Improved sleep quality"
+    ],
+    "answer_index": 2,
+    "explanation": "Chronic fatigue and declining performance indicate overtraining."
+  },
+
+  {
+    "id": "cscs_sim_full_q21",
+    "question": "Which macronutrient provides the greatest energy per gram?",
+    "choices": ["Protein", "Carbohydrate", "Fat", "Alcohol"],
+    "answer_index": 2,
+    "explanation": "Fat provides approximately 9 kcal per gram."
+  },
+  {
+    "id": "cscs_sim_full_q22",
+    "question": "Which nutrient timing strategy best supports glycogen resynthesis?",
+    "choices": [
+      "High fat immediately post-exercise",
+      "Carbohydrates soon after training",
+      "Protein only",
+      "Delayed feeding"
+    ],
+    "answer_index": 1,
+    "explanation": "Carbohydrates consumed soon after training accelerate glycogen restoration."
+  },
+  {
+    "id": "cscs_sim_full_q23",
+    "question": "Which supplement is legal and effective for short-duration high-intensity exercise?",
+    "choices": ["Ephedrine", "Creatine", "Anabolic steroids", "DMAA"],
+    "answer_index": 1,
+    "explanation": "Creatine improves ATP-PCr availability and is legal."
+  },
+  {
+    "id": "cscs_sim_full_q24",
+    "question": "Dehydration exceeding ~2% body weight can impair:",
+    "choices": ["Flexibility", "Thermoregulation", "Protein synthesis", "Bone density"],
+    "answer_index": 1,
+    "explanation": "Dehydration significantly impairs thermoregulation and performance."
+  },
+  {
+    "id": "cscs_sim_full_q25",
+    "question": "Which vitamin is fat-soluble?",
+    "choices": ["Vitamin C", "Vitamin B12", "Vitamin D", "Folate"],
+    "answer_index": 2,
+    "explanation": "Vitamins A, D, E, and K are fat-soluble."
+  },
+
+  {
+    "id": "cscs_sim_full_q26",
+    "question": "Which test best assesses anaerobic power?",
+    "choices": ["Cooper test", "Wingate test", "1.5-mile run", "Sit-and-reach"],
+    "answer_index": 1,
+    "explanation": "The Wingate test measures peak anaerobic power."
+  },
+  {
+    "id": "cscs_sim_full_q27",
+    "question": "Test-retest consistency refers to:",
+    "choices": ["Validity", "Reliability", "Objectivity", "Specificity"],
+    "answer_index": 1,
+    "explanation": "Reliability reflects consistent results across trials."
+  },
+  {
+    "id": "cscs_sim_full_q28",
+    "question": "Which test is MOST appropriate for lower-body explosive power?",
+    "choices": ["1RM squat", "Standing long jump", "300-yard shuttle", "T-test"],
+    "answer_index": 1,
+    "explanation": "The standing long jump assesses horizontal explosive power."
+  },
+  {
+    "id": "cscs_sim_full_q29",
+    "question": "Which body composition method is considered a criterion measure?",
+    "choices": ["BMI", "Skinfolds", "Hydrostatic weighing", "BIA"],
+    "answer_index": 2,
+    "explanation": "Hydrostatic weighing is a criterion method."
+  },
+  {
+    "id": "cscs_sim_full_q30",
+    "question": "Skinfold measurements should be taken:",
+    "choices": [
+      "Immediately after pinching",
+      "After 1 second",
+      "After 3 seconds",
+      "After 10 seconds"
+    ],
+    "answer_index": 2,
+    "explanation": "Waiting ~3 seconds allows tissue compression to stabilize."
+  },
+
+  {
+    "id": "cscs_sim_full_q31",
+    "question": "Which FMS test assesses shoulder mobility?",
+    "choices": ["Inline lunge", "Shoulder mobility", "Hurdle step", "Deep squat"],
+    "answer_index": 1,
+    "explanation": "The shoulder mobility test evaluates bilateral shoulder ROM."
+  },
+  {
+    "id": "cscs_sim_full_q32",
+    "question": "Heel lift during a deep squat MOST commonly indicates tightness in:",
+    "choices": ["Hamstrings", "Hip flexors", "Gastrocnemius/soleus", "Gluteals"],
+    "answer_index": 2,
+    "explanation": "Limited ankle dorsiflexion from tight calves causes heel lift."
+  },
+  {
+    "id": "cscs_sim_full_q33",
+    "question": "Which agility test involves forward sprinting, lateral shuffling, and backpedaling?",
+    "choices": ["Pro agility", "T-test", "L-test", "Hexagon test"],
+    "answer_index": 1,
+    "explanation": "The T-test evaluates multidirectional agility."
+  },
+  {
+    "id": "cscs_sim_full_q34",
+    "question": "Why should testing conditions be consistent?",
+    "choices": [
+      "To favor elite athletes",
+      "To ensure validity",
+      "To reduce injury risk",
+      "To improve motivation"
+    ],
+    "answer_index": 1,
+    "explanation": "Consistent conditions improve validity of comparisons."
+  },
+  {
+    "id": "cscs_sim_full_q35",
+    "question": "Which KPI is MOST relevant for a sprinter?",
+    "choices": ["VO2max", "Body fat %", "40-yard dash time", "Bench press 1RM"],
+    "answer_index": 2,
+    "explanation": "Sprint time directly reflects sprint performance."
+  },
+
+  {
+    "id": "cscs_sim_full_q36",
+    "question": "Duty of care requires a coach to:",
+    "choices": [
+      "Guarantee injury-free training",
+      "Act reasonably to prevent harm",
+      "Follow athlete requests only",
+      "Avoid all legal responsibility"
+    ],
+    "answer_index": 1,
+    "explanation": "Duty of care requires reasonable actions to reduce foreseeable harm."
+  },
+  {
+    "id": "cscs_sim_full_q37",
+    "question": "Which law protects medical information privacy?",
+    "choices": ["ADA", "FERPA", "HIPAA", "OSHA"],
+    "answer_index": 2,
+    "explanation": "HIPAA governs medical information confidentiality."
+  },
+  {
+    "id": "cscs_sim_full_q38",
+    "question": "Which document outlines inherent risks of participation?",
+    "choices": ["Code of conduct", "Incident report", "Liability waiver", "Emergency plan"],
+    "answer_index": 2,
+    "explanation": "Liability waivers inform participants of inherent risks."
+  },
+  {
+    "id": "cscs_sim_full_q39",
+    "question": "Recommended space per athlete in a weight room is approximately:",
+    "choices": ["10–15 sq ft", "20–25 sq ft", "35–50 sq ft", "75–100 sq ft"],
+    "answer_index": 2,
+    "explanation": "35–50 square feet per athlete promotes safety and flow."
+  },
+  {
+    "id": "cscs_sim_full_q40",
+    "question": "Which equipment requires the most frequent inspection?",
+    "choices": ["Foam rollers", "Resistance bands", "Barbells and racks", "Mats"],
+    "answer_index": 2,
+    "explanation": "High-load equipment requires frequent inspection."
+  },
+
+  {
+    "id": "cscs_sim_full_q41",
+    "question": "Which maintenance task is essential for treadmills?",
+    "choices": [
+      "Replacing motors monthly",
+      "Lubricating the belt",
+      "Calibrating incline daily",
+      "Tightening frame bolts weekly"
+    ],
+    "answer_index": 1,
+    "explanation": "Belt lubrication reduces friction and wear."
+  },
+  {
+    "id": "cscs_sim_full_q42",
+    "question": "Continuing education primarily ensures:",
+    "choices": [
+      "Higher salaries",
+      "Updated knowledge and competency",
+      "Reduced liability automatically",
+      "Shorter work hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuing education maintains professional competency."
+  },
+  {
+    "id": "cscs_sim_full_q43",
+    "question": "Which hiring factor is MOST important for S&C staff?",
+    "choices": ["Appearance", "Marketing skill", "Certification and experience", "Social media presence"],
+    "answer_index": 2,
+    "explanation": "Credentials and experience ensure safety and effectiveness."
+  },
+  {
+    "id": "cscs_sim_full_q44",
+    "question": "Which behavior is unethical?",
+    "choices": [
+      "Reporting abuse",
+      "Recommending PEDs",
+      "Teaching warm-ups",
+      "Promoting recovery"
+    ],
+    "answer_index": 1,
+    "explanation": "Recommending PEDs violates ethical standards."
+  },
+  {
+    "id": "cscs_sim_full_q45",
+    "question": "Which training method best improves rate of force development?",
+    "choices": [
+      "Steady-state cardio",
+      "Slow eccentrics",
+      "Explosive lifts",
+      "Isometric holds"
+    ],
+    "answer_index": 2,
+    "explanation": "Explosive lifts improve rapid force production."
+  },
+
+  {
+    "id": "cscs_sim_full_q46",
+    "question": "Which adaptation increases first during endurance training?",
+    "choices": [
+      "Capillary density",
+      "Muscle hypertrophy",
+      "Maximal strength",
+      "Tendon stiffness"
+    ],
+    "answer_index": 0,
+    "explanation": "Capillary density increases early with endurance training."
+  },
+  {
+    "id": "cscs_sim_full_q47",
+    "question": "Which fuel source predominates at rest?",
+    "choices": ["Carbohydrate", "Protein", "Fat", "ATP-PCr"],
+    "answer_index": 2,
+    "explanation": "Fat is the primary fuel source at rest."
+  },
+  {
+    "id": "cscs_sim_full_q48",
+    "question": "Which training goal uses loads of ~85–95% 1RM?",
+    "choices": ["Hypertrophy", "Muscular endurance", "Maximal strength", "Speed"],
+    "answer_index": 2,
+    "explanation": "High loads target maximal strength."
+  },
+  {
+    "id": "cscs_sim_full_q49",
+    "question": "Which plyometric progression variable should increase last?",
+    "choices": ["Volume", "Intensity", "Complexity", "Landing height"],
+    "answer_index": 1,
+    "explanation": "Intensity should progress last to reduce injury risk."
+  },
+  {
+    "id": "cscs_sim_full_q50",
+    "question": "Which rest interval is typical for hypertrophy?",
+    "choices": ["<30 sec", "30–90 sec", "2–5 min", "5–10 min"],
+    "answer_index": 1,
+    "explanation": "Moderate rest supports hypertrophy."
+  },
+
+  {
+    "id": "cscs_sim_full_q51",
+    "question": "Which test best assesses aerobic endurance?",
+    "choices": ["Wingate", "Cooper test", "Vertical jump", "1RM bench"],
+    "answer_index": 1,
+    "explanation": "The Cooper test estimates aerobic endurance."
+  },
+  {
+    "id": "cscs_sim_full_q52",
+    "question": "Which movement pattern is evaluated by the inline lunge?",
+    "choices": [
+      "Rotational stability",
+      "Unilateral balance and mobility",
+      "Upper-body pushing",
+      "Aerobic capacity"
+    ],
+    "answer_index": 1,
+    "explanation": "Inline lunge assesses unilateral balance and mobility."
+  },
+  {
+    "id": "cscs_sim_full_q53",
+    "question": "Which variable MOST influences sprint max velocity?",
+    "choices": ["Force application rate", "Stride length and frequency", "Reaction time", "Muscle endurance"],
+    "answer_index": 1,
+    "explanation": "Max velocity depends on stride length and frequency."
+  },
+  {
+    "id": "cscs_sim_full_q54",
+    "question": "Which mineral is critical for oxygen transport?",
+    "choices": ["Calcium", "Iron", "Magnesium", "Potassium"],
+    "answer_index": 1,
+    "explanation": "Iron is a key component of hemoglobin."
+  },
+  {
+    "id": "cscs_sim_full_q55",
+    "question": "Which post-exercise strategy best supports muscle protein synthesis?",
+    "choices": [
+      "Fat-only intake",
+      "Protein with essential amino acids",
+      "Carbohydrate only",
+      "No intake for 6 hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Protein with essential amino acids stimulates MPS."
+  },
+
+  {
+    "id": "cscs_sim_full_q56",
+    "question": "Which principle states training adaptations are specific to imposed demands?",
+    "choices": ["Overload", "Specificity", "Variation", "Reversibility"],
+    "answer_index": 1,
+    "explanation": "The specificity principle governs adaptations."
+  },
+  {
+    "id": "cscs_sim_full_q57",
+    "question": "Which training method alternates upper and lower body to improve efficiency?",
+    "choices": ["Circuit", "Split routine", "Superset", "Complex"],
+    "answer_index": 2,
+    "explanation": "Supersets alternate muscle groups for efficiency."
+  },
+  {
+    "id": "cscs_sim_full_q58",
+    "question": "Which sleep duration best supports recovery?",
+    "choices": ["4–5 hrs", "5–6 hrs", "6–7 hrs", "7–9 hrs"],
+    "answer_index": 3,
+    "explanation": "7–9 hours supports hormonal recovery."
+  },
+  {
+    "id": "cscs_sim_full_q59",
+    "question": "Which test measures maximal strength?",
+    "choices": ["Vertical jump", "1RM bench press", "Yo-Yo test", "300-yard shuttle"],
+    "answer_index": 1,
+    "explanation": "1RM testing measures maximal strength."
+  },
+  {
+    "id": "cscs_sim_full_q60",
+    "question": "Which facility feature MOST improves safety?",
+    "choices": [
+      "Mirrors everywhere",
+      "Clear traffic flow",
+      "Dim lighting",
+      "Tight equipment spacing"
+    ],
+    "answer_index": 1,
+    "explanation": "Clear traffic flow reduces collisions and accidents."
+  },
+
+  {
+    "id": "cscs_sim_full_q61",
+    "question": "Which carbohydrate timing is ideal when two-a-day training occurs?",
+    "choices": [
+      "Only at breakfast",
+      "Immediately post-exercise",
+      "Before bed only",
+      "Every other day"
+    ],
+    "answer_index": 1,
+    "explanation": "Immediate intake accelerates glycogen restoration."
+  },
+  {
+    "id": "cscs_sim_full_q62",
+    "question": "Which component MOST contributes to muscular endurance?",
+    "choices": ["High force", "Oxidative capacity", "Tendon stiffness", "Joint angle"],
+    "answer_index": 1,
+    "explanation": "Muscular endurance relies on oxidative capacity."
+  },
+  {
+    "id": "cscs_sim_full_q63",
+    "question": "Which training surface is safest for plyometrics?",
+    "choices": ["Concrete", "Rubberized floor", "Hardwood", "Uneven ground"],
+    "answer_index": 1,
+    "explanation": "Rubberized surfaces absorb impact."
+  },
+  {
+    "id": "cscs_sim_full_q64",
+    "question": "Which test best assesses agility?",
+    "choices": ["40-yard dash", "Pro agility shuttle", "Wingate", "Sit-and-reach"],
+    "answer_index": 1,
+    "explanation": "The pro agility shuttle evaluates rapid change of direction."
+  },
+  {
+    "id": "cscs_sim_full_q65",
+    "question": "Which variable MOST affects hypertrophy?",
+    "choices": ["Time under tension", "Velocity", "Reaction time", "Stretch reflex"],
+    "answer_index": 0,
+    "explanation": "Hypertrophy is influenced by mechanical tension and TUT."
+  },
+
+  {
+    "id": "cscs_sim_full_q66",
+    "question": "Which principle explains performance loss after detraining?",
+    "choices": ["Specificity", "Overload", "Reversibility", "Variation"],
+    "answer_index": 2,
+    "explanation": "Reversibility explains loss of adaptations."
+  },
+  {
+    "id": "cscs_sim_full_q67",
+    "question": "Which nutrient buffers hydrogen ions during high-intensity exercise?",
+    "choices": ["Creatine", "Beta-alanine", "Iron", "Vitamin D"],
+    "answer_index": 1,
+    "explanation": "Beta-alanine increases carnosine buffering."
+  },
+  {
+    "id": "cscs_sim_full_q68",
+    "question": "Which law ensures facility accessibility?",
+    "choices": ["OSHA", "ADA", "HIPAA", "FERPA"],
+    "answer_index": 1,
+    "explanation": "The ADA mandates accessibility."
+  },
+  {
+    "id": "cscs_sim_full_q69",
+    "question": "Which indicator reflects anaerobic capacity?",
+    "choices": ["VO2max", "Wingate mean power", "BMI", "Flexibility"],
+    "answer_index": 1,
+    "explanation": "Mean power reflects anaerobic capacity."
+  },
+  {
+    "id": "cscs_sim_full_q70",
+    "question": "Which training frequency best suits novice lifters?",
+    "choices": ["1×/week", "2–3×/week", "5–6×/week", "Daily max lifts"],
+    "answer_index": 1,
+    "explanation": "Novices benefit from moderate frequency."
+  },
+
+  {
+    "id": "cscs_sim_full_q71",
+    "question": "Which test best evaluates flexibility?",
+    "choices": ["Sit-and-reach", "Vertical jump", "1RM squat", "Yo-Yo test"],
+    "answer_index": 0,
+    "explanation": "Sit-and-reach measures flexibility."
+  },
+  {
+    "id": "cscs_sim_full_q72",
+    "question": "Which training goal uses <60% 1RM?",
+    "choices": ["Strength", "Hypertrophy", "Muscular endurance", "Maximal power"],
+    "answer_index": 2,
+    "explanation": "Muscular endurance uses light loads."
+  },
+  {
+    "id": "cscs_sim_full_q73",
+    "question": "Which factor MOST improves maximal velocity sprinting?",
+    "choices": ["Force at ground contact", "Stride mechanics", "Endurance", "Overspeed only"],
+    "answer_index": 1,
+    "explanation": "Max velocity depends heavily on mechanics."
+  },
+  {
+    "id": "cscs_sim_full_q74",
+    "question": "Which document protects client privacy?",
+    "choices": ["ADA", "HIPAA", "OSHA", "Waiver"],
+    "answer_index": 1,
+    "explanation": "HIPAA protects medical information."
+  },
+  {
+    "id": "cscs_sim_full_q75",
+    "question": "Which test best assesses core stability?",
+    "choices": ["Plank hold", "Sit-up test", "1RM squat", "Bench press"],
+    "answer_index": 0,
+    "explanation": "Plank tests core stability."
+  },
+
+  {
+    "id": "cscs_sim_full_q76",
+    "question": "Which training method emphasizes continuous movement with minimal rest?",
+    "choices": ["Split routine", "Circuit training", "Linear periodization", "Cluster sets"],
+    "answer_index": 1,
+    "explanation": "Circuit training minimizes rest."
+  },
+  {
+    "id": "cscs_sim_full_q77",
+    "question": "Which factor MOST determines sprint stride length?",
+    "choices": ["Force production", "Flexibility", "Balance", "Body fat"],
+    "answer_index": 0,
+    "explanation": "Force application influences stride length."
+  },
+  {
+    "id": "cscs_sim_full_q78",
+    "question": "Which vitamin supports calcium absorption?",
+    "choices": ["Vitamin C", "Vitamin D", "Vitamin K", "Vitamin E"],
+    "answer_index": 1,
+    "explanation": "Vitamin D enhances calcium absorption."
+  },
+  {
+    "id": "cscs_sim_full_q79",
+    "question": "Which measure reflects test objectivity?",
+    "choices": [
+      "Same tester scores similarly",
+      "Same test measures same construct",
+      "Same athlete repeats result",
+      "Test relevance to sport"
+    ],
+    "answer_index": 0,
+    "explanation": "Objectivity reflects scorer agreement."
+  },
+  {
+    "id": "cscs_sim_full_q80",
+    "question": "Which training adaptation increases VO2max?",
+    "choices": [
+      "Increased mitochondrial density",
+      "Hypertrophy",
+      "Neural drive",
+      "Tendon stiffness"
+    ],
+    "answer_index": 0,
+    "explanation": "Mitochondrial density improves oxygen utilization."
+  },
+
+  {
+    "id": "cscs_sim_full_q81",
+    "question": "Which method best improves lateral agility?",
+    "choices": ["Sled pushes", "Cone drills", "Tempo runs", "Vertical jumps"],
+    "answer_index": 1,
+    "explanation": "Cone drills train change of direction."
+  },
+  {
+    "id": "cscs_sim_full_q82",
+    "question": "Which training goal uses 30–90 sec rest?",
+    "choices": ["Strength", "Power", "Hypertrophy", "Speed"],
+    "answer_index": 2,
+    "explanation": "Hypertrophy typically uses moderate rest."
+  },
+  {
+    "id": "cscs_sim_full_q83",
+    "question": "Which indicator suggests glycogen depletion?",
+    "choices": ["Muscle pump", "Rapid fatigue", "Increased strength", "Lower heart rate"],
+    "answer_index": 1,
+    "explanation": "Glycogen depletion leads to early fatigue."
+  },
+  {
+    "id": "cscs_sim_full_q84",
+    "question": "Which law governs workplace safety?",
+    "choices": ["HIPAA", "OSHA", "ADA", "FERPA"],
+    "answer_index": 1,
+    "explanation": "OSHA governs workplace safety."
+  },
+  {
+    "id": "cscs_sim_full_q85",
+    "question": "Which movement best trains triple extension?",
+    "choices": ["Back squat", "Power clean", "Bench press", "Pull-up"],
+    "answer_index": 1,
+    "explanation": "Olympic lifts train triple extension."
+  },
+
+  {
+    "id": "cscs_sim_full_q86",
+    "question": "Which training variable MOST affects intensity?",
+    "choices": ["Load", "Volume", "Frequency", "Exercise order"],
+    "answer_index": 0,
+    "explanation": "Intensity is primarily determined by load."
+  },
+  {
+    "id": "cscs_sim_full_q87",
+    "question": "Which adaptation results from long-term endurance training?",
+    "choices": [
+      "Increased capillary density",
+      "Reduced mitochondria",
+      "Lower VO2max",
+      "Increased fiber IIx"
+    ],
+    "answer_index": 0,
+    "explanation": "Endurance training increases capillarization."
+  },
+  {
+    "id": "cscs_sim_full_q88",
+    "question": "Which nutrient is MOST important pre-endurance event?",
+    "choices": ["Fat", "Protein", "Carbohydrate", "Alcohol"],
+    "answer_index": 2,
+    "explanation": "Carbohydrates fuel endurance performance."
+  },
+  {
+    "id": "cscs_sim_full_q89",
+    "question": "Which assessment identifies unilateral asymmetries?",
+    "choices": ["Hurdle step", "Push-up", "Sit-and-reach", "Plank"],
+    "answer_index": 0,
+    "explanation": "Hurdle step reveals unilateral deficits."
+  },
+  {
+    "id": "cscs_sim_full_q90",
+    "question": "Which training goal uses maximal intent with light loads?",
+    "choices": ["Hypertrophy", "Power", "Endurance", "Flexibility"],
+    "answer_index": 1,
+    "explanation": "Power training emphasizes intent and speed."
+  },
+
+  {
+    "id": "cscs_sim_full_q91",
+    "question": "Which variable MOST influences muscular endurance?",
+    "choices": ["Max force", "Oxidative enzymes", "Joint angle", "Reaction time"],
+    "answer_index": 1,
+    "explanation": "Endurance depends on oxidative capacity."
+  },
+  {
+    "id": "cscs_sim_full_q92",
+    "question": "Which phase precedes competition?",
+    "choices": ["Transition", "Peaking", "Preparatory", "Recovery"],
+    "answer_index": 1,
+    "explanation": "The peaking phase precedes competition."
+  },
+  {
+    "id": "cscs_sim_full_q93",
+    "question": "Which test measures mean anaerobic power?",
+    "choices": ["Cooper test", "Wingate test", "Vertical jump", "1RM bench"],
+    "answer_index": 1,
+    "explanation": "Wingate provides peak and mean power."
+  },
+  {
+    "id": "cscs_sim_full_q94",
+    "question": "Which nutrient delays fatigue by buffering hydrogen ions?",
+    "choices": ["Creatine", "Beta-alanine", "Vitamin C", "Iron"],
+    "answer_index": 1,
+    "explanation": "Beta-alanine increases muscle carnosine."
+  },
+  {
+    "id": "cscs_sim_full_q95",
+    "question": "Which training surface is LEAST appropriate for plyometrics?",
+    "choices": ["Rubber flooring", "Grass", "Concrete", "Wood"],
+    "answer_index": 2,
+    "explanation": "Concrete does not absorb impact."
+  },
+
+  {
+    "id": "cscs_sim_full_q96",
+    "question": "Which adaptation increases with sprint training?",
+    "choices": [
+      "Type I fiber dominance",
+      "Increased stride frequency",
+      "Reduced neural drive",
+      "Lower power output"
+    ],
+    "answer_index": 1,
+    "explanation": "Sprint training improves stride frequency."
+  },
+  {
+    "id": "cscs_sim_full_q97",
+    "question": "Which test best evaluates change-of-direction speed?",
+    "choices": ["40-yard dash", "Pro agility shuttle", "1RM squat", "Wingate"],
+    "answer_index": 1,
+    "explanation": "Pro agility measures COD ability."
+  },
+  {
+    "id": "cscs_sim_full_q98",
+    "question": "Which nutrient supports red blood cell production?",
+    "choices": ["Iron", "Calcium", "Vitamin E", "Zinc"],
+    "answer_index": 0,
+    "explanation": "Iron supports hemoglobin production."
+  },
+  {
+    "id": "cscs_sim_full_q99",
+    "question": "Which training goal uses low load and high velocity?",
+    "choices": ["Strength", "Hypertrophy", "Power", "Endurance"],
+    "answer_index": 2,
+    "explanation": "Power training emphasizes speed."
+  },
+  {
+    "id": "cscs_sim_full_q100",
+    "question": "Which document details emergency procedures?",
+    "choices": ["Liability waiver", "Emergency action plan", "Code of ethics", "Job description"],
+    "answer_index": 1,
+    "explanation": "Emergency action plans outline emergency procedures."
+  }
+]

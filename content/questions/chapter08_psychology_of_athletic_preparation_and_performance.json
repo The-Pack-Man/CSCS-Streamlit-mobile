@@ -1,0 +1,62 @@
+[
+  {
+    "id":"ch08_q01",
+    "question":"An Olympic weightlifter attempting a personal record is able to ignore the audience and concentrate solely on performance. Which ability is most likely being used?",
+    "choices":[
+      "selective attention",
+      "somatic anxiety",
+      "accuracy",
+      "self-efficacy"
+    ],
+    "answer_index":0,
+    "explanation":"Selective attention allows athletes to focus on relevant cues while ignoring distractions."
+  },
+  {
+    "id":"ch08_q02",
+    "question":"An athlete’s desire to perform to his or her potential is an example of:",
+    "choices":[
+      "motivation to avoid failure",
+      "autogenic training",
+      "self-confidence",
+      "achievement motivation"
+    ],
+    "answer_index":3,
+    "explanation":"Achievement motivation reflects the drive to achieve success and reach potential."
+  },
+  {
+    "id":"ch08_q03",
+    "question":"For a high school American football team, if any player squats two times his body weight, his name is placed on the wall. This is an example of:",
+    "choices":[
+      "negative reinforcement",
+      "positive reinforcement",
+      "negative punishment",
+      "positive punishment"
+    ],
+    "answer_index":1,
+    "explanation":"Adding recognition to reinforce behavior is positive reinforcement."
+  },
+  {
+    "id":"ch08_q04",
+    "question":"How does an athlete’s optimal level of arousal change with limited skill and ability to perform the activity?",
+    "choices":[
+      "It increases.",
+      "It decreases.",
+      "It has no effect.",
+      "It is not related to the activity."
+    ],
+    "answer_index":1,
+    "explanation":"Less-skilled athletes perform best at lower levels of arousal."
+  },
+  {
+    "id":"ch08_q05",
+    "question":"In teaching the push press, which is an example of segmentation with pure-part training integration?",
+    "choices":[
+      "Practice the push press unloaded, progress to PVC pipe, then an unloaded bar.",
+      "Practice the dip, then dip with drive, then the entire push press.",
+      "Practice the dip, drive, and catch independently before the entire push press.",
+      "Practice dip and drive independently, then dip with drive, then catch, and finally the full push press."
+    ],
+    "answer_index":3,
+    "explanation":"Pure-part segmentation trains individual components separately before progressive integration into the full movement."
+  }
+]

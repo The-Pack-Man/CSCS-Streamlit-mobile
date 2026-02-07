@@ -1,0 +1,122 @@
+[
+  {
+    "id":"ch06_q01",
+    "question":"A 17-year-old high school cross-country runner has been training aerobically for six months. Which muscular adaptation will most likely occur?",
+    "choices":[
+      "increased concentration of glycolytic enzymes",
+      "hyperplasia of Type II fibers",
+      "transformation from Type I to Type II fibers",
+      "hypertrophy of Type I fibers"
+    ],
+    "answer_index":3,
+    "explanation":"Aerobic training promotes hypertrophy and oxidative adaptations in Type I muscle fibers."
+  },
+  {
+    "id":"ch06_q02",
+    "question":"The amount of blood ejected from the left ventricle during each beat is the:",
+    "choices":[
+      "cardiac output",
+      "arteriovenous oxygen difference",
+      "heart rate",
+      "stroke volume"
+    ],
+    "answer_index":3,
+    "explanation":"Stroke volume is the amount of blood ejected per beat."
+  },
+  {
+    "id":"ch06_q03",
+    "question":"Which of the following does NOT normally increase during an aerobic exercise session?",
+    "choices":[
+      "end-diastolic volume",
+      "cardiac contractility",
+      "cardiac output",
+      "diastolic blood pressure"
+    ],
+    "answer_index":3,
+    "explanation":"Diastolic blood pressure typically remains unchanged or may slightly decrease during aerobic exercise."
+  },
+  {
+    "id":"ch06_q04",
+    "question":"Mean arterial pressure is defined as the:",
+    "choices":[
+      "average blood pressure throughout the cardiac cycle",
+      "average of systolic and diastolic blood pressures",
+      "average systolic blood pressure during exercise",
+      "average of blood pressure and heart rate"
+    ],
+    "answer_index":0,
+    "explanation":"Mean arterial pressure reflects average arterial pressure across the cardiac cycle."
+  },
+  {
+    "id":"ch06_q05",
+    "question":"Primary training adaptations of elite aerobically trained athletes include which of the following?\n\nI. increased maximal oxygen uptake\nII. decreased blood lactate concentration\nIII. increased running economy\nIV. decreased capillary density",
+    "choices":[
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index":2,
+    "explanation":"Aerobic training increases VO₂max, improves lactate handling, and enhances economy while increasing capillary density."
+  },
+  {
+    "id":"ch06_q06",
+    "question":"Which adaptation is considered a PRIMARY peripheral adaptation to aerobic endurance training?",
+    "choices":[
+      "increased maximal heart rate",
+      "increased stroke volume",
+      "increased mitochondrial density",
+      "increased cardiac output"
+    ],
+    "answer_index":2,
+    "explanation":"Peripheral adaptations include increased mitochondrial density, capillarization, and oxidative enzyme activity within skeletal muscle."
+  },
+  {
+    "id":"ch06_q07",
+    "question":"Which factor contributes MOST to increases in VO₂max following aerobic endurance training?",
+    "choices":[
+      "increased maximal heart rate",
+      "improved arteriovenous oxygen difference",
+      "increased blood volume",
+      "increased glycolytic enzyme activity"
+    ],
+    "answer_index":2,
+    "explanation":"Increases in VO₂max are driven largely by increases in stroke volume and blood volume, which enhance oxygen delivery."
+  },
+  {
+    "id":"ch06_q08",
+    "question":"Which adaptation BEST explains improved exercise economy following aerobic training?",
+    "choices":[
+      "increased cardiac output",
+      "decreased ventilatory rate",
+      "improved neuromuscular efficiency",
+      "increased heart rate variability"
+    ],
+    "answer_index":2,
+    "explanation":"Improved economy reflects reduced energy cost at a given workload due to enhanced neuromuscular coordination and efficiency."
+  },
+  {
+    "id":"ch06_q09",
+    "question":"Which cardiovascular variable typically plateaus FIRST during progressive aerobic training?",
+    "choices":[
+      "stroke volume",
+      "maximal heart rate",
+      "cardiac output",
+      "arteriovenous oxygen difference"
+    ],
+    "answer_index":0,
+    "explanation":"Stroke volume adaptations tend to plateau earlier, after which improvements rely more on peripheral adaptations."
+  },
+  {
+    "id":"ch06_q10",
+    "question":"Which of the following adaptations is MOST specific to long-duration aerobic endurance training?",
+    "choices":[
+      "increased Type IIx fiber cross-sectional area",
+      "increased glycolytic enzyme activity",
+      "increased capillary-to-fiber ratio",
+      "increased rate of force development"
+    ],
+    "answer_index":2,
+    "explanation":"Long-duration aerobic training increases capillary density to enhance oxygen delivery and waste removal."
+  }
+]

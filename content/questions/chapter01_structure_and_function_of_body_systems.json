@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ch01_q01",
+    "question": "Which of the following substances regulates muscle actions?",
+    "choices": [
+      "potassium",
+      "calcium",
+      "troponin",
+      "tropomyosin"
+    ],
+    "answer_index": 1,
+    "explanation": "Calcium binds to troponin, causing tropomyosin to move and expose myosin-binding sites on actin."
+  },
+  {
+    "id": "ch01_q02",
+    "question": "Which of the following substances acts at the neuromuscular junction to excite the muscle fibers of a motor unit?",
+    "choices": [
+      "acetylcholine",
+      "ATP",
+      "creatine phosphate",
+      "serotonin"
+    ],
+    "answer_index": 0,
+    "explanation": "Acetylcholine is released by motor neurons at the neuromuscular junction to initiate muscle fiber depolarization."
+  },
+  {
+    "id": "ch01_q03",
+    "question": "When throwing a baseball, an athlete’s arm is rapidly stretched just before throwing the ball. Which structure detects and responds to that stretch by reflexively increasing muscle activity?",
+    "choices": [
+      "Golgi tendon organ",
+      "muscle spindle",
+      "extrafusal muscle",
+      "Pacinian corpuscle"
+    ],
+    "answer_index": 1,
+    "explanation": "Muscle spindles detect changes in muscle length and trigger the stretch reflex to increase muscle activation."
+  },
+  {
+    "id": "ch01_q04",
+    "question": "From which of the following is the heart’s electrical impulse normally initiated?",
+    "choices": [
+      "AV node",
+      "SA node",
+      "the brain",
+      "the sympathetic nervous system"
+    ],
+    "answer_index": 1,
+    "explanation": "The sinoatrial (SA) node serves as the heart’s natural pacemaker."
+  },
+  {
+    "id": "ch01_q05",
+    "question": "Which of the following occurs during the QRS complex of a typical ECG?\n\nI. depolarization of the atrium\nII. repolarization of the atrium\nIII. repolarization of the ventricle\nIV. depolarization of the ventricle",
+    "choices": [
+      "I and III only",
+      "II and IV only",
+      "I, II, and III only",
+      "II, III, and IV only"
+    ],
+    "answer_index": 1,
+    "explanation": "The QRS complex represents ventricular depolarization, while atrial repolarization occurs simultaneously but is masked by the larger ventricular signal."
+  },
+  {
+    "id": "ch01_q06",
+    "question": "Which of the following best describes the role of troponin in skeletal muscle contraction?",
+    "choices": [
+      "It binds to myosin and provides energy for cross-bridge cycling.",
+      "It blocks actin’s myosin-binding sites until calcium binds.",
+      "It stores calcium inside the sarcoplasmic reticulum.",
+      "It pumps calcium back into the sarcoplasmic reticulum to end contraction."
+    ],
+    "answer_index": 1,
+    "explanation": "Troponin is part of the regulatory complex; when calcium binds to troponin, tropomyosin shifts and exposes actin’s myosin-binding sites."
+  },
+  {
+    "id": "ch01_q07",
+    "question": "Acetylcholine released at the neuromuscular junction primarily causes which of the following?",
+    "choices": [
+      "Opening of ligand-gated ion channels on the muscle membrane",
+      "Release of calcium from the sarcoplasmic reticulum directly",
+      "Inhibition of motor neuron firing via presynaptic blockade",
+      "Immediate detachment of myosin from actin"
+    ],
+    "answer_index": 0,
+    "explanation": "ACh binds receptors on the motor end plate, opening ligand-gated channels and initiating depolarization of the sarcolemma."
+  },
+  {
+    "id": "ch01_q08",
+    "question": "The primary immediate energy source used by myosin ATPase during cross-bridge cycling is:",
+    "choices": [
+      "glucose",
+      "ATP",
+      "creatine phosphate",
+      "glycogen"
+    ],
+    "answer_index": 1,
+    "explanation": "Myosin ATPase directly hydrolyzes ATP to power cross-bridge cycling; other substrates support ATP resynthesis."
+  },
+  {
+    "id": "ch01_q09",
+    "question": "Which of the following best describes the function of the sarcoplasmic reticulum in skeletal muscle?",
+    "choices": [
+      "It provides structural support to the muscle fiber.",
+      "It stores and releases calcium to regulate contraction.",
+      "It generates action potentials along the muscle membrane.",
+      "It produces acetylcholine to excite the motor end plate."
+    ],
+    "answer_index": 1,
+    "explanation": "The sarcoplasmic reticulum stores calcium and releases it to initiate muscle contraction."
+  },
+  {
+    "id": "ch01_q10",
+    "question": "Which of the following events occurs FIRST in the excitation–contraction coupling sequence?",
+    "choices": [
+      "Calcium binds to troponin.",
+      "Acetylcholine binds to receptors on the motor end plate.",
+      "Tropomyosin moves away from actin binding sites.",
+      "Cross-bridge cycling begins."
+    ],
+    "answer_index": 1,
+    "explanation": "ACh binding at the motor end plate is the earliest event that initiates muscle fiber depolarization."
+  },
+  {
+    "id": "ch01_q11",
+    "question": "The Golgi tendon organ is MOST closely associated with detecting changes in:",
+    "choices": [
+      "muscle length",
+      "muscle tension",
+      "joint position",
+      "skin pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "Golgi tendon organs detect changes in muscle tension and help protect against excessive force."
+  },
+  {
+    "id": "ch01_q12",
+    "question": "Which of the following best describes extrafusal muscle fibers?",
+    "choices": [
+      "They are the primary force-producing fibers in skeletal muscle.",
+      "They detect muscle stretch and initiate the stretch reflex.",
+      "They are sensory neurons located within the tendon.",
+      "They generate the heart’s electrical impulses."
+    ],
+    "answer_index": 0,
+    "explanation": "Extrafusal fibers are the main contractile fibers responsible for producing force."
+  },
+  {
+    "id": "ch01_q13",
+    "question": "Which of the following BEST describes the function of the SA node?",
+    "choices": [
+      "It delays electrical conduction to allow ventricular filling.",
+      "It initiates the heart’s electrical impulse as the primary pacemaker.",
+      "It transmits impulses directly to the ventricles.",
+      "It inhibits sympathetic nervous system activity."
+    ],
+    "answer_index": 1,
+    "explanation": "The SA node initiates the heart’s electrical impulse under normal conditions."
+  },
+  {
+    "id": "ch01_q14",
+    "question": "During a typical ECG, the P wave represents:",
+    "choices": [
+      "ventricular depolarization",
+      "atrial depolarization",
+      "ventricular repolarization",
+      "atrial repolarization"
+    ],
+    "answer_index": 1,
+    "explanation": "The P wave corresponds to atrial depolarization."
+  },
+  {
+    "id": "ch01_q15",
+    "question": "Which of the following is MOST associated with ventricular repolarization on a typical ECG?",
+    "choices": [
+      "P wave",
+      "QRS complex",
+      "T wave",
+      "PR interval"
+    ],
+    "answer_index": 2,
+    "explanation": "The T wave represents ventricular repolarization."
+  },
+  {
+    "id": "ch01_q16",
+    "question": "A motor unit is best defined as:",
+    "choices": [
+      "a muscle fiber and all sensory neurons that detect stretch",
+      "a motor neuron and all the muscle fibers it innervates",
+      "all the muscles that cross a joint",
+      "a group of tendons attaching muscle to bone"
+    ],
+    "answer_index": 1,
+    "explanation": "A motor unit consists of a motor neuron and all the muscle fibers it innervates."
+  },
+  {
+    "id": "ch01_q17",
+    "question": "Which of the following would MOST directly increase the speed of a stretch reflex response?",
+    "choices": [
+      "Greater activation of muscle spindles due to rapid stretch",
+      "Greater activation of Golgi tendon organs",
+      "Decreased acetylcholine release",
+      "Increased ventricular repolarization"
+    ],
+    "answer_index": 0,
+    "explanation": "Muscle spindles respond strongly to rapid lengthening, accelerating the stretch reflex."
+  },
+  {
+    "id": "ch01_q18",
+    "question": "Which sequence correctly represents the heart’s normal electrical conduction pathway?",
+    "choices": [
+      "AV node → SA node → Purkinje fibers",
+      "SA node → AV node → Bundle of His → Purkinje fibers",
+      "Purkinje fibers → AV node → SA node",
+      "SA node → Purkinje fibers → AV node"
+    ],
+    "answer_index": 1,
+    "explanation": "Normal conduction proceeds SA node → AV node → Bundle of His → Purkinje fibers."
+  },
+  {
+    "id": "ch01_q19",
+    "question": "If calcium does NOT bind to troponin during attempted contraction, which of the following will occur?",
+    "choices": [
+      "Tropomyosin blocks actin’s myosin-binding sites.",
+      "Myosin heads bind more strongly to actin.",
+      "Cross-bridge cycling accelerates.",
+      "Ventricular depolarization increases."
+    ],
+    "answer_index": 0,
+    "explanation": "Without calcium binding to troponin, tropomyosin remains in place, preventing cross-bridge formation."
+  },
+  {
+    "id": "ch01_q20",
+    "question": "Which statement about the QRS complex is MOST accurate?",
+    "choices": [
+      "It represents atrial depolarization.",
+      "It represents ventricular depolarization.",
+      "It represents ventricular repolarization.",
+      "It represents atrial repolarization only."
+    ],
+    "answer_index": 1,
+    "explanation": "The QRS complex corresponds primarily to ventricular depolarization."
+  }
+]

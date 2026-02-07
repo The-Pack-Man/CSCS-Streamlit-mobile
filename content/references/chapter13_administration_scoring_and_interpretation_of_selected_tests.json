@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ch13_table_13_1_strength_percentiles_female_ncaa_d1",
+    "type": "image",
+    "title": "Table 13.1 — Percentile values of 1RM bench press, squat, and power clean (NCAA Division I female athletes)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "norms", "percentiles", "1RM", "bench", "squat", "power clean"],
+    "image_file": "IMG_C9AEF90D-326E-49D6-93E3-55571E3326E3.jpeg",
+    "notes": "Use this as the ground-truth lookup table (sports include basketball, swimming, softball, volleyball). If you want, we can later add a calculator that takes (sport + lift + 1RM) and returns the nearest percentile band."
+  },
+  {
+    "id": "ch13_13_28_girth_measurements_protocol",
+    "type": "image+summary",
+    "title": "13.28 — Girth measurements (sites + setup)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "anthropometry", "girth", "testing protocol"],
+    "image_file": "IMG_EF25D792-8F91-467A-B6E5-3C9768CDC853.jpeg",
+    "summary": [
+      "Equipment: flexible spring-loaded tape measure (e.g., Gulick tape).",
+      "Personnel: one tester + one recorder.",
+      "Standardize body position (relaxed anatomical position unless otherwise specified).",
+      "Sites shown include chest, upper arm, forearm, waist (abdomen), hips (buttocks), thigh, calf.",
+      "Measure at maximal circumference where indicated (e.g., upper arm/forearm/calf/thigh) and at defined landmarks for waist/hips/chest."
+    ],
+    "notes": "If you want this as a drill later, we can generate MCQ like: 'Which site is measured at the umbilicus level?' etc."
+  },
+  {
+    "id": "ch13_13_27_skinfold_measurements_overview",
+    "type": "image+summary",
+    "title": "13.27 — Skinfold measurements (equipment + how to take a skinfold)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "body composition", "skinfold", "testing protocol"],
+    "image_file": "IMG_6D53D158-9BC0-4333-91E1-F2990FAFFC2A.jpeg",
+    "summary": [
+      "Equipment: skinfold calipers, flexible tape measure, marking pen.",
+      "Personnel: one tester + one recorder.",
+      "Take measures on dry skin (ideally before exercise) to improve reliability.",
+      "Pinch a fold of skin + subcutaneous fat; place caliper jaws perpendicular to the fold near the pinch; release pressure and read after a short delay; record consistently.",
+      "Use the selected site/equation set appropriate to the population; repeat trials and average if within tolerance."
+    ],
+    "notes": "This is best as a reference card + later drills for: site identification, fold orientation (vertical/diagonal), and key reliability rules."
+  },
+  {
+    "id": "ch13_fig_13_19_skinfold_sites_photos",
+    "type": "image",
+    "title": "Figure 13.19 — Skinfold site visuals (photos)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "body composition", "skinfold", "site identification"],
+    "image_file": "IMG_6395B240-4E2C-4AE5-8F39-3DEF2FB4D42E.jpeg",
+    "notes": "Use this as the visual reference for site placement (e.g., chest, thigh, abdomen, triceps, suprailium, midaxillary, subscapula, calf). Great candidate for image-based drills later."
+  },
+  {
+    "id": "ch13_13_26_overhead_squat_screen",
+    "type": "image+summary",
+    "title": "13.26 — Overhead squat (flexibility/movement screen)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "flexibility", "movement screen", "overhead squat"],
+    "image_file": "IMG_A135532A-4692-40C0-ACFC-9831568C3BC9.jpeg",
+    "summary": [
+      "Equipment: dowel (or barbell). Personnel: one tester/recorder.",
+      "Setup: arms overhead (shoulders flexed), elbows locked; grip ~2x shoulder width; stance ~shoulder width with toes forward/slightly out.",
+      "Movement: squat down under control while keeping heels down and torso as upright as possible; depth goal is hips below top of knee crease if possible.",
+      "Perform multiple reps; assessment is qualitative (pass/fail style), best done after warm-up/familiarization."
+    ],
+    "notes": "Later we can add a checklist-style scoring UI (e.g., heel lift, knee valgus, torso angle) rather than MCQ."
+  },
+  {
+    "id": "ch13_13_25_sit_and_reach_test",
+    "type": "image+summary",
+    "title": "13.25 — Sit-and-reach test (procedure)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "flexibility", "sit and reach", "hamstrings", "low back"],
+    "image_file": "IMG_311C5490-3856-4BA7-A5EE-F9CB5A852152.jpeg",
+    "summary": [
+      "Keep the method consistent across testing sessions (same measuring setup each time).",
+      "Warm up first with light movement + dynamic stretching.",
+      "Seated position with legs straight; reach forward with both hands together, slow and controlled.",
+      "Record best of multiple trials using the same measurement scale/zero point each time."
+    ],
+    "notes": "We can later turn this into a mini 'protocol quiz' (e.g., what to standardize, how to score, what invalidates a trial)."
+  },
+  {
+    "id": "ch13_13_23_bess_balance_error_scoring_system",
+    "type": "image+summary",
+    "title": "13.23 — Balance Error Scoring System (BESS)",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "balance", "stability", "BESS", "testing protocol"],
+    "image_file": "IMG_E90FBE46-BBEA-4897-8901-B52C62126BD3.jpeg",
+    "summary": [
+      "Equipment: foam balance pad + stopwatch. Personnel: timer/recorder.",
+      "Stances typically include double-leg, single-leg (non-dominant), and tandem; performed on firm and foam surfaces.",
+      "Each condition lasts a fixed time with hands on hips and eyes closed (per protocol).",
+      "Score is total 'errors' across conditions (e.g., opening eyes, lifting hands, stepping, stumbling, hip > 30° flex/abd, out of position for >5s).",
+      "Sum errors across conditions for a total score."
+    ],
+    "notes": "This is a perfect candidate for a 'checklist scoring' tool later (tap-to-add errors)."
+  },
+  {
+    "id": "ch13_13_24_star_excursion_balance_test_sebt",
+    "type": "image+summary",
+    "title": "13.24 — Star Excursion Balance Test (SEBT) directions + procedure",
+    "source": "CSCS Essentials (Chapter 13)",
+    "tags": ["reference", "balance", "stability", "SEBT", "testing protocol"],
+    "image_file": "IMG_4498496F-0729-4579-9994-B26ED879507B.jpeg",
+    "summary": [
+      "Athlete stands on one leg at the center; reaches the free leg along taped lines (multiple directions) as far as possible while maintaining control.",
+      "Measure reach distance; perform multiple trials and average per direction/leg per protocol.",
+      "Standardize start/return control and invalid trials (e.g., loss of balance, failure to return to start under control, failure to touch/maintain rules).",
+      "Often, a subset of directions (anteromedial/medial/posteromedial) is used in practice depending on needs."
+    ],
+    "notes": "Later we can add a mini data-entry calculator: limb length normalization and composite scoring if you want it."
+  }
+]

@@ -1001,13 +1001,10 @@ def main():
 
         with c3:
             st.write("Smart Mix ratio (T / Q / Tb)")
-            r1, r2, r3 = st.columns(3)
-            with r1:
-                st.session_state.mix_terms = st.number_input("Terms", 0, 100, st.session_state.mix_terms, 1)
-            with r2:
-                st.session_state.mix_questions = st.number_input("Questions", 0, 100, st.session_state.mix_questions, 1)
-            with r3:
-                st.session_state.mix_tables = st.number_input("Tables", 0, 100, st.session_state.mix_tables, 1)
+            st.session_state.mix_terms = st.number_input("Terms", 0, 100, st.session_state.mix_terms, 1)
+            st.session_state.mix_questions = st.number_input("Questions", 0, 100, st.session_state.mix_questions, 1)
+            st.session_state.mix_tables = st.number_input("Tables", 0, 100, st.session_state.mix_tables, 1)
+
 
     with right:
         elapsed = max(1, core.now_ts() - st.session_state.session_timer_start)
